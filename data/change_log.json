@@ -1833,5 +1833,42 @@
     "field": "source_url",
     "from": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-1383c839c0ea/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
     "to": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-c768051d9680/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB"
+  },
+  {
+    "canonical_id": "gchq-ncsc-cyber-consultant-ref-3811",
+    "changed_at": "2026-09-01T14:01:42Z",
+    "field": "source_url",
+    "from": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-c768051d9680/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
+    "to": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-648a098b474e/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB"
+  },
+  {
+    "canonical_id": "optiver-quantitative-research-internship-2027-start",
+    "changed_at": "2026-09-01T14:01:42Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "optiver-quantitative-research-internship-2027-start",
+    "changed_at": "2026-09-01T14:01:42Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "graduation_year:[2027]:required"
+    ]
+  },
+  {
+    "canonical_id": "optiver-trading",
+    "changed_at": "2026-09-01T14:01:42Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "point72-explore-your-path-to-point72",
+    "changed_at": "2026-09-01T14:01:42Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
   }
 ]

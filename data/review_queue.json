@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T14:00:33Z",
+  "generated_at": "2026-09-01T14:01:53Z",
   "opportunities": [
     {
       "canonical_id": "durham-bsi-undergraduate-summer-bursary",
@@ -194,13 +194,13 @@
       "lifecycle": "open",
       "eligibility": "uncertain",
       "primary_action": "Apply",
-      "source_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-c768051d9680/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
+      "source_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-648a098b474e/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
       "location": "London, UK",
       "start_date": "2026-01",
       "end_date": null,
       "deadline": "2026-09-02",
       "deadline_status": "fixed",
-      "deadline_source": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-c768051d9680/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
+      "deadline_source": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-648a098b474e/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
       "deadline_verified": true,
       "rolling": false,
       "opens_at": null,
@@ -220,19 +220,19 @@
       "evidence": [
         {
           "statement": "The official detail page identifies NCSC Cyber Consultant Ref. 3811 as a current or announced opportunity.",
-          "source_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-c768051d9680/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
+          "source_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-648a098b474e/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
           "checked_at": "2026-09-01",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2026-09-02.",
-          "source_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-c768051d9680/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
+          "source_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-648a098b474e/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
           "checked_at": "2026-09-01",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
-          "source_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-c768051d9680/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
+          "source_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-648a098b474e/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
           "checked_at": "2026-09-01",
           "source_type": "official"
         }
@@ -281,11 +281,11 @@
       ],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T00:10:39Z",
-      "last_seen": "2026-09-01T14:00:08Z",
-      "last_changed": "2026-09-01T14:00:08Z",
+      "last_seen": "2026-09-01T14:01:42Z",
+      "last_changed": "2026-09-01T14:01:42Z",
       "source_id": "gchq-vacancies",
       "source_kind": "discovered",
-      "content_fingerprint": "cba469053a6bec99972a1bd564c11388a525540911e4cdbfd99aa71014153d09",
+      "content_fingerprint": "2ba63723c677f5e08b272d5886a1c2d3ff007c9645de6263225a385c453a7c6b",
       "confidence": 0.99,
       "priority_tier": "C",
       "review_required": true,
@@ -296,7 +296,7 @@
       "access_scope": "unknown",
       "source_conflict": false,
       "change_summary": [
-        "source_url: https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-1383c839c0ea/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB → https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-c768051d9680/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB"
+        "source_url: https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-c768051d9680/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB → https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-648a098b474e/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB"
       ],
       "opportunity_type": "competition_or_development",
       "career_fields": [
@@ -310,12 +310,12 @@
       "cycle": "2026",
       "application_url": "https://www.gchq.gov.uk/collection/applying-to-gchq",
       "discovered_via": "https://www.gchq-careers.co.uk/jobs/",
-      "primary_evidence_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-c768051d9680/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
+      "primary_evidence_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-648a098b474e/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
       "alternate_sources": [
         "https://www.gchq-careers.co.uk/jobs/"
       ],
-      "last_verified": "2026-09-01T14:00:08Z",
-      "deadline_last_verified": "2026-09-01T14:00:08Z",
+      "last_verified": "2026-09-01T14:01:42Z",
+      "deadline_last_verified": "2026-09-01T14:01:42Z",
       "missing_count": 0,
       "source_family": "gchq",
       "security_vetting": "Developed Vetting",
@@ -2738,11 +2738,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-09-01T14:00:08Z",
-      "last_changed": "2026-09-01T14:00:08Z",
+      "last_seen": "2026-09-01T14:01:42Z",
+      "last_changed": "2026-09-01T14:01:42Z",
       "source_id": "bnp-paribas-students",
       "source_kind": "discovered",
-      "content_fingerprint": "c3630ca35fbb7fdcab998c473f847c0e55ef848084f37d25b9150c0fd76ecb00",
+      "content_fingerprint": "f81ee7900713ed2a5088e626b93cd82fa28c8caa5ab9bce580dd9b143339c2b2",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -2752,9 +2752,7 @@
       "identity_targeted": false,
       "access_scope": "unknown",
       "source_conflict": false,
-      "change_summary": [
-        "start_date: 2027-07 → 2026-07"
-      ],
+      "change_summary": [],
       "opportunity_type": "internship",
       "career_fields": [
         "finance",
@@ -2772,7 +2770,7 @@
       "alternate_sources": [
         "https://group.bnpparibas/en/careers/candidate-student"
       ],
-      "last_verified": "2026-09-01T14:00:08Z",
+      "last_verified": "2026-09-01T14:01:42Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "bnp-paribas",
@@ -2867,106 +2865,6 @@
       "security_vetting": null,
       "required_documents": [],
       "duration": null,
-      "template_dependent": false,
-      "auto_publish_reason": "",
-      "parser_version": 3
-    },
-    {
-      "canonical_id": "optiver-quantitative-research-internship-2027-start",
-      "title": "Quantitative Research Internship (2027 Start)",
-      "organisation": "Optiver",
-      "stream": "internships",
-      "lifecycle": "open",
-      "eligibility": "uncertain",
-      "primary_action": "Apply",
-      "source_url": "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/amsterdam/quantitative-research-internship-2027-start/",
-      "location": "London, UK",
-      "start_date": "2028-07",
-      "end_date": null,
-      "deadline": null,
-      "deadline_status": "none_stated",
-      "deadline_source": null,
-      "deadline_verified": false,
-      "rolling": false,
-      "opens_at": null,
-      "research_mode": null,
-      "summary": "Quantitative Research Internship (2027 Start)",
-      "why_it_fits": "Official subject, timing and access evidence will be evaluated against the Durham Mathematics & Physics profile.",
-      "eligibility_note": "Needs eligibility check against the extracted official criteria.",
-      "next_step": "Apply through the official route.",
-      "tags": [
-        "2028",
-        "automatically discovered",
-        "computer science",
-        "data",
-        "finance",
-        "mathematics",
-        "physics",
-        "quant",
-        "research",
-        "software",
-        "statistics"
-      ],
-      "aliases": [],
-      "merged_alias_ids": [],
-      "evidence": [
-        {
-          "statement": "The official detail page identifies Quantitative Research Internship (2027 Start) as a current or announced opportunity.",
-          "source_url": "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/amsterdam/quantitative-research-internship-2027-start/",
-          "checked_at": "2026-09-01",
-          "source_type": "official"
-        }
-      ],
-      "requirements": [],
-      "rule_evaluations": [],
-      "checked_at": "2026-09-01",
-      "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-09-01T14:00:08Z",
-      "last_changed": "2026-09-01T14:00:08Z",
-      "source_id": "optiver-students",
-      "source_kind": "discovered",
-      "content_fingerprint": "c4156b4b01c9df0a61aa949ca765356898c79f7c63dd7797aed88e6ed6b39798",
-      "confidence": 0.8999999999999999,
-      "priority_tier": "C",
-      "review_required": true,
-      "review_reasons": [
-        "important eligibility evidence remains unknown"
-      ],
-      "identity_targeted": false,
-      "access_scope": "unknown",
-      "source_conflict": false,
-      "change_summary": [],
-      "opportunity_type": "internship",
-      "career_fields": [
-        "quant",
-        "software",
-        "finance",
-        "research",
-        "data"
-      ],
-      "subject_fields": [
-        "mathematics",
-        "physics",
-        "computer science",
-        "statistics"
-      ],
-      "country": "United Kingdom",
-      "city": "London",
-      "work_mode": "on_site",
-      "cycle": "2028",
-      "application_url": "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/amsterdam/quantitative-research-internship-2027-start/apply",
-      "discovered_via": "https://optiver.com/working-at-optiver/career-opportunities/",
-      "primary_evidence_url": "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/amsterdam/quantitative-research-internship-2027-start/",
-      "alternate_sources": [
-        "https://optiver.com/working-at-optiver/career-opportunities/"
-      ],
-      "last_verified": "2026-09-01T14:00:08Z",
-      "deadline_last_verified": null,
-      "missing_count": 0,
-      "source_family": "optiver",
-      "security_vetting": null,
-      "required_documents": [],
-      "duration": "8 month",
       "template_dependent": false,
       "auto_publish_reason": "",
       "parser_version": 3
@@ -3237,8 +3135,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T00:10:39Z",
-      "last_seen": "2026-09-01T14:00:08Z",
-      "last_changed": "2026-09-01T14:00:08Z",
+      "last_seen": "2026-09-01T14:01:42Z",
+      "last_changed": "2026-09-01T14:01:42Z",
       "source_id": "oxford-maths-summer-research",
       "source_kind": "discovered",
       "content_fingerprint": "6ecc818ba6b5e4d26f1a770fc69ed6beda8692f332434e0089fd8dcc40d8ccfb",
@@ -3272,7 +3170,7 @@
       "alternate_sources": [
         "https://www.maths.ox.ac.uk/members/students/undergraduate-courses/teaching-and-learning/extracurricular-projects"
       ],
-      "last_verified": "2026-09-01T14:00:08Z",
+      "last_verified": "2026-09-01T14:01:42Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "oxford-mathematics",
@@ -3399,8 +3297,8 @@
       ],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T00:20:18Z",
-      "last_seen": "2026-09-01T14:00:08Z",
-      "last_changed": "2026-09-01T14:00:08Z",
+      "last_seen": "2026-09-01T14:01:42Z",
+      "last_changed": "2026-09-01T14:01:42Z",
       "source_id": "imc-careers",
       "source_kind": "discovered",
       "content_fingerprint": "73a19be86df5ef11ba4d9044a6a9f87934b7e6b8c9505c68ae566a16ca30dba1",
@@ -3438,7 +3336,7 @@
       "alternate_sources": [
         "https://www.imc.com/eu/careers/students-graduates"
       ],
-      "last_verified": "2026-09-01T14:00:08Z",
+      "last_verified": "2026-09-01T14:01:42Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "imc-trading",
@@ -3536,11 +3434,13 @@
       "priority_tier": "C",
       "review_required": true,
       "review_reasons": [
+        "absent from three consecutive healthy source scans",
+        "conflicting official lifecycle",
         "important eligibility evidence remains unknown"
       ],
       "identity_targeted": false,
       "access_scope": "unknown",
-      "source_conflict": false,
+      "source_conflict": true,
       "change_summary": [],
       "opportunity_type": "internship",
       "career_fields": [
@@ -3567,7 +3467,7 @@
       ],
       "last_verified": "2026-08-31T22:37:21Z",
       "deadline_last_verified": null,
-      "missing_count": 1,
+      "missing_count": 2,
       "source_family": "optiver",
       "security_vetting": null,
       "required_documents": [
@@ -4080,11 +3980,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-01T14:00:08Z",
-      "last_changed": "2026-09-01T14:00:08Z",
+      "last_seen": "2026-09-01T14:01:42Z",
+      "last_changed": "2026-09-01T14:01:42Z",
       "source_id": "ubs-tomorrows-talent",
       "source_kind": "discovered",
-      "content_fingerprint": "c9e55f5d66a74313bc6add289e1f113dc8ad1970a73809f181a284066238eb5e",
+      "content_fingerprint": "b3d4ede368cf9e8a430560d741e0c9597a3786907d5fe97dc8042499774b0df5",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -4112,7 +4012,7 @@
       "alternate_sources": [
         "https://www.ubs.com/global/en/careers/early-careers/tomorrows-talent-program.html"
       ],
-      "last_verified": "2026-09-01T14:00:08Z",
+      "last_verified": "2026-09-01T14:01:42Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "ubs",
@@ -4172,8 +4072,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T00:10:39Z",
-      "last_seen": "2026-09-01T14:00:08Z",
-      "last_changed": "2026-09-01T14:00:08Z",
+      "last_seen": "2026-09-01T14:01:42Z",
+      "last_changed": "2026-09-01T14:01:42Z",
       "source_id": "oxford-maths-summer-research",
       "source_kind": "discovered",
       "content_fingerprint": "b2be3afe7686be3fc1e3810ba378da49fc2dafd215fe714d994002217294fb2d",
@@ -4208,7 +4108,7 @@
       "alternate_sources": [
         "https://www.maths.ox.ac.uk/members/students/undergraduate-courses/teaching-and-learning/extracurricular-projects"
       ],
-      "last_verified": "2026-09-01T14:00:08Z",
+      "last_verified": "2026-09-01T14:01:42Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "oxford-mathematics",
