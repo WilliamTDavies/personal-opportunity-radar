@@ -4,6 +4,10 @@ A local-first discovery pipeline and static decision dashboard for a Durham Univ
 
 The scanner discovers official listing/index pages, follows relevant detail links, extracts and normalizes previously unknown programmes, evaluates only explicit candidate facts, preserves lifecycle history, and publishes a validated static artifact. Manual additions and human overrides are separate overlays rather than the primary database.
 
+Please note that generative AI was used to help construct this site.
+
+Live site: https://williamtdavies.github.io/personal-opportunity-radar/
+
 ## Architecture
 
 ```text
