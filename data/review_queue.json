@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T14:06:58Z",
+  "generated_at": "2026-09-01T20:07:44Z",
   "opportunities": [
     {
       "canonical_id": "durham-bsi-undergraduate-summer-bursary",
@@ -137,11 +137,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T00:23:55Z",
-      "last_seen": "2026-09-01T14:00:08Z",
-      "last_changed": "2026-09-01T14:00:08Z",
+      "last_seen": "2026-09-01T20:07:34Z",
+      "last_changed": "2026-09-01T20:07:34Z",
       "source_id": "cambridge-cms-summer-research",
       "source_kind": "discovered",
-      "content_fingerprint": "77c2b858742801baa0bb920bf3536a5ba7c9f49ec21917fc1a3bc1b5fa69a8bf",
+      "content_fingerprint": "fe10a14c11b9c96dbcc6e25d0abd6ee04fc47a5160f0d4cb0ef2539ccdf5e34e",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -173,8 +173,8 @@
       "alternate_sources": [
         "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-programmes"
       ],
-      "last_verified": "2026-09-01T14:00:08Z",
-      "deadline_last_verified": "2026-09-01T14:00:08Z",
+      "last_verified": "2026-09-01T20:07:34Z",
+      "deadline_last_verified": "2026-09-01T20:07:34Z",
       "missing_count": 0,
       "source_family": "cambridge-mathematics",
       "security_vetting": null,
@@ -781,8 +781,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-09-01T14:00:08Z",
-      "last_changed": "2026-09-01T14:00:08Z",
+      "last_seen": "2026-09-01T20:07:34Z",
+      "last_changed": "2026-09-01T20:07:34Z",
       "source_id": "esa-academy",
       "source_kind": "discovered",
       "content_fingerprint": "4b532abefc3ca72f7ec6b937463977893ee8e42bc171055721663e13d2a0f3d1",
@@ -815,8 +815,8 @@
       "alternate_sources": [
         "https://www.esa.int/Education/ESA_Academy/Current_opportunities"
       ],
-      "last_verified": "2026-09-01T14:00:08Z",
-      "deadline_last_verified": "2026-09-01T14:00:08Z",
+      "last_verified": "2026-09-01T20:07:34Z",
+      "deadline_last_verified": "2026-09-01T20:07:34Z",
       "missing_count": 0,
       "source_family": "european-space-agency",
       "security_vetting": null,
@@ -2328,8 +2328,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-09-01T14:00:08Z",
-      "last_changed": "2026-09-01T14:00:08Z",
+      "last_seen": "2026-09-01T20:07:34Z",
+      "last_changed": "2026-09-01T20:07:34Z",
       "source_id": "esa-academy",
       "source_kind": "discovered",
       "content_fingerprint": "2f37357811676c08db391b64e91ea920f09e90200e13927d17b019ec4e182e58",
@@ -2358,7 +2358,7 @@
       "alternate_sources": [
         "https://www.esa.int/Education/ESA_Academy/Current_opportunities"
       ],
-      "last_verified": "2026-09-01T14:00:08Z",
+      "last_verified": "2026-09-01T20:07:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "european-space-agency",
@@ -3243,8 +3243,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T00:10:39Z",
-      "last_seen": "2026-09-01T14:06:38Z",
-      "last_changed": "2026-09-01T14:06:38Z",
+      "last_seen": "2026-09-01T20:07:34Z",
+      "last_changed": "2026-09-01T20:07:34Z",
       "source_id": "oxford-maths-summer-research",
       "source_kind": "discovered",
       "content_fingerprint": "eb99b1abd4e12d51778fea08c16b63f3940228e0cdf5d51b997dbc2387b9f5a5",
@@ -3278,7 +3278,7 @@
       "alternate_sources": [
         "https://www.maths.ox.ac.uk/members/students/undergraduate-courses/teaching-and-learning/extracurricular-projects"
       ],
-      "last_verified": "2026-09-01T14:06:38Z",
+      "last_verified": "2026-09-01T20:07:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "oxford-mathematics",
@@ -4049,11 +4049,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T00:10:39Z",
-      "last_seen": "2026-09-01T14:06:38Z",
-      "last_changed": "2026-09-01T14:06:38Z",
+      "last_seen": "2026-09-01T20:07:34Z",
+      "last_changed": "2026-09-01T20:07:34Z",
       "source_id": "oxford-maths-summer-research",
       "source_kind": "discovered",
-      "content_fingerprint": "b2be3afe7686be3fc1e3810ba378da49fc2dafd215fe714d994002217294fb2d",
+      "content_fingerprint": "bbbf6fcb335451b9c02a75a2c72d27b168eee42caaf56cb92fb2e5b952f093c5",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -4085,7 +4085,7 @@
       "alternate_sources": [
         "https://www.maths.ox.ac.uk/members/students/undergraduate-courses/teaching-and-learning/extracurricular-projects"
       ],
-      "last_verified": "2026-09-01T14:06:38Z",
+      "last_verified": "2026-09-01T20:07:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "oxford-mathematics",

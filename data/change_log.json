@@ -1921,5 +1921,12 @@
     "field": "lifecycle",
     "from": "open",
     "to": "stale"
+  },
+  {
+    "canonical_id": "university-of-cambridge-registering-your-project",
+    "changed_at": "2026-09-01T20:07:34Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
   }
 ]
