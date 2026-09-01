@@ -1,0 +1,2597 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "a-o-shearman-trackr-official-1",
+      "name": "A&O Shearman official opportunity source 1",
+      "organisation_id": "a-o-shearman",
+      "url": "https://careers.aoshearman.com/en/london-training-contract",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://careers.aoshearman.com/en/london-training-contract"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "accuracy-trackr-official-1",
+      "name": "Accuracy official opportunity source 1",
+      "organisation_id": "accuracy",
+      "url": "https://app-accuracy.bc.direct/recruitment/career/5ee62d016b800f0fc8e70d1c/6a905afb6734cf4a41487373",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://app-accuracy.bc.direct/recruitment/career/5ee62d016b800f0fc8e70d1c/6a905afb6734cf4a41487373"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "accutrainee-trackr-official-1",
+      "name": "Accutrainee official opportunity source 1",
+      "organisation_id": "accutrainee",
+      "url": "https://careers.accutrainee.com/jobs/129473-trainee-solicitor-london-regional",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://careers.accutrainee.com/jobs/129473-trainee-solicitor-london-regional"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "amplifyme-trackr-official-1",
+      "name": "AmplifyME official opportunity source 1",
+      "organisation_id": "amplifyme",
+      "url": "https://amplifyme.com/for-learners/summer-analyst-training-programme",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://amplifyme.com/for-learners/summer-analyst-training-programme"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "aquatic-capital-management-trackr-official-1",
+      "name": "Aquatic Capital Management official opportunity source 1",
+      "organisation_id": "aquatic-capital-management",
+      "url": "https://boards-api.greenhouse.io/v1/boards/aquaticcapitalmanagement/jobs?content=true",
+      "profile": "greenhouse_api",
+      "adapter": "greenhouse",
+      "enabled": true,
+      "scan_tier": "weekly",
+      "sector": "finance",
+      "resolution_status": "resolved_api",
+      "adapter_detection": {
+        "confidence": "high",
+        "original_url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "arctic-lake-trackr-official-1",
+      "name": "Arctic Lake official opportunity source 1",
+      "organisation_id": "arctic-lake",
+      "url": "https://arcticlake.com/careers/software-engineer-intern",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://arcticlake.com/careers/software-engineer-intern"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "ashfords-trackr-official-1",
+      "name": "Ashfords official opportunity source 1",
+      "organisation_id": "ashfords",
+      "url": "https://www.ashfords.co.uk/careers/early-careers/trainee-opportunities",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.ashfords.co.uk/careers/early-careers/trainee-opportunities"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "bain-company-trackr-official-1",
+      "name": "Bain & Company official opportunity source 1",
+      "organisation_id": "bain-company",
+      "url": "https://www.bain.com/careers/find-a-role/position/?jobid=109373",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.bain.com/careers/find-a-role/position/?jobid=109373"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "bank-of-america-trackr-official-1",
+      "name": "Bank of America official opportunity source 1",
+      "organisation_id": "bank-of-america",
+      "url": "https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/user-5276490/xf-da9741071fe5/candidate/jobboard/vacancy/1/adv/?f_Item_Opportunity_17838_lk=1822&f_Item_Opportunity_60426_lk=520149",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/user-5276490/xf-da9741071fe5/candidate/jobboard/vacancy/1/adv/?f_Item_Opportunity_17838_lk=1822&f_Item_Opportunity_60426_lk=520149"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "barclays-trackr-official-1",
+      "name": "Barclays official opportunity source 1",
+      "organisation_id": "barclays",
+      "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays?workerSubType=6139d325cdcc1001a72ceb63d5d60001&locations=1ab48a98eb7c1001633eb0711e740000&acm=8736272&alrpm=ALL&ascf=%5B%7B%22key%22%3A%22custom_fields.MultiValueField3%22%2C%22value%22%3A%22Internships+Investment+Banking%22%7D%5D",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays?workerSubType=6139d325cdcc1001a72ceb63d5d60001&locations=1ab48a98eb7c1001633eb0711e740000&acm=8736272&alrpm=ALL&ascf=%5B%7B%22key%22%3A%22custom_fields.MultiValueField3%22%2C%22value%22%3A%22Internships+Investment+Banking%22%7D%5D"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "barings-trackr-official-1",
+      "name": "Barings official opportunity source 1",
+      "organisation_id": "barings",
+      "url": "https://barings.wd1.myworkdayjobs.com/Barings_Hires/job/London-United-Kingdom/XMLNAME-2027-UK-Investment-Management-Summer-Internship_JR_006642",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://barings.wd1.myworkdayjobs.com/Barings_Hires/job/London-United-Kingdom/XMLNAME-2027-UK-Investment-Management-Summer-Internship_JR_006642"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "bates-wells-trackr-official-1",
+      "name": "Bates Wells official opportunity source 1",
+      "organisation_id": "bates-wells",
+      "url": "https://bateswells.grad.allhires.com/app/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://bateswells.grad.allhires.com/app/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "bending-spoons-trackr-official-1",
+      "name": "Bending Spoons official opportunity source 1",
+      "organisation_id": "bending-spoons",
+      "url": "https://jobs.bendingspoons.com/positions/6a8c35f7af0372856cb59d12",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://jobs.bendingspoons.com/positions/6a8c35f7af0372856cb59d12"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "bevan-brittan-trackr-official-1",
+      "name": "Bevan Brittan official opportunity source 1",
+      "organisation_id": "bevan-brittan",
+      "url": "https://www.bevanbrittan.com/careers/opportunities/trainee-solicitors/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.bevanbrittan.com/careers/opportunities/trainee-solicitors/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "blackrock-trackr-official-1",
+      "name": "BlackRock official opportunity source 1",
+      "organisation_id": "blackrock",
+      "url": "https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1735377/xf-bce35dd61046/candidate/so/pm/1/pl/1/opp/12232-2027-Summer-Internship-Program-EMEA/en-GB",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1735377/xf-bce35dd61046/candidate/so/pm/1/pl/1/opp/12232-2027-Summer-Internship-Program-EMEA/en-GB"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "blackstone-trackr-official-1",
+      "name": "Blackstone official opportunity source 1",
+      "organisation_id": "blackstone",
+      "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers?q=2027+summer&locations=ef375a2335bb019369c586065e1f3d2b",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers?q=2027+summer&locations=ef375a2335bb019369c586065e1f3d2b"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "bnp-paribas-trackr-official-1",
+      "name": "BNP Paribas official opportunity source 1",
+      "organisation_id": "bnp-paribas",
+      "url": "https://group.bnpparibas/en/careers/all-job-offers/trainee-internship/london",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://group.bnpparibas/en/careers/all-job-offers/trainee-internship/london"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "bnp-paribas-trackr-official-2",
+      "name": "BNP Paribas official opportunity source 2",
+      "organisation_id": "bnp-paribas",
+      "url": "https://group.bnpparibas/en/careers/job-offer/london-2027-summer-internship-technology",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://group.bnpparibas/en/careers/job-offer/london-2027-summer-internship-technology"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "bny-mellon-trackr-official-1",
+      "name": "BNY Mellon official opportunity source 1",
+      "organisation_id": "bny-mellon",
+      "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/jobs?keyword=%22engineering%22&lastSelectedFacet=TITLES&location=United+Kingdom&locationId=300000000378281&locationLevel=country&mode=location&selectedTitlesFacet=CAPG",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/jobs?keyword=%22engineering%22&lastSelectedFacet=TITLES&location=United+Kingdom&locationId=300000000378281&locationLevel=country&mode=location&selectedTitlesFacet=CAPG"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "bny-mellon-trackr-official-2",
+      "name": "BNY Mellon official opportunity source 2",
+      "organisation_id": "bny-mellon",
+      "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/jobs?keyword=%22summer+internship%22&lastSelectedFacet=TITLES&location=United+Kingdom&locationId=300000000378281&locationLevel=country&mode=location&selectedTitlesFacet=CAPG",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/jobs?keyword=%22summer+internship%22&lastSelectedFacet=TITLES&location=United+Kingdom&locationId=300000000378281&locationLevel=country&mode=location&selectedTitlesFacet=CAPG"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "bristows-trackr-official-1",
+      "name": "Bristows official opportunity source 1",
+      "organisation_id": "bristows",
+      "url": "https://bristows.grad.allhires.com/app/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://bristows.grad.allhires.com/app/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "broadfield-trackr-official-1",
+      "name": "Broadfield official opportunity source 1",
+      "organisation_id": "broadfield",
+      "url": "https://broadfieldlaw.com/uk/early-careers/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://broadfieldlaw.com/uk/early-careers/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "bryan-cave-leighton-paisner-trackr-official-1",
+      "name": "Bryan Cave Leighton Paisner official opportunity source 1",
+      "organisation_id": "bryan-cave-leighton-paisner",
+      "url": "https://trainee.bclplaw.com/opportunities/london/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://trainee.bclplaw.com/opportunities/london/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "btg-pactual-trackr-official-1",
+      "name": "BTG Pactual official opportunity source 1",
+      "organisation_id": "btg-pactual",
+      "url": "https://carreiras.btgpactual.com/vagas/hr/summer-undergrad-2027/6113588004",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://carreiras.btgpactual.com/vagas/hr/summer-undergrad-2027/6113588004"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "burges-salmon-trackr-official-1",
+      "name": "Burges Salmon official opportunity source 1",
+      "organisation_id": "burges-salmon",
+      "url": "https://www.burges-salmon.com/join-us/emerging-talent/trainees/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.burges-salmon.com/join-us/emerging-talent/trainees/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "capital-one-trackr-official-1",
+      "name": "Capital One official opportunity source 1",
+      "organisation_id": "capital-one",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Strategy-Analyst-Summer-Internship_R999268",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Strategy-Analyst-Summer-Internship_R999268"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "capital-one-trackr-official-2",
+      "name": "Capital One official opportunity source 2",
+      "organisation_id": "capital-one",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Summer-Internship_R999269",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Summer-Internship_R999269"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "capula-investment-management-trackr-official-1",
+      "name": "Capula Investment Management official opportunity source 1",
+      "organisation_id": "capula-investment-management",
+      "url": "https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "castleton-commodities-international-trackr-official-1",
+      "name": "Castleton Commodities International official opportunity source 1",
+      "organisation_id": "castleton-commodities-international",
+      "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Commodities-Trading-Summer-Analyst-Internship-Programme--Summer-2027-_R1335-1",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Commodities-Trading-Summer-Analyst-Internship-Programme--Summer-2027-_R1335-1"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "castleton-commodities-international-trackr-official-2",
+      "name": "Castleton Commodities International official opportunity source 2",
+      "organisation_id": "castleton-commodities-international",
+      "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Data-Engineering-Internship--Summer-2027-_R1348",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Data-Engineering-Internship--Summer-2027-_R1348"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "castleton-commodities-international-trackr-official-3",
+      "name": "Castleton Commodities International official opportunity source 3",
+      "organisation_id": "castleton-commodities-international",
+      "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Data-Science-Machine-Learning-Internship--Summer-2027-_R1345"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "castleton-commodities-international-trackr-official-4",
+      "name": "Castleton Commodities International official opportunity source 4",
+      "organisation_id": "castleton-commodities-international",
+      "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Front-Office-Software-Engineer-Internship--Summer-2027-_R1347",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Front-Office-Software-Engineer-Internship--Summer-2027-_R1347"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "chicago-trading-company-trackr-official-1",
+      "name": "Chicago Trading Company official opportunity source 1",
+      "organisation_id": "chicago-trading-company",
+      "url": "https://boards-api.greenhouse.io/v1/boards/ctccampusboard/jobs?content=true",
+      "profile": "greenhouse_api",
+      "adapter": "greenhouse",
+      "enabled": true,
+      "scan_tier": "weekly",
+      "sector": "finance",
+      "resolution_status": "resolved_api",
+      "adapter_detection": {
+        "confidence": "high",
+        "original_url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709545005"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "ciena-trackr-official-1",
+      "name": "Ciena official opportunity source 1",
+      "organisation_id": "ciena",
+      "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Software-Engineering-Intern--3-12-Months-_R031332",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Software-Engineering-Intern--3-12-Months-_R031332"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "citadel-trackr-official-1",
+      "name": "Citadel official opportunity source 1",
+      "organisation_id": "citadel",
+      "url": "https://www.citadel.com/careers/details/software-engineer-intern-europe/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.citadel.com/careers/details/software-engineer-intern-europe/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "citadel-trackr-official-2",
+      "name": "Citadel official opportunity source 2",
+      "organisation_id": "citadel",
+      "url": "https://www.citadel.com/careers/open-opportunities?experience-filter=internships&sections-filter=business-operations%2Cinvesting%2Cquantitative-research&location-filter=london&selected-job-sections=388%2C389%2C387%2C390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.citadel.com/careers/open-opportunities?experience-filter=internships&sections-filter=business-operations%2Cinvesting%2Cquantitative-research&location-filter=london&selected-job-sections=388%2C389%2C387%2C390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "citadel-securities-trackr-official-1",
+      "name": "Citadel Securities official opportunity source 1",
+      "organisation_id": "citadel-securities",
+      "url": "https://www.citadelsecurities.com/careers/open-opportunities?experience-filter=internships&sections-filter=markets-and-trading%2Cquantitative-research&location-filter=london&selected-job-sections=323%2C325%2C324%2C326&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.citadelsecurities.com/careers/open-opportunities?experience-filter=internships&sections-filter=markets-and-trading%2Cquantitative-research&location-filter=london&selected-job-sections=323%2C325%2C324%2C326&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "cms-trackr-official-1",
+      "name": "CMS official opportunity source 1",
+      "organisation_id": "cms",
+      "url": "https://cmsemergingtalent.com/programmes/england-wales-ni/training-contract/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://cmsemergingtalent.com/programmes/england-wales-ni/training-contract/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "cms-trackr-official-2",
+      "name": "CMS official opportunity source 2",
+      "organisation_id": "cms",
+      "url": "https://cmsemergingtalent.com/programmes/scotland/training-contract/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://cmsemergingtalent.com/programmes/scotland/training-contract/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "cripps-trackr-official-1",
+      "name": "Cripps official opportunity source 1",
+      "organisation_id": "cripps",
+      "url": "https://www.cripps.co.uk/join-us/graduates-and-students/trainee-solicitor-programme/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.cripps.co.uk/join-us/graduates-and-students/trainee-solicitor-programme/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "d-e-shaw-trackr-official-1",
+      "name": "D.E. Shaw official opportunity source 1",
+      "organisation_id": "d-e-shaw",
+      "url": "https://www.deshaw.com/careers/internships",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.deshaw.com/careers/internships"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "d-e-shaw-trackr-official-2",
+      "name": "D.E. Shaw official opportunity source 2",
+      "organisation_id": "d-e-shaw",
+      "url": "https://www.deshaw.com/careers/systems-engineering-intern-london-summer-2027-5925",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.deshaw.com/careers/systems-engineering-intern-london-summer-2027-5925"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "da-vinci-trading-trackr-official-1",
+      "name": "Da Vinci Trading official opportunity source 1",
+      "organisation_id": "da-vinci-trading",
+      "url": "https://grnh.se/crd9x232teu",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://grnh.se/crd9x232teu"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "davis-polk-wardwell-trackr-official-1",
+      "name": "Davis Polk & Wardwell official opportunity source 1",
+      "organisation_id": "davis-polk-wardwell",
+      "url": "https://www.davispolk.com/careers/law-students-trainees/london",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.davispolk.com/careers/law-students-trainees/london"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "drw-trackr-official-1",
+      "name": "DRW official opportunity source 1",
+      "organisation_id": "drw",
+      "url": "https://grnh.se/dfw7paj51us",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://grnh.se/dfw7paj51us"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "drw-trackr-official-2",
+      "name": "DRW official opportunity source 2",
+      "organisation_id": "drw",
+      "url": "https://grnh.se/q1m7aqng1us",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://grnh.se/q1m7aqng1us"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "dv-trading-trackr-official-1",
+      "name": "DV Trading official opportunity source 1",
+      "organisation_id": "dv-trading",
+      "url": "https://boards-api.greenhouse.io/v1/boards/dvtrading/jobs?content=true",
+      "profile": "greenhouse_api",
+      "adapter": "greenhouse",
+      "enabled": true,
+      "scan_tier": "weekly",
+      "sector": "finance",
+      "resolution_status": "resolved_api",
+      "adapter_detection": {
+        "confidence": "high",
+        "original_url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719135005"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "dwf-trackr-official-1",
+      "name": "DWF official opportunity source 1",
+      "organisation_id": "dwf",
+      "url": "https://dwf.grad.allhires.com/app/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://dwf.grad.allhires.com/app/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "edf-trading-trackr-official-1",
+      "name": "EDF Trading official opportunity source 1",
+      "organisation_id": "edf-trading",
+      "url": "https://edftrading.wd1.myworkdayjobs.com/en-US/EDFTrading/job/Summer-Internship_JR1001184",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://edftrading.wd1.myworkdayjobs.com/en-US/EDFTrading/job/Summer-Internship_JR1001184"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "evercore-trackr-official-1",
+      "name": "Evercore official opportunity source 1",
+      "organisation_id": "evercore",
+      "url": "https://careers.smartrecruiters.com/Wiser?search=evercore+summer+internship",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://careers.smartrecruiters.com/Wiser?search=evercore+summer+internship"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "eversheds-sutherland-trackr-official-1",
+      "name": "Eversheds Sutherland official opportunity source 1",
+      "organisation_id": "eversheds-sutherland",
+      "url": "https://www.eversheds-sutherland.com/en/united-kingdom/careers/careers-page/students-and-recent-graduates/student-and-graduate-applications",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.eversheds-sutherland.com/en/united-kingdom/careers/careers-page/students-and-recent-graduates/student-and-graduate-applications"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "farrer-co-trackr-official-1",
+      "name": "Farrer & Co official opportunity source 1",
+      "organisation_id": "farrer-co",
+      "url": "https://www.farrer.co.uk/careers/early-careers/training-contracts/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.farrer.co.uk/careers/early-careers/training-contracts/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "fidelity-trackr-official-1",
+      "name": "Fidelity Investments official opportunity source 1",
+      "organisation_id": "fidelity",
+      "url": "https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/london-great-britain/summer-2027-equity-research-associate-intern---london_2129754",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/london-great-britain/summer-2027-equity-research-associate-intern---london_2129754"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "fieldfisher-trackr-official-1",
+      "name": "Fieldfisher official opportunity source 1",
+      "organisation_id": "fieldfisher",
+      "url": "https://www.fieldfisher.com/en/careers/earlycareers/future-lawyer-programmes",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.fieldfisher.com/en/careers/earlycareers/future-lawyer-programmes"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "foot-anstey-trackr-official-1",
+      "name": "Foot Anstey official opportunity source 1",
+      "organisation_id": "foot-anstey",
+      "url": "https://www.mckees-law.com/training-contracts",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.mckees-law.com/training-contracts"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "forsters-trackr-official-1",
+      "name": "Forsters official opportunity source 1",
+      "organisation_id": "forsters",
+      "url": "https://www.forsters.co.uk/early-careers/graduate-recruitment",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.forsters.co.uk/early-careers/graduate-recruitment"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "franklin-templeton-trackr-official-1",
+      "name": "Franklin Templeton official opportunity source 1",
+      "organisation_id": "franklin-templeton",
+      "url": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/Invitation-Only/details/UK-Summer-Intern---London---Investment-Management_869326?q=%22summer+intern%22&locationCountry=29247e57dbaf46fb855b224e03170bc7",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/Invitation-Only/details/UK-Summer-Intern---London---Investment-Management_869326?q=%22summer+intern%22&locationCountry=29247e57dbaf46fb855b224e03170bc7"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "freshfields-bruckhaus-deringer-trackr-official-1",
+      "name": "Freshfields Bruckhaus Deringer official opportunity source 1",
+      "organisation_id": "freshfields-bruckhaus-deringer",
+      "url": "https://www.freshfields.com/en/your-career/united-kingdom/early-careers/trainee-associate-program",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.freshfields.com/en/your-career/united-kingdom/early-careers/trainee-associate-program"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "g-research-trackr-official-1",
+      "name": "G-Research official opportunity source 1",
+      "organisation_id": "g-research",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/en-US/G-Research/job/Data-Science-Internship_R3679",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://gresearch.wd103.myworkdayjobs.com/en-US/G-Research/job/Data-Science-Internship_R3679"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "g-research-trackr-official-2",
+      "name": "G-Research official opportunity source 2",
+      "organisation_id": "g-research",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/en-US/G-Research/job/Machine-Learning-Research-Internship_R3682",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://gresearch.wd103.myworkdayjobs.com/en-US/G-Research/job/Machine-Learning-Research-Internship_R3682"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "g-research-trackr-official-3",
+      "name": "G-Research official opportunity source 3",
+      "organisation_id": "g-research",
+      "url": "https://gresearch.wd103.myworkdayjobs.com/en-US/G-Research/job/Quant-Research-Internship_R3691",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://gresearch.wd103.myworkdayjobs.com/en-US/G-Research/job/Quant-Research-Internship_R3691"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "gateley-trackr-official-1",
+      "name": "Gateley official opportunity source 1",
+      "organisation_id": "gateley",
+      "url": "https://gateleyplc.com/careers/emerging-talent/trainee-solicitors/#tab-faqs",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://gateleyplc.com/careers/emerging-talent/trainee-solicitors/#tab-faqs"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "gibson-dunn-trackr-official-1",
+      "name": "Gibson Dunn official opportunity source 1",
+      "organisation_id": "gibson-dunn",
+      "url": "https://www.gibsondunn.com/careers/law-students/#international-programs",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.gibsondunn.com/careers/law-students/#international-programs"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "gic-trackr-official-1",
+      "name": "GIC official opportunity source 1",
+      "organisation_id": "gic",
+      "url": "https://gic.careers/programmes/gic-internship-programme/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://gic.careers/programmes/gic-internship-programme/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "gic-trackr-official-2",
+      "name": "GIC official opportunity source 2",
+      "organisation_id": "gic",
+      "url": "https://www.jobtestprep.com/gic-test-prep#101",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.jobtestprep.com/gic-test-prep#101"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "goldman-sachs-trackr-official-1",
+      "name": "Goldman Sachs official opportunity source 1",
+      "organisation_id": "goldman-sachs",
+      "url": "https://higher.gs.com/campus?EXPERIENCE_LEVEL=Summer+Analyst&LOCATION=Birmingham%7CLondon&page=1&sort=RELEVANCE",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://higher.gs.com/campus?EXPERIENCE_LEVEL=Summer+Analyst&LOCATION=Birmingham%7CLondon&page=1&sort=RELEVANCE"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "goldman-sachs-trackr-official-2",
+      "name": "Goldman Sachs official opportunity source 2",
+      "organisation_id": "goldman-sachs",
+      "url": "https://higher.gs.com/roles/170644",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://higher.gs.com/roles/170644"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "greenberg-traurig-trackr-official-1",
+      "name": "Greenberg Traurig official opportunity source 1",
+      "organisation_id": "greenberg-traurig",
+      "url": "https://www.gtlaw.com/en/general/careers/law-students/europe-law-students/london-trainee-recruiting",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.gtlaw.com/en/general/careers/law-students/europe-law-students/london-trainee-recruiting"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "guggenheim-partners-trackr-official-1",
+      "name": "Guggenheim Partners official opportunity source 1",
+      "organisation_id": "guggenheim-partners",
+      "url": "https://guggenheim.wd1.myworkdayjobs.com/en-US/Guggenheim_Careers_Campus/job/XMLNAME-2027-Investment-Banking-Analyst-Intern---Digital-Infrastructure--London---June---August_14895",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://guggenheim.wd1.myworkdayjobs.com/en-US/Guggenheim_Careers_Campus/job/XMLNAME-2027-Investment-Banking-Analyst-Intern---Digital-Infrastructure--London---June---August_14895"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "hfw-trackr-official-1",
+      "name": "HFW official opportunity source 1",
+      "organisation_id": "hfw",
+      "url": "https://hfw.grad.allhires.com/app/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://hfw.grad.allhires.com/app/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "hines-trackr-official-1",
+      "name": "Hines official opportunity source 1",
+      "organisation_id": "hines",
+      "url": "https://careers-hines.icims.com/jobs/search?ss=1&searchPositionType=8710&searchLocation=13702--London",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://careers-hines.icims.com/jobs/search?ss=1&searchPositionType=8710&searchLocation=13702--London"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "hudson-river-trading-trackr-official-1",
+      "name": "Hudson River Trading official opportunity source 1",
+      "organisation_id": "hudson-river-trading",
+      "url": "https://www.hudsonrivertrading.com/careers/?job-type=internship%2C&locations=london%2C&job-category=strategy-development%2C",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.hudsonrivertrading.com/careers/?job-type=internship%2C&locations=london%2C&job-category=strategy-development%2C"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "hudson-river-trading-trackr-official-2",
+      "name": "Hudson River Trading official opportunity source 2",
+      "organisation_id": "hudson-river-trading",
+      "url": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "ibm-trackr-official-1",
+      "name": "IBM official opportunity source 1",
+      "organisation_id": "ibm",
+      "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128230",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128230"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "imc-trading-trackr-official-1",
+      "name": "IMC Trading official opportunity source 1",
+      "organisation_id": "imc-trading",
+      "url": "https://job-boards.eu.greenhouse.io/imc?keyword=trader+intern&offices%5B%5D=4012435101",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://job-boards.eu.greenhouse.io/imc?keyword=trader+intern&offices%5B%5D=4012435101"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "imc-trading-trackr-official-2",
+      "name": "IMC Trading official opportunity source 2",
+      "organisation_id": "imc-trading",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4667854101",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4667854101"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "imc-trading-trackr-official-3",
+      "name": "IMC Trading official opportunity source 3",
+      "organisation_id": "imc-trading",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4912874101",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4912874101"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "inizio-ignite-trackr-official-1",
+      "name": "Inizio Ignite official opportunity source 1",
+      "organisation_id": "inizio-ignite",
+      "url": "https://boards-api.greenhouse.io/v1/boards/ashfieldadvisory/jobs?content=true",
+      "profile": "greenhouse_api",
+      "adapter": "greenhouse",
+      "enabled": true,
+      "scan_tier": "weekly",
+      "sector": "finance",
+      "resolution_status": "resolved_api",
+      "adapter_detection": {
+        "confidence": "high",
+        "original_url": "https://job-boards.greenhouse.io/ashfieldadvisory/jobs/7967069"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "irwin-mitchell-trackr-official-1",
+      "name": "Irwin Mitchell official opportunity source 1",
+      "organisation_id": "irwin-mitchell",
+      "url": "https://www.irwinmitchell.com/about-us/careers/early-careers",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.irwinmitchell.com/about-us/careers/early-careers"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "isam-trackr-official-1",
+      "name": "iSAM official opportunity source 1",
+      "organisation_id": "isam",
+      "url": "https://job-boards.eu.greenhouse.io/isam/jobs/4949792101",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://job-boards.eu.greenhouse.io/isam/jobs/4949792101"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "jane-street-trackr-official-1",
+      "name": "Jane Street official opportunity source 1",
+      "organisation_id": "jane-street",
+      "url": "https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=london",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=london"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "jump-trading-trackr-official-1",
+      "name": "Jump Trading official opportunity source 1",
+      "organisation_id": "jump-trading",
+      "url": "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true",
+      "profile": "greenhouse_api",
+      "adapter": "greenhouse",
+      "enabled": true,
+      "scan_tier": "weekly",
+      "sector": "finance",
+      "resolution_status": "resolved_api",
+      "adapter_detection": {
+        "confidence": "high",
+        "original_url": "https://job-boards.greenhouse.io/embed/job_board?for=jumptrading&offices%5B%5D=58179&offices%5B%5D=2448&keyword=quantitative+intern"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "k-l-gates-trackr-official-1",
+      "name": "K&L Gates official opportunity source 1",
+      "organisation_id": "k-l-gates",
+      "url": "https://www.klgates.com/uk-trainee-solicitor",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.klgates.com/uk-trainee-solicitor"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "kennedys-trackr-official-1",
+      "name": "Kennedys official opportunity source 1",
+      "organisation_id": "kennedys",
+      "url": "https://www.kennedyslaw.com/en/careers-at-kennedys/early-careers/graduate-training-programmes/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.kennedyslaw.com/en/careers-at-kennedys/early-careers/graduate-training-programmes/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "king-spalding-trackr-official-1",
+      "name": "King & Spalding official opportunity source 1",
+      "organisation_id": "king-spalding",
+      "url": "https://www.kslaw.com/careers/early-careers/uk-training-contracts",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.kslaw.com/careers/early-careers/uk-training-contracts"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "kingsley-napley-trackr-official-1",
+      "name": "Kingsley Napley official opportunity source 1",
+      "organisation_id": "kingsley-napley",
+      "url": "https://www.kingsleynapley.co.uk/careers/early-careers/your-training-contract",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.kingsleynapley.co.uk/careers/early-careers/your-training-contract"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "lawrence-stephens-trackr-official-1",
+      "name": "Lawrence Stephens official opportunity source 1",
+      "organisation_id": "lawrence-stephens",
+      "url": "https://www.lawrencestephens.com/careers/11309-2/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.lawrencestephens.com/careers/11309-2/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "leigh-day-trackr-official-1",
+      "name": "Leigh Day official opportunity source 1",
+      "organisation_id": "leigh-day",
+      "url": "https://careers.leighday.co.uk/jobs/vacancy/find/results/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://careers.leighday.co.uk/jobs/vacancy/find/results/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "liontree-trackr-official-1",
+      "name": "LionTree official opportunity source 1",
+      "organisation_id": "liontree",
+      "url": "https://boards-api.greenhouse.io/v1/boards/liontree/jobs?content=true",
+      "profile": "greenhouse_api",
+      "adapter": "greenhouse",
+      "enabled": true,
+      "scan_tier": "weekly",
+      "sector": "finance",
+      "resolution_status": "resolved_api",
+      "adapter_detection": {
+        "confidence": "high",
+        "original_url": "https://job-boards.greenhouse.io/liontree/jobs/5213296007"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "marshall-wace-trackr-official-1",
+      "name": "Marshall Wace official opportunity source 1",
+      "organisation_id": "marshall-wace",
+      "url": "https://grnh.se/103h8wnc2us",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://grnh.se/103h8wnc2us"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "millennium-management-trackr-official-1",
+      "name": "Millennium Management official opportunity source 1",
+      "organisation_id": "millennium-management",
+      "url": "https://campusjobs.mlp.com/careers?location=London%2C+London%2C+United+Kingdom&pid=755957778834&domain=mlp.com&sort_by=relevance&triggerGoButton=false",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://campusjobs.mlp.com/careers?location=London%2C+London%2C+United+Kingdom&pid=755957778834&domain=mlp.com&sort_by=relevance&triggerGoButton=false"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "millennium-management-trackr-official-2",
+      "name": "Millennium Management official opportunity source 2",
+      "organisation_id": "millennium-management",
+      "url": "https://campusjobs.mlp.com/careers?location=London%2C+London%2C+United+Kingdom&pid=755957819772&domain=mlp.com&sort_by=relevance&triggerGoButton=false",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://campusjobs.mlp.com/careers?location=London%2C+London%2C+United+Kingdom&pid=755957819772&domain=mlp.com&sort_by=relevance&triggerGoButton=false"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "millennium-management-trackr-official-3",
+      "name": "Millennium Management official opportunity source 3",
+      "organisation_id": "millennium-management",
+      "url": "https://campusjobs.mlp.com/careers/job/755954628841?microsite=campus-site",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://campusjobs.mlp.com/careers/job/755954628841?microsite=campus-site"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "millennium-management-trackr-official-4",
+      "name": "Millennium Management official opportunity source 4",
+      "organisation_id": "millennium-management",
+      "url": "https://campusjobs.mlp.com/careers/job/755957778828",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://campusjobs.mlp.com/careers/job/755957778828"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "moelis-co-trackr-official-1",
+      "name": "Moelis & Co official opportunity source 1",
+      "organisation_id": "moelis-co",
+      "url": "https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-36ff0d3487ce/candidate/so/pm/1/pl/2/opp/391-2027-Summer-Analyst-Investment-Banking-London/en-GB",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-36ff0d3487ce/candidate/so/pm/1/pl/2/opp/391-2027-Summer-Analyst-Investment-Banking-London/en-GB"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "morgan-lewis-trackr-official-1",
+      "name": "Morgan Lewis official opportunity source 1",
+      "organisation_id": "morgan-lewis",
+      "url": "https://www.morganlewis.com/careers/students-trainees-judicial-clerks#emea",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.morganlewis.com/careers/students-trainees-judicial-clerks#emea"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "optiver-trackr-official-1",
+      "name": "Optiver official opportunity source 1",
+      "organisation_id": "optiver",
+      "url": "https://grnh.se/1r2jbe1d2us",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://grnh.se/1r2jbe1d2us"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "optiver-trackr-official-2",
+      "name": "Optiver official opportunity source 2",
+      "organisation_id": "optiver",
+      "url": "https://grnh.se/bytkm3y62us",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://grnh.se/bytkm3y62us"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "osborne-clarke-trackr-official-1",
+      "name": "Osborne Clarke official opportunity source 1",
+      "organisation_id": "osborne-clarke",
+      "url": "https://join.osborneclarke.com/training-and-development",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://join.osborneclarke.com/training-and-development"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "palantir-trackr-official-1",
+      "name": "Palantir official opportunity source 1",
+      "organisation_id": "palantir",
+      "url": "https://api.lever.co/v0/postings/palantir?mode=json",
+      "profile": "lever_api",
+      "adapter": "lever",
+      "enabled": true,
+      "scan_tier": "weekly",
+      "sector": "technology",
+      "resolution_status": "resolved_api",
+      "adapter_detection": {
+        "confidence": "high",
+        "original_url": "https://jobs.lever.co/palantir?location=London%2C+United+Kingdom&commitment=Internship"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "patrizia-trackr-official-1",
+      "name": "Patrizia official opportunity source 1",
+      "organisation_id": "patrizia",
+      "url": "https://patrizia.wd502.myworkdayjobs.com/en-US/PATRIZIA/job/Student-Analyst---Investment-Technology---Real-Estate--Part-time--m-f-d-_R2409",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://patrizia.wd502.myworkdayjobs.com/en-US/PATRIZIA/job/Student-Analyst---Investment-Technology---Real-Estate--Part-time--m-f-d-_R2409"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "paul-hastings-trackr-official-1",
+      "name": "Paul Hastings official opportunity source 1",
+      "organisation_id": "paul-hastings",
+      "url": "https://paulhastings.grad.allhires.com/app/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://paulhastings.grad.allhires.com/app/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "payne-hicks-beach-trackr-official-1",
+      "name": "Payne Hicks Beach official opportunity source 1",
+      "organisation_id": "payne-hicks-beach",
+      "url": "https://www.phb.co.uk/careers/trainee-hub/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.phb.co.uk/careers/trainee-hub/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "perella-weinberg-partners-trackr-official-1",
+      "name": "Perella Weinberg Partners official opportunity source 1",
+      "organisation_id": "perella-weinberg-partners",
+      "url": "https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/user-131851/xf-b16b55460bb6/wid-1/candidate/so/pm/1/pl/2/opp/1098-2027-Advisory-Summer-Analyst-Programme-Munich-London/en-GB",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://pwpcareers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/user-131851/xf-b16b55460bb6/wid-1/candidate/so/pm/1/pl/2/opp/1098-2027-Advisory-Summer-Analyst-Programme-Munich-London/en-GB"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "pimco-trackr-official-1",
+      "name": "PIMCO official opportunity source 1",
+      "organisation_id": "pimco",
+      "url": "https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "pimco-trackr-official-2",
+      "name": "PIMCO official opportunity source 2",
+      "organisation_id": "pimco",
+      "url": "https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/jobs?jobFamilies=b27adc21fb8410010c147bdeecc60000&locationCountry=29247e57dbaf46fb855b224e03170bc7",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/jobs?jobFamilies=b27adc21fb8410010c147bdeecc60000&locationCountry=29247e57dbaf46fb855b224e03170bc7"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "point72-trackr-official-1",
+      "name": "Point72 official opportunity source 1",
+      "organisation_id": "point72",
+      "url": "https://boards-api.greenhouse.io/v1/boards/point72/jobs?content=true",
+      "profile": "greenhouse_api",
+      "adapter": "greenhouse",
+      "enabled": true,
+      "scan_tier": "weekly",
+      "sector": "finance",
+      "resolution_status": "resolved_api",
+      "adapter_detection": {
+        "confidence": "high",
+        "original_url": "https://job-boards.greenhouse.io/point72/jobs/8435134002?gh_jid=8435134002"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "point72-trackr-official-2",
+      "name": "Point72 official opportunity source 2",
+      "organisation_id": "point72",
+      "url": "https://www.jobtestprep.com/point72-preparation#101",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.jobtestprep.com/point72-preparation#101"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "quadrature-trackr-official-1",
+      "name": "Quadrature official opportunity source 1",
+      "organisation_id": "quadrature",
+      "url": "https://boards-api.greenhouse.io/v1/boards/quadraturecapital/jobs?content=true",
+      "profile": "greenhouse_api",
+      "adapter": "greenhouse",
+      "enabled": true,
+      "scan_tier": "weekly",
+      "sector": "technology",
+      "resolution_status": "resolved_api",
+      "adapter_detection": {
+        "confidence": "high",
+        "original_url": "https://job-boards.greenhouse.io/quadraturecapital/jobs/4255974"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "quantbot-technologies-trackr-official-1",
+      "name": "Quantbot Technologies official opportunity source 1",
+      "organisation_id": "quantbot-technologies",
+      "url": "https://www.quantbot.com/careers/?gh_jid=4299858009",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.quantbot.com/careers/?gh_jid=4299858009"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "quantbot-technologies-trackr-official-2",
+      "name": "Quantbot Technologies official opportunity source 2",
+      "organisation_id": "quantbot-technologies",
+      "url": "https://www.quantbot.com/careers/?gh_jid=4299863009",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.quantbot.com/careers/?gh_jid=4299863009"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "raine-group-trackr-official-1",
+      "name": "Raine Group official opportunity source 1",
+      "organisation_id": "raine-group",
+      "url": "https://api.lever.co/v0/postings/raine?mode=json",
+      "profile": "lever_api",
+      "adapter": "lever",
+      "enabled": true,
+      "scan_tier": "weekly",
+      "sector": "finance",
+      "resolution_status": "resolved_api",
+      "adapter_detection": {
+        "confidence": "high",
+        "original_url": "https://jobs.lever.co/raine/a8066f8c-2bc2-415b-9d04-70daf6b4edca"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "rbc-capital-markets-trackr-official-1",
+      "name": "RBC Capital Markets official opportunity source 1",
+      "organisation_id": "rbc-capital-markets",
+      "url": "https://www.jobtestprep.com/rbc-assessment#101",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.jobtestprep.com/rbc-assessment#101"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "redburn-trackr-official-1",
+      "name": "Redburn official opportunity source 1",
+      "organisation_id": "redburn",
+      "url": "https://rothschildandco.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-d1e4b70a3b97/candidate/jobboard/vacancy/2/adv/?f_Item_Opportunity_78763_lk=523763&f_Item_Opportunity_132775_lk=523903&f_Item_Opportunity_60426_lk=520148",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://rothschildandco.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-d1e4b70a3b97/candidate/jobboard/vacancy/2/adv/?f_Item_Opportunity_78763_lk=523763&f_Item_Opportunity_132775_lk=523903&f_Item_Opportunity_60426_lk=520148"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "revolut-trackr-official-1",
+      "name": "Revolut official opportunity source 1",
+      "organisation_id": "revolut",
+      "url": "https://www.revolut.com/careers/?text=internship+programme+2027",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.revolut.com/careers/?text=internship+programme+2027"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "revolut-trackr-official-2",
+      "name": "Revolut official opportunity source 2",
+      "organisation_id": "revolut",
+      "url": "https://www.revolut.com/careers/position/internship-programme-2027-strategy-operations-manager-aa3cc201-5808-4d7e-ba8e-e82e443d90d3/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.revolut.com/careers/position/internship-programme-2027-strategy-operations-manager-aa3cc201-5808-4d7e-ba8e-e82e443d90d3/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "rothschild-co-trackr-official-1",
+      "name": "Rothschild & Co. official opportunity source 1",
+      "organisation_id": "rothschild-co",
+      "url": "https://rothschildandco.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-d1e4b70a3b97/candidate/jobboard/vacancy/2/adv/?f_Item_Opportunity_78763_lk=523763&f_Item_Opportunity_132775_lk=519868&f_Item_Opportunity_60426_lk=520148",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://rothschildandco.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-d1e4b70a3b97/candidate/jobboard/vacancy/2/adv/?f_Item_Opportunity_78763_lk=523763&f_Item_Opportunity_132775_lk=519868&f_Item_Opportunity_60426_lk=520148"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "russell-cooke-trackr-official-1",
+      "name": "Russell-Cooke official opportunity source 1",
+      "organisation_id": "russell-cooke",
+      "url": "https://www.russell-cooke.co.uk/careers/graduate-recruitment/our-training-contract",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.russell-cooke.co.uk/careers/graduate-recruitment/our-training-contract"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "samsara-trackr-official-1",
+      "name": "Samsara official opportunity source 1",
+      "organisation_id": "samsara",
+      "url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.samsara.com/company/careers/roles/8082093?gh_jid=8082093"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "schroders-trackr-official-1",
+      "name": "Schroders official opportunity source 1",
+      "organisation_id": "schroders",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs?keyword=%22internship+programme%22&lastSelectedFacet=CATEGORIES&location=United+Kingdom&locationId=300000000304260&locationLevel=country&mode=job-location&selectedCategoriesFacet=300000363681038",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs?keyword=%22internship+programme%22&lastSelectedFacet=CATEGORIES&location=United+Kingdom&locationId=300000000304260&locationLevel=country&mode=job-location&selectedCategoriesFacet=300000363681038"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "slaughter-and-may-trackr-official-1",
+      "name": "Slaughter and May official opportunity source 1",
+      "organisation_id": "slaughter-and-may",
+      "url": "https://www.slaughterandmay.com/careers/early-careers/the-training-contract/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.slaughterandmay.com/careers/early-careers/the-training-contract/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "smbc-trackr-official-1",
+      "name": "SMBC official opportunity source 1",
+      "organisation_id": "smbc",
+      "url": "https://www.brightnetwork.co.uk/graduate-jobs/smbc/smbc-summer-intern-programme-2027",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.brightnetwork.co.uk/graduate-jobs/smbc/smbc-summer-intern-programme-2027"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "squarepoint-capital-trackr-official-1",
+      "name": "Squarepoint Capital official opportunity source 1",
+      "organisation_id": "squarepoint-capital",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Internship&loc=14632",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.squarepoint-capital.com/open-opportunities?lvl=Internship&loc=14632"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "squarepoint-capital-trackr-official-2",
+      "name": "Squarepoint Capital official opportunity source 2",
+      "organisation_id": "squarepoint-capital",
+      "url": "https://www.squarepoint-capital.com/opportunity-details?id=7231006&id=7231006&gh_jid=7231006",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.squarepoint-capital.com/opportunity-details?id=7231006&id=7231006&gh_jid=7231006"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "standard-chartered-trackr-official-1",
+      "name": "Standard Chartered official opportunity source 1",
+      "organisation_id": "standard-chartered",
+      "url": "https://jobs.standardchartered.com/search/?q=%22intern+uk+2027%22&skillsSearch=false&facetFilters=%7B%7D&pageNumber=0",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://jobs.standardchartered.com/search/?q=%22intern+uk+2027%22&skillsSearch=false&facetFilters=%7B%7D&pageNumber=0"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "stephenson-harwood-trackr-official-1",
+      "name": "Stephenson Harwood official opportunity source 1",
+      "organisation_id": "stephenson-harwood",
+      "url": "https://www.stephensonharwood.com/careers/early-careers/early-careers-london/london-training-contracts/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.stephensonharwood.com/careers/early-careers/early-careers-london/london-training-contracts/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "sullivan-cromwell-trackr-official-1",
+      "name": "Sullivan & Cromwell official opportunity source 1",
+      "organisation_id": "sullivan-cromwell",
+      "url": "https://www.sullcrom.com/Careers/Offices/United-Kingdom/U.K.-Trainee-Solicitors-Programme",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.sullcrom.com/Careers/Offices/United-Kingdom/U.K.-Trainee-Solicitors-Programme"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "susquehanna-international-group-trackr-official-1",
+      "name": "Susquehanna International Group official opportunity source 1",
+      "organisation_id": "susquehanna-international-group",
+      "url": "https://careers.sig.com/jobs?page=1&categories=Interns+%2B+Co-ops%7CStudent+Discovery+Program&limit=100&locations=Dublin%2C%2CIreland%7CLondon%2C%2CUnited+Kingdom",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://careers.sig.com/jobs?page=1&categories=Interns+%2B+Co-ops%7CStudent+Discovery+Program&limit=100&locations=Dublin%2C%2CIreland%7CLondon%2C%2CUnited+Kingdom"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "susquehanna-international-group-trackr-official-2",
+      "name": "Susquehanna International Group official opportunity source 2",
+      "organisation_id": "susquehanna-international-group",
+      "url": "https://careers.sig.com/jobs?page=1&categories=Interns+%2B+Co-ops%7CStudent+Discovery+Program&limit=100&tags1=Technology+-+Software+Engineering",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://careers.sig.com/jobs?page=1&categories=Interns+%2B+Co-ops%7CStudent+Discovery+Program&limit=100&tags1=Technology+-+Software+Engineering"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "tencent-trackr-official-1",
+      "name": "Tencent official opportunity source 1",
+      "organisation_id": "tencent",
+      "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/UK-London/Software-Engineering-Intern_R107162-1",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "technology",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/UK-London/Software-Engineering-Intern_R107162-1"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "thomson-snell-passmore-trackr-official-1",
+      "name": "Thomson Snell & Passmore official opportunity source 1",
+      "organisation_id": "thomson-snell-passmore",
+      "url": "https://ts-p.co.uk/human-resources/trainee-solicitors/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://ts-p.co.uk/human-resources/trainee-solicitors/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "trowers-hamlins-trackr-official-1",
+      "name": "Trowers & Hamlins official opportunity source 1",
+      "organisation_id": "trowers-hamlins",
+      "url": "https://www.trowers.com/careers/trainee-solicitors/training-contracts",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.trowers.com/careers/trainee-solicitors/training-contracts"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "ubs-trackr-official-1",
+      "name": "UBS official opportunity source 1",
+      "organisation_id": "ubs",
+      "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=15232",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=15232"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "virtu-financial-trackr-official-1",
+      "name": "Virtu Financial official opportunity source 1",
+      "organisation_id": "virtu-financial",
+      "url": "https://boards-api.greenhouse.io/v1/boards/virtu/jobs?content=true",
+      "profile": "greenhouse_api",
+      "adapter": "greenhouse",
+      "enabled": true,
+      "scan_tier": "weekly",
+      "sector": "finance",
+      "resolution_status": "resolved_api",
+      "adapter_detection": {
+        "confidence": "high",
+        "original_url": "https://job-boards.greenhouse.io/virtu/jobs/8547254002"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "walker-morris-trackr-official-1",
+      "name": "Walker Morris official opportunity source 1",
+      "organisation_id": "walker-morris",
+      "url": "https://graduates.walkermorris.co.uk/training-contracts/direct-training-contract/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://graduates.walkermorris.co.uk/training-contracts/direct-training-contract/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "watson-farley-williams-trackr-official-1",
+      "name": "Watson Farley & Williams official opportunity source 1",
+      "organisation_id": "watson-farley-williams",
+      "url": "https://earlycareers.wfw.com/what-we-offer/training-contract/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://earlycareers.wfw.com/what-we-offer/training-contract/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "wedlake-bell-trackr-official-1",
+      "name": "Wedlake Bell official opportunity source 1",
+      "organisation_id": "wedlake-bell",
+      "url": "https://wedlakebell.app.candidats.io/roles",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://wedlakebell.app.candidats.io/roles"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "weightmans-trackr-official-1",
+      "name": "Weightmans official opportunity source 1",
+      "organisation_id": "weightmans",
+      "url": "https://www.weightmans.com/careers/early-careers/apprenticeships/trainee-solicitor/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.weightmans.com/careers/early-careers/apprenticeships/trainee-solicitor/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "wells-fargo-trackr-official-1",
+      "name": "Wells Fargo official opportunity source 1",
+      "organisation_id": "wells-fargo",
+      "url": "https://www.jobtestprep.com/virtual-job-tryout-prep#101",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.jobtestprep.com/virtual-job-tryout-prep#101"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "wiggin-trackr-official-1",
+      "name": "Wiggin official opportunity source 1",
+      "organisation_id": "wiggin",
+      "url": "https://www.wiggin.co.uk/careers/training-contract-applications/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.wiggin.co.uk/careers/training-contract-applications/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "wincent-trackr-official-1",
+      "name": "Wincent official opportunity source 1",
+      "organisation_id": "wincent",
+      "url": "https://www.wincent.com/careers/quantitative-research-internship-quant-research-trading-starting-summer-2027/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "finance",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.wincent.com/careers/quantitative-research-internship-quant-research-trading-starting-summer-2027/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "winckworth-sherwood-trackr-official-1",
+      "name": "Winckworth Sherwood official opportunity source 1",
+      "organisation_id": "winckworth-sherwood",
+      "url": "https://wslaw.co.uk/join-us/trainee-hub/the-application-process/",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://wslaw.co.uk/join-us/trainee-hub/the-application-process/"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "withers-trackr-official-1",
+      "name": "Withers official opportunity source 1",
+      "organisation_id": "withers",
+      "url": "https://www.withersworldwide.com/en-gb/careers/students-and-graduates/united-kingdom/training-in-london",
+      "profile": "candidate_url",
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "sector": "law",
+      "resolution_status": "candidate_url_needs_validation",
+      "adapter_detection": {
+        "confidence": "low",
+        "original_url": "https://www.withersworldwide.com/en-gb/careers/students-and-graduates/united-kingdom/training-in-london"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    },
+    {
+      "id": "xantium-trackr-official-1",
+      "name": "Xantium official opportunity source 1",
+      "organisation_id": "xantium",
+      "url": "https://boards-api.greenhouse.io/v1/boards/xantium/jobs?content=true",
+      "profile": "greenhouse_api",
+      "adapter": "greenhouse",
+      "enabled": true,
+      "scan_tier": "weekly",
+      "sector": "finance",
+      "resolution_status": "resolved_api",
+      "adapter_detection": {
+        "confidence": "high",
+        "original_url": "https://job-boards.greenhouse.io/xantium/jobs/4371217009"
+      },
+      "provenance": "trackr_benchmark_external_official_link_2026-08-31",
+      "provenance_note": "Trackr supplied the organisation/link benchmark only; runtime scanning targets this official external URL and never Trackr."
+    }
+  ]
+}

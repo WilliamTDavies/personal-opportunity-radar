@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "organisations": [
+    {
+      "id": "aecom",
+      "name": "AECOM",
+      "sectors": [
+        "engineering"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "airbus",
+      "name": "Airbus",
+      "sectors": [
+        "engineering",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "arup",
+      "name": "Arup",
+      "sectors": [
+        "engineering"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "atkinsrealis",
+      "name": "AtkinsRéalis",
+      "sectors": [
+        "engineering"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "gchq",
+      "name": "GCHQ",
+      "sectors": [
+        "government",
+        "technology"
+      ],
+      "organisation_type": "public_body",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "ge-vernova",
+      "name": "GE Vernova",
+      "sectors": [
+        "engineering"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "jacobs",
+      "name": "Jacobs",
+      "sectors": [
+        "engineering"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "mott-macdonald",
+      "name": "Mott MacDonald",
+      "sectors": [
+        "engineering"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "national-grid",
+      "name": "National Grid",
+      "sectors": [
+        "engineering"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ncsc",
+      "name": "National Cyber Security Centre",
+      "sectors": [
+        "government",
+        "technology"
+      ],
+      "organisation_type": "public_body",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "ofcom",
+      "name": "Ofcom",
+      "sectors": [
+        "government",
+        "technology"
+      ],
+      "organisation_type": "public_body",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "schneider-electric",
+      "name": "Schneider Electric",
+      "sectors": [
+        "engineering",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "personal-opportunity-radar"
+version = "2.0.0"
+description = "Local-first scanner and static dashboard for early undergraduate opportunities"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+dependencies = []
+
+[project.scripts]
+personal-opportunity-radar = "personal_opportunity_radar.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["personal_opportunity_radar*"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"

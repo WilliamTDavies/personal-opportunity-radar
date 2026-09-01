@@ -1,0 +1,450 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "citadel-students",
+      "name": "Citadel Students",
+      "organisation": "Citadel",
+      "url": "https://www.citadel.com/careers/students/",
+      "adapter": "html",
+      "include_patterns": [
+        "intern",
+        "discover",
+        "program",
+        "quant"
+      ],
+      "organisation_id": "citadel",
+      "sector": "quant_technology",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "citadel"
+    },
+    {
+      "id": "drw-interns",
+      "name": "DRW Internships",
+      "organisation": "DRW",
+      "family": "drw",
+      "url": "https://www.drw.com/work-at-drw/listings?filterType=keyword&value=intern",
+      "adapter": "html",
+      "stream": "internships",
+      "include_patterns": [
+        "intern",
+        "quantitative",
+        "software",
+        "trading",
+        "research"
+      ],
+      "exclude_patterns": [
+        "senior",
+        "manager"
+      ],
+      "max_detail_pages": 18,
+      "allow_zero": true,
+      "organisation_id": "drw",
+      "sector": "quant_technology",
+      "scan_tier": "daily",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "flow-traders-graduate",
+      "name": "Flow Traders Graduate Careers",
+      "organisation": "Flow Traders",
+      "url": "https://www.flowtraders.com/careers/graduates",
+      "adapter": "html",
+      "include_patterns": [
+        "intern",
+        "trading",
+        "graduate"
+      ],
+      "organisation_id": "flow-traders",
+      "sector": "quant_technology",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "flow-traders"
+    },
+    {
+      "id": "g-research-events",
+      "name": "G-Research Events",
+      "organisation": "G-Research",
+      "family": "g-research",
+      "url": "https://www.gresearch.com/events/",
+      "adapter": "html",
+      "include_patterns": [
+        "spring",
+        "insight",
+        "internship",
+        "quant",
+        "student"
+      ],
+      "exclude_patterns": [
+        "women",
+        "black heritage",
+        "graduate"
+      ],
+      "max_detail_pages": 12,
+      "allow_zero": true,
+      "organisation_id": "g-research",
+      "sector": "quant_technology",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "g-research-spring-quant-2027",
+      "name": "G-Research Spring into Quant Finance",
+      "organisation": "G-Research",
+      "url": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
+      "adapter": "html",
+      "stream": "spring_insight",
+      "page_is_listing": false,
+      "expected_terms": [
+        "2027",
+        "Register your interest"
+      ],
+      "programmes": [
+        {
+          "canonical_id": "g-research-spring-into-quant-finance-2027",
+          "title": "Spring into Quant Finance 2027 — register interest",
+          "organisation": "G-Research",
+          "stream": "spring_insight",
+          "lifecycle": "interest_open",
+          "eligibility": "likely_eligible",
+          "primary_action": "Register Interest",
+          "location": "Location to be announced",
+          "start_date": "2027-spring",
+          "deadline_status": "unknown",
+          "summary": "A week-long residential introduction to quantitative finance; the 2026 cycle is closed and 2027 interest registration is live.",
+          "why_it_fits": "The official programme welcomes mathematics, physics and other quantitative subjects.",
+          "eligibility_note": "Check the 2027 year-of-study criteria when applications open.",
+          "next_step": "Register interest now and review full eligibility when the 2027 application launches.",
+          "tags": [
+            "quant",
+            "mathematics",
+            "physics",
+            "interest open"
+          ],
+          "requirements": [
+            {
+              "rule": "degree_subject",
+              "value": [
+                "mathematics",
+                "physics"
+              ],
+              "strength": "required",
+              "evidence": "Official subject list"
+            }
+          ],
+          "priority_tier": "A",
+          "match_terms": [
+            "2027",
+            "register your interest",
+            "mathematics"
+          ]
+        }
+      ],
+      "organisation_id": "g-research",
+      "sector": "quant_technology",
+      "scan_tier": "high",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "g-research"
+    },
+    {
+      "id": "imc-careers",
+      "name": "IMC Careers",
+      "organisation": "IMC Trading",
+      "url": "https://www.imc.com/eu/careers/students-graduates",
+      "adapter": "html",
+      "include_patterns": [
+        "intern",
+        "launchpad",
+        "trading",
+        "technology"
+      ],
+      "organisation_id": "imc-trading",
+      "sector": "quant_technology",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "imc-trading"
+    },
+    {
+      "id": "jane-street-internships",
+      "name": "Jane Street Internships",
+      "organisation": "Jane Street",
+      "family": "jane-street",
+      "url": "https://www.janestreet.com/join-jane-street/internships/",
+      "adapter": "html",
+      "stream": "internships",
+      "include_patterns": [
+        "intern",
+        "trading",
+        "research",
+        "software",
+        "strategy"
+      ],
+      "exclude_patterns": [
+        "graduate",
+        "experienced"
+      ],
+      "max_detail_pages": 12,
+      "allow_zero": true,
+      "organisation_id": "jane-street",
+      "sector": "quant_technology",
+      "scan_tier": "daily",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "jane-street-see-london-2027",
+      "name": "Jane Street Programs & Events",
+      "organisation": "Jane Street",
+      "family": "jane-street",
+      "url": "https://www.janestreet.com/jobs/programs-endpoint.json",
+      "directory_url": "https://www.janestreet.com/join-jane-street/programs-and-events/",
+      "adapter": "jane_street",
+      "stream": "spring_insight",
+      "offices": [
+        "LDN"
+      ],
+      "include_patterns": [
+        "fttp",
+        "see",
+        "bridge",
+        "preview",
+        "qtc",
+        "program"
+      ],
+      "exclude_patterns": [
+        "amp",
+        "focus",
+        "in focus",
+        "insight",
+        "jsip",
+        "wise",
+        "graduate research",
+        "visiting researcher"
+      ],
+      "candidate_score": 4,
+      "force_details": true,
+      "max_detail_pages": 18,
+      "expected_terms": [
+        "FTTP",
+        "Bridge",
+        "SEE"
+      ],
+      "organisation_id": "jane-street",
+      "sector": "quant_technology",
+      "scan_tier": "high",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "man-aahl-students",
+      "name": "Man Group Students and Graduates",
+      "organisation": "Man Group",
+      "family": "man-group",
+      "url": "https://www.man.com/students-and-graduates",
+      "adapter": "html",
+      "include_patterns": [
+        "intern",
+        "insight",
+        "quant",
+        "technology"
+      ],
+      "max_detail_pages": 8,
+      "allow_zero": true,
+      "organisation_id": "man-group",
+      "sector": "quant_technology",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "maven-emerging-talent",
+      "name": "Maven Securities Emerging Talent",
+      "organisation": "Maven Securities",
+      "family": "maven-securities",
+      "url": "https://www.mavensecurities.com/emerging-talent/",
+      "adapter": "html",
+      "include_patterns": [
+        "internship",
+        "student",
+        "trading",
+        "quant",
+        "technology"
+      ],
+      "exclude_patterns": [
+        "graduate"
+      ],
+      "max_detail_pages": 12,
+      "allow_zero": true,
+      "organisation_id": "maven-securities",
+      "sector": "quant_technology",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "optiver-students",
+      "name": "Optiver Students",
+      "organisation": "Optiver",
+      "url": "https://optiver.com/working-at-optiver/career-opportunities/",
+      "adapter": "html",
+      "include_patterns": [
+        "intern",
+        "insight",
+        "trading",
+        "technology"
+      ],
+      "organisation_id": "optiver",
+      "sector": "quant_technology",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "optiver"
+    },
+    {
+      "id": "point72-early-careers",
+      "name": "Point72 Early Careers",
+      "organisation": "Point72",
+      "family": "point72",
+      "url": "https://careers.point72.com/?experience=internships",
+      "adapter": "html",
+      "include_patterns": [
+        "internship",
+        "student",
+        "academy",
+        "quantitative",
+        "technology"
+      ],
+      "exclude_patterns": [
+        "experienced",
+        "mba"
+      ],
+      "max_detail_pages": 10,
+      "allow_zero": true,
+      "organisation_id": "point72",
+      "sector": "quant_technology",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "qrt-careers",
+      "name": "Qube Research and Technologies Careers",
+      "organisation": "Qube Research and Technologies",
+      "family": "qrt",
+      "url": "https://www.qube-rt.com/careers",
+      "adapter": "html",
+      "include_patterns": [
+        "internship",
+        "student",
+        "quantitative",
+        "research",
+        "technology"
+      ],
+      "exclude_patterns": [
+        "senior",
+        "manager"
+      ],
+      "max_detail_pages": 14,
+      "allow_zero": true,
+      "organisation_id": "qube-rt",
+      "sector": "quant_technology",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "sig-students",
+      "name": "Susquehanna Students",
+      "organisation": "Susquehanna International Group",
+      "url": "https://careers.sig.com/students/",
+      "adapter": "html",
+      "include_patterns": [
+        "intern",
+        "discovery",
+        "trading",
+        "technology"
+      ],
+      "organisation_id": "susquehanna-international-group",
+      "sector": "quant_technology",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "susquehanna-international-group"
+    },
+    {
+      "id": "squarepoint-careers",
+      "name": "Squarepoint Early Careers",
+      "organisation": "Squarepoint Capital",
+      "family": "squarepoint",
+      "url": "https://www.squarepoint-capital.com/early-careers",
+      "adapter": "html",
+      "include_patterns": [
+        "internship",
+        "student",
+        "quantitative",
+        "research",
+        "technology"
+      ],
+      "exclude_patterns": [
+        "senior",
+        "manager"
+      ],
+      "max_detail_pages": 10,
+      "allow_zero": true,
+      "organisation_id": "squarepoint-capital",
+      "sector": "quant_technology",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "xtx-careers",
+      "name": "XTX Markets Careers",
+      "organisation": "XTX Markets",
+      "family": "xtx-markets",
+      "url": "https://www.xtxmarkets.com/careers/",
+      "adapter": "html",
+      "include_patterns": [
+        "internship",
+        "student",
+        "software",
+        "quantitative",
+        "research"
+      ],
+      "exclude_patterns": [
+        "senior",
+        "manager"
+      ],
+      "max_detail_pages": 12,
+      "allow_zero": true,
+      "organisation_id": "xtx-markets",
+      "sector": "quant_technology",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    }
+  ]
+}

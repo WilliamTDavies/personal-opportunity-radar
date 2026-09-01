@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "cern-short-term",
+      "name": "CERN Careers",
+      "organisation": "CERN",
+      "url": "https://careers.cern/jobs/short-term-internship/",
+      "adapter": "html",
+      "stream": "internships",
+      "include_patterns": [
+        "short-term internship",
+        "student"
+      ],
+      "organisation_id": "cern",
+      "sector": "government_engineering",
+      "scan_tier": "daily",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "cern"
+    },
+    {
+      "id": "dstl-undergraduates",
+      "name": "Dstl Graduates and Students",
+      "organisation": "Defence Science and Technology Laboratory",
+      "family": "uk-government-science",
+      "url": "https://www.gov.uk/guidance/become-a-dstl-graduate-or-student",
+      "adapter": "html",
+      "stream": "internships",
+      "include_patterns": [
+        "undergraduate",
+        "summer",
+        "industrial placement",
+        "student"
+      ],
+      "page_is_listing": false,
+      "allow_zero": true,
+      "organisation_id": "dstl",
+      "sector": "government_engineering",
+      "scan_tier": "daily",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "gchq-summer-placements",
+      "name": "GCHQ Summer Placements",
+      "organisation": "GCHQ",
+      "family": "gchq",
+      "url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements",
+      "adapter": "html",
+      "stream": "internships",
+      "split_sections": true,
+      "include_patterns": [
+        "internship",
+        "summer school",
+        "student scheme",
+        "maths",
+        "cryptography",
+        "cyber",
+        "technologists"
+      ],
+      "exclude_patterns": [
+        "language talent"
+      ],
+      "context_urls": [
+        "https://www.gchq.gov.uk/collection/applying-to-gchq"
+      ],
+      "max_detail_pages": 12,
+      "organisation_id": "gchq",
+      "sector": "government_engineering",
+      "scan_tier": "daily",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "gchq-vacancies",
+      "name": "GCHQ Vacancies",
+      "organisation": "GCHQ",
+      "family": "gchq",
+      "url": "https://www.gchq-careers.co.uk/jobs/",
+      "adapter": "html",
+      "include_patterns": [
+        "intern",
+        "student",
+        "summer",
+        "maths",
+        "cryptography",
+        "cyber",
+        "technology",
+        "engineering"
+      ],
+      "exclude_patterns": [
+        "senior",
+        "manager",
+        "experienced"
+      ],
+      "context_urls": [
+        "https://www.gchq.gov.uk/collection/applying-to-gchq"
+      ],
+      "max_detail_pages": 10,
+      "allow_zero": true,
+      "organisation_id": "gchq",
+      "sector": "government_engineering",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "met-office-placements",
+      "name": "Met Office Industrial Placements",
+      "organisation": "Met Office",
+      "family": "uk-public-science",
+      "url": "https://careers.metoffice.gov.uk/early-careers/industrial-placements",
+      "adapter": "html",
+      "stream": "internships",
+      "include_patterns": [
+        "placement",
+        "industrial",
+        "science",
+        "technology",
+        "data"
+      ],
+      "max_detail_pages": 10,
+      "allow_zero": true,
+      "organisation_id": "met-office",
+      "sector": "government_engineering",
+      "scan_tier": "daily",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "ncsc-careers",
+      "name": "NCSC Careers",
+      "organisation": "National Cyber Security Centre",
+      "family": "uk-government-security",
+      "url": "https://www.ncsc.gov.uk/section/about-ncsc/careers",
+      "adapter": "html",
+      "include_patterns": [
+        "student",
+        "intern",
+        "cyber",
+        "career",
+        "gchq"
+      ],
+      "max_detail_pages": 8,
+      "allow_zero": true,
+      "organisation_id": "ncsc",
+      "sector": "government_engineering",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "npl-early-careers",
+      "name": "National Physical Laboratory Early Careers",
+      "organisation": "National Physical Laboratory",
+      "family": "uk-public-science",
+      "url": "https://www.npl.co.uk/careers/early-careers",
+      "adapter": "html",
+      "include_patterns": [
+        "intern",
+        "placement",
+        "student",
+        "summer",
+        "research"
+      ],
+      "max_detail_pages": 10,
+      "allow_zero": true,
+      "organisation_id": "national-physical-laboratory",
+      "sector": "government_engineering",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "ukaea-early-careers",
+      "name": "UKAEA Early Careers",
+      "organisation": "UK Atomic Energy Authority",
+      "family": "uk-public-science",
+      "url": "https://careers.ukaea.uk/early-careers/",
+      "adapter": "html",
+      "include_patterns": [
+        "summer internship",
+        "placement",
+        "undergraduate",
+        "student"
+      ],
+      "max_detail_pages": 10,
+      "allow_zero": true,
+      "organisation_id": "ukaea",
+      "sector": "government_engineering",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    }
+  ]
+}

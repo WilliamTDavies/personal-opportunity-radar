@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": ["DOM", "DOM.Iterable", "ES2023"],
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "react-jsx",
+    "skipLibCheck": true,
+    "paths": { "@/*": ["./*"] }
+  },
+  "include": ["src", "components/radar", "components/ui/badge.tsx", "components/ui/button.tsx", "components/ui/input.tsx", "components/ui/sheet.tsx", "components/ui/tabs.tsx", "components/ui/textarea.tsx", "lib", "vite.config.ts"]
+}

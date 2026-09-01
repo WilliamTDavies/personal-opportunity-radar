@@ -1,0 +1,5533 @@
+{
+  "schema_version": 1,
+  "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+  "benchmark_name": "Trackr UK public organisation universe",
+  "captured_at": "2026-08-31T00:00:00Z",
+  "source": "https://app.the-trackr.com/",
+  "collection_method": "Public Trackr tracker tables rendered in a browser; deduplicated by canonical /company/ path.",
+  "benchmark_role": "Coverage names only. Trackr is not queried by the production scanner and is not a runtime source of opportunities.",
+  "public_trackers": [
+    {
+      "id": "finance",
+      "url": "https://app.the-trackr.com/uk-finance/",
+      "organisation_count": 413
+    },
+    {
+      "id": "technology",
+      "url": "https://app.the-trackr.com/uk-tech/summer-internships",
+      "organisation_count": 253
+    },
+    {
+      "id": "law",
+      "url": "https://app.the-trackr.com/uk-law/training-contracts",
+      "organisation_count": 128
+    }
+  ],
+  "unavailable_public_trackers": [
+    {
+      "id": "engineering",
+      "reason": "No UK Engineering tracker is exposed in Trackr's public tracker navigation at capture time."
+    }
+  ],
+  "organisation_count": 672,
+  "organisations": [
+    {
+      "id": "-inverto",
+      "name": "Inverto",
+      "trackr_company_path": "/company/-inverto",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "7im",
+      "name": "7IM",
+      "trackr_company_path": "/company/7im",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "a-o-shearman",
+      "name": "A&O Shearman",
+      "trackr_company_path": "/company/a-o-shearman",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "aab-group",
+      "name": "AAB Group",
+      "trackr_company_path": "/company/aab-group",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "aberdeen-group",
+      "name": "Aberdeen Group",
+      "trackr_company_path": "/company/aberdeen-group",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "abn-amro",
+      "name": "ABN AMRO",
+      "trackr_company_path": "/company/abn-amro",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "abrahams-dresden-llp",
+      "name": "Abrahams Dresden LLP",
+      "trackr_company_path": "/company/abrahams-dresden-llp",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "accuracy",
+      "name": "Accuracy",
+      "trackr_company_path": "/company/accuracy",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "accutrainee",
+      "name": "Accutrainee",
+      "trackr_company_path": "/company/accutrainee",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "acuity-law",
+      "name": "Acuity Law",
+      "trackr_company_path": "/company/acuity-law",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "addleshaw-goddard",
+      "name": "Addleshaw Goddard",
+      "trackr_company_path": "/company/addleshaw-goddard",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "aegon",
+      "name": "Aegon",
+      "trackr_company_path": "/company/aegon",
+      "sectors": [
+        "finance",
+        "law"
+      ]
+    },
+    {
+      "id": "affinius-capital",
+      "name": "Affinius Capital",
+      "trackr_company_path": "/company/affinius-capital",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "aig",
+      "name": "AIG",
+      "trackr_company_path": "/company/aig",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "aize",
+      "name": "Aize",
+      "trackr_company_path": "/company/aize",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "aj-bell",
+      "name": "AJ Bell",
+      "trackr_company_path": "/company/aj-bell",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "alantra",
+      "name": "Alantra",
+      "trackr_company_path": "/company/alantra",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "allia-c-c",
+      "name": "Allia C&C",
+      "trackr_company_path": "/company/allia-c-c",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "alliancebernstein",
+      "name": "AllianceBernstein",
+      "trackr_company_path": "/company/alliancebernstein",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "allianz-insurance",
+      "name": "Allianz Insurance",
+      "trackr_company_path": "/company/allianz-insurance",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "allied-world",
+      "name": "Allied World",
+      "trackr_company_path": "/company/allied-world",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "alpha-fmc",
+      "name": "Alpha FMC",
+      "trackr_company_path": "/company/alpha-fmc",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "alphasights",
+      "name": "AlphaSights",
+      "trackr_company_path": "/company/alphasights",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "altana-wealth",
+      "name": "Altana Wealth",
+      "trackr_company_path": "/company/altana-wealth",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "alvarez-marsal",
+      "name": "Alvarez & Marsal",
+      "trackr_company_path": "/company/alvarez-marsal",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "alvine-capital",
+      "name": "Alvine Capital",
+      "trackr_company_path": "/company/alvine-capital",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "trackr_company_path": "/company/amazon",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "amd",
+      "name": "AMD",
+      "trackr_company_path": "/company/amd",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "american-express",
+      "name": "American Express",
+      "trackr_company_path": "/company/american-express",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "amplifyme",
+      "name": "AmplifyME",
+      "trackr_company_path": "/company/amplifyme",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "analysys-mason",
+      "name": "Analysys Mason",
+      "trackr_company_path": "/company/analysys-mason",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "ankura",
+      "name": "Ankura",
+      "trackr_company_path": "/company/ankura",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "aon",
+      "name": "Aon",
+      "trackr_company_path": "/company/aon",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "trackr_company_path": "/company/apple",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "aquatic-capital-management",
+      "name": "Aquatic Capital Management",
+      "trackr_company_path": "/company/aquatic-capital-management",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "arbuthnot-latham",
+      "name": "Arbuthnot Latham",
+      "trackr_company_path": "/company/arbuthnot-latham",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "arch-insurance-international",
+      "name": "Arch Insurance International",
+      "trackr_company_path": "/company/arch-insurance-international",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "arctic-lake",
+      "name": "Arctic Lake",
+      "trackr_company_path": "/company/arctic-lake",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "ardea-partners",
+      "name": "Ardea Partners",
+      "trackr_company_path": "/company/ardea-partners",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "arena-investors",
+      "name": "Arena Investors",
+      "trackr_company_path": "/company/arena-investors",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "ares-management",
+      "name": "Ares Management",
+      "trackr_company_path": "/company/ares-management",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "aries-global",
+      "name": "Aries Global",
+      "trackr_company_path": "/company/aries-global",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "arkle-finance",
+      "name": "Arkle Finance",
+      "trackr_company_path": "/company/arkle-finance",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "arm",
+      "name": "Arm",
+      "trackr_company_path": "/company/arm",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "arnold-greenwood",
+      "name": "Arnold Greenwood",
+      "trackr_company_path": "/company/arnold-greenwood",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "arnold-porter",
+      "name": "Arnold & Porter",
+      "trackr_company_path": "/company/arnold-porter",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "arondite",
+      "name": "Arondite",
+      "trackr_company_path": "/company/arondite",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "ashfords",
+      "name": "Ashfords",
+      "trackr_company_path": "/company/ashfords",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "ashton-fire",
+      "name": "Ashton Fire",
+      "trackr_company_path": "/company/ashton-fire",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "ashurst",
+      "name": "Ashurst",
+      "trackr_company_path": "/company/ashurst",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "aspect-capital",
+      "name": "Aspect Capital",
+      "trackr_company_path": "/company/aspect-capital",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "astrazeneca",
+      "name": "AstraZeneca",
+      "trackr_company_path": "/company/astrazeneca",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "atlanta-wealth",
+      "name": "Atlanta Wealth",
+      "trackr_company_path": "/company/atlanta-wealth",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "atlas-holdings",
+      "name": "Atlas Holdings",
+      "trackr_company_path": "/company/atlas-holdings",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "audit-scotland",
+      "name": "Audit Scotland",
+      "trackr_company_path": "/company/audit-scotland",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "audley-chaucer",
+      "name": "Audley Chaucer",
+      "trackr_company_path": "/company/audley-chaucer",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "australiansuper",
+      "name": "AustralianSuper",
+      "trackr_company_path": "/company/australiansuper",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "autodesk",
+      "name": "Autodesk",
+      "trackr_company_path": "/company/autodesk",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "aventum-group",
+      "name": "Aventum Group",
+      "trackr_company_path": "/company/aventum-group",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "aveva",
+      "name": "AVEVA",
+      "trackr_company_path": "/company/aveva",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "axa",
+      "name": "AXA",
+      "trackr_company_path": "/company/axa",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "azets",
+      "name": "Azets",
+      "trackr_company_path": "/company/azets",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "b-p-collins-llp",
+      "name": "B P Collins LLP",
+      "trackr_company_path": "/company/b-p-collins-llp",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "bae-systems",
+      "name": "BAE Systems",
+      "trackr_company_path": "/company/bae-systems",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "baillie-gifford",
+      "name": "Baillie Gifford",
+      "trackr_company_path": "/company/baillie-gifford",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "bain-company",
+      "name": "Bain & Company",
+      "trackr_company_path": "/company/bain-company",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "baird",
+      "name": "Baird",
+      "trackr_company_path": "/company/baird",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "baker-hughes",
+      "name": "Baker Hughes",
+      "trackr_company_path": "/company/baker-hughes",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "baker-mckenzie",
+      "name": "Baker McKenzie",
+      "trackr_company_path": "/company/baker-mckenzie",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "balyasny-asset-management",
+      "name": "Balyasny Asset Management",
+      "trackr_company_path": "/company/balyasny-asset-management",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "bank-of-america",
+      "name": "Bank of America",
+      "trackr_company_path": "/company/bank-of-america",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "bank-of-england",
+      "name": "Bank of England",
+      "trackr_company_path": "/company/bank-of-england",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "barclays",
+      "name": "Barclays",
+      "trackr_company_path": "/company/barclays",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "baringa",
+      "name": "Baringa",
+      "trackr_company_path": "/company/baringa",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "barings",
+      "name": "Barings",
+      "trackr_company_path": "/company/barings",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "barnett-waddingham",
+      "name": "Barnett Waddingham",
+      "trackr_company_path": "/company/barnett-waddingham",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "bartletts-solicitors",
+      "name": "Bartletts Solicitors",
+      "trackr_company_path": "/company/bartletts-solicitors",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "bastion-trading",
+      "name": "Bastion Trading",
+      "trackr_company_path": "/company/bastion-trading",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "bates-wells",
+      "name": "Bates Wells",
+      "trackr_company_path": "/company/bates-wells",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "bbva",
+      "name": "BBVA",
+      "trackr_company_path": "/company/bbva",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "bcg",
+      "name": "BCG",
+      "trackr_company_path": "/company/bcg",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "bdo-global",
+      "name": "BDO Global",
+      "trackr_company_path": "/company/bdo-global",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "bending-spoons",
+      "name": "Bending Spoons",
+      "trackr_company_path": "/company/bending-spoons",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "berenberg",
+      "name": "Berenberg",
+      "trackr_company_path": "/company/berenberg",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "bevan-brittan",
+      "name": "Bevan Brittan",
+      "trackr_company_path": "/company/bevan-brittan",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "bgc-group",
+      "name": "BGC Group",
+      "trackr_company_path": "/company/bgc-group",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "bgf",
+      "name": "BGF",
+      "trackr_company_path": "/company/bgf",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "binome",
+      "name": "Binome",
+      "trackr_company_path": "/company/binome",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "bird-bird",
+      "name": "Bird & Bird",
+      "trackr_company_path": "/company/bird-bird",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "blackfinch-group",
+      "name": "Blackfinch Group",
+      "trackr_company_path": "/company/blackfinch-group",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "blackrock",
+      "name": "BlackRock",
+      "trackr_company_path": "/company/blackrock",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "blackstone",
+      "name": "Blackstone",
+      "trackr_company_path": "/company/blackstone",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "blockchain-com",
+      "name": "Blockchain.com",
+      "trackr_company_path": "/company/blockchain-com",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "bloomberg",
+      "name": "Bloomberg",
+      "trackr_company_path": "/company/bloomberg",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "bmll",
+      "name": "BMLL",
+      "trackr_company_path": "/company/bmll",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "bmo-capital-markets",
+      "name": "BMO Capital Markets",
+      "trackr_company_path": "/company/bmo-capital-markets",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "bnp-paribas",
+      "name": "BNP Paribas",
+      "trackr_company_path": "/company/bnp-paribas",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "bny-mellon",
+      "name": "BNY Mellon",
+      "trackr_company_path": "/company/bny-mellon",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "boodle-hatfield",
+      "name": "Boodle Hatfield",
+      "trackr_company_path": "/company/boodle-hatfield",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "bose",
+      "name": "Bose",
+      "trackr_company_path": "/company/bose",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "bp",
+      "name": "BP",
+      "trackr_company_path": "/company/bp",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "brabners",
+      "name": "Brabners",
+      "trackr_company_path": "/company/brabners",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "brevan-howard",
+      "name": "Brevan Howard",
+      "trackr_company_path": "/company/brevan-howard",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "brio-real-estate",
+      "name": "Brio Real Estate",
+      "trackr_company_path": "/company/brio-real-estate",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "bristol-myers-squibb",
+      "name": "Bristol Myers Squibb",
+      "trackr_company_path": "/company/bristol-myers-squibb",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "bristows",
+      "name": "Bristows",
+      "trackr_company_path": "/company/bristows",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "british-airways",
+      "name": "British Airways",
+      "trackr_company_path": "/company/british-airways",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "british-business-bank",
+      "name": "British Business Bank",
+      "trackr_company_path": "/company/british-business-bank",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "british-land",
+      "name": "British Land",
+      "trackr_company_path": "/company/british-land",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "broadfield",
+      "name": "Broadfield",
+      "trackr_company_path": "/company/broadfield",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "browne-jacobson",
+      "name": "Browne Jacobson",
+      "trackr_company_path": "/company/browne-jacobson",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "bryan-cave-leighton-paisner",
+      "name": "Bryan Cave Leighton Paisner",
+      "trackr_company_path": "/company/bryan-cave-leighton-paisner",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "bt",
+      "name": "BT",
+      "trackr_company_path": "/company/bt",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "btg-pactual",
+      "name": "BTG Pactual",
+      "trackr_company_path": "/company/btg-pactual",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "btig",
+      "name": "BTIG",
+      "trackr_company_path": "/company/btig",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "burford-capital",
+      "name": "Burford Capital",
+      "trackr_company_path": "/company/burford-capital",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "burges-salmon",
+      "name": "Burges Salmon",
+      "trackr_company_path": "/company/burges-salmon",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "cabot-properties",
+      "name": "Cabot Properties",
+      "trackr_company_path": "/company/cabot-properties",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "cadence",
+      "name": "Cadence",
+      "trackr_company_path": "/company/cadence",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "caledonia-investments",
+      "name": "Caledonia Investments",
+      "trackr_company_path": "/company/caledonia-investments",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "cambridge-associates",
+      "name": "Cambridge Associates",
+      "trackr_company_path": "/company/cambridge-associates",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "campbell-lutyens",
+      "name": "Campbell Lutyens",
+      "trackr_company_path": "/company/campbell-lutyens",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "canada-life",
+      "name": "Canada Life",
+      "trackr_company_path": "/company/canada-life",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "canary-wharf-group",
+      "name": "Canary Wharf Group",
+      "trackr_company_path": "/company/canary-wharf-group",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "capgemini",
+      "name": "Capgemini",
+      "trackr_company_path": "/company/capgemini",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "capital-group",
+      "name": "Capital Group",
+      "trackr_company_path": "/company/capital-group",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "capital-law",
+      "name": "Capital Law",
+      "trackr_company_path": "/company/capital-law",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "capital-one",
+      "name": "Capital One",
+      "trackr_company_path": "/company/capital-one",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "capstone",
+      "name": "Capstone",
+      "trackr_company_path": "/company/capstone",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "capula-investment-management",
+      "name": "Capula Investment Management",
+      "trackr_company_path": "/company/capula-investment-management",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "carter-jonas",
+      "name": "Carter Jonas",
+      "trackr_company_path": "/company/carter-jonas",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "castleton-commodities-international",
+      "name": "Castleton Commodities International",
+      "trackr_company_path": "/company/castleton-commodities-international",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "caxton-associates",
+      "name": "Caxton Associates",
+      "trackr_company_path": "/company/caxton-associates",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "cboe-global-markets",
+      "name": "Cboe Global Markets",
+      "trackr_company_path": "/company/cboe-global-markets",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "cbre",
+      "name": "CBRE",
+      "trackr_company_path": "/company/cbre",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "cd-r",
+      "name": "CD&R",
+      "trackr_company_path": "/company/cd-r",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "centerview-partners",
+      "name": "Centerview Partners",
+      "trackr_company_path": "/company/centerview-partners",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "centrica",
+      "name": "Centrica",
+      "trackr_company_path": "/company/centrica",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "certara",
+      "name": "Certara",
+      "trackr_company_path": "/company/certara",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "cfc",
+      "name": "CFC",
+      "trackr_company_path": "/company/cfc",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "cfo-insights",
+      "name": "CFO Insights",
+      "trackr_company_path": "/company/cfo-insights",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "charities-aid-foundation",
+      "name": "Charities Aid Foundation",
+      "trackr_company_path": "/company/charities-aid-foundation",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "charles-river-associates",
+      "name": "Charles River Associates",
+      "trackr_company_path": "/company/charles-river-associates",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "charles-russell-speechlys",
+      "name": "Charles Russell Speechlys",
+      "trackr_company_path": "/company/charles-russell-speechlys",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "chatham-financial",
+      "name": "Chatham Financial",
+      "trackr_company_path": "/company/chatham-financial",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "checkout-com",
+      "name": "Checkout.com",
+      "trackr_company_path": "/company/checkout-com",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "chicago-trading-company",
+      "name": "Chicago Trading Company",
+      "trackr_company_path": "/company/chicago-trading-company",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "cibc",
+      "name": "CIBC",
+      "trackr_company_path": "/company/cibc",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "ciena",
+      "name": "Ciena",
+      "trackr_company_path": "/company/ciena",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "cirrus-logic",
+      "name": "Cirrus Logic",
+      "trackr_company_path": "/company/cirrus-logic",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "citadel",
+      "name": "Citadel",
+      "trackr_company_path": "/company/citadel",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "citadel-securities",
+      "name": "Citadel Securities",
+      "trackr_company_path": "/company/citadel-securities",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "citco",
+      "name": "Citco",
+      "trackr_company_path": "/company/citco",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "citi",
+      "name": "Citi",
+      "trackr_company_path": "/company/citi",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "citic-clsa",
+      "name": "CITIC CLSA",
+      "trackr_company_path": "/company/citic-clsa",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "clarion-solicitors",
+      "name": "Clarion Solicitors",
+      "trackr_company_path": "/company/clarion-solicitors",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "clarksons",
+      "name": "Clarksons",
+      "trackr_company_path": "/company/clarksons",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "clear-com",
+      "name": "Clear-Com",
+      "trackr_company_path": "/company/clear-com",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "clifford-chance",
+      "name": "Clifford Chance",
+      "trackr_company_path": "/company/clifford-chance",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "climate-investment",
+      "name": "Climate Investment",
+      "trackr_company_path": "/company/climate-investment",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "climate-policy-initiative",
+      "name": "Climate Policy Initiative",
+      "trackr_company_path": "/company/climate-policy-initiative",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "cloudflare",
+      "name": "Cloudflare",
+      "trackr_company_path": "/company/cloudflare",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "clyde-co",
+      "name": "Clyde & Co",
+      "trackr_company_path": "/company/clyde-co",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "cms",
+      "name": "CMS",
+      "trackr_company_path": "/company/cms",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "cogna",
+      "name": "Cogna",
+      "trackr_company_path": "/company/cogna",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "trackr_company_path": "/company/coinbase",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "colliers",
+      "name": "Colliers",
+      "trackr_company_path": "/company/colliers",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "columbia-threadneedle-investments",
+      "name": "Columbia Threadneedle Investments",
+      "trackr_company_path": "/company/columbia-threadneedle-investments",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "commonai-cic",
+      "name": "CommonAI CIC",
+      "trackr_company_path": "/company/commonai-cic",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "compare-the-market",
+      "name": "Compare The Market",
+      "trackr_company_path": "/company/compare-the-market",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "compass-lexecon",
+      "name": "Compass Lexecon",
+      "trackr_company_path": "/company/compass-lexecon",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "compound-equity-group",
+      "name": "Compound Equity Group",
+      "trackr_company_path": "/company/compound-equity-group",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "confluent",
+      "name": "Confluent",
+      "trackr_company_path": "/company/confluent",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "convergent",
+      "name": "Convergent",
+      "trackr_company_path": "/company/convergent",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "convex-insurance",
+      "name": "Convex Insurance",
+      "trackr_company_path": "/company/convex-insurance",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "copper-co",
+      "name": "Copper.co",
+      "trackr_company_path": "/company/copper-co",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "credit-agricole",
+      "name": "Crédit Agricole",
+      "trackr_company_path": "/company/credit-agricole",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "cripps",
+      "name": "Cripps",
+      "trackr_company_path": "/company/cripps",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "crowdstrike",
+      "name": "Crowdstrike",
+      "trackr_company_path": "/company/crowdstrike",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "ct-accountants-advisers",
+      "name": "CT: Accountants Advisers",
+      "trackr_company_path": "/company/ct-accountants-advisers",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "cushman-wakefield",
+      "name": "Cushman & Wakefield",
+      "trackr_company_path": "/company/cushman-wakefield",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "cygnum-capital",
+      "name": "Cygnum Capital",
+      "trackr_company_path": "/company/cygnum-capital",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "d-e-shaw",
+      "name": "D.E. Shaw",
+      "trackr_company_path": "/company/d-e-shaw",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "da-vinci-trading",
+      "name": "Da Vinci Trading",
+      "trackr_company_path": "/company/da-vinci-trading",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "dare",
+      "name": "Dare",
+      "trackr_company_path": "/company/dare",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "davis-polk-wardwell",
+      "name": "Davis Polk & Wardwell",
+      "trackr_company_path": "/company/davis-polk-wardwell",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "dawson-cornwell",
+      "name": "Dawson Cornwell",
+      "trackr_company_path": "/company/dawson-cornwell",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "dc-advisory",
+      "name": "DC Advisory",
+      "trackr_company_path": "/company/dc-advisory",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "dealglobe",
+      "name": "DealGlobe",
+      "trackr_company_path": "/company/dealglobe",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "dean-wilson",
+      "name": "Dean Wilson",
+      "trackr_company_path": "/company/dean-wilson",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "dechert-llp",
+      "name": "Dechert LLP",
+      "trackr_company_path": "/company/dechert-llp",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "deliveroo",
+      "name": "Deliveroo",
+      "trackr_company_path": "/company/deliveroo",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "deloitte",
+      "name": "Deloitte",
+      "trackr_company_path": "/company/deloitte",
+      "sectors": [
+        "finance",
+        "technology",
+        "law"
+      ]
+    },
+    {
+      "id": "dentons",
+      "name": "Dentons",
+      "trackr_company_path": "/company/dentons",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "deutsche-bank",
+      "name": "Deutsche Bank",
+      "trackr_company_path": "/company/deutsche-bank",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "dimensional-fund-advisors",
+      "name": "Dimensional Fund Advisors",
+      "trackr_company_path": "/company/dimensional-fund-advisors",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "direct-soccer",
+      "name": "Direct Soccer",
+      "trackr_company_path": "/company/direct-soccer",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "dmh-stallard",
+      "name": "DMH Stallard",
+      "trackr_company_path": "/company/dmh-stallard",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "dojo",
+      "name": "Dojo",
+      "trackr_company_path": "/company/dojo",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "dow-jones",
+      "name": "Dow Jones",
+      "trackr_company_path": "/company/dow-jones",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "drw",
+      "name": "DRW",
+      "trackr_company_path": "/company/drw",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "dv-trading",
+      "name": "DV Trading",
+      "trackr_company_path": "/company/dv-trading",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "dwf",
+      "name": "DWF",
+      "trackr_company_path": "/company/dwf",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "dws",
+      "name": "DWS",
+      "trackr_company_path": "/company/dws",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "e-on",
+      "name": "E.ON",
+      "trackr_company_path": "/company/e-on",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "eastdil-secured",
+      "name": "Eastdil Secured",
+      "trackr_company_path": "/company/eastdil-secured",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "ebay",
+      "name": "eBay",
+      "trackr_company_path": "/company/ebay",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "ebrd",
+      "name": "EBRD",
+      "trackr_company_path": "/company/ebrd",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "edf-trading",
+      "name": "EDF Trading",
+      "trackr_company_path": "/company/edf-trading",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "emmersons-solicitors",
+      "name": "Emmersons Solicitors",
+      "trackr_company_path": "/company/emmersons-solicitors",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "enstar-group",
+      "name": "Enstar Group",
+      "trackr_company_path": "/company/enstar-group",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "epic-games",
+      "name": "Epic Games",
+      "trackr_company_path": "/company/epic-games",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "eq",
+      "name": "EQ",
+      "trackr_company_path": "/company/eq",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "eqt",
+      "name": "EQT",
+      "trackr_company_path": "/company/eqt",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "equinor",
+      "name": "Equinor",
+      "trackr_company_path": "/company/equinor",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "equitix",
+      "name": "Equitix",
+      "trackr_company_path": "/company/equitix",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "esourcing-data",
+      "name": "eSourcing Data",
+      "trackr_company_path": "/company/esourcing-data",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "ethical-capital-partners",
+      "name": "Ethical Capital Partners",
+      "trackr_company_path": "/company/ethical-capital-partners",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "evercore",
+      "name": "Evercore",
+      "trackr_company_path": "/company/evercore",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "everest",
+      "name": "Everest",
+      "trackr_company_path": "/company/everest",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "eversheds-sutherland",
+      "name": "Eversheds Sutherland",
+      "trackr_company_path": "/company/eversheds-sutherland",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "exoduspoint",
+      "name": "ExodusPoint",
+      "trackr_company_path": "/company/exoduspoint",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "expedia",
+      "name": "Expedia",
+      "trackr_company_path": "/company/expedia",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "ey",
+      "name": "EY",
+      "trackr_company_path": "/company/ey",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "ey-parthenon",
+      "name": "EY-Parthenon",
+      "trackr_company_path": "/company/ey-parthenon",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "f5",
+      "name": "F5",
+      "trackr_company_path": "/company/f5",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "factset",
+      "name": "FactSet",
+      "trackr_company_path": "/company/factset",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "fair-football-ai",
+      "name": "FAIR Football AI",
+      "trackr_company_path": "/company/fair-football-ai",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "farrer-co",
+      "name": "Farrer & Co",
+      "trackr_company_path": "/company/farrer-co",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "fenchurch-advisory",
+      "name": "Fenchurch Advisory",
+      "trackr_company_path": "/company/fenchurch-advisory",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "fide-partners",
+      "name": "Fide Partners",
+      "trackr_company_path": "/company/fide-partners",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "fidelity",
+      "name": "Fidelity Investments",
+      "trackr_company_path": "/company/fidelity",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "fidelity-international",
+      "name": "Fidelity International",
+      "trackr_company_path": "/company/fidelity-international",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "fieldfisher",
+      "name": "Fieldfisher",
+      "trackr_company_path": "/company/fieldfisher",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "figma",
+      "name": "Figma",
+      "trackr_company_path": "/company/figma",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "financial-conduct-authority",
+      "name": "Financial Conduct Authority",
+      "trackr_company_path": "/company/financial-conduct-authority",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "first-actuarial",
+      "name": "First Actuarial",
+      "trackr_company_path": "/company/first-actuarial",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "first-bank-of-nigeria",
+      "name": "First Bank of Nigeria",
+      "trackr_company_path": "/company/first-bank-of-nigeria",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "first-wealth",
+      "name": "First Wealth",
+      "trackr_company_path": "/company/first-wealth",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "fleek",
+      "name": "Fleek",
+      "trackr_company_path": "/company/fleek",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "flow-traders",
+      "name": "Flow Traders",
+      "trackr_company_path": "/company/flow-traders",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "flowdesk",
+      "name": "Flowdesk",
+      "trackr_company_path": "/company/flowdesk",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "foot-anstey",
+      "name": "Foot Anstey",
+      "trackr_company_path": "/company/foot-anstey",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "forsters",
+      "name": "Forsters",
+      "trackr_company_path": "/company/forsters",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "forvis-mazars",
+      "name": "Forvis Mazars",
+      "trackr_company_path": "/company/forvis-mazars",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "franklin-templeton",
+      "name": "Franklin Templeton",
+      "trackr_company_path": "/company/franklin-templeton",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "frazer-nash-consultancy",
+      "name": "Frazer-Nash Consultancy",
+      "trackr_company_path": "/company/frazer-nash-consultancy",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "freshfields-bruckhaus-deringer",
+      "name": "Freshfields Bruckhaus Deringer",
+      "trackr_company_path": "/company/freshfields-bruckhaus-deringer",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "fried-frank",
+      "name": "Fried Frank",
+      "trackr_company_path": "/company/fried-frank",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "frontier-economics",
+      "name": "Frontier Economics",
+      "trackr_company_path": "/company/frontier-economics",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "fti-consulting",
+      "name": "FTI Consulting",
+      "trackr_company_path": "/company/fti-consulting",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "fuse-energy",
+      "name": "Fuse Energy",
+      "trackr_company_path": "/company/fuse-energy",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "future-planet-capital",
+      "name": "Future Planet Capital",
+      "trackr_company_path": "/company/future-planet-capital",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "g-p",
+      "name": "G-P",
+      "trackr_company_path": "/company/g-p",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "g-research",
+      "name": "G-Research",
+      "trackr_company_path": "/company/g-research",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "gaby-hardwicke",
+      "name": "Gaby Hardwicke",
+      "trackr_company_path": "/company/gaby-hardwicke",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "galaxy",
+      "name": "Galaxy",
+      "trackr_company_path": "/company/galaxy",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "gallagher",
+      "name": "Gallagher",
+      "trackr_company_path": "/company/gallagher",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "gartner",
+      "name": "Gartner",
+      "trackr_company_path": "/company/gartner",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "gateley",
+      "name": "Gateley",
+      "trackr_company_path": "/company/gateley",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "gearset",
+      "name": "Gearset",
+      "trackr_company_path": "/company/gearset",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "geldards",
+      "name": "Geldards",
+      "trackr_company_path": "/company/geldards",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "general-atlantic",
+      "name": "General Atlantic",
+      "trackr_company_path": "/company/general-atlantic",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "general-electric",
+      "name": "General Electric",
+      "trackr_company_path": "/company/general-electric",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "genesis-quant-capital",
+      "name": "Genesis Quant Capital",
+      "trackr_company_path": "/company/genesis-quant-capital",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "gep",
+      "name": "GEP",
+      "trackr_company_path": "/company/gep",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "giant-ventures",
+      "name": "Giant Ventures",
+      "trackr_company_path": "/company/giant-ventures",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "gibson-dunn",
+      "name": "Gibson Dunn",
+      "trackr_company_path": "/company/gibson-dunn",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "gic",
+      "name": "GIC",
+      "trackr_company_path": "/company/gic",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "girlings-solicitors",
+      "name": "Girlings Solicitors",
+      "trackr_company_path": "/company/girlings-solicitors",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "gleacher-shacklock",
+      "name": "Gleacher Shacklock",
+      "trackr_company_path": "/company/gleacher-shacklock",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "glg",
+      "name": "GLG",
+      "trackr_company_path": "/company/glg",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "global-gate",
+      "name": "Global Gate",
+      "trackr_company_path": "/company/global-gate",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "global-infrastructure-advisors",
+      "name": "Global Infrastructure Advisors",
+      "trackr_company_path": "/company/global-infrastructure-advisors",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "gneiss-energy",
+      "name": "Gneiss Energy",
+      "trackr_company_path": "/company/gneiss-energy",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "goldman-sachs",
+      "name": "Goldman Sachs",
+      "trackr_company_path": "/company/goldman-sachs",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "gomer-williams-co",
+      "name": "Gomer Williams & Co",
+      "trackr_company_path": "/company/gomer-williams-co",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "goodwin",
+      "name": "Goodwin",
+      "trackr_company_path": "/company/goodwin",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "google",
+      "name": "Google",
+      "trackr_company_path": "/company/google",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "government-economic-service",
+      "name": "Government Economic Service",
+      "trackr_company_path": "/company/government-economic-service",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "government-statistical-service",
+      "name": "Government Statistical Service",
+      "trackr_company_path": "/company/government-statistical-service",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "gowling-wlg",
+      "name": "Gowling WLG",
+      "trackr_company_path": "/company/gowling-wlg",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "gp-bullhound",
+      "name": "GP Bullhound",
+      "trackr_company_path": "/company/gp-bullhound",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "gpfs",
+      "name": "GPFS",
+      "trackr_company_path": "/company/gpfs",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "grant-thornton",
+      "name": "Grant Thornton",
+      "trackr_company_path": "/company/grant-thornton",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "greenberg-traurig",
+      "name": "Greenberg Traurig",
+      "trackr_company_path": "/company/greenberg-traurig",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "greenhill",
+      "name": "Greenhill",
+      "trackr_company_path": "/company/greenhill",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "gresham-investment-management",
+      "name": "Gresham Investment Management",
+      "trackr_company_path": "/company/gresham-investment-management",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "greystar",
+      "name": "Greystar",
+      "trackr_company_path": "/company/greystar",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "grosvenor",
+      "name": "Grosvenor",
+      "trackr_company_path": "/company/grosvenor",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "gsa-capital",
+      "name": "GSA Capital",
+      "trackr_company_path": "/company/gsa-capital",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "gsk",
+      "name": "GSK",
+      "trackr_company_path": "/company/gsk",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "guggenheim-partners",
+      "name": "Guggenheim Partners",
+      "trackr_company_path": "/company/guggenheim-partners",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "guidehouse",
+      "name": "Guidehouse",
+      "trackr_company_path": "/company/guidehouse",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "gunvor",
+      "name": "Gunvor",
+      "trackr_company_path": "/company/gunvor",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "hacktron-ai",
+      "name": "Hacktron AI",
+      "trackr_company_path": "/company/hacktron-ai",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "hamilton-insurance-group",
+      "name": "Hamilton Insurance Group",
+      "trackr_company_path": "/company/hamilton-insurance-group",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "hamilton-lane",
+      "name": "Hamilton Lane",
+      "trackr_company_path": "/company/hamilton-lane",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "handelsbanken",
+      "name": "Handelsbanken",
+      "trackr_company_path": "/company/handelsbanken",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "harbor",
+      "name": "Harbor",
+      "trackr_company_path": "/company/harbor",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "harris-williams",
+      "name": "Harris Williams",
+      "trackr_company_path": "/company/harris-williams",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "harrison-street",
+      "name": "Harrison Street",
+      "trackr_company_path": "/company/harrison-street",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "hawkswell-kilvington",
+      "name": "Hawkswell Kilvington",
+      "trackr_company_path": "/company/hawkswell-kilvington",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "hayfin-capital-management",
+      "name": "Hayfin Capital Management",
+      "trackr_company_path": "/company/hayfin-capital-management",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "hdi-global",
+      "name": "HDI Global",
+      "trackr_company_path": "/company/hdi-global",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "helix-law",
+      "name": "Helix Law",
+      "trackr_company_path": "/company/helix-law",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "helsing",
+      "name": "Helsing",
+      "trackr_company_path": "/company/helsing",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "herrington-carmichael",
+      "name": "Herrington Carmichael",
+      "trackr_company_path": "/company/herrington-carmichael",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "hfw",
+      "name": "HFW",
+      "trackr_company_path": "/company/hfw",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "hill-dickinson",
+      "name": "Hill Dickinson",
+      "trackr_company_path": "/company/hill-dickinson",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "hines",
+      "name": "Hines",
+      "trackr_company_path": "/company/hines",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "hiscox",
+      "name": "Hiscox",
+      "trackr_company_path": "/company/hiscox",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "hk-law",
+      "name": "HK Law",
+      "trackr_company_path": "/company/hk-law",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "hogan-lovells",
+      "name": "Hogan Lovells Cadwalader",
+      "trackr_company_path": "/company/hogan-lovells",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "houlihan-lokey",
+      "name": "Houlihan Lokey",
+      "trackr_company_path": "/company/houlihan-lokey",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "howden",
+      "name": "Howden",
+      "trackr_company_path": "/company/howden",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "howes-percival",
+      "name": "Howes Percival",
+      "trackr_company_path": "/company/howes-percival",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "hsbc",
+      "name": "HSBC",
+      "trackr_company_path": "/company/hsbc",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "hubspot",
+      "name": "Hubspot",
+      "trackr_company_path": "/company/hubspot",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "hudson-river-trading",
+      "name": "Hudson River Trading",
+      "trackr_company_path": "/company/hudson-river-trading",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "hymans-robertson",
+      "name": "Hymans Robertson",
+      "trackr_company_path": "/company/hymans-robertson",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "ibm",
+      "name": "IBM",
+      "trackr_company_path": "/company/ibm",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "ice",
+      "name": "ICE",
+      "trackr_company_path": "/company/ice",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "imc-trading",
+      "name": "IMC Trading",
+      "trackr_company_path": "/company/imc-trading",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "incident-io",
+      "name": "incident.io",
+      "trackr_company_path": "/company/incident-io",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "infrared-capital-partners",
+      "name": "InfraRed Capital Partners",
+      "trackr_company_path": "/company/infrared-capital-partners",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "inizio-ignite",
+      "name": "Inizio Ignite",
+      "trackr_company_path": "/company/inizio-ignite",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "insurance-advisory-partners",
+      "name": "Insurance Advisory Partners",
+      "trackr_company_path": "/company/insurance-advisory-partners",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "interpath-advisory",
+      "name": "Interpath Advisory",
+      "trackr_company_path": "/company/interpath-advisory",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "intriva",
+      "name": "Intriva",
+      "trackr_company_path": "/company/intriva",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "investec",
+      "name": "Investec",
+      "trackr_company_path": "/company/investec",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "iqt",
+      "name": "IQT",
+      "trackr_company_path": "/company/iqt",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "irwin-mitchell",
+      "name": "Irwin Mitchell",
+      "trackr_company_path": "/company/irwin-mitchell",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "isam",
+      "name": "iSAM",
+      "trackr_company_path": "/company/isam",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "isio",
+      "name": "Isio",
+      "trackr_company_path": "/company/isio",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "ithaca-energy",
+      "name": "Ithaca Energy",
+      "trackr_company_path": "/company/ithaca-energy",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "j-p-morgan",
+      "name": "J.P. Morgan",
+      "trackr_company_path": "/company/j-p-morgan",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "jane-street",
+      "name": "Jane Street",
+      "trackr_company_path": "/company/jane-street",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "javelin-global-commodities",
+      "name": "Javelin Global Commodities",
+      "trackr_company_path": "/company/javelin-global-commodities",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "jefferies",
+      "name": "Jefferies",
+      "trackr_company_path": "/company/jefferies",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "jetbrains",
+      "name": "JetBrains",
+      "trackr_company_path": "/company/jetbrains",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "jlf",
+      "name": "JLF",
+      "trackr_company_path": "/company/jlf",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "jll",
+      "name": "JLL",
+      "trackr_company_path": "/company/jll",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "johnson-johnson",
+      "name": "Johnson & Johnson",
+      "trackr_company_path": "/company/johnson-johnson",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "johnston-carmichael",
+      "name": "Johnston Carmichael",
+      "trackr_company_path": "/company/johnston-carmichael",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "judge-priestley",
+      "name": "Judge & Priestley",
+      "trackr_company_path": "/company/judge-priestley",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "julius-baer",
+      "name": "Julius Baer",
+      "trackr_company_path": "/company/julius-baer",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "jump-trading",
+      "name": "Jump Trading",
+      "trackr_company_path": "/company/jump-trading",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "just",
+      "name": "Just",
+      "trackr_company_path": "/company/just",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "k-l-gates",
+      "name": "K&L Gates",
+      "trackr_company_path": "/company/k-l-gates",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "kennedys",
+      "name": "Kennedys",
+      "trackr_company_path": "/company/kennedys",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "keysight",
+      "name": "Keysight",
+      "trackr_company_path": "/company/keysight",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "king-spalding",
+      "name": "King & Spalding",
+      "trackr_company_path": "/company/king-spalding",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "kingsley-napley",
+      "name": "Kingsley Napley",
+      "trackr_company_path": "/company/kingsley-napley",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "kirkland-ellis",
+      "name": "Kirkland & Ellis",
+      "trackr_company_path": "/company/kirkland-ellis",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "kline-hill-partners",
+      "name": "Kline Hill Partners",
+      "trackr_company_path": "/company/kline-hill-partners",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "knight-frank",
+      "name": "Knight Frank",
+      "trackr_company_path": "/company/knight-frank",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "korn-ferry",
+      "name": "Korn Ferry",
+      "trackr_company_path": "/company/korn-ferry",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "kpmg",
+      "name": "KPMG",
+      "trackr_company_path": "/company/kpmg",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "kr8-advisory",
+      "name": "KR8 Advisory",
+      "trackr_company_path": "/company/kr8-advisory",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "kt-solicitors",
+      "name": "KT Solicitors",
+      "trackr_company_path": "/company/kt-solicitors",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "kuit-steinart-levy",
+      "name": "Kuit Steinart Levy",
+      "trackr_company_path": "/company/kuit-steinart-levy",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "l-e-k-consulting",
+      "name": "L.E.K. Consulting",
+      "trackr_company_path": "/company/l-e-k-consulting",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "l-oreal",
+      "name": "L'Oréal",
+      "trackr_company_path": "/company/l-oreal",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "laceys-solicitors",
+      "name": "Laceys Solicitors",
+      "trackr_company_path": "/company/laceys-solicitors",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "lanyon-bowdler",
+      "name": "Lanyon Bowdler",
+      "trackr_company_path": "/company/lanyon-bowdler",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "lasalle",
+      "name": "LaSalle",
+      "trackr_company_path": "/company/lasalle",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "lawrence-stephens",
+      "name": "Lawrence Stephens",
+      "trackr_company_path": "/company/lawrence-stephens",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "lazard",
+      "name": "Lazard",
+      "trackr_company_path": "/company/lazard",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "lazard-asset-management",
+      "name": "Lazard Asset Management",
+      "trackr_company_path": "/company/lazard-asset-management",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "lcp",
+      "name": "LCP",
+      "trackr_company_path": "/company/lcp",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "leathes-prior",
+      "name": "Leathes Prior",
+      "trackr_company_path": "/company/leathes-prior",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "leerink-partners",
+      "name": "Leerink Partners",
+      "trackr_company_path": "/company/leerink-partners",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "legal-general",
+      "name": "Legal & General",
+      "trackr_company_path": "/company/legal-general",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "leigh-day",
+      "name": "Leigh Day",
+      "trackr_company_path": "/company/leigh-day",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "lendable",
+      "name": "Lendable",
+      "trackr_company_path": "/company/lendable",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "lenovo",
+      "name": "Lenovo",
+      "trackr_company_path": "/company/lenovo",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "leo-crown-estates",
+      "name": "Leo-Crown Estates",
+      "trackr_company_path": "/company/leo-crown-estates",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "leonardo",
+      "name": "Leonardo",
+      "trackr_company_path": "/company/leonardo",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "lewis-silkin",
+      "name": "Lewis Silkin",
+      "trackr_company_path": "/company/lewis-silkin",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "liberty-global",
+      "name": "Liberty Global",
+      "trackr_company_path": "/company/liberty-global",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "lincoln-international",
+      "name": "Lincoln International",
+      "trackr_company_path": "/company/lincoln-international",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "linklaters",
+      "name": "Linklaters",
+      "trackr_company_path": "/company/linklaters",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "liontree",
+      "name": "LionTree",
+      "trackr_company_path": "/company/liontree",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "liquidnet",
+      "name": "Liquidnet",
+      "trackr_company_path": "/company/liquidnet",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "lloyds-banking-group",
+      "name": "Lloyds Banking Group",
+      "trackr_company_path": "/company/lloyds-banking-group",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "lmr-partners",
+      "name": "LMR Partners",
+      "trackr_company_path": "/company/lmr-partners",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "lockton",
+      "name": "Lockton",
+      "trackr_company_path": "/company/lockton",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "loizou-co",
+      "name": "Loizou & Co",
+      "trackr_company_path": "/company/loizou-co",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "london-stock-exchange-group",
+      "name": "London Stock Exchange Group",
+      "trackr_company_path": "/company/london-stock-exchange-group",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "m-g",
+      "name": "M&G",
+      "trackr_company_path": "/company/m-g",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "macfarlanes",
+      "name": "Macfarlanes",
+      "trackr_company_path": "/company/macfarlanes",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "macquarie-group",
+      "name": "Macquarie Group",
+      "trackr_company_path": "/company/macquarie-group",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "macro-hive",
+      "name": "Macro Hive",
+      "trackr_company_path": "/company/macro-hive",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "mako-trading",
+      "name": "Mako Trading",
+      "trackr_company_path": "/company/mako-trading",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "man-group",
+      "name": "Man Group",
+      "trackr_company_path": "/company/man-group",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "markel",
+      "name": "Markel",
+      "trackr_company_path": "/company/markel",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "marketaxess",
+      "name": "MarketAxess",
+      "trackr_company_path": "/company/marketaxess",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "marsh-mclennan",
+      "name": "Marsh McLennan",
+      "trackr_company_path": "/company/marsh-mclennan",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "marshall-wace",
+      "name": "Marshall Wace",
+      "trackr_company_path": "/company/marshall-wace",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "trackr_company_path": "/company/mastercard",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "mathworks",
+      "name": "MathWorks",
+      "trackr_company_path": "/company/mathworks",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "maven-securities",
+      "name": "Maven Securities",
+      "trackr_company_path": "/company/maven-securities",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "mayer-brown",
+      "name": "Mayer Brown",
+      "trackr_company_path": "/company/mayer-brown",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "mbda",
+      "name": "MBDA",
+      "trackr_company_path": "/company/mbda",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "mcdermott-will-schulte",
+      "name": "McDermott Will & Schulte",
+      "trackr_company_path": "/company/mcdermott-will-schulte",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "mcguirewoods",
+      "name": "McGuireWoods",
+      "trackr_company_path": "/company/mcguirewoods",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "mckinsey-company",
+      "name": "McKinsey & Company",
+      "trackr_company_path": "/company/mckinsey-company",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "meikles-solicitors",
+      "name": "Meikles Solicitors",
+      "trackr_company_path": "/company/meikles-solicitors",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "menzies",
+      "name": "Menzies",
+      "trackr_company_path": "/company/menzies",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "mercer",
+      "name": "Mercer",
+      "trackr_company_path": "/company/mercer",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "meta",
+      "name": "Meta",
+      "trackr_company_path": "/company/meta",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "metrea",
+      "name": "Metrea",
+      "trackr_company_path": "/company/metrea",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "mewburn-ellis",
+      "name": "Mewburn Ellis",
+      "trackr_company_path": "/company/mewburn-ellis",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "mfg-solicitors",
+      "name": "mfg Solicitors",
+      "trackr_company_path": "/company/mfg-solicitors",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "mfs",
+      "name": "MFS",
+      "trackr_company_path": "/company/mfs",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "michelmores",
+      "name": "Michelmores",
+      "trackr_company_path": "/company/michelmores",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "trackr_company_path": "/company/microsoft",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "midland-heart",
+      "name": "Midland Heart",
+      "trackr_company_path": "/company/midland-heart",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "millennium-management",
+      "name": "Millennium Management",
+      "trackr_company_path": "/company/millennium-management",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "mills-co",
+      "name": "Mills & Co",
+      "trackr_company_path": "/company/mills-co",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "mizuho",
+      "name": "Mizuho",
+      "trackr_company_path": "/company/mizuho",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "mki-global-partners",
+      "name": "MKI Global Partners",
+      "trackr_company_path": "/company/mki-global-partners",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "moelis-co",
+      "name": "Moelis & Co",
+      "trackr_company_path": "/company/moelis-co",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "moloco",
+      "name": "Moloco",
+      "trackr_company_path": "/company/moloco",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "mongodb",
+      "name": "MongoDB",
+      "trackr_company_path": "/company/mongodb",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "monzo",
+      "name": "Monzo",
+      "trackr_company_path": "/company/monzo",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "moody-s",
+      "name": "Moody's",
+      "trackr_company_path": "/company/moody-s",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "moore-barlow",
+      "name": "Moore Barlow",
+      "trackr_company_path": "/company/moore-barlow",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "morgan-lewis",
+      "name": "Morgan Lewis",
+      "trackr_company_path": "/company/morgan-lewis",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "morgan-stanley",
+      "name": "Morgan Stanley",
+      "trackr_company_path": "/company/morgan-stanley",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "motorola-solutions",
+      "name": "Motorola Solutions",
+      "trackr_company_path": "/company/motorola-solutions",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "ms-solicitors",
+      "name": "MS Solicitors",
+      "trackr_company_path": "/company/ms-solicitors",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "mufg",
+      "name": "MUFG",
+      "trackr_company_path": "/company/mufg",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "multus",
+      "name": "Multus",
+      "trackr_company_path": "/company/multus",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "munich-re",
+      "name": "Munich Re",
+      "trackr_company_path": "/company/munich-re",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "nannie",
+      "name": "Nannie",
+      "trackr_company_path": "/company/nannie",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "nasdaq",
+      "name": "NASDAQ",
+      "trackr_company_path": "/company/nasdaq",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "national-bank",
+      "name": "National Bank of Canada",
+      "trackr_company_path": "/company/national-bank",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "national-gas",
+      "name": "National Gas",
+      "trackr_company_path": "/company/national-gas",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "nationwide",
+      "name": "Nationwide",
+      "trackr_company_path": "/company/nationwide",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "natrium-capital",
+      "name": "Natrium Capital",
+      "trackr_company_path": "/company/natrium-capital",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "natwest-markets",
+      "name": "NatWest Markets",
+      "trackr_company_path": "/company/natwest-markets",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "ncr-atleos",
+      "name": "NCR Atleos",
+      "trackr_company_path": "/company/ncr-atleos",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "near-future-limited",
+      "name": "Near Future",
+      "trackr_company_path": "/company/near-future-limited",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "nera",
+      "name": "NERA",
+      "trackr_company_path": "/company/nera",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "netcraft",
+      "name": "Netcraft",
+      "trackr_company_path": "/company/netcraft",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "network-rail",
+      "name": "Network Rail",
+      "trackr_company_path": "/company/network-rail",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "neuberger-berman",
+      "name": "Neuberger Berman",
+      "trackr_company_path": "/company/neuberger-berman",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "newton",
+      "name": "Newton",
+      "trackr_company_path": "/company/newton",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "nextwave-consulting",
+      "name": "NextWave Consulting",
+      "trackr_company_path": "/company/nextwave-consulting",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "nfu-mutual",
+      "name": "NFU Mutual",
+      "trackr_company_path": "/company/nfu-mutual",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "nockolds",
+      "name": "Nockolds",
+      "trackr_company_path": "/company/nockolds",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "nomura",
+      "name": "Nomura",
+      "trackr_company_path": "/company/nomura",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "nordic-semiconductor",
+      "name": "Nordic Semiconductor",
+      "trackr_company_path": "/company/nordic-semiconductor",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "norges-bank",
+      "name": "Norges Bank",
+      "trackr_company_path": "/company/norges-bank",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "northern-trust",
+      "name": "Northern Trust",
+      "trackr_company_path": "/company/northern-trust",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "norton-rose-fulbright",
+      "name": "Norton Rose Fulbright",
+      "trackr_company_path": "/company/norton-rose-fulbright",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "nutanix",
+      "name": "Nutanix",
+      "trackr_company_path": "/company/nutanix",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "nuveen",
+      "name": "Nuveen",
+      "trackr_company_path": "/company/nuveen",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "nvidia",
+      "name": "Nvidia",
+      "trackr_company_path": "/company/nvidia",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "oak-hill-advisors",
+      "name": "Oak Hill Advisors",
+      "trackr_company_path": "/company/oak-hill-advisors",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "oaknorth",
+      "name": "OakNorth",
+      "trackr_company_path": "/company/oaknorth",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "oc-c",
+      "name": "OC&C",
+      "trackr_company_path": "/company/oc-c",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "oliver-wyman",
+      "name": "Oliver Wyman",
+      "trackr_company_path": "/company/oliver-wyman",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "onestream",
+      "name": "Onestream",
+      "trackr_company_path": "/company/onestream",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "optiver",
+      "name": "Optiver",
+      "trackr_company_path": "/company/optiver",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "oracle",
+      "name": "Oracle",
+      "trackr_company_path": "/company/oracle",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "orbis",
+      "name": "Orbis",
+      "trackr_company_path": "/company/orbis",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "osborne-clarke",
+      "name": "Osborne Clarke",
+      "trackr_company_path": "/company/osborne-clarke",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "oxera",
+      "name": "Oxera",
+      "trackr_company_path": "/company/oxera",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "oxford-nanopore-technologies",
+      "name": "Oxford Nanopore Technologies",
+      "trackr_company_path": "/company/oxford-nanopore-technologies",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "p-g",
+      "name": "P&G",
+      "trackr_company_path": "/company/p-g",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "pa-consulting",
+      "name": "PA Consulting",
+      "trackr_company_path": "/company/pa-consulting",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "palantir",
+      "name": "Palantir",
+      "trackr_company_path": "/company/palantir",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "panmure-liberum",
+      "name": "Panmure Liberum",
+      "trackr_company_path": "/company/panmure-liberum",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "parexel",
+      "name": "Parexel",
+      "trackr_company_path": "/company/parexel",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "patrizia",
+      "name": "Patrizia",
+      "trackr_company_path": "/company/patrizia",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "paul-hastings",
+      "name": "Paul Hastings",
+      "trackr_company_path": "/company/paul-hastings",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "payne-hicks-beach",
+      "name": "Payne Hicks Beach",
+      "trackr_company_path": "/company/payne-hicks-beach",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "peel-hunt",
+      "name": "Peel Hunt",
+      "trackr_company_path": "/company/peel-hunt",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "pension-insurance-corporation",
+      "name": "Pension Insurance Corporation",
+      "trackr_company_path": "/company/pension-insurance-corporation",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "perella-weinberg-partners",
+      "name": "Perella Weinberg Partners",
+      "trackr_company_path": "/company/perella-weinberg-partners",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "trackr_company_path": "/company/perplexity",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "peters-peters",
+      "name": "Peters & Peters",
+      "trackr_company_path": "/company/peters-peters",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "pexip",
+      "name": "Pexip",
+      "trackr_company_path": "/company/pexip",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "pgim",
+      "name": "PGIM",
+      "trackr_company_path": "/company/pgim",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "pharus",
+      "name": "Pharus",
+      "trackr_company_path": "/company/pharus",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "phasecraft",
+      "name": "Phasecraft",
+      "trackr_company_path": "/company/phasecraft",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "pictet-asset-management",
+      "name": "Pictet Asset Management",
+      "trackr_company_path": "/company/pictet-asset-management",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "pimco",
+      "name": "PIMCO",
+      "trackr_company_path": "/company/pimco",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "pinsent-masons",
+      "name": "Pinsent Masons",
+      "trackr_company_path": "/company/pinsent-masons",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "piper-sandler",
+      "name": "Piper Sandler",
+      "trackr_company_path": "/company/piper-sandler",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "pjt-partners",
+      "name": "PJT Partners",
+      "trackr_company_path": "/company/pjt-partners",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "pkf-littlejohn",
+      "name": "PKF Littlejohn",
+      "trackr_company_path": "/company/pkf-littlejohn",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "pkf-smith-cooper",
+      "name": "PKF Smith Cooper",
+      "trackr_company_path": "/company/pkf-smith-cooper",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "platinum-peak-holdings",
+      "name": "Platinum Peak Holdings Ltd",
+      "trackr_company_path": "/company/platinum-peak-holdings",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "plural-strategy",
+      "name": "Plural Strategy",
+      "trackr_company_path": "/company/plural-strategy",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "point72",
+      "name": "Point72",
+      "trackr_company_path": "/company/point72",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "police-scotland",
+      "name": "Police Scotland",
+      "trackr_company_path": "/company/police-scotland",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "pqshield",
+      "name": "PQShield",
+      "trackr_company_path": "/company/pqshield",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "precisely",
+      "name": "Precisely",
+      "trackr_company_path": "/company/precisely",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "principal-asset-management",
+      "name": "Principal Asset Management",
+      "trackr_company_path": "/company/principal-asset-management",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "private-equity-insights",
+      "name": "Private Equity Insights",
+      "trackr_company_path": "/company/private-equity-insights",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "proxima",
+      "name": "Proxima",
+      "trackr_company_path": "/company/proxima",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "proxisense",
+      "name": "PrOXisense",
+      "trackr_company_path": "/company/proxisense",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "putnam",
+      "name": "Putnam",
+      "trackr_company_path": "/company/putnam",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "pwc",
+      "name": "PwC",
+      "trackr_company_path": "/company/pwc",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "qatalyst-partners",
+      "name": "Qatalyst Partners",
+      "trackr_company_path": "/company/qatalyst-partners",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "quadrature",
+      "name": "Quadrature",
+      "trackr_company_path": "/company/quadrature",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "qualcomm",
+      "name": "Qualcomm",
+      "trackr_company_path": "/company/qualcomm",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "quantbot-technologies",
+      "name": "Quantbot Technologies",
+      "trackr_company_path": "/company/quantbot-technologies",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "quantum-dice",
+      "name": "Quantum Dice",
+      "trackr_company_path": "/company/quantum-dice",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "quantuma",
+      "name": "Quantuma",
+      "trackr_company_path": "/company/quantuma",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "qube-rt",
+      "name": "Qube RT",
+      "trackr_company_path": "/company/qube-rt",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "quilter-cheviot",
+      "name": "Quilter",
+      "trackr_company_path": "/company/quilter-cheviot",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "raine-group",
+      "name": "Raine Group",
+      "trackr_company_path": "/company/raine-group",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "raymond-james",
+      "name": "Raymond James",
+      "trackr_company_path": "/company/raymond-james",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "rbc-capital-markets",
+      "name": "RBC Capital Markets",
+      "trackr_company_path": "/company/rbc-capital-markets",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "red-bull",
+      "name": "Red Bull",
+      "trackr_company_path": "/company/red-bull",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "redburn",
+      "name": "Redburn",
+      "trackr_company_path": "/company/redburn",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "rede-partners",
+      "name": "Rede Partners",
+      "trackr_company_path": "/company/rede-partners",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "redgate",
+      "name": "Redgate",
+      "trackr_company_path": "/company/redgate",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "reed-smith",
+      "name": "Reed Smith",
+      "trackr_company_path": "/company/reed-smith",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "reeds-solicitors",
+      "name": "Reeds Solicitors",
+      "trackr_company_path": "/company/reeds-solicitors",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "retail-insights",
+      "name": "Retail Insights",
+      "trackr_company_path": "/company/retail-insights",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "revolut",
+      "name": "Revolut",
+      "trackr_company_path": "/company/revolut",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "ripple",
+      "name": "Ripple",
+      "trackr_company_path": "/company/ripple",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "riverlane",
+      "name": "Riverlane",
+      "trackr_company_path": "/company/riverlane",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "rokos-capital-management",
+      "name": "Rokos Capital Management",
+      "trackr_company_path": "/company/rokos-capital-management",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "roku",
+      "name": "Roku",
+      "trackr_company_path": "/company/roku",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "roland-berger",
+      "name": "Roland Berger",
+      "trackr_company_path": "/company/roland-berger",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "rolls-royce",
+      "name": "Rolls-Royce",
+      "trackr_company_path": "/company/rolls-royce",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "rothesay",
+      "name": "Rothesay",
+      "trackr_company_path": "/company/rothesay",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "rothschild-co",
+      "name": "Rothschild & Co.",
+      "trackr_company_path": "/company/rothschild-co",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "royal-london",
+      "name": "Royal London",
+      "trackr_company_path": "/company/royal-london",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "rpc",
+      "name": "RPC",
+      "trackr_company_path": "/company/rpc",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "rsm",
+      "name": "RSM",
+      "trackr_company_path": "/company/rsm",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "runna",
+      "name": "Runna",
+      "trackr_company_path": "/company/runna",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "russell-cooke",
+      "name": "Russell-Cooke",
+      "trackr_company_path": "/company/russell-cooke",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "rwe",
+      "name": "RWE",
+      "trackr_company_path": "/company/rwe",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "ryan",
+      "name": "Ryan",
+      "trackr_company_path": "/company/ryan",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "ryan-specialty",
+      "name": "Ryan Specialty",
+      "trackr_company_path": "/company/ryan-specialty",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "rystad-energy",
+      "name": "Rystad Energy",
+      "trackr_company_path": "/company/rystad-energy",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "s-p-global",
+      "name": "S&P Global",
+      "trackr_company_path": "/company/s-p-global",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "s-w",
+      "name": "S&W",
+      "trackr_company_path": "/company/s-w",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "saffery",
+      "name": "Saffery",
+      "trackr_company_path": "/company/saffery",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "salesforce",
+      "name": "Salesforce",
+      "trackr_company_path": "/company/salesforce",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "saltgate",
+      "name": "Saltgate",
+      "trackr_company_path": "/company/saltgate",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "samsara",
+      "name": "Samsara",
+      "trackr_company_path": "/company/samsara",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "santander",
+      "name": "Santander",
+      "trackr_company_path": "/company/santander",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "savills",
+      "name": "Savills",
+      "trackr_company_path": "/company/savills",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "schonfeld",
+      "name": "Schonfeld",
+      "trackr_company_path": "/company/schonfeld",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "schroders",
+      "name": "Schroders",
+      "trackr_company_path": "/company/schroders",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "scotiabank",
+      "name": "Scotiabank",
+      "trackr_company_path": "/company/scotiabank",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "severn-trent",
+      "name": "Severn Trent",
+      "trackr_company_path": "/company/severn-trent",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "shakespeare-martineau",
+      "name": "Shakespeare Martineau",
+      "trackr_company_path": "/company/shakespeare-martineau",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "shell",
+      "name": "Shell",
+      "trackr_company_path": "/company/shell",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "shephard-co",
+      "name": "Shephard & Co.",
+      "trackr_company_path": "/company/shephard-co",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "shoosmiths",
+      "name": "Shoosmiths",
+      "trackr_company_path": "/company/shoosmiths",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "siemens",
+      "name": "Siemens",
+      "trackr_company_path": "/company/siemens",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "silver-8-capital",
+      "name": "Silver 8 Capital",
+      "trackr_company_path": "/company/silver-8-capital",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "silvertide",
+      "name": "SilverTide",
+      "trackr_company_path": "/company/silvertide",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "simmons-simmons",
+      "name": "Simmons & Simmons",
+      "trackr_company_path": "/company/simmons-simmons",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "simon-kucher",
+      "name": "Simon-Kucher",
+      "trackr_company_path": "/company/simon-kucher",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "sixth-street",
+      "name": "Sixth Street",
+      "trackr_company_path": "/company/sixth-street",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "skagen-capital",
+      "name": "Skagen Capital",
+      "trackr_company_path": "/company/skagen-capital",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "sky",
+      "name": "Sky",
+      "trackr_company_path": "/company/sky",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "slaughter-and-may",
+      "name": "Slaughter and May",
+      "trackr_company_path": "/company/slaughter-and-may",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "slb",
+      "name": "SLB",
+      "trackr_company_path": "/company/slb",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "smbc",
+      "name": "SMBC",
+      "trackr_company_path": "/company/smbc",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "snap",
+      "name": "Snap",
+      "trackr_company_path": "/company/snap",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "snyk",
+      "name": "Snyk",
+      "trackr_company_path": "/company/snyk",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "societe-generale",
+      "name": "Société Générale",
+      "trackr_company_path": "/company/societe-generale",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "sona-asset-management",
+      "name": "Sona Asset Management",
+      "trackr_company_path": "/company/sona-asset-management",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "soros-fund-management",
+      "name": "Soros Fund Management",
+      "trackr_company_path": "/company/soros-fund-management",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "spaice",
+      "name": "SPAICE",
+      "trackr_company_path": "/company/spaice",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "sparklayer",
+      "name": "SparkLayer",
+      "trackr_company_path": "/company/sparklayer",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "sportlight-technology",
+      "name": "Sportlight Technology",
+      "trackr_company_path": "/company/sportlight-technology",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "spotify",
+      "name": "Spotify",
+      "trackr_company_path": "/company/spotify",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "squarepoint-capital",
+      "name": "Squarepoint Capital",
+      "trackr_company_path": "/company/squarepoint-capital",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "squarespace",
+      "name": "Squarespace",
+      "trackr_company_path": "/company/squarespace",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "squire-patton-boggs",
+      "name": "Squire Patton Boggs",
+      "trackr_company_path": "/company/squire-patton-boggs",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "standard-chartered",
+      "name": "Standard Chartered",
+      "trackr_company_path": "/company/standard-chartered",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "state-street",
+      "name": "State Street",
+      "trackr_company_path": "/company/state-street",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "stephenson-harwood",
+      "name": "Stephenson Harwood",
+      "trackr_company_path": "/company/stephenson-harwood",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "stepstone-group",
+      "name": "StepStone Group",
+      "trackr_company_path": "/company/stepstone-group",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "stifel",
+      "name": "Stifel",
+      "trackr_company_path": "/company/stifel",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "stj-advisors",
+      "name": "STJ Advisors",
+      "trackr_company_path": "/company/stj-advisors",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "stmicroelectronics",
+      "name": "STMicroelectronics",
+      "trackr_company_path": "/company/stmicroelectronics",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "stonex",
+      "name": "StoneX",
+      "trackr_company_path": "/company/stonex",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "stout",
+      "name": "Stout",
+      "trackr_company_path": "/company/stout",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "stripe",
+      "name": "Stripe",
+      "trackr_company_path": "/company/stripe",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "sullivan-cromwell",
+      "name": "Sullivan & Cromwell",
+      "trackr_company_path": "/company/sullivan-cromwell",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "superbet",
+      "name": "Superbet",
+      "trackr_company_path": "/company/superbet",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "susquehanna-international-group",
+      "name": "Susquehanna International Group",
+      "trackr_company_path": "/company/susquehanna-international-group",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "swiss-re",
+      "name": "Swiss Re",
+      "trackr_company_path": "/company/swiss-re",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "symphony",
+      "name": "Symphony",
+      "trackr_company_path": "/company/symphony",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "synthesis",
+      "name": "Synthesis",
+      "trackr_company_path": "/company/synthesis",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "talos",
+      "name": "Talos",
+      "trackr_company_path": "/company/talos",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "td-securities",
+      "name": "TD Securities",
+      "trackr_company_path": "/company/td-securities",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "te-connectivity",
+      "name": "TE Connectivity",
+      "trackr_company_path": "/company/te-connectivity",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "temasek",
+      "name": "Temasek",
+      "trackr_company_path": "/company/temasek",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "tencent",
+      "name": "Tencent",
+      "trackr_company_path": "/company/tencent",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "teneo",
+      "name": "Teneo",
+      "trackr_company_path": "/company/teneo",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "tesco",
+      "name": "Tesco",
+      "trackr_company_path": "/company/tesco",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "teza-technologies",
+      "name": "Teza Technologies",
+      "trackr_company_path": "/company/teza-technologies",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "thales",
+      "name": "Thales",
+      "trackr_company_path": "/company/thales",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "the-dot-group",
+      "name": "The Dot Group",
+      "trackr_company_path": "/company/the-dot-group",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "the-trade-desk",
+      "name": "The Trade Desk",
+      "trackr_company_path": "/company/the-trade-desk",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal",
+      "trackr_company_path": "/company/the-wall-street-journal",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "thomson-snell-passmore",
+      "name": "Thomson Snell & Passmore",
+      "trackr_company_path": "/company/thomson-snell-passmore",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "thought-machine",
+      "name": "Thought Machine",
+      "trackr_company_path": "/company/thought-machine",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "tide-insurance",
+      "name": "Tide Insurance",
+      "trackr_company_path": "/company/tide-insurance",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "trackr_company_path": "/company/tiktok",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "tlt",
+      "name": "TLT",
+      "trackr_company_path": "/company/tlt",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "tokio-marine-kiln",
+      "name": "Tokio Marine Kiln",
+      "trackr_company_path": "/company/tokio-marine-kiln",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "tower-research-capital",
+      "name": "Tower Research Capital",
+      "trackr_company_path": "/company/tower-research-capital",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "tp-icap",
+      "name": "TP ICAP",
+      "trackr_company_path": "/company/tp-icap",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "tpp",
+      "name": "TPP",
+      "trackr_company_path": "/company/tpp",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "tradeweb",
+      "name": "Tradeweb",
+      "trackr_company_path": "/company/tradeweb",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "trainline",
+      "name": "Trainline",
+      "trackr_company_path": "/company/trainline",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "travers-smith",
+      "name": "Travers Smith",
+      "trackr_company_path": "/company/travers-smith",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "trayport",
+      "name": "Trayport",
+      "trackr_company_path": "/company/trayport",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "treefera",
+      "name": "Treefera",
+      "trackr_company_path": "/company/treefera",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "trowers-hamlins",
+      "name": "Trowers & Hamlins",
+      "trackr_company_path": "/company/trowers-hamlins",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "ttp",
+      "name": "TTP",
+      "trackr_company_path": "/company/ttp",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "turner-townsend",
+      "name": "Turner & Townsend",
+      "trackr_company_path": "/company/turner-townsend",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "twm-solicitors",
+      "name": "TWM Solicitors",
+      "trackr_company_path": "/company/twm-solicitors",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "uber",
+      "name": "Uber",
+      "trackr_company_path": "/company/uber",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "ubs",
+      "name": "UBS",
+      "trackr_company_path": "/company/ubs",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "udemy",
+      "name": "Udemy",
+      "trackr_company_path": "/company/udemy",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "uipath",
+      "name": "UiPath",
+      "trackr_company_path": "/company/uipath",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "unlikelyai",
+      "name": "UnlikelyAI",
+      "trackr_company_path": "/company/unlikelyai",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "usertesting",
+      "name": "UserTesting",
+      "trackr_company_path": "/company/usertesting",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "vanguard",
+      "name": "Vanguard",
+      "trackr_company_path": "/company/vanguard",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "verition-fund-management",
+      "name": "Verition Fund Management",
+      "trackr_company_path": "/company/verition-fund-management",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "viasat",
+      "name": "Viasat",
+      "trackr_company_path": "/company/viasat",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "viator",
+      "name": "Viator",
+      "trackr_company_path": "/company/viator",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "virtu-financial",
+      "name": "Virtu Financial",
+      "trackr_company_path": "/company/virtu-financial",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "visa",
+      "name": "Visa",
+      "trackr_company_path": "/company/visa",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "w-p-carey",
+      "name": "W. P. Carey",
+      "trackr_company_path": "/company/w-p-carey",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "walker-morris",
+      "name": "Walker Morris",
+      "trackr_company_path": "/company/walker-morris",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "walter-scott",
+      "name": "Walter Scott",
+      "trackr_company_path": "/company/walter-scott",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "waters-corporation",
+      "name": "Waters Corporation",
+      "trackr_company_path": "/company/waters-corporation",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "watson-farley-williams",
+      "name": "Watson Farley & Williams",
+      "trackr_company_path": "/company/watson-farley-williams",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "watson-woodhouse-macks-solicitors",
+      "name": "Watson Woodhouse & Macks Solicitors",
+      "trackr_company_path": "/company/watson-woodhouse-macks-solicitors",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "weatherbys-private-bank",
+      "name": "Weatherbys Private Bank",
+      "trackr_company_path": "/company/weatherbys-private-bank",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "wechat-pay",
+      "name": "WeChat Pay",
+      "trackr_company_path": "/company/wechat-pay",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "wedlake-bell",
+      "name": "Wedlake Bell",
+      "trackr_company_path": "/company/wedlake-bell",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "weightmans",
+      "name": "Weightmans",
+      "trackr_company_path": "/company/weightmans",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "wells-fargo",
+      "name": "Wells Fargo",
+      "trackr_company_path": "/company/wells-fargo",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "welltower",
+      "name": "Welltower",
+      "trackr_company_path": "/company/welltower",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "westgrove",
+      "name": "Westgrove",
+      "trackr_company_path": "/company/westgrove",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "white-case",
+      "name": "White & Case",
+      "trackr_company_path": "/company/white-case",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "wiggin",
+      "name": "Wiggin",
+      "trackr_company_path": "/company/wiggin",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "wilkin-chapman-rollits",
+      "name": "Wilkin Chapman Rollits",
+      "trackr_company_path": "/company/wilkin-chapman-rollits",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "william-blair",
+      "name": "William Blair",
+      "trackr_company_path": "/company/william-blair",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "willis-towers-watson",
+      "name": "WTW",
+      "trackr_company_path": "/company/willis-towers-watson",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "wilsons-llp",
+      "name": "Wilsons LLP",
+      "trackr_company_path": "/company/wilsons-llp",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "wincent",
+      "name": "Wincent",
+      "trackr_company_path": "/company/wincent",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "winckworth-sherwood",
+      "name": "Winckworth Sherwood",
+      "trackr_company_path": "/company/winckworth-sherwood",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "wintermute",
+      "name": "Wintermute",
+      "trackr_company_path": "/company/wintermute",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "wise",
+      "name": "Wise",
+      "trackr_company_path": "/company/wise",
+      "sectors": [
+        "technology"
+      ]
+    },
+    {
+      "id": "withers",
+      "name": "Withers",
+      "trackr_company_path": "/company/withers",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "womble-bond-dickinson",
+      "name": "Womble Bond Dickinson",
+      "trackr_company_path": "/company/womble-bond-dickinson",
+      "sectors": [
+        "law"
+      ]
+    },
+    {
+      "id": "wood-mackenzie",
+      "name": "Wood Mackenzie",
+      "trackr_company_path": "/company/wood-mackenzie",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "xantium",
+      "name": "Xantium",
+      "trackr_company_path": "/company/xantium",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "xtx-markets",
+      "name": "XTX Markets",
+      "trackr_company_path": "/company/xtx-markets",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    },
+    {
+      "id": "zeus-capital",
+      "name": "Zeus Capital",
+      "trackr_company_path": "/company/zeus-capital",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "zs",
+      "name": "ZS",
+      "trackr_company_path": "/company/zs",
+      "sectors": [
+        "finance"
+      ]
+    },
+    {
+      "id": "zurich-insurance",
+      "name": "Zurich Insurance",
+      "trackr_company_path": "/company/zurich-insurance",
+      "sectors": [
+        "finance",
+        "technology"
+      ]
+    }
+  ]
+}

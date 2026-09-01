@@ -1,0 +1,1823 @@
+[
+  {
+    "canonical_id": "blackrock-2027-spring-insight-emea",
+    "changed_at": "2026-08-30T18:40:21Z",
+    "field": "deadline",
+    "from": null,
+    "to": "2026-12-04"
+  },
+  {
+    "canonical_id": "blackrock-2027-spring-insight-emea",
+    "changed_at": "2026-08-30T18:40:21Z",
+    "field": "deadline_status",
+    "from": "none_stated",
+    "to": "fixed"
+  },
+  {
+    "canonical_id": "rothschild-2027-global-advisory-spring",
+    "changed_at": "2026-08-31T00:03:43Z",
+    "field": "title",
+    "from": "2027 UK Global Advisory Spring Insight",
+    "to": "Early Insights"
+  },
+  {
+    "canonical_id": "rothschild-2027-global-advisory-spring",
+    "changed_at": "2026-08-31T00:03:43Z",
+    "field": "source_url",
+    "from": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2027-uk-global-advisory-spring-insight-programme/",
+    "to": "https://www.rothschildandco.com/en/careers/students-and-graduates/early-insights/"
+  },
+  {
+    "canonical_id": "rothschild-2027-global-advisory-spring",
+    "changed_at": "2026-08-31T00:03:43Z",
+    "field": "lifecycle",
+    "from": "officially_announced",
+    "to": "unknown"
+  },
+  {
+    "canonical_id": "rothschild-2027-global-advisory-spring",
+    "changed_at": "2026-08-31T00:03:43Z",
+    "field": "opens_at",
+    "from": "2026-09-29",
+    "to": null
+  },
+  {
+    "canonical_id": "rothschild-2027-global-advisory-spring",
+    "changed_at": "2026-08-31T00:03:43Z",
+    "field": "start_date",
+    "from": "2027",
+    "to": "2026-01"
+  },
+  {
+    "canonical_id": "rothschild-2027-global-advisory-spring",
+    "changed_at": "2026-08-31T00:03:43Z",
+    "field": "eligibility",
+    "from": "eligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "rothschild-2027-global-advisory-spring",
+    "changed_at": "2026-08-31T00:03:43Z",
+    "field": "location",
+    "from": "London, UK",
+    "to": "Online"
+  },
+  {
+    "canonical_id": "lazard-london-spring-insight-2027",
+    "changed_at": "2026-08-31T00:03:43Z",
+    "field": "title",
+    "from": "London Spring Insight 2027",
+    "to": "Careers Programmes in the U.K."
+  },
+  {
+    "canonical_id": "lazard-london-spring-insight-2027",
+    "changed_at": "2026-08-31T00:03:43Z",
+    "field": "lifecycle",
+    "from": "officially_announced",
+    "to": "unknown"
+  },
+  {
+    "canonical_id": "lazard-london-spring-insight-2027",
+    "changed_at": "2026-08-31T00:03:43Z",
+    "field": "opens_at",
+    "from": "2026",
+    "to": null
+  },
+  {
+    "canonical_id": "lazard-london-spring-insight-2027",
+    "changed_at": "2026-08-31T00:03:43Z",
+    "field": "start_date",
+    "from": "2027-spring",
+    "to": "2027-01"
+  },
+  {
+    "canonical_id": "lazard-london-spring-insight-2027",
+    "changed_at": "2026-08-31T00:03:43Z",
+    "field": "eligibility",
+    "from": "eligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "lazard-london-spring-insight-2027",
+    "changed_at": "2026-08-31T00:03:43Z",
+    "field": "requirements",
+    "from": [
+      "study_year:[1]:required"
+    ],
+    "to": []
+  },
+  {
+    "canonical_id": "lms-undergraduate-research-bursary-2027",
+    "changed_at": "2026-08-31T00:03:43Z",
+    "field": "application_url",
+    "from": null,
+    "to": "https://www.lms.ac.uk/library/how-register"
+  },
+  {
+    "canonical_id": "lms-undergraduate-research-bursary-2027",
+    "changed_at": "2026-08-31T00:03:43Z",
+    "field": "deadline",
+    "from": "2027-01-31",
+    "to": "2027-02-01"
+  },
+  {
+    "canonical_id": "lms-undergraduate-research-bursary-2027",
+    "changed_at": "2026-08-31T00:03:43Z",
+    "field": "start_date",
+    "from": "2027-summer",
+    "to": "2028-07"
+  },
+  {
+    "canonical_id": "lms-undergraduate-research-bursary-2027",
+    "changed_at": "2026-08-31T00:03:43Z",
+    "field": "location",
+    "from": "United Kingdom",
+    "to": "London, UK"
+  },
+  {
+    "canonical_id": "lms-undergraduate-research-bursary-2027",
+    "changed_at": "2026-08-31T00:03:43Z",
+    "field": "requirements",
+    "from": [
+      "study_year:[2, 3]:required"
+    ],
+    "to": [
+      "graduation_year:[2027]:required",
+      "study_year:[1]:required",
+      "degree_subject:['mathematics', 'computer science', 'statistics']:required"
+    ]
+  },
+  {
+    "canonical_id": "blackrock-2027-spring-insight-emea",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "title",
+    "from": "2027 Spring Insight Event — EMEA",
+    "to": "2027 Spring Insight Event - EMEA"
+  },
+  {
+    "canonical_id": "blackrock-2027-spring-insight-emea",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "application_url",
+    "from": null,
+    "to": "https://blackrock.tal.net/vx/candidate/so/pm/1/pl/1/opp/12223?instant=apply"
+  },
+  {
+    "canonical_id": "blackrock-2027-spring-insight-emea",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "start_date",
+    "from": "2027-04",
+    "to": "2029-04"
+  },
+  {
+    "canonical_id": "blackrock-2027-spring-insight-emea",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "location",
+    "from": "London or Edinburgh, UK",
+    "to": "London, UK"
+  },
+  {
+    "canonical_id": "deutsche-bank-2027-tdi-spring",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "title",
+    "from": "2027 Technology, Data & Innovation Spring into Banking",
+    "to": "Internship Programme"
+  },
+  {
+    "canonical_id": "deutsche-bank-2027-tdi-spring",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "source_url",
+    "from": "https://careers.db.com/students-graduates/your-application/",
+    "to": "https://careers.db.com/students-graduates/internship-programme"
+  },
+  {
+    "canonical_id": "deutsche-bank-2027-tdi-spring",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "application_url",
+    "from": null,
+    "to": "https://careers.db.com/students-graduates/search-programmes/index?language_id=1#/graduate/"
+  },
+  {
+    "canonical_id": "deutsche-bank-2027-tdi-spring",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "lifecycle",
+    "from": "officially_announced",
+    "to": "open"
+  },
+  {
+    "canonical_id": "deutsche-bank-2027-tdi-spring",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "deadline",
+    "from": "2026-11-08",
+    "to": null
+  },
+  {
+    "canonical_id": "deutsche-bank-2027-tdi-spring",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "deadline_status",
+    "from": "fixed",
+    "to": "none_stated"
+  },
+  {
+    "canonical_id": "deutsche-bank-2027-tdi-spring",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "opens_at",
+    "from": "2026-11-02",
+    "to": null
+  },
+  {
+    "canonical_id": "deutsche-bank-2027-tdi-spring",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "start_date",
+    "from": "2027",
+    "to": "2028-07"
+  },
+  {
+    "canonical_id": "deutsche-bank-2027-tdi-spring",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "eligibility",
+    "from": "eligible",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "deutsche-bank-2027-tdi-spring",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "location",
+    "from": "London, UK",
+    "to": "Not stated"
+  },
+  {
+    "canonical_id": "deutsche-bank-2027-tdi-spring",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "graduation_year:[2028]:required",
+      "penultimate_year:True:required"
+    ]
+  },
+  {
+    "canonical_id": "fidelity-international-spring-insight",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "title",
+    "from": "Spring Insight Programme",
+    "to": "Search jobs and apply"
+  },
+  {
+    "canonical_id": "fidelity-international-spring-insight",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "source_url",
+    "from": "https://careers.fidelityinternational.com/early-careers-overview/interns-and-insights/spring-insight-programme/",
+    "to": "https://careers.fidelityinternational.com/search-apply/"
+  },
+  {
+    "canonical_id": "fidelity-international-spring-insight",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "application_url",
+    "from": null,
+    "to": "https://careers.fidelityinternational.com/search-apply/"
+  },
+  {
+    "canonical_id": "fidelity-international-spring-insight",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "lifecycle",
+    "from": "unknown",
+    "to": "open"
+  },
+  {
+    "canonical_id": "fidelity-international-spring-insight",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "start_date",
+    "from": null,
+    "to": "2026-04"
+  },
+  {
+    "canonical_id": "fidelity-international-spring-insight",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "eligibility",
+    "from": "likely_eligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "fidelity-international-spring-insight",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "location",
+    "from": "London, UK",
+    "to": "Not stated"
+  },
+  {
+    "canonical_id": "g-research-spring-into-quant-finance-2027",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "title",
+    "from": "Spring into Quant Finance 2027 — register interest",
+    "to": "Spring into Quant Finance 2026"
+  },
+  {
+    "canonical_id": "g-research-spring-into-quant-finance-2027",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "application_url",
+    "from": null,
+    "to": "https://share-eu1.hsforms.com/1qFW2JfcDTJaigse62e0paw2b8apt"
+  },
+  {
+    "canonical_id": "g-research-spring-into-quant-finance-2027",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "lifecycle",
+    "from": "interest_open",
+    "to": "open"
+  },
+  {
+    "canonical_id": "g-research-spring-into-quant-finance-2027",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "deadline_status",
+    "from": "unknown",
+    "to": "none_stated"
+  },
+  {
+    "canonical_id": "g-research-spring-into-quant-finance-2027",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "start_date",
+    "from": "2027-spring",
+    "to": "2027-04"
+  },
+  {
+    "canonical_id": "g-research-spring-into-quant-finance-2027",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "eligibility",
+    "from": "likely_eligible",
+    "to": "eligible"
+  },
+  {
+    "canonical_id": "g-research-spring-into-quant-finance-2027",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "location",
+    "from": "Location to be announced",
+    "to": "Not stated"
+  },
+  {
+    "canonical_id": "g-research-spring-into-quant-finance-2027",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "requirements",
+    "from": [
+      "degree_subject:['mathematics', 'physics']:required"
+    ],
+    "to": [
+      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering', 'statistics']:required"
+    ]
+  },
+  {
+    "canonical_id": "evercore-london-spring-weeks-2027",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "title",
+    "from": "London Spring Weeks 2027",
+    "to": "Students & Graduates – Europe/Asia"
+  },
+  {
+    "canonical_id": "evercore-london-spring-weeks-2027",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "officially_announced"
+  },
+  {
+    "canonical_id": "evercore-london-spring-weeks-2027",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "opens_at",
+    "from": null,
+    "to": "2026-09-20"
+  },
+  {
+    "canonical_id": "evercore-london-spring-weeks-2027",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "start_date",
+    "from": "2027-04",
+    "to": "2026-08-17"
+  },
+  {
+    "canonical_id": "evercore-london-spring-weeks-2027",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "end_date",
+    "from": null,
+    "to": "2026-09-20"
+  },
+  {
+    "canonical_id": "evercore-london-spring-weeks-2027",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "eligibility",
+    "from": "eligible",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "evercore-london-spring-weeks-2027",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "requirements",
+    "from": [
+      "study_year:[1]:required"
+    ],
+    "to": [
+      "graduation_year:[2027]:required",
+      "study_year:[1]:required"
+    ]
+  },
+  {
+    "canonical_id": "barclays-discovery-programme-2027",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "title",
+    "from": "Discovery Programme 2027 — register interest",
+    "to": "Discovery Programme"
+  },
+  {
+    "canonical_id": "barclays-discovery-programme-2027",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "deadline_status",
+    "from": "unknown",
+    "to": "none_stated"
+  },
+  {
+    "canonical_id": "barclays-discovery-programme-2027",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "start_date",
+    "from": "2027",
+    "to": "2027-04"
+  },
+  {
+    "canonical_id": "barclays-discovery-programme-2027",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "eligibility",
+    "from": "likely_eligible",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "barclays-discovery-programme-2027",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "location",
+    "from": "United Kingdom",
+    "to": "London, UK"
+  },
+  {
+    "canonical_id": "barclays-discovery-programme-2027",
+    "changed_at": "2026-08-31T00:12:52Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2027, 2028, 2029]:preferred"
+    ],
+    "to": [
+      "graduation_year:[2027]:required"
+    ]
+  },
+  {
+    "canonical_id": "nasa-space-apps-2026",
+    "changed_at": "2026-08-31T00:20:18Z",
+    "field": "title",
+    "from": "2026 NASA International Space Apps Challenge",
+    "to": "Register today!"
+  },
+  {
+    "canonical_id": "nasa-space-apps-2026",
+    "changed_at": "2026-08-31T00:20:18Z",
+    "field": "source_url",
+    "from": "https://www.spaceappschallenge.org/",
+    "to": "https://www.spaceappschallenge.org/2026/"
+  },
+  {
+    "canonical_id": "nasa-space-apps-2026",
+    "changed_at": "2026-08-31T00:20:18Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "unknown"
+  },
+  {
+    "canonical_id": "nasa-space-apps-2026",
+    "changed_at": "2026-08-31T00:20:18Z",
+    "field": "deadline",
+    "from": "2026-11-14",
+    "to": null
+  },
+  {
+    "canonical_id": "nasa-space-apps-2026",
+    "changed_at": "2026-08-31T00:20:18Z",
+    "field": "deadline_status",
+    "from": "fixed",
+    "to": "none_stated"
+  },
+  {
+    "canonical_id": "nasa-space-apps-2026",
+    "changed_at": "2026-08-31T00:20:18Z",
+    "field": "start_date",
+    "from": "2026-11-14",
+    "to": "2026-01"
+  },
+  {
+    "canonical_id": "nasa-space-apps-2026",
+    "changed_at": "2026-08-31T00:20:18Z",
+    "field": "eligibility",
+    "from": "eligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "nasa-space-apps-2026",
+    "changed_at": "2026-08-31T00:20:18Z",
+    "field": "location",
+    "from": "Global — local or virtual event",
+    "to": "Not stated"
+  },
+  {
+    "canonical_id": "macquarie-uk-spring-insight-2027",
+    "changed_at": "2026-08-31T00:20:18Z",
+    "field": "title",
+    "from": "UK Spring Insight Programme 2027",
+    "to": "Frequently asked questions"
+  },
+  {
+    "canonical_id": "macquarie-uk-spring-insight-2027",
+    "changed_at": "2026-08-31T00:20:18Z",
+    "field": "application_url",
+    "from": null,
+    "to": "https://www.macquarie.com/uk/en/careers/faqs.html"
+  },
+  {
+    "canonical_id": "macquarie-uk-spring-insight-2027",
+    "changed_at": "2026-08-31T00:20:18Z",
+    "field": "lifecycle",
+    "from": "officially_announced",
+    "to": "open"
+  },
+  {
+    "canonical_id": "macquarie-uk-spring-insight-2027",
+    "changed_at": "2026-08-31T00:20:18Z",
+    "field": "deadline",
+    "from": "2026-11-30",
+    "to": null
+  },
+  {
+    "canonical_id": "macquarie-uk-spring-insight-2027",
+    "changed_at": "2026-08-31T00:20:18Z",
+    "field": "deadline_status",
+    "from": "fixed",
+    "to": "rolling"
+  },
+  {
+    "canonical_id": "macquarie-uk-spring-insight-2027",
+    "changed_at": "2026-08-31T00:20:18Z",
+    "field": "opens_at",
+    "from": "2026-10-12",
+    "to": null
+  },
+  {
+    "canonical_id": "macquarie-uk-spring-insight-2027",
+    "changed_at": "2026-08-31T00:20:18Z",
+    "field": "start_date",
+    "from": "2027-spring",
+    "to": "2029-04"
+  },
+  {
+    "canonical_id": "macquarie-uk-spring-insight-2027",
+    "changed_at": "2026-08-31T00:20:18Z",
+    "field": "eligibility",
+    "from": "eligible",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "macquarie-uk-spring-insight-2027",
+    "changed_at": "2026-08-31T00:20:18Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2029]:required",
+      "study_year:[1]:required"
+    ],
+    "to": [
+      "graduation_year:[2026, 2028, 2029]:required",
+      "penultimate_year:True:required",
+      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering']:required",
+      "work_authorization:True:required"
+    ]
+  },
+  {
+    "canonical_id": "ubs-tomorrows-talent-emea",
+    "changed_at": "2026-08-31T00:21:38Z",
+    "field": "title",
+    "from": "Tomorrow's Talent Programme",
+    "to": "Summer Internship Program"
+  },
+  {
+    "canonical_id": "ubs-tomorrows-talent-emea",
+    "changed_at": "2026-08-31T00:21:38Z",
+    "field": "source_url",
+    "from": "https://www.ubs.com/global/en/careers/early-careers/tomorrows-talent-program.html",
+    "to": "https://www.ubs.com/global/en/careers/early-careers/summer-internship-program.html"
+  },
+  {
+    "canonical_id": "ubs-tomorrows-talent-emea",
+    "changed_at": "2026-08-31T00:21:38Z",
+    "field": "application_url",
+    "from": null,
+    "to": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=15974"
+  },
+  {
+    "canonical_id": "ubs-tomorrows-talent-emea",
+    "changed_at": "2026-08-31T00:21:38Z",
+    "field": "lifecycle",
+    "from": "unknown",
+    "to": "open"
+  },
+  {
+    "canonical_id": "ubs-tomorrows-talent-emea",
+    "changed_at": "2026-08-31T00:21:38Z",
+    "field": "deadline_status",
+    "from": "none_stated",
+    "to": "rolling"
+  },
+  {
+    "canonical_id": "ubs-tomorrows-talent-emea",
+    "changed_at": "2026-08-31T00:21:38Z",
+    "field": "start_date",
+    "from": null,
+    "to": "2026-07"
+  },
+  {
+    "canonical_id": "ubs-tomorrows-talent-emea",
+    "changed_at": "2026-08-31T00:21:38Z",
+    "field": "eligibility",
+    "from": "likely_eligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "ubs-tomorrows-talent-emea",
+    "changed_at": "2026-08-31T00:21:38Z",
+    "field": "location",
+    "from": "London, UK",
+    "to": "Online"
+  },
+  {
+    "canonical_id": "optiver-trading",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "title",
+    "from": "Trading",
+    "to": "Software Engineer Internship (2027 Start)"
+  },
+  {
+    "canonical_id": "optiver-trading",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "source_url",
+    "from": "https://optiver.com/what-we-do/trading/",
+    "to": "https://optiver.com/join-us/jobs/technology/amsterdam/software-engineer-internship-2027-start/"
+  },
+  {
+    "canonical_id": "optiver-trading",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "application_url",
+    "from": null,
+    "to": "https://optiver.com/join-us/jobs/technology/amsterdam/software-engineer-internship-2027-start/apply"
+  },
+  {
+    "canonical_id": "optiver-trading",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "lifecycle",
+    "from": "unknown",
+    "to": "open"
+  },
+  {
+    "canonical_id": "optiver-trading",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "start_date",
+    "from": "2027-01",
+    "to": "2028-07"
+  },
+  {
+    "canonical_id": "optiver-trading",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "optiver-trading",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "location",
+    "from": "Not stated",
+    "to": "London, UK"
+  },
+  {
+    "canonical_id": "optiver-trading",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2027]:required"
+    ],
+    "to": []
+  },
+  {
+    "canonical_id": "optiver-technology",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "title",
+    "from": "Technology",
+    "to": "Trading"
+  },
+  {
+    "canonical_id": "optiver-technology",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "source_url",
+    "from": "https://optiver.com/what-we-do/technology/",
+    "to": "https://optiver.com/what-we-do/trading/"
+  },
+  {
+    "canonical_id": "optiver-technology",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "start_date",
+    "from": "2026-01",
+    "to": "2027-01"
+  },
+  {
+    "canonical_id": "optiver-technology",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "optiver-technology",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "graduation_year:[2027]:required"
+    ]
+  },
+  {
+    "canonical_id": "university-of-cambridge-finding-a-project",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "title",
+    "from": "Finding a Project",
+    "to": "Cambridge students"
+  },
+  {
+    "canonical_id": "university-of-cambridge-finding-a-project",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "source_url",
+    "from": "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/find-project",
+    "to": "https://www.cambridgestudents.cam.ac.uk/?ucam-ref=global-quick-links"
+  },
+  {
+    "canonical_id": "university-of-cambridge-finding-a-project",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "location",
+    "from": "United Kingdom",
+    "to": "Not stated"
+  },
+  {
+    "canonical_id": "university-of-cambridge-finding-a-project",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "undergraduate:True:required"
+    ]
+  },
+  {
+    "canonical_id": "university-of-cambridge-cambridge-mathematics-placements-cmp",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "title",
+    "from": "Cambridge Mathematics Placements (CMP)",
+    "to": "Research Services"
+  },
+  {
+    "canonical_id": "university-of-cambridge-cambridge-mathematics-placements-cmp",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "source_url",
+    "from": "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/cambridge-mathematics-placements-cmp",
+    "to": "https://www.research-operations.admin.cam.ac.uk/?ucam-ref=global-quick-links"
+  },
+  {
+    "canonical_id": "university-of-cambridge-cambridge-mathematics-placements-cmp",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "application_url",
+    "from": "https://www.undergraduate.study.cam.ac.uk/applying?ucam-ref=global-header",
+    "to": "https://www.research-operations.admin.cam.ac.uk/?ucam-ref=global-quick-links"
+  },
+  {
+    "canonical_id": "university-of-cambridge-cambridge-mathematics-placements-cmp",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "deadline",
+    "from": null,
+    "to": "2026-05-15"
+  },
+  {
+    "canonical_id": "university-of-cambridge-cambridge-mathematics-placements-cmp",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "deadline_status",
+    "from": "none_stated",
+    "to": "fixed"
+  },
+  {
+    "canonical_id": "university-of-cambridge-cambridge-mathematics-placements-cmp",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "start_date",
+    "from": "2026-07",
+    "to": "2026-01"
+  },
+  {
+    "canonical_id": "university-of-cambridge-cambridge-mathematics-placements-cmp",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "location",
+    "from": "United Kingdom",
+    "to": "Remote"
+  },
+  {
+    "canonical_id": "university-of-cambridge-summer-research-in-maths-srim",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "title",
+    "from": "Summer Research in Maths (SRIM)",
+    "to": "Finding a Project"
+  },
+  {
+    "canonical_id": "university-of-cambridge-summer-research-in-maths-srim",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "source_url",
+    "from": "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-maths-srim",
+    "to": "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/find-project"
+  },
+  {
+    "canonical_id": "university-of-cambridge-summer-research-in-maths-srim",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "requirements",
+    "from": [
+      "undergraduate:True:required"
+    ],
+    "to": []
+  },
+  {
+    "canonical_id": "university-of-cambridge-funding-your-project",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "title",
+    "from": "Funding your Project",
+    "to": "Cambridge Mathematics Placements (CMP)"
+  },
+  {
+    "canonical_id": "university-of-cambridge-funding-your-project",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "source_url",
+    "from": "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/apply-bursary",
+    "to": "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/cambridge-mathematics-placements-cmp"
+  },
+  {
+    "canonical_id": "university-of-cambridge-funding-your-project",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "deadline",
+    "from": "2026-03-23",
+    "to": null
+  },
+  {
+    "canonical_id": "university-of-cambridge-funding-your-project",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "deadline_status",
+    "from": "fixed",
+    "to": "none_stated"
+  },
+  {
+    "canonical_id": "university-of-cambridge-funding-your-project",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "eligibility",
+    "from": "eligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "university-of-cambridge-funding-your-project",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "requirements",
+    "from": [
+      "degree_subject:['mathematics', 'physics', 'statistics']:required"
+    ],
+    "to": []
+  },
+  {
+    "canonical_id": "university-of-cambridge-summer-research-bursary-application-form",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "title",
+    "from": "Summer Research Bursary Application Form",
+    "to": "Summer Research in Maths (SRIM)"
+  },
+  {
+    "canonical_id": "university-of-cambridge-summer-research-bursary-application-form",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "source_url",
+    "from": "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-bursary-application",
+    "to": "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-maths-srim"
+  },
+  {
+    "canonical_id": "university-of-cambridge-summer-research-bursary-application-form",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "deadline",
+    "from": "2026-03-23",
+    "to": null
+  },
+  {
+    "canonical_id": "university-of-cambridge-summer-research-bursary-application-form",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "deadline_status",
+    "from": "fixed",
+    "to": "none_stated"
+  },
+  {
+    "canonical_id": "university-of-cambridge-summer-research-bursary-application-form",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "undergraduate:True:required"
+    ]
+  },
+  {
+    "canonical_id": "university-of-cambridge-registering-your-project",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "title",
+    "from": "Registering your Project",
+    "to": "Funding your Project"
+  },
+  {
+    "canonical_id": "university-of-cambridge-registering-your-project",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "source_url",
+    "from": "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/registering-your-project",
+    "to": "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/apply-bursary"
+  },
+  {
+    "canonical_id": "university-of-cambridge-registering-your-project",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "deadline",
+    "from": null,
+    "to": "2026-03-23"
+  },
+  {
+    "canonical_id": "university-of-cambridge-registering-your-project",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "deadline_status",
+    "from": "none_stated",
+    "to": "fixed"
+  },
+  {
+    "canonical_id": "university-of-cambridge-registering-your-project",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "eligible"
+  },
+  {
+    "canonical_id": "university-of-cambridge-registering-your-project",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "degree_subject:['mathematics', 'physics', 'statistics']:required"
+    ]
+  },
+  {
+    "canonical_id": "gchq-ncsc-cyber-consultant-ref-3811",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "source_url",
+    "from": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-573e419f4d83/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
+    "to": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-1383c839c0ea/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB"
+  },
+  {
+    "canonical_id": "gchq-summer-intelligence-internships-with-gchq-ref-3803",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "source_url",
+    "from": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-573e419f4d83/candidate/so/pm/1/pl/6/opp/3803-Summer-Intelligence-Internships-with-GCHQ-Ref-3803/en-GB",
+    "to": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-1383c839c0ea/candidate/so/pm/1/pl/6/opp/3803-Summer-Intelligence-Internships-with-GCHQ-Ref-3803/en-GB"
+  },
+  {
+    "canonical_id": "uk-research-and-innovation-apprenticeships-internships-and-placements",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "title",
+    "from": "Apprenticeships, internships and placements",
+    "to": "Year in Industry"
+  },
+  {
+    "canonical_id": "uk-research-and-innovation-apprenticeships-internships-and-placements",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "source_url",
+    "from": "https://www.ukri.org/what-we-do/developing-people-and-skills/research-skills-initiatives/apprenticeships-internships-and-placements/",
+    "to": "https://www.ukri.org/about-us/stfc/work-for-stfc/year-in-industry/"
+  },
+  {
+    "canonical_id": "uk-research-and-innovation-apprenticeships-internships-and-placements",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "requirements",
+    "from": [
+      "undergraduate:True:required"
+    ],
+    "to": []
+  },
+  {
+    "canonical_id": "uk-research-and-innovation-internships-and-placements",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "title",
+    "from": "Internships and placements",
+    "to": "Apprenticeships, internships and placements"
+  },
+  {
+    "canonical_id": "uk-research-and-innovation-internships-and-placements",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "source_url",
+    "from": "https://www.ukri.org/what-we-do/developing-people-and-skills/research-skills-initiatives/apprenticeships-internships-and-placements/internships-and-placements/",
+    "to": "https://www.ukri.org/what-we-do/developing-people-and-skills/research-skills-initiatives/apprenticeships-internships-and-placements/"
+  },
+  {
+    "canonical_id": "uk-atomic-energy-authority-foster-fusion-energy-summer-internships-for-students",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "title",
+    "from": "FOSTER fusion energy summer internships for students",
+    "to": "Student placements and work experience"
+  },
+  {
+    "canonical_id": "uk-atomic-energy-authority-foster-fusion-energy-summer-internships-for-students",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "source_url",
+    "from": "https://careers.ukaea.uk/early-careers/foster-summer-internship/",
+    "to": "https://careers.ukaea.uk/early-careers/ukaea-placements-and-work-experience/"
+  },
+  {
+    "canonical_id": "uk-atomic-energy-authority-foster-fusion-energy-summer-internships-for-students",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "lifecycle",
+    "from": "closed",
+    "to": "open"
+  },
+  {
+    "canonical_id": "uk-atomic-energy-authority-foster-fusion-energy-summer-internships-for-students",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "uk-atomic-energy-authority-foster-fusion-energy-summer-internships-for-students",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2026]:required"
+    ],
+    "to": []
+  },
+  {
+    "canonical_id": "uk-atomic-energy-authority-faiz-rahman-joins-ukaea-s-graduate-scheme-after-completing-his-student-p",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "title",
+    "from": "Faiz Rahman joins UKAEA’s graduate scheme after completing his student placement",
+    "to": "FOSTER fusion energy summer internships for students"
+  },
+  {
+    "canonical_id": "uk-atomic-energy-authority-faiz-rahman-joins-ukaea-s-graduate-scheme-after-completing-his-student-p",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "source_url",
+    "from": "https://careers.ukaea.uk/life-at-ukaea/case-studies/faiz-rahman-graduate-scheme/",
+    "to": "https://careers.ukaea.uk/early-careers/foster-summer-internship/"
+  },
+  {
+    "canonical_id": "uk-atomic-energy-authority-faiz-rahman-joins-ukaea-s-graduate-scheme-after-completing-his-student-p",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "closed"
+  },
+  {
+    "canonical_id": "uk-atomic-energy-authority-faiz-rahman-joins-ukaea-s-graduate-scheme-after-completing-his-student-p",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "start_date",
+    "from": "2026-07",
+    "to": "2026-01"
+  },
+  {
+    "canonical_id": "uk-atomic-energy-authority-faiz-rahman-joins-ukaea-s-graduate-scheme-after-completing-his-student-p",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "location",
+    "from": "Remote",
+    "to": "Not stated"
+  },
+  {
+    "canonical_id": "uk-atomic-energy-authority-faiz-rahman-joins-ukaea-s-graduate-scheme-after-completing-his-student-p",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "requirements",
+    "from": [
+      "degree_subject:['engineering']:required"
+    ],
+    "to": [
+      "graduation_year:[2026]:required"
+    ]
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "title",
+    "from": "Transaction Banking - Global Payments Solutions - Internship, Corporate and Institutional Banking, USA, Buffalo Transaction Banking - Global Payments Solutions - Internship (opens in new window)",
+    "to": "Relationship Management - International Wealth and Premier Banking - Internship"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Buffalo-Transaction-Banking-Global-Payments-Solutions-Internship-NY-14210/1369520257/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Buffalo-Relationship-Management-International-Wealth-and-Premier-Banking-Internship-NY-14210/1369520757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "application_url",
+    "from": null,
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1369520757/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "lifecycle",
+    "from": "unknown",
+    "to": "open"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "deadline",
+    "from": null,
+    "to": "2026-09-14"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "deadline_status",
+    "from": "none_stated",
+    "to": "fixed"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "opens_at",
+    "from": null,
+    "to": "2026-08-17"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "start_date",
+    "from": null,
+    "to": "2027-06-07"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "end_date",
+    "from": null,
+    "to": "2027-08-13"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "location",
+    "from": "Not stated",
+    "to": "United Kingdom"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "graduation_year:[2028]:required"
+    ]
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "title",
+    "from": "Relationship Management - Corporate and Institutional Banking - Internship, Corporate and Institutional Banking, Hong Kong SAR, Central Relationship Management - Corporate and Institutional Banking - Internship (opens in new window)",
+    "to": "Transaction Banking - Global Payments Solutions - Internship"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Relationship-Management-Corporate-and-Institutional-Banking-Internship-Hong/1365768957/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Buffalo-Transaction-Banking-Global-Payments-Solutions-Internship-NY-14210/1369520257/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "application_url",
+    "from": null,
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1369520257/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "lifecycle",
+    "from": "unknown",
+    "to": "open"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "deadline",
+    "from": null,
+    "to": "2026-09-14"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "deadline_status",
+    "from": "none_stated",
+    "to": "fixed"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "opens_at",
+    "from": null,
+    "to": "2026-08-17"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "start_date",
+    "from": null,
+    "to": "2027-06-07"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "end_date",
+    "from": null,
+    "to": "2027-08-13"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "location",
+    "from": "Not stated",
+    "to": "United Kingdom"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "graduation_year:[2028]:required"
+    ]
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Relationship-Management-Corporate-and-Institutional-Banking-Internship-018983/1365766457/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Relationship-Management-Corporate-and-Institutional-Banking-Internship-Hong/1365768957/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1365766457/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1365768957/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "title",
+    "from": "Investment Banking - Internship",
+    "to": "Global Investment Research - Internship"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Investment-Banking-Internship-Hong/1365768357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Global-Investment-Research-Internship-Hong/1365767957/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1365768357/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1365767957/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "title",
+    "from": "Investment Banking - HSBC Infrastructure Finance - Internship",
+    "to": "Investment Banking - Internship"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Investment-Banking-HSBC-Infrastructure-Finance-Internship-Hong/1365767657/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Investment-Banking-Internship-Hong/1365768357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1365767657/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1365768357/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "title",
+    "from": "Markets - Sales and Trading - Internship",
+    "to": "Investment Banking - HSBC Infrastructure Finance - Internship"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Markets-Sales-and-Trading-Internship-Hong/1365768857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Investment-Banking-HSBC-Infrastructure-Finance-Internship-Hong/1365767657/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-08-31T00:23:55Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1365768857/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1365767657/?locale=en_GB"
+  },
+  {
+    "canonical_id": "societe-generale-the-v-i-e-programme",
+    "changed_at": "2026-08-31T00:40:18Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "societe-generale-the-v-i-e-programme",
+    "changed_at": "2026-08-31T00:40:18Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "postgraduate_required:True:required"
+    ]
+  },
+  {
+    "canonical_id": "goldman-sachs-2027-summer-analyst-programme",
+    "changed_at": "2026-08-31T00:52:05Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "goldman-sachs-2027-summer-analyst-programme",
+    "changed_at": "2026-08-31T00:52:05Z",
+    "field": "start_date",
+    "from": "2027-01",
+    "to": "2027-07"
+  },
+  {
+    "canonical_id": "goldman-sachs-2027-summer-analyst-programme",
+    "changed_at": "2026-08-31T00:52:05Z",
+    "field": "eligibility",
+    "from": "eligible",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "goldman-sachs-2027-summer-analyst-programme",
+    "changed_at": "2026-08-31T00:52:05Z",
+    "field": "requirements",
+    "from": [
+      "undergraduate:True:required"
+    ],
+    "to": [
+      "penultimate_year:True:required"
+    ]
+  },
+  {
+    "canonical_id": "evercore-london-spring-weeks-2027",
+    "changed_at": "2026-08-31T03:18:34Z",
+    "field": "title",
+    "from": "Students & Graduates – Europe/Asia",
+    "to": "London Spring Weeks 2027"
+  },
+  {
+    "canonical_id": "evercore-london-spring-weeks-2027",
+    "changed_at": "2026-08-31T03:18:34Z",
+    "field": "application_url",
+    "from": null,
+    "to": "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/"
+  },
+  {
+    "canonical_id": "evercore-london-spring-weeks-2027",
+    "changed_at": "2026-08-31T03:18:34Z",
+    "field": "lifecycle",
+    "from": "officially_announced",
+    "to": "open"
+  },
+  {
+    "canonical_id": "evercore-london-spring-weeks-2027",
+    "changed_at": "2026-08-31T03:18:34Z",
+    "field": "opens_at",
+    "from": "2026-09-20",
+    "to": null
+  },
+  {
+    "canonical_id": "evercore-london-spring-weeks-2027",
+    "changed_at": "2026-08-31T03:18:34Z",
+    "field": "start_date",
+    "from": "2026-08-17",
+    "to": "2027-04"
+  },
+  {
+    "canonical_id": "evercore-london-spring-weeks-2027",
+    "changed_at": "2026-08-31T03:18:34Z",
+    "field": "end_date",
+    "from": "2026-09-20",
+    "to": null
+  },
+  {
+    "canonical_id": "evercore-london-spring-weeks-2027",
+    "changed_at": "2026-08-31T03:18:34Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "eligible"
+  },
+  {
+    "canonical_id": "evercore-london-spring-weeks-2027",
+    "changed_at": "2026-08-31T03:18:34Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2027]:required",
+      "study_year:[1]:required"
+    ],
+    "to": [
+      "study_year:[1]:required"
+    ]
+  },
+  {
+    "canonical_id": "barclays-discovery-programme-2027",
+    "changed_at": "2026-08-31T03:18:34Z",
+    "field": "title",
+    "from": "Discovery Programme",
+    "to": "Discovery Programme 2027 — register interest"
+  },
+  {
+    "canonical_id": "barclays-discovery-programme-2027",
+    "changed_at": "2026-08-31T03:18:34Z",
+    "field": "deadline_status",
+    "from": "none_stated",
+    "to": "unknown"
+  },
+  {
+    "canonical_id": "barclays-discovery-programme-2027",
+    "changed_at": "2026-08-31T03:18:34Z",
+    "field": "start_date",
+    "from": "2027-04",
+    "to": "2027"
+  },
+  {
+    "canonical_id": "barclays-discovery-programme-2027",
+    "changed_at": "2026-08-31T03:18:34Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "likely_eligible"
+  },
+  {
+    "canonical_id": "barclays-discovery-programme-2027",
+    "changed_at": "2026-08-31T03:18:34Z",
+    "field": "location",
+    "from": "London, UK",
+    "to": "United Kingdom"
+  },
+  {
+    "canonical_id": "barclays-discovery-programme-2027",
+    "changed_at": "2026-08-31T03:18:34Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2027]:required"
+    ],
+    "to": [
+      "graduation_year:[2027, 2028, 2029]:preferred"
+    ]
+  },
+  {
+    "canonical_id": "blackrock-2027-spring-insight-emea",
+    "changed_at": "2026-08-31T03:27:50Z",
+    "field": "title",
+    "from": "2027 Spring Insight Event - EMEA",
+    "to": "2027 Spring Insight Event — EMEA"
+  },
+  {
+    "canonical_id": "blackrock-2027-spring-insight-emea",
+    "changed_at": "2026-08-31T03:27:50Z",
+    "field": "application_url",
+    "from": "https://blackrock.tal.net/vx/candidate/so/pm/1/pl/1/opp/12223?instant=apply",
+    "to": "https://careers.blackrock.com/job/london/2027-spring-insight-event-emea/45831/97150826752"
+  },
+  {
+    "canonical_id": "blackrock-2027-spring-insight-emea",
+    "changed_at": "2026-08-31T03:27:50Z",
+    "field": "start_date",
+    "from": "2029-04",
+    "to": "2027-04"
+  },
+  {
+    "canonical_id": "blackrock-2027-spring-insight-emea",
+    "changed_at": "2026-08-31T03:27:50Z",
+    "field": "location",
+    "from": "London, UK",
+    "to": "London or Edinburgh, UK"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/New-York-Transaction-Banking-Global-Payments-Solutions-Internship-NY-10001/1369520357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Buffalo-Transaction-Banking-Global-Payments-Solutions-Internship-NY-14210/1369520257/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1369520357/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1369520257/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/New-York-Relationship-Management-International-Wealth-and-Premier-Banking-Internship-NY-10001/1369520557/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Buffalo-Relationship-Management-International-Wealth-and-Premier-Banking-Internship-NY-14210/1369520757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1369520557/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1369520757/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Buffalo-Relationship-Management-International-Wealth-and-Premier-Banking-Internship-NY-14210/1369520757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/New-York-Relationship-Management-International-Wealth-and-Premier-Banking-Internship-NY-10001/1369520557/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1369520757/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1369520557/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Buffalo-Transaction-Banking-Global-Payments-Solutions-Internship-NY-14210/1369520257/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/New-York-Transaction-Banking-Global-Payments-Solutions-Internship-NY-10001/1369520357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1369520257/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1369520357/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Relationship-Management-Corporate-and-Institutional-Banking-Internship-Hong/1365768957/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Relationship-Management-Corporate-and-Institutional-Banking-Internship-018983/1365766457/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1365768957/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1365766457/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "title",
+    "from": "Global Investment Research - Internship",
+    "to": "Investment Banking - Internship"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Global-Investment-Research-Internship-Hong/1365767957/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Investment-Banking-Internship-018983/1365766857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1365767957/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1365766857/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "title",
+    "from": "Investment Banking - Internship",
+    "to": "Investment Banking - HSBC Infrastructure Finance - Internship"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Investment-Banking-Internship-Hong/1365768357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Investment-Banking-HSBC-Infrastructure-Finance-Internship-018983/1365767157/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1365768357/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1365767157/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "title",
+    "from": "Investment Banking - HSBC Infrastructure Finance - Internship",
+    "to": "Markets - Sales and Trading - Internship"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Investment-Banking-HSBC-Infrastructure-Finance-Internship-Hong/1365767657/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Markets-Sales-and-Trading-Internship-018983/1365767057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1365767657/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1365767057/?locale=en_GB"
+  },
+  {
+    "canonical_id": "macquarie-uk-spring-insight-2027",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "title",
+    "from": "Frequently asked questions",
+    "to": "UK Spring Insight Programme 2027"
+  },
+  {
+    "canonical_id": "macquarie-uk-spring-insight-2027",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "application_url",
+    "from": "https://www.macquarie.com/uk/en/careers/faqs.html",
+    "to": null
+  },
+  {
+    "canonical_id": "macquarie-uk-spring-insight-2027",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "officially_announced"
+  },
+  {
+    "canonical_id": "macquarie-uk-spring-insight-2027",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "deadline",
+    "from": null,
+    "to": "2026-11-30"
+  },
+  {
+    "canonical_id": "macquarie-uk-spring-insight-2027",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "deadline_status",
+    "from": "rolling",
+    "to": "fixed"
+  },
+  {
+    "canonical_id": "macquarie-uk-spring-insight-2027",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "opens_at",
+    "from": null,
+    "to": "2026-10-12"
+  },
+  {
+    "canonical_id": "macquarie-uk-spring-insight-2027",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "start_date",
+    "from": "2029-04",
+    "to": "2027-spring"
+  },
+  {
+    "canonical_id": "macquarie-uk-spring-insight-2027",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "eligible"
+  },
+  {
+    "canonical_id": "macquarie-uk-spring-insight-2027",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2026, 2028, 2029]:required",
+      "penultimate_year:True:required",
+      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering']:required",
+      "work_authorization:True:required"
+    ],
+    "to": [
+      "graduation_year:[2029]:required",
+      "study_year:[1]:required"
+    ]
+  },
+  {
+    "canonical_id": "uk-atomic-energy-authority-faiz-rahman-joins-ukaea-s-graduate-scheme-after-completing-his-student-p",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "title",
+    "from": "FOSTER fusion energy summer internships for students",
+    "to": "Faiz Rahman joins UKAEA’s graduate scheme after completing his student placement"
+  },
+  {
+    "canonical_id": "uk-atomic-energy-authority-faiz-rahman-joins-ukaea-s-graduate-scheme-after-completing-his-student-p",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "source_url",
+    "from": "https://careers.ukaea.uk/early-careers/foster-summer-internship/",
+    "to": "https://careers.ukaea.uk/life-at-ukaea/case-studies/faiz-rahman-graduate-scheme/"
+  },
+  {
+    "canonical_id": "uk-atomic-energy-authority-faiz-rahman-joins-ukaea-s-graduate-scheme-after-completing-his-student-p",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "lifecycle",
+    "from": "closed",
+    "to": "open"
+  },
+  {
+    "canonical_id": "uk-atomic-energy-authority-faiz-rahman-joins-ukaea-s-graduate-scheme-after-completing-his-student-p",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "start_date",
+    "from": "2026-01",
+    "to": "2026-07"
+  },
+  {
+    "canonical_id": "uk-atomic-energy-authority-faiz-rahman-joins-ukaea-s-graduate-scheme-after-completing-his-student-p",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "location",
+    "from": "Not stated",
+    "to": "Remote"
+  },
+  {
+    "canonical_id": "uk-atomic-energy-authority-faiz-rahman-joins-ukaea-s-graduate-scheme-after-completing-his-student-p",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2026]:required"
+    ],
+    "to": [
+      "degree_subject:['engineering']:required"
+    ]
+  },
+  {
+    "canonical_id": "deutsche-bank-2027-ibcm-spring",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "lifecycle",
+    "from": "officially_announced",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "deutsche-bank-2027-fic-spring",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "lifecycle",
+    "from": "officially_announced",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "citi-spring-insight-general",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "lifecycle",
+    "from": "unknown",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "comap-mcm-icm-2027",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "durham-clusdur-hpc-society",
+    "changed_at": "2026-08-31T22:37:21Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "overrides": {
+    "durham-bsi-undergraduate-summer-bursary": {
+      "lifecycle": "unknown",
+      "eligibility": "uncertain",
+      "primary_action": "Review",
+      "deadline_status": "unknown",
+      "eligibility_note": "Needs eligibility check: the evergreen funding page does not establish a live 2027 call or first-year access.",
+      "next_step": "Confirm the current call documents, 2027 deadline and year-of-study criteria with Durham BSI.",
+      "review_required": true,
+      "review_reasons": ["evergreen landing page does not verify a current 2027 call"]
+    }
+  }
+}

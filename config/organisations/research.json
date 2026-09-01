@@ -1,0 +1,596 @@
+{
+  "schema_version": 1,
+  "organisations": [
+    {
+      "id": "alan-turing-institute",
+      "name": "The Alan Turing Institute",
+      "sectors": [
+        "research",
+        "technology"
+      ],
+      "organisation_type": "research_institute",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "cardiff-university",
+      "name": "Cardiff University",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "cern",
+      "name": "CERN",
+      "sectors": [
+        "research",
+        "engineering"
+      ],
+      "organisation_type": "research_institute",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "dstl",
+      "name": "Defence Science and Technology Laboratory",
+      "sectors": [
+        "government",
+        "research",
+        "engineering"
+      ],
+      "organisation_type": "public_body",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "durham-university",
+      "name": "Durham University",
+      "sectors": [
+        "research",
+        "technology"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "embl-ebi",
+      "name": "EMBL-EBI",
+      "sectors": [
+        "research",
+        "technology"
+      ],
+      "organisation_type": "research_institute",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "european-space-agency",
+      "name": "European Space Agency",
+      "sectors": [
+        "research",
+        "engineering",
+        "competitions"
+      ],
+      "organisation_type": "public_body",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "fields-institute",
+      "name": "Fields Institute",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "research_institute",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "francis-crick-institute",
+      "name": "The Francis Crick Institute",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "research_institute",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "heriot-watt-university",
+      "name": "Heriot-Watt University",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "imperial-college-london",
+      "name": "Imperial College London",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "institute-of-physics",
+      "name": "Institute of Physics",
+      "sectors": [
+        "research",
+        "competitions"
+      ],
+      "organisation_type": "professional_body",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "isaac-newton-institute",
+      "name": "Isaac Newton Institute",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "research_institute",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "kings-college-london",
+      "name": "King's College London",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "lancaster-university",
+      "name": "Lancaster University",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "london-mathematical-society",
+      "name": "London Mathematical Society",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "professional_body",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "loughborough-university",
+      "name": "Loughborough University",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "met-office",
+      "name": "Met Office",
+      "sectors": [
+        "research",
+        "technology"
+      ],
+      "organisation_type": "public_body",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "nasa",
+      "name": "NASA",
+      "sectors": [
+        "research",
+        "engineering",
+        "competitions"
+      ],
+      "organisation_type": "public_body",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "national-physical-laboratory",
+      "name": "National Physical Laboratory",
+      "sectors": [
+        "research",
+        "engineering"
+      ],
+      "organisation_type": "public_body",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "queen-mary-university-of-london",
+      "name": "Queen Mary University of London",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "queens-university-belfast",
+      "name": "Queen's University Belfast",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "royal-holloway-university-of-london",
+      "name": "Royal Holloway, University of London",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "royal-statistical-society",
+      "name": "Royal Statistical Society",
+      "sectors": [
+        "research",
+        "competitions"
+      ],
+      "organisation_type": "professional_body",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "swansea-university",
+      "name": "Swansea University",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ukaea",
+      "name": "UK Atomic Energy Authority",
+      "sectors": [
+        "research",
+        "engineering"
+      ],
+      "organisation_type": "public_body",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "ukri",
+      "name": "UK Research and Innovation",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "public_body",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "university-college-london",
+      "name": "University College London",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "university-of-bath",
+      "name": "University of Bath",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "university-of-birmingham",
+      "name": "University of Birmingham",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "university-of-bristol",
+      "name": "University of Bristol",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "university-of-cambridge",
+      "name": "University of Cambridge",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "university-of-edinburgh",
+      "name": "University of Edinburgh",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "university-of-exeter",
+      "name": "University of Exeter",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "university-of-glasgow",
+      "name": "University of Glasgow",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "university-of-leeds",
+      "name": "University of Leeds",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "university-of-manchester",
+      "name": "University of Manchester",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "university-of-nottingham",
+      "name": "University of Nottingham",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "university-of-oxford",
+      "name": "University of Oxford",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "university-of-sheffield",
+      "name": "University of Sheffield",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "university-of-southampton",
+      "name": "University of Southampton",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "university-of-st-andrews",
+      "name": "University of St Andrews",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "university-of-strathclyde",
+      "name": "University of Strathclyde",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "university-of-surrey",
+      "name": "University of Surrey",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "university-of-sussex",
+      "name": "University of Sussex",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "university-of-warwick",
+      "name": "University of Warwick",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "university-of-york",
+      "name": "University of York",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "university",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "wellcome-sanger-institute",
+      "name": "Wellcome Sanger Institute",
+      "sectors": [
+        "research"
+      ],
+      "organisation_type": "research_institute",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    }
+  ]
+}

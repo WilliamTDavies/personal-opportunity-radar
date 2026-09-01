@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "organisations": [
+    {
+      "id": "cme-group",
+      "name": "CME Group",
+      "sectors": [
+        "competitions",
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "comap",
+      "name": "COMAP",
+      "sectors": [
+        "competitions"
+      ],
+      "organisation_type": "competition_organiser",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "cyber-security-challenge-uk",
+      "name": "Cyber Security Challenge UK",
+      "sectors": [
+        "competitions",
+        "technology"
+      ],
+      "organisation_type": "competition_organiser",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "icpc",
+      "name": "ICPC",
+      "sectors": [
+        "competitions",
+        "technology"
+      ],
+      "organisation_type": "competition_organiser",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "iet",
+      "name": "Institution of Engineering and Technology",
+      "sectors": [
+        "competitions",
+        "engineering"
+      ],
+      "organisation_type": "professional_body",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "kaggle",
+      "name": "Kaggle",
+      "sectors": [
+        "competitions",
+        "technology"
+      ],
+      "organisation_type": "competition_organiser",
+      "provenance": [
+        "curated_project_universe"
+      ],
+      "source_resolution_status": "unresolved"
+    }
+  ]
+}

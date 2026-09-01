@@ -1,0 +1,376 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "cambridge-cms-summer-research",
+      "name": "Cambridge Mathematics Summer Research",
+      "organisation": "University of Cambridge",
+      "family": "cambridge-mathematics",
+      "url": "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-programmes",
+      "adapter": "university",
+      "stream": "research",
+      "include_patterns": [
+        "summer",
+        "research",
+        "project",
+        "bursary"
+      ],
+      "max_detail_pages": 10,
+      "allow_zero": true,
+      "organisation_id": "university-of-cambridge",
+      "sector": "research_universities",
+      "scan_tier": "daily",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "durham-bsi-bursary",
+      "name": "Durham Biophysical Sciences Institute",
+      "url": "https://www.durham.ac.uk/research/institutes-and-centres/biophysical-sciences-institute/funding-for-research/",
+      "adapter": "official_html",
+      "organisation_id": "durham-university",
+      "sector": "research_universities",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "durham-university"
+    },
+    {
+      "id": "durham-clusdur",
+      "name": "Durham Scientific Computing",
+      "url": "https://scicomp.webspace.durham.ac.uk/clusdur/",
+      "adapter": "official_html",
+      "organisation_id": "durham-university",
+      "sector": "research_universities",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "durham-university"
+    },
+    {
+      "id": "durham-computer-science-internships",
+      "name": "Durham Computer Science Internships",
+      "organisation": "Durham University",
+      "family": "durham-research",
+      "url": "https://www.durham.ac.uk/departments/academic/computer-science/undergraduate/internships-placements/",
+      "adapter": "university",
+      "stream": "research",
+      "include_patterns": [
+        "internship",
+        "summer",
+        "placement",
+        "research"
+      ],
+      "max_detail_pages": 10,
+      "allow_zero": true,
+      "organisation_id": "durham-university",
+      "sector": "research_universities",
+      "scan_tier": "daily",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "durham-global-summer-schools",
+      "name": "Durham Global Summer and Winter Schools",
+      "organisation": "Durham University",
+      "family": "durham-research",
+      "url": "https://www.durham.ac.uk/global-durham/global-opportunities/go-other-options/summer-winter-schools/",
+      "adapter": "university",
+      "include_patterns": [
+        "research programme",
+        "summer program",
+        "summer school",
+        "internship",
+        "stem"
+      ],
+      "exclude_patterns": [
+        "language",
+        "postgraduate"
+      ],
+      "max_detail_pages": 14,
+      "allow_zero": true,
+      "organisation_id": "durham-university",
+      "sector": "research_universities",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "durham-mitacs-2027",
+      "name": "Durham Mitacs Research Mobility",
+      "organisation": "Durham University",
+      "family": "durham-research",
+      "url": "https://www.durham.ac.uk/global-durham/global-opportunities/go-other-options/mitacs/",
+      "adapter": "university",
+      "stream": "research",
+      "page_is_listing": false,
+      "organisation_id": "durham-university",
+      "sector": "research_universities",
+      "scan_tier": "daily",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "durham-physics-research",
+      "name": "Durham Physics",
+      "url": "https://www.durham.ac.uk/departments/academic/physics/research/",
+      "adapter": "official_html",
+      "organisation_id": "durham-university",
+      "sector": "research_universities",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "durham-university"
+    },
+    {
+      "id": "durham-quantum",
+      "name": "Durham Physics",
+      "url": "https://www.durham.ac.uk/departments/academic/physics/news/durham-to-lead-new-era-of-quantum-science-research/",
+      "adapter": "university",
+      "stream": "research",
+      "include_patterns": [
+        "quantum",
+        "research",
+        "simulation"
+      ],
+      "expected_terms": [
+        "quantum"
+      ],
+      "organisation_id": "durham-university",
+      "sector": "research_universities",
+      "scan_tier": "daily",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "durham-university"
+    },
+    {
+      "id": "fields-fusrp-2027",
+      "name": "Fields Institute FUSRP",
+      "organisation": "Fields Institute",
+      "url": "https://www.fields.utoronto.ca/activities/26-27/FUSRP",
+      "adapter": "university",
+      "stream": "research",
+      "page_is_listing": false,
+      "expected_terms": [
+        "2027 Fields Undergraduate Summer Research Program",
+        "around the world",
+        "May 31"
+      ],
+      "programmes": [
+        {
+          "canonical_id": "fields-institute-fusrp-2027",
+          "title": "2027 Fields Undergraduate Summer Research Program",
+          "organisation": "Fields Institute",
+          "stream": "research",
+          "lifecycle": "officially_announced",
+          "eligibility": "likely_eligible",
+          "primary_action": "Apply",
+          "location": "Toronto or London, Ontario, Canada",
+          "start_date": "2027-05-31",
+          "end_date": "2027-07-30",
+          "deadline_status": "unknown",
+          "opens_at": "2026-11-02",
+          "research_mode": "structured_programme",
+          "summary": "Mathematical summer research programme welcoming selected undergraduates from around the world; most travel and on-site expenses are covered.",
+          "why_it_fits": "Worldwide access and mathematical research align strongly with the candidate's course.",
+          "eligibility_note": "Check whether the 2027 project list accepts students after only one completed year.",
+          "next_step": "Review the project and application details when applications are planned to open on 2 November.",
+          "tags": [
+            "mathematics",
+            "research",
+            "worldwide",
+            "funded"
+          ],
+          "requirements": [
+            {
+              "rule": "worldwide",
+              "value": true,
+              "strength": "required",
+              "evidence": "Official description"
+            },
+            {
+              "rule": "study_year",
+              "value": [
+                1,
+                2,
+                3
+              ],
+              "strength": "preferred",
+              "evidence": "Undergraduate programme; first-year detail not explicit"
+            }
+          ],
+          "priority_tier": "B",
+          "match_terms": [
+            "2027 fields undergraduate summer research program",
+            "around the world",
+            "may 31"
+          ]
+        }
+      ],
+      "organisation_id": "fields-institute",
+      "sector": "research_universities",
+      "scan_tier": "daily",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "fields-institute"
+    },
+    {
+      "id": "lms-bursary-2027",
+      "name": "London Mathematical Society Bursaries",
+      "organisation": "London Mathematical Society",
+      "url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
+      "adapter": "university",
+      "stream": "research",
+      "page_is_listing": false,
+      "expected_terms": [
+        "first-year undergraduates will not be considered",
+        "two full academic years"
+      ],
+      "programmes": [
+        {
+          "canonical_id": "lms-undergraduate-research-bursary-2027",
+          "title": "Undergraduate Research Bursaries 2027",
+          "organisation": "London Mathematical Society",
+          "stream": "research",
+          "lifecycle": "open",
+          "eligibility": "ineligible",
+          "primary_action": "Explore",
+          "location": "United Kingdom",
+          "start_date": "2027-summer",
+          "deadline_status": "fixed",
+          "deadline": "2027-01-31",
+          "deadline_verified": true,
+          "research_mode": "funding_or_bursary",
+          "summary": "UK mathematics research bursary requiring at least two full academic years before the award summer.",
+          "why_it_fits": "Relevant subject, but the candidate will have completed only one year.",
+          "eligibility_note": "Official criteria explicitly say first-year undergraduates will not be considered.",
+          "next_step": "Do not pursue for Summer 2027; revisit a later cycle.",
+          "tags": [
+            "research",
+            "mathematics",
+            "ineligible 2027"
+          ],
+          "requirements": [
+            {
+              "rule": "study_year",
+              "value": [
+                2,
+                3
+              ],
+              "strength": "required",
+              "evidence": "Official criteria explicitly exclude first-year applications"
+            }
+          ],
+          "priority_tier": "C",
+          "match_terms": [
+            "first-year undergraduates will not be considered",
+            "two full academic years"
+          ]
+        }
+      ],
+      "organisation_id": "london-mathematical-society",
+      "sector": "research_universities",
+      "scan_tier": "daily",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "london-mathematical-society"
+    },
+    {
+      "id": "oxford-maths-summer-research",
+      "name": "Oxford Mathematics Research Internships",
+      "organisation": "University of Oxford",
+      "family": "oxford-mathematics",
+      "url": "https://www.maths.ox.ac.uk/members/students/undergraduate-courses/teaching-and-learning/extracurricular-projects",
+      "adapter": "university",
+      "stream": "research",
+      "include_patterns": [
+        "research",
+        "internship",
+        "summer"
+      ],
+      "max_detail_pages": 10,
+      "allow_zero": true,
+      "organisation_id": "university-of-oxford",
+      "sector": "research_universities",
+      "scan_tier": "daily",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "ukri-internships-placements",
+      "name": "UKRI Internships and Placements",
+      "organisation": "UK Research and Innovation",
+      "family": "uk-public-science",
+      "url": "https://www.ukri.org/who-we-are/work-for-us/find-and-apply-for-a-job/internships-and-placements/",
+      "adapter": "html",
+      "stream": "internships",
+      "include_patterns": [
+        "summer placement",
+        "internship",
+        "year in industry",
+        "student"
+      ],
+      "max_detail_pages": 12,
+      "allow_zero": true,
+      "organisation_id": "ukri",
+      "sector": "research_universities",
+      "scan_tier": "daily",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "ukri-vacation-internships",
+      "name": "UKRI Vacation Internships",
+      "organisation": "UK Research and Innovation",
+      "family": "uk-public-science",
+      "url": "https://www.ukri.org/what-we-do/developing-people-and-skills/research-skills-initiatives/apprenticeships-internships-and-placements/internships-and-placements/",
+      "adapter": "university",
+      "stream": "research",
+      "include_patterns": [
+        "vacation internship",
+        "undergraduate",
+        "research"
+      ],
+      "page_is_listing": false,
+      "allow_zero": true,
+      "organisation_id": "ukri",
+      "sector": "research_universities",
+      "scan_tier": "daily",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "warwick-urss",
+      "name": "Warwick Undergraduate Research Support Scheme",
+      "organisation": "University of Warwick",
+      "url": "https://warwick.ac.uk/services/skills/urss/",
+      "adapter": "university",
+      "stream": "research",
+      "include_patterns": [
+        "research",
+        "summer",
+        "scheme"
+      ],
+      "organisation_id": "university-of-warwick",
+      "sector": "research_universities",
+      "scan_tier": "daily",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "university-of-warwick"
+    }
+  ]
+}

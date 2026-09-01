@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "citadel-quant-invitational",
+      "name": "Citadel Securities",
+      "url": "https://www.citadelsecurities.com/careers/programs-and-events/the-citadel-securities-quant-invitational/",
+      "adapter": "official_html",
+      "organisation_id": "citadel",
+      "sector": "competitions_development",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "citadel"
+    },
+    {
+      "id": "cme-september-trading-2026",
+      "name": "CME Group September Trading Challenge",
+      "organisation": "CME Group",
+      "url": "https://www.cmegroup.com/futures_challenge/challenges/1608/landing",
+      "adapter": "html",
+      "stream": "competitions_development",
+      "page_is_listing": false,
+      "expected_terms": [
+        "September 13, 2026",
+        "residents",
+        "United Kingdom"
+      ],
+      "programmes": [
+        {
+          "canonical_id": "cme-september-trading-challenge-2026",
+          "title": "September 2026 Trading Challenge",
+          "organisation": "CME Group",
+          "stream": "competitions_development",
+          "lifecycle": "open",
+          "eligibility": "uncertain",
+          "primary_action": "Enter",
+          "location": "Online",
+          "start_date": "2026-09-13",
+          "end_date": "2026-09-18",
+          "deadline": "2026-09-13T22:00:00Z",
+          "deadline_status": "fixed",
+          "deadline_verified": true,
+          "summary": "Short simulated futures trading challenge open to residents of listed countries including the UK.",
+          "why_it_fits": "Practical markets competition, but the eligibility condition is residency, not nationality.",
+          "eligibility_note": "Needs eligibility check: UK residency is required and British citizenship does not establish residency.",
+          "next_step": "Check the residence definition in the official rules before entering.",
+          "tags": [
+            "trading",
+            "competition",
+            "residency check"
+          ],
+          "requirements": [
+            {
+              "rule": "uk_residency",
+              "value": true,
+              "strength": "required",
+              "evidence": "Official country eligibility list"
+            }
+          ],
+          "priority_tier": "A",
+          "match_terms": [
+            "september 13, 2026",
+            "residents",
+            "united kingdom"
+          ]
+        }
+      ],
+      "organisation_id": "cme-group",
+      "sector": "competitions_development",
+      "scan_tier": "daily",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "cme-group"
+    },
+    {
+      "id": "comap-mcm-2027",
+      "name": "COMAP",
+      "url": "https://www.contest.comap.com/undergraduate/contests/mcm/instructions.php",
+      "adapter": "official_html",
+      "organisation_id": "comap",
+      "sector": "competitions_development",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "comap"
+    },
+    {
+      "id": "esa-academy",
+      "name": "ESA Academy Opportunities",
+      "organisation": "European Space Agency",
+      "url": "https://www.esa.int/Education/ESA_Academy/Current_opportunities",
+      "adapter": "html",
+      "stream": "competitions_development",
+      "include_patterns": [
+        "opportunity",
+        "training",
+        "student",
+        "academy"
+      ],
+      "organisation_id": "european-space-agency",
+      "sector": "competitions_development",
+      "scan_tier": "daily",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "european-space-agency"
+    },
+    {
+      "id": "icpc-ukiepc-2026",
+      "name": "ICPC",
+      "url": "https://icpc.global/regionals/finder/UKIEPC",
+      "adapter": "official_html",
+      "organisation_id": "icpc",
+      "sector": "competitions_development",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "icpc"
+    },
+    {
+      "id": "mathworks-minidrone",
+      "name": "MathWorks Student Competitions",
+      "organisation": "MathWorks",
+      "url": "https://www.mathworks.com/academia/student-competitions.html",
+      "adapter": "html",
+      "stream": "competitions_development",
+      "include_patterns": [
+        "competition",
+        "challenge",
+        "student"
+      ],
+      "organisation_id": "mathworks",
+      "sector": "competitions_development",
+      "scan_tier": "daily",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "mathworks"
+    },
+    {
+      "id": "nasa-space-apps-2026",
+      "name": "NASA",
+      "url": "https://www.spaceappschallenge.org/",
+      "adapter": "official_html",
+      "organisation_id": "nasa",
+      "sector": "competitions_development",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "nasa"
+    }
+  ]
+}

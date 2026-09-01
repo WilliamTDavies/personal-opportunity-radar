@@ -1,0 +1,79 @@
+name: Refresh and deploy radar
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: "17 0,6,12,18 * * *"
+    - cron: "37 5,17 * * *"
+    - cron: "47 4 * * 0"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: opportunity-radar-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  refresh-build-deploy:
+    if: ${{ !contains(github.event.head_commit.message || '', '[skip ci]') }}
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: Discover, classify, and persist current source state
+        run: |
+          case "${{ github.event_name }}:${{ github.event.schedule }}" in
+            schedule:"17 0,6,12,18 * * *") TIERS="--tier high" ;;
+            schedule:"37 5,17 * * *") TIERS="--tier high --tier daily" ;;
+            schedule:"47 4 * * 0") TIERS="--tier high --tier daily --tier weekly" ;;
+            *) TIERS="--tier high --tier daily --tier weekly" ;;
+          esac
+          python run.py scan $TIERS --allow-partial --workers 8 --timeout 15
+
+      - name: Validate dynamic invariants
+        run: |
+          python run.py validate
+          python run.py audit-sources
+          python run.py sources validate
+          python run.py sources coverage --benchmark trackr > /tmp/trackr-coverage.json
+          python -m unittest discover -s tests -p 'test_*.py'
+
+      - name: Commit refreshed generated state
+        run: |
+          git config user.name "opportunity-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/discovered data/opportunities.json data/source_health.json data/coverage_report.json data/review_queue.json data/archive data/change_log.json public/data/opportunities.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(data): refresh opportunity radar [skip ci]"
+            git push origin HEAD:main
+          fi
+
+      - name: Install and test static dashboard
+        run: |
+          npm ci
+          npm test
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - name: Deploy the same refreshed artifact
+        id: deployment
+        uses: actions/deploy-pages@v4

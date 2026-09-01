@@ -1,0 +1,2021 @@
+{
+  "schema_version": 1,
+  "organisations": [
+    {
+      "id": "a-o-shearman",
+      "name": "A&O Shearman",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/a-o-shearman"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "abrahams-dresden-llp",
+      "name": "Abrahams Dresden LLP",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/abrahams-dresden-llp"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "accutrainee",
+      "name": "Accutrainee",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/accutrainee"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "acuity-law",
+      "name": "Acuity Law",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/acuity-law"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "addleshaw-goddard",
+      "name": "Addleshaw Goddard",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/addleshaw-goddard"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "arnold-greenwood",
+      "name": "Arnold Greenwood",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/arnold-greenwood"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "arnold-porter",
+      "name": "Arnold & Porter",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/arnold-porter"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ashfords",
+      "name": "Ashfords",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ashfords"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ashurst",
+      "name": "Ashurst",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ashurst"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "audley-chaucer",
+      "name": "Audley Chaucer",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/audley-chaucer"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "b-p-collins-llp",
+      "name": "B P Collins LLP",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/b-p-collins-llp"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "baker-mckenzie",
+      "name": "Baker McKenzie",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/baker-mckenzie"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bartletts-solicitors",
+      "name": "Bartletts Solicitors",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bartletts-solicitors"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bates-wells",
+      "name": "Bates Wells",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bates-wells"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bevan-brittan",
+      "name": "Bevan Brittan",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bevan-brittan"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bird-bird",
+      "name": "Bird & Bird",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bird-bird"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "boodle-hatfield",
+      "name": "Boodle Hatfield",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/boodle-hatfield"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "brabners",
+      "name": "Brabners",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/brabners"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bristows",
+      "name": "Bristows",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bristows"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "broadfield",
+      "name": "Broadfield",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/broadfield"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "browne-jacobson",
+      "name": "Browne Jacobson",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/browne-jacobson"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bryan-cave-leighton-paisner",
+      "name": "Bryan Cave Leighton Paisner",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bryan-cave-leighton-paisner"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "burges-salmon",
+      "name": "Burges Salmon",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/burges-salmon"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "capital-law",
+      "name": "Capital Law",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/capital-law"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "charles-russell-speechlys",
+      "name": "Charles Russell Speechlys",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/charles-russell-speechlys"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "clarion-solicitors",
+      "name": "Clarion Solicitors",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/clarion-solicitors"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "clifford-chance",
+      "name": "Clifford Chance",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/clifford-chance"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "clyde-co",
+      "name": "Clyde & Co",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/clyde-co"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "cms",
+      "name": "CMS",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/cms"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "cripps",
+      "name": "Cripps",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/cripps"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "davis-polk-wardwell",
+      "name": "Davis Polk & Wardwell",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/davis-polk-wardwell"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "dawson-cornwell",
+      "name": "Dawson Cornwell",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/dawson-cornwell"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "dean-wilson",
+      "name": "Dean Wilson",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/dean-wilson"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "dechert-llp",
+      "name": "Dechert LLP",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/dechert-llp"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "dentons",
+      "name": "Dentons",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/dentons"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "dmh-stallard",
+      "name": "DMH Stallard",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/dmh-stallard"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "dwf",
+      "name": "DWF",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/dwf"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "emmersons-solicitors",
+      "name": "Emmersons Solicitors",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/emmersons-solicitors"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "eversheds-sutherland",
+      "name": "Eversheds Sutherland",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/eversheds-sutherland"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "farrer-co",
+      "name": "Farrer & Co",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/farrer-co"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "fieldfisher",
+      "name": "Fieldfisher",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/fieldfisher"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "foot-anstey",
+      "name": "Foot Anstey",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/foot-anstey"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "forsters",
+      "name": "Forsters",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/forsters"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "freshfields-bruckhaus-deringer",
+      "name": "Freshfields Bruckhaus Deringer",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/freshfields-bruckhaus-deringer"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "fried-frank",
+      "name": "Fried Frank",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/fried-frank"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "gaby-hardwicke",
+      "name": "Gaby Hardwicke",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/gaby-hardwicke"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "gateley",
+      "name": "Gateley",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/gateley"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "geldards",
+      "name": "Geldards",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/geldards"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "gibson-dunn",
+      "name": "Gibson Dunn",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/gibson-dunn"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "girlings-solicitors",
+      "name": "Girlings Solicitors",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/girlings-solicitors"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "gomer-williams-co",
+      "name": "Gomer Williams & Co",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/gomer-williams-co"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "goodwin",
+      "name": "Goodwin",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/goodwin"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "gowling-wlg",
+      "name": "Gowling WLG",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/gowling-wlg"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "greenberg-traurig",
+      "name": "Greenberg Traurig",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/greenberg-traurig"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "hawkswell-kilvington",
+      "name": "Hawkswell Kilvington",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/hawkswell-kilvington"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "helix-law",
+      "name": "Helix Law",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/helix-law"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "herrington-carmichael",
+      "name": "Herrington Carmichael",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/herrington-carmichael"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "hfw",
+      "name": "HFW",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/hfw"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "hill-dickinson",
+      "name": "Hill Dickinson",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/hill-dickinson"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "hk-law",
+      "name": "HK Law",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/hk-law"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "hogan-lovells",
+      "name": "Hogan Lovells Cadwalader",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/hogan-lovells"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "howes-percival",
+      "name": "Howes Percival",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/howes-percival"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "irwin-mitchell",
+      "name": "Irwin Mitchell",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/irwin-mitchell"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "jlf",
+      "name": "JLF",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/jlf"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "judge-priestley",
+      "name": "Judge & Priestley",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/judge-priestley"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "k-l-gates",
+      "name": "K&L Gates",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/k-l-gates"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "kennedys",
+      "name": "Kennedys",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/kennedys"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "king-spalding",
+      "name": "King & Spalding",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/king-spalding"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "kingsley-napley",
+      "name": "Kingsley Napley",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/kingsley-napley"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "kirkland-ellis",
+      "name": "Kirkland & Ellis",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/kirkland-ellis"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "kt-solicitors",
+      "name": "KT Solicitors",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/kt-solicitors"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "kuit-steinart-levy",
+      "name": "Kuit Steinart Levy",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/kuit-steinart-levy"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "laceys-solicitors",
+      "name": "Laceys Solicitors",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/laceys-solicitors"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "lanyon-bowdler",
+      "name": "Lanyon Bowdler",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/lanyon-bowdler"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "lawrence-stephens",
+      "name": "Lawrence Stephens",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/lawrence-stephens"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "leathes-prior",
+      "name": "Leathes Prior",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/leathes-prior"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "leigh-day",
+      "name": "Leigh Day",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/leigh-day"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "lewis-silkin",
+      "name": "Lewis Silkin",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/lewis-silkin"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "linklaters",
+      "name": "Linklaters",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/linklaters"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "macfarlanes",
+      "name": "Macfarlanes",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/macfarlanes"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "mayer-brown",
+      "name": "Mayer Brown",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/mayer-brown"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "mcdermott-will-schulte",
+      "name": "McDermott Will & Schulte",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/mcdermott-will-schulte"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "mcguirewoods",
+      "name": "McGuireWoods",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/mcguirewoods"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "meikles-solicitors",
+      "name": "Meikles Solicitors",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/meikles-solicitors"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "mfg-solicitors",
+      "name": "mfg Solicitors",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/mfg-solicitors"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "michelmores",
+      "name": "Michelmores",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/michelmores"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "mills-co",
+      "name": "Mills & Co",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/mills-co"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "moore-barlow",
+      "name": "Moore Barlow",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/moore-barlow"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "morgan-lewis",
+      "name": "Morgan Lewis",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/morgan-lewis"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ms-solicitors",
+      "name": "MS Solicitors",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ms-solicitors"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "nockolds",
+      "name": "Nockolds",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/nockolds"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "norton-rose-fulbright",
+      "name": "Norton Rose Fulbright",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/norton-rose-fulbright"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "osborne-clarke",
+      "name": "Osborne Clarke",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/osborne-clarke"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "paul-hastings",
+      "name": "Paul Hastings",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/paul-hastings"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "payne-hicks-beach",
+      "name": "Payne Hicks Beach",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/payne-hicks-beach"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "peters-peters",
+      "name": "Peters & Peters",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/peters-peters"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "pinsent-masons",
+      "name": "Pinsent Masons",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/pinsent-masons"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "reed-smith",
+      "name": "Reed Smith",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/reed-smith"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "reeds-solicitors",
+      "name": "Reeds Solicitors",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/reeds-solicitors"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "rpc",
+      "name": "RPC",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/rpc"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "russell-cooke",
+      "name": "Russell-Cooke",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/russell-cooke"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "shakespeare-martineau",
+      "name": "Shakespeare Martineau",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/shakespeare-martineau"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "shephard-co",
+      "name": "Shephard & Co.",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/shephard-co"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "shoosmiths",
+      "name": "Shoosmiths",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/shoosmiths"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "simmons-simmons",
+      "name": "Simmons & Simmons",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/simmons-simmons"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "slaughter-and-may",
+      "name": "Slaughter and May",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/slaughter-and-may"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "squire-patton-boggs",
+      "name": "Squire Patton Boggs",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/squire-patton-boggs"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "stephenson-harwood",
+      "name": "Stephenson Harwood",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/stephenson-harwood"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "sullivan-cromwell",
+      "name": "Sullivan & Cromwell",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/sullivan-cromwell"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "thomson-snell-passmore",
+      "name": "Thomson Snell & Passmore",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/thomson-snell-passmore"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "tlt",
+      "name": "TLT",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/tlt"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "travers-smith",
+      "name": "Travers Smith",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/travers-smith"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "trowers-hamlins",
+      "name": "Trowers & Hamlins",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/trowers-hamlins"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "twm-solicitors",
+      "name": "TWM Solicitors",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/twm-solicitors"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "walker-morris",
+      "name": "Walker Morris",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/walker-morris"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "watson-farley-williams",
+      "name": "Watson Farley & Williams",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/watson-farley-williams"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "watson-woodhouse-macks-solicitors",
+      "name": "Watson Woodhouse & Macks Solicitors",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/watson-woodhouse-macks-solicitors"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "wedlake-bell",
+      "name": "Wedlake Bell",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/wedlake-bell"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "weightmans",
+      "name": "Weightmans",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/weightmans"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "white-case",
+      "name": "White & Case",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/white-case"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "wiggin",
+      "name": "Wiggin",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/wiggin"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "wilkin-chapman-rollits",
+      "name": "Wilkin Chapman Rollits",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/wilkin-chapman-rollits"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "wilsons-llp",
+      "name": "Wilsons LLP",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/wilsons-llp"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "winckworth-sherwood",
+      "name": "Winckworth Sherwood",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/winckworth-sherwood"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "withers",
+      "name": "Withers",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/withers"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "womble-bond-dickinson",
+      "name": "Womble Bond Dickinson",
+      "sectors": [
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/womble-bond-dickinson"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    }
+  ]
+}

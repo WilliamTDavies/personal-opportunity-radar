@@ -1,0 +1,25 @@
+{
+  "course": "BSc Mathematics and Physics",
+  "institution": "Durham University",
+  "institution_country": "United Kingdom",
+  "start_date": "2026-10-01",
+  "graduation_date": "2029-06-30",
+  "graduation_year": 2029,
+  "nationality": "British",
+  "known_facts_only": true,
+  "excluded_programme_purposes": [
+    "identity-targeted diversity programmes"
+  ],
+  "do_not_infer": [
+    "age",
+    "disability",
+    "ethnicity",
+    "gender",
+    "grades",
+    "residency history",
+    "security clearance eligibility",
+    "sexual orientation",
+    "socioeconomic background",
+    "work authorization outside the UK"
+  ]
+}

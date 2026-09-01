@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "profiles": {
+    "official_html": {
+      "adapter": "html",
+      "fetch_details": true,
+      "max_detail_pages": 8,
+      "max_bytes": 16000000,
+      "candidate_score": 4
+    },
+    "official_programme_page": {
+      "adapter": "html",
+      "page_is_listing": false,
+      "fetch_details": false,
+      "max_bytes": 16000000
+    },
+    "university_opportunities": {
+      "adapter": "html",
+      "fetch_details": true,
+      "max_detail_pages": 12,
+      "include_patterns": [
+        "undergraduate research",
+        "summer research",
+        "research internship",
+        "bursary",
+        "studentship",
+        "summer project"
+      ],
+      "exclude_patterns": ["postdoctoral", "phd", "graduate only"]
+    },
+    "greenhouse_api": {
+      "adapter": "greenhouse",
+      "fetch_details": false,
+      "max_detail_pages": 50
+    },
+    "lever_api": {
+      "adapter": "lever",
+      "fetch_details": false,
+      "max_detail_pages": 50
+    },
+    "ashby_api": {
+      "adapter": "ashby",
+      "fetch_details": false,
+      "max_detail_pages": 50
+    },
+    "rss_feed": {
+      "adapter": "rss",
+      "fetch_details": true,
+      "max_detail_pages": 12
+    },
+    "candidate_url": {
+      "adapter": "html",
+      "enabled": false,
+      "scan_tier": "manual",
+      "resolution_status": "candidate_url_needs_validation"
+    }
+  }
+}

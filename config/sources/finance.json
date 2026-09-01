@@ -1,0 +1,820 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "bank-of-america-spring",
+      "name": "Bank of America Careers",
+      "url": "https://careers.bankofamerica.com/en-us/students/application-process",
+      "adapter": "official_html",
+      "organisation_id": "bank-of-america",
+      "sector": "finance",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "bank-of-america"
+    },
+    {
+      "id": "barclays-discovery-2027",
+      "name": "Barclays Discovery Programme",
+      "organisation": "Barclays",
+      "url": "https://search.jobs.barclays/discovery",
+      "adapter": "html",
+      "stream": "spring_insight",
+      "page_is_listing": false,
+      "expected_terms": [
+        "2027 internship",
+        "Register your interest"
+      ],
+      "prefer_verified_template": true,
+      "programmes": [
+        {
+          "canonical_id": "barclays-discovery-programme-2027",
+          "title": "Discovery Programme 2027 — register interest",
+          "organisation": "Barclays",
+          "stream": "spring_insight",
+          "lifecycle": "interest_open",
+          "eligibility": "likely_eligible",
+          "primary_action": "Register Interest",
+          "location": "United Kingdom",
+          "start_date": "2027",
+          "deadline_status": "unknown",
+          "summary": "A general Discovery Programme with a live interest form; participants may be considered for a 2027 internship.",
+          "why_it_fits": "The general programme is presented as open to students up to two years from graduation.",
+          "eligibility_note": "Check the specific 2027 route and location when applications open.",
+          "next_step": "Register interest and review the eventual role-specific criteria.",
+          "tags": [
+            "discovery",
+            "interest open",
+            "finance",
+            "technology"
+          ],
+          "requirements": [
+            {
+              "rule": "graduation_year",
+              "value": [
+                2027,
+                2028,
+                2029
+              ],
+              "strength": "preferred",
+              "evidence": "Official early-careers page"
+            }
+          ],
+          "priority_tier": "A",
+          "match_terms": [
+            "2027 internship",
+            "register your interest"
+          ]
+        }
+      ],
+      "organisation_id": "barclays",
+      "sector": "finance",
+      "scan_tier": "high",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "barclays"
+    },
+    {
+      "id": "blackrock-spring-2027",
+      "name": "BlackRock Careers",
+      "organisation": "BlackRock",
+      "url": "https://careers.blackrock.com/job/london/2027-spring-insight-event-emea/45831/97150826752",
+      "adapter": "html",
+      "stream": "spring_insight",
+      "page_is_listing": false,
+      "expected_terms": [
+        "2027 Spring Insight",
+        "2029"
+      ],
+      "prefer_verified_template": true,
+      "programmes": [
+        {
+          "canonical_id": "blackrock-2027-spring-insight-emea",
+          "title": "2027 Spring Insight Event — EMEA",
+          "organisation": "BlackRock",
+          "stream": "spring_insight",
+          "lifecycle": "open",
+          "eligibility": "eligible",
+          "primary_action": "Apply",
+          "location": "London or Edinburgh, UK",
+          "start_date": "2027-04",
+          "deadline": "2026-12-04",
+          "deadline_status": "fixed",
+          "deadline_source": "official vacancy",
+          "deadline_verified": true,
+          "rolling": false,
+          "opens_at": null,
+          "summary": "A one-week introduction to BlackRock business areas for students graduating in 2029.",
+          "why_it_fits": "The stated 2029 graduation year matches the candidate's degree dates.",
+          "eligibility_note": "Official page specifies students graduating in 2029.",
+          "next_step": "Apply before 4 December 2026.",
+          "tags": [
+            "first-year",
+            "finance",
+            "technology",
+            "quant"
+          ],
+          "aliases": [
+            "blackrock-spring-insight-2027"
+          ],
+          "requirements": [
+            {
+              "rule": "graduation_year",
+              "value": [
+                2029
+              ],
+              "strength": "required",
+              "evidence": "Official vacancy"
+            }
+          ],
+          "priority_tier": "A",
+          "match_terms": [
+            "2027 spring insight",
+            "2029",
+            "4 december 2026"
+          ]
+        }
+      ],
+      "organisation_id": "blackrock",
+      "sector": "finance",
+      "scan_tier": "high",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "blackrock"
+    },
+    {
+      "id": "blackrock-students",
+      "name": "BlackRock Students and Graduates",
+      "organisation": "BlackRock",
+      "family": "blackrock",
+      "url": "https://careers.blackrock.com/students-and-graduates",
+      "adapter": "html",
+      "include_patterns": [
+        "spring insight",
+        "internship",
+        "student",
+        "technology",
+        "analytics"
+      ],
+      "exclude_patterns": [
+        "graduate"
+      ],
+      "max_detail_pages": 14,
+      "allow_zero": true,
+      "organisation_id": "blackrock",
+      "sector": "finance",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "blackstone-students",
+      "name": "Blackstone Students",
+      "organisation": "Blackstone",
+      "family": "blackstone",
+      "url": "https://www.blackstone.com/careers/students/",
+      "adapter": "html",
+      "include_patterns": [
+        "internship",
+        "summer analyst",
+        "student",
+        "technology"
+      ],
+      "exclude_patterns": [
+        "mba",
+        "associate"
+      ],
+      "max_detail_pages": 12,
+      "allow_zero": true,
+      "organisation_id": "blackstone",
+      "sector": "finance",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "bnp-paribas-students",
+      "name": "BNP Paribas Students",
+      "organisation": "BNP Paribas",
+      "family": "bnp-paribas",
+      "url": "https://group.bnpparibas/en/careers/candidate-student",
+      "adapter": "html",
+      "include_patterns": [
+        "internship",
+        "insight",
+        "student",
+        "technology",
+        "markets"
+      ],
+      "exclude_patterns": [
+        "graduate",
+        "apprentice"
+      ],
+      "max_detail_pages": 14,
+      "allow_zero": true,
+      "organisation_id": "bnp-paribas",
+      "sector": "finance",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "citi-pre-internships",
+      "name": "Citi Careers",
+      "url": "https://jobs.citi.com/early-career-programs-pre-internships",
+      "adapter": "official_html",
+      "organisation_id": "citi",
+      "sector": "finance",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "citi"
+    },
+    {
+      "id": "deutsche-bank-application-dates",
+      "name": "Deutsche Bank Careers",
+      "url": "https://careers.db.com/students-graduates/your-application/",
+      "adapter": "official_html",
+      "organisation_id": "deutsche-bank",
+      "sector": "finance",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "deutsche-bank"
+    },
+    {
+      "id": "evercore-spring-week-2027",
+      "name": "Evercore Europe and Asia Students",
+      "organisation": "Evercore",
+      "url": "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/",
+      "adapter": "html",
+      "stream": "spring_insight",
+      "page_is_listing": false,
+      "expected_terms": [
+        "London Spring Weeks",
+        "April 2027",
+        "1st Year Students"
+      ],
+      "prefer_verified_template": true,
+      "programmes": [
+        {
+          "canonical_id": "evercore-london-spring-weeks-2027",
+          "title": "London Spring Weeks 2027",
+          "organisation": "Evercore",
+          "stream": "spring_insight",
+          "lifecycle": "open",
+          "eligibility": "eligible",
+          "primary_action": "Apply",
+          "location": "London, UK",
+          "start_date": "2027-04",
+          "deadline_status": "none_stated",
+          "summary": "Two three-day Spring Insight sessions in London in April 2027.",
+          "why_it_fits": "The official page labels the 2027 London Spring Weeks for first-year students.",
+          "eligibility_note": "First-year study timing matches.",
+          "next_step": "Use the official application link and verify the closing date.",
+          "tags": [
+            "first-year",
+            "investment banking",
+            "London"
+          ],
+          "requirements": [
+            {
+              "rule": "study_year",
+              "value": [
+                1
+              ],
+              "strength": "required",
+              "evidence": "Official event listing"
+            }
+          ],
+          "priority_tier": "A",
+          "match_terms": [
+            "london spring weeks",
+            "april 2027",
+            "1st year students"
+          ]
+        }
+      ],
+      "organisation_id": "evercore",
+      "sector": "finance",
+      "scan_tier": "high",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "evercore"
+    },
+    {
+      "id": "fidelity-spring",
+      "name": "Fidelity International Careers",
+      "url": "https://careers.fidelityinternational.com/early-careers-overview/interns-and-insights/spring-insight-programme/",
+      "adapter": "official_html",
+      "organisation_id": "fidelity-international",
+      "sector": "finance",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "fidelity-international"
+    },
+    {
+      "id": "goldman-sachs-student-programs",
+      "name": "Goldman Sachs EMEA Summer Analyst Programme",
+      "organisation": "Goldman Sachs",
+      "family": "goldman-sachs",
+      "url": "https://www.goldmansachs.com/careers/students/programs-and-internships/emea/summer-analyst-programme",
+      "adapter": "html",
+      "stream": "internships",
+      "include_patterns": [
+        "summer analyst",
+        "internship",
+        "engineering",
+        "quantitative"
+      ],
+      "page_is_listing": false,
+      "allow_zero": true,
+      "organisation_id": "goldman-sachs",
+      "sector": "finance",
+      "scan_tier": "daily",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "houlihan-lokey-europe-internships",
+      "name": "Houlihan Lokey Europe Internships",
+      "organisation": "Houlihan Lokey",
+      "family": "houlihan-lokey",
+      "url": "https://hl.com/careers/early-careers/internships-europe/",
+      "adapter": "html",
+      "stream": "internships",
+      "page_is_listing": false,
+      "allow_zero": true,
+      "organisation_id": "houlihan-lokey",
+      "sector": "finance",
+      "scan_tier": "daily",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "hsbc-student-programmes",
+      "name": "HSBC Student Programmes",
+      "organisation": "HSBC",
+      "family": "hsbc",
+      "url": "https://www.hsbc.com/careers/students-and-graduates/find-a-programme",
+      "adapter": "html",
+      "include_patterns": [
+        "insight",
+        "internship",
+        "engineering",
+        "data",
+        "markets",
+        "technology"
+      ],
+      "exclude_patterns": [
+        "graduate",
+        "apprentice",
+        "school"
+      ],
+      "max_detail_pages": 18,
+      "allow_zero": true,
+      "organisation_id": "hsbc",
+      "sector": "finance",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "jefferies-students",
+      "name": "Jefferies Students and Graduates",
+      "organisation": "Jefferies",
+      "family": "jefferies",
+      "url": "https://www.jefferies.com/careers/students-and-graduates/",
+      "adapter": "html",
+      "include_patterns": [
+        "internship",
+        "insight",
+        "student",
+        "markets",
+        "technology"
+      ],
+      "exclude_patterns": [
+        "graduate",
+        "mba"
+      ],
+      "max_detail_pages": 14,
+      "allow_zero": true,
+      "organisation_id": "jefferies",
+      "sector": "finance",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "jpmorgan-student-opportunities",
+      "name": "JPMorgan Student Programs",
+      "organisation": "JPMorgan Chase",
+      "url": "https://careers.jpmorgan.com/global/en/students/programs",
+      "adapter": "html",
+      "include_patterns": [
+        "spring",
+        "insight",
+        "internship",
+        "technology"
+      ],
+      "organisation_id": "j-p-morgan",
+      "sector": "finance",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "j-p-morgan"
+    },
+    {
+      "id": "lazard-spring-insight-2027",
+      "name": "Lazard UK Early Careers",
+      "organisation": "Lazard",
+      "url": "https://www.lazard.com/about-lazard/locations/united-kingdom/careers-in-the-united-kingdom/early-career-programmes-in-the-uk/",
+      "adapter": "html",
+      "stream": "spring_insight",
+      "page_is_listing": false,
+      "expected_terms": [
+        "2027 Spring Insight",
+        "later in 2026",
+        "rolling"
+      ],
+      "prefer_verified_template": true,
+      "programmes": [
+        {
+          "canonical_id": "lazard-london-spring-insight-2027",
+          "title": "London Spring Insight 2027",
+          "organisation": "Lazard",
+          "stream": "spring_insight",
+          "lifecycle": "officially_announced",
+          "eligibility": "eligible",
+          "primary_action": "Apply",
+          "location": "London, UK",
+          "start_date": "2027-spring",
+          "deadline_status": "rolling",
+          "rolling": true,
+          "opens_at": "2026",
+          "summary": "Lazard states that applications open later in 2026 and are reviewed rolling.",
+          "why_it_fits": "The prior/current official criteria describe the Spring Insight route for first-year undergraduates.",
+          "eligibility_note": "Confirm the 2027 vacancy's graduation-year wording when it launches.",
+          "next_step": "Prepare now; apply immediately when the official vacancy opens because recruitment is rolling.",
+          "tags": [
+            "first-year",
+            "advisory",
+            "rolling"
+          ],
+          "requirements": [
+            {
+              "rule": "study_year",
+              "value": [
+                1
+              ],
+              "strength": "required",
+              "evidence": "Official Spring Insight criteria"
+            }
+          ],
+          "priority_tier": "B",
+          "match_terms": [
+            "2027 spring insight",
+            "later in 2026",
+            "rolling"
+          ]
+        }
+      ],
+      "organisation_id": "lazard",
+      "sector": "finance",
+      "scan_tier": "high",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "lazard"
+    },
+    {
+      "id": "macquarie-uk-early-careers",
+      "name": "Macquarie UK Early Careers FAQ",
+      "organisation": "Macquarie",
+      "url": "https://www.macquarie.com/uk/en/careers/faqs.html",
+      "adapter": "html",
+      "stream": "spring_insight",
+      "page_is_listing": false,
+      "expected_terms": [
+        "Insight Programmes: Open 12 October 2026",
+        "completing your studies in 2029"
+      ],
+      "programmes": [
+        {
+          "canonical_id": "macquarie-uk-spring-insight-2027",
+          "title": "UK Spring Insight Programme 2027",
+          "organisation": "Macquarie",
+          "stream": "spring_insight",
+          "lifecycle": "officially_announced",
+          "eligibility": "eligible",
+          "primary_action": "Apply",
+          "location": "London, UK",
+          "start_date": "2027-spring",
+          "deadline": "2026-11-30",
+          "deadline_status": "fixed",
+          "deadline_source": "Macquarie UK FAQ",
+          "deadline_verified": true,
+          "rolling": true,
+          "opens_at": "2026-10-12",
+          "summary": "Five-day Spring Insight Programme with applications opening 12 October and closing 30 November 2026.",
+          "why_it_fits": "The current UK FAQ explicitly requires 2029 graduation and first year of a three-year course.",
+          "eligibility_note": "Current UK FAQ matches the known degree dates; other regional/older pages describe different cycles and must not override it.",
+          "next_step": "Prepare before 12 October and apply early because Macquarie recruits rolling.",
+          "tags": [
+            "first-year",
+            "finance",
+            "rolling",
+            "source conflict resolved"
+          ],
+          "requirements": [
+            {
+              "rule": "graduation_year",
+              "value": [
+                2029
+              ],
+              "strength": "required",
+              "evidence": "Current Macquarie UK FAQ"
+            },
+            {
+              "rule": "study_year",
+              "value": [
+                1
+              ],
+              "strength": "required",
+              "evidence": "Current Macquarie UK FAQ"
+            }
+          ],
+          "source_conflict": true,
+          "review_reasons": [
+            "Older or non-UK official pages expose different cycle criteria; current UK FAQ is authoritative"
+          ],
+          "priority_tier": "B",
+          "match_terms": [
+            "open 12 october 2026",
+            "studies in 2029"
+          ]
+        }
+      ],
+      "organisation_id": "macquarie-group",
+      "sector": "finance",
+      "scan_tier": "high",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "macquarie-group"
+    },
+    {
+      "id": "moelis-analyst-programmes",
+      "name": "Moelis Analyst Programmes",
+      "organisation": "Moelis",
+      "family": "moelis",
+      "url": "https://www.moelis.com/careers/explore-opportunities/",
+      "adapter": "html",
+      "include_patterns": [
+        "internship",
+        "summer analyst",
+        "student",
+        "insight"
+      ],
+      "exclude_patterns": [
+        "mba",
+        "associate"
+      ],
+      "max_detail_pages": 10,
+      "allow_zero": true,
+      "organisation_id": "moelis-co",
+      "sector": "finance",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "morgan-stanley-uk-students",
+      "name": "Morgan Stanley UK Students",
+      "organisation": "Morgan Stanley",
+      "url": "https://www.morganstanley.com/people-opportunities/students-graduates",
+      "adapter": "html",
+      "include_patterns": [
+        "spring",
+        "insight",
+        "internship",
+        "technology"
+      ],
+      "organisation_id": "morgan-stanley",
+      "sector": "finance",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "morgan-stanley"
+    },
+    {
+      "id": "nomura-emea-careers",
+      "name": "Nomura EMEA Careers",
+      "organisation": "Nomura",
+      "family": "nomura",
+      "url": "https://www.nomura.com/europe/careers/",
+      "adapter": "html",
+      "include_patterns": [
+        "internship",
+        "insight",
+        "student",
+        "technology",
+        "markets"
+      ],
+      "exclude_patterns": [
+        "graduate"
+      ],
+      "max_detail_pages": 12,
+      "allow_zero": true,
+      "organisation_id": "nomura",
+      "sector": "finance",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "rbc-students",
+      "name": "RBC UK and Europe Students",
+      "organisation": "RBC",
+      "family": "rbc",
+      "url": "https://jobs.rbc.com/ca/en/uk-europe-ci",
+      "adapter": "html",
+      "include_patterns": [
+        "internship",
+        "analyst",
+        "student",
+        "technology",
+        "markets"
+      ],
+      "exclude_patterns": [
+        "graduate"
+      ],
+      "max_detail_pages": 10,
+      "allow_zero": true,
+      "organisation_id": "rbc-capital-markets",
+      "sector": "finance",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "rothschild-spring-2027",
+      "name": "Rothschild & Co Careers",
+      "url": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2027-uk-global-advisory-spring-insight-programme/",
+      "adapter": "official_html",
+      "organisation_id": "rothschild-co",
+      "sector": "finance",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "rothschild-co"
+    },
+    {
+      "id": "santander-early-careers",
+      "name": "Santander UK Early Careers",
+      "organisation": "Santander",
+      "family": "santander",
+      "url": "https://www.santandercareers.co.uk/early-careers/",
+      "adapter": "html",
+      "include_patterns": [
+        "internship",
+        "insight",
+        "student",
+        "technology",
+        "data"
+      ],
+      "exclude_patterns": [
+        "graduate",
+        "apprentice"
+      ],
+      "max_detail_pages": 12,
+      "allow_zero": true,
+      "organisation_id": "santander",
+      "sector": "finance",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "socgen-students",
+      "name": "Societe Generale Students and Graduates",
+      "organisation": "Societe Generale",
+      "family": "societe-generale",
+      "url": "https://careers.societegenerale.com/en/students-graduates",
+      "adapter": "html",
+      "include_patterns": [
+        "internship",
+        "insight",
+        "student",
+        "technology",
+        "markets"
+      ],
+      "exclude_patterns": [
+        "graduate"
+      ],
+      "max_detail_pages": 10,
+      "allow_zero": true,
+      "organisation_id": "societe-generale",
+      "sector": "finance",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true
+    },
+    {
+      "id": "ubs-tomorrows-talent",
+      "name": "UBS Careers",
+      "url": "https://www.ubs.com/global/en/careers/early-careers/tomorrows-talent-program.html",
+      "adapter": "official_html",
+      "organisation_id": "ubs",
+      "sector": "finance",
+      "scan_tier": "weekly",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "ubs"
+    },
+    {
+      "id": "wells-fargo-spring-week-2027",
+      "name": "Wells Fargo EMEA Spring Week",
+      "organisation": "Wells Fargo",
+      "url": "https://www.wellsfargojobs.com/en/early-careers/international-programs/emea-programs/emea-spring-week/",
+      "adapter": "html",
+      "stream": "spring_insight",
+      "page_is_listing": false,
+      "expected_terms": [
+        "April",
+        "2027",
+        "first year"
+      ],
+      "programmes": [
+        {
+          "canonical_id": "wells-fargo-emea-spring-week-2027",
+          "title": "EMEA Spring Week 2027",
+          "organisation": "Wells Fargo",
+          "stream": "spring_insight",
+          "lifecycle": "unknown",
+          "eligibility": "eligible",
+          "primary_action": "Explore",
+          "location": "London, UK",
+          "start_date": "2027-04",
+          "deadline_status": "unknown",
+          "summary": "London Spring Week scheduled for April 2027.",
+          "why_it_fits": "Official criteria include first-year students on a three-year course.",
+          "eligibility_note": "Degree timing matches the stated first-year route.",
+          "next_step": "Monitor the official page for an application action and deadline.",
+          "tags": [
+            "first-year",
+            "finance",
+            "London"
+          ],
+          "requirements": [
+            {
+              "rule": "study_year",
+              "value": [
+                1
+              ],
+              "strength": "required",
+              "evidence": "Official programme criteria"
+            }
+          ],
+          "priority_tier": "B",
+          "match_terms": [
+            "april",
+            "2027",
+            "first year"
+          ]
+        }
+      ],
+      "organisation_id": "wells-fargo",
+      "sector": "finance",
+      "scan_tier": "high",
+      "provenance": "curated_official_registry",
+      "resolution_status": "resolved",
+      "enabled": true,
+      "family": "wells-fargo"
+    }
+  ]
+}

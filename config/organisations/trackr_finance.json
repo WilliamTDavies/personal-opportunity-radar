@@ -1,0 +1,6735 @@
+{
+  "schema_version": 1,
+  "organisations": [
+    {
+      "id": "-inverto",
+      "name": "Inverto",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/-inverto"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "7im",
+      "name": "7IM",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/7im"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "aab-group",
+      "name": "AAB Group",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/aab-group"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "aberdeen-group",
+      "name": "Aberdeen Group",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/aberdeen-group"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "abn-amro",
+      "name": "ABN AMRO",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/abn-amro"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "accuracy",
+      "name": "Accuracy",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/accuracy"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "aegon",
+      "name": "Aegon",
+      "sectors": [
+        "finance",
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/aegon"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "affinius-capital",
+      "name": "Affinius Capital",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/affinius-capital"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "aig",
+      "name": "AIG",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/aig"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "aj-bell",
+      "name": "AJ Bell",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/aj-bell"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "alantra",
+      "name": "Alantra",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/alantra"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "allia-c-c",
+      "name": "Allia C&C",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/allia-c-c"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "alliancebernstein",
+      "name": "AllianceBernstein",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/alliancebernstein"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "allianz-insurance",
+      "name": "Allianz Insurance",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/allianz-insurance"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "allied-world",
+      "name": "Allied World",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/allied-world"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "alpha-fmc",
+      "name": "Alpha FMC",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/alpha-fmc"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "alphasights",
+      "name": "AlphaSights",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/alphasights"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "altana-wealth",
+      "name": "Altana Wealth",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/altana-wealth"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "alvarez-marsal",
+      "name": "Alvarez & Marsal",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/alvarez-marsal"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "alvine-capital",
+      "name": "Alvine Capital",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/alvine-capital"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/amazon"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "american-express",
+      "name": "American Express",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/american-express"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "amplifyme",
+      "name": "AmplifyME",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/amplifyme"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "analysys-mason",
+      "name": "Analysys Mason",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/analysys-mason"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ankura",
+      "name": "Ankura",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ankura"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "aon",
+      "name": "Aon",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/aon"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/apple"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "aquatic-capital-management",
+      "name": "Aquatic Capital Management",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/aquatic-capital-management"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "arbuthnot-latham",
+      "name": "Arbuthnot Latham",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/arbuthnot-latham"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "arch-insurance-international",
+      "name": "Arch Insurance International",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/arch-insurance-international"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ardea-partners",
+      "name": "Ardea Partners",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ardea-partners"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "arena-investors",
+      "name": "Arena Investors",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/arena-investors"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ares-management",
+      "name": "Ares Management",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ares-management"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "arkle-finance",
+      "name": "Arkle Finance",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/arkle-finance"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "aspect-capital",
+      "name": "Aspect Capital",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/aspect-capital"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "astrazeneca",
+      "name": "AstraZeneca",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/astrazeneca"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "atlanta-wealth",
+      "name": "Atlanta Wealth",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/atlanta-wealth"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "atlas-holdings",
+      "name": "Atlas Holdings",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/atlas-holdings"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "audit-scotland",
+      "name": "Audit Scotland",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/audit-scotland"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "australiansuper",
+      "name": "AustralianSuper",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/australiansuper"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "aventum-group",
+      "name": "Aventum Group",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/aventum-group"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "axa",
+      "name": "AXA",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/axa"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "azets",
+      "name": "Azets",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/azets"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bae-systems",
+      "name": "BAE Systems",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bae-systems"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bain-company",
+      "name": "Bain & Company",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bain-company"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "baird",
+      "name": "Baird",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/baird"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "baker-hughes",
+      "name": "Baker Hughes",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/baker-hughes"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "balyasny-asset-management",
+      "name": "Balyasny Asset Management",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/balyasny-asset-management"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bank-of-america",
+      "name": "Bank of America",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bank-of-america"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "bank-of-england",
+      "name": "Bank of England",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bank-of-england"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "barclays",
+      "name": "Barclays",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/barclays"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "baringa",
+      "name": "Baringa",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/baringa"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "barings",
+      "name": "Barings",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/barings"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "barnett-waddingham",
+      "name": "Barnett Waddingham",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/barnett-waddingham"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bastion-trading",
+      "name": "Bastion Trading",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bastion-trading"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bbva",
+      "name": "BBVA",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bbva"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bcg",
+      "name": "BCG",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bcg"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bdo-global",
+      "name": "BDO Global",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bdo-global"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "berenberg",
+      "name": "Berenberg",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/berenberg"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bgf",
+      "name": "BGF",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bgf"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "blackfinch-group",
+      "name": "Blackfinch Group",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/blackfinch-group"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "blackrock",
+      "name": "BlackRock",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/blackrock"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "blackstone",
+      "name": "Blackstone",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/blackstone"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "blockchain-com",
+      "name": "Blockchain.com",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/blockchain-com"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bloomberg",
+      "name": "Bloomberg",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bloomberg"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bmll",
+      "name": "BMLL",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bmll"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bmo-capital-markets",
+      "name": "BMO Capital Markets",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bmo-capital-markets"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bnp-paribas",
+      "name": "BNP Paribas",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bnp-paribas"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "bny-mellon",
+      "name": "BNY Mellon",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bny-mellon"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bp",
+      "name": "BP",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bp"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "brevan-howard",
+      "name": "Brevan Howard",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/brevan-howard"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "brio-real-estate",
+      "name": "Brio Real Estate",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/brio-real-estate"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "british-airways",
+      "name": "British Airways",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/british-airways"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "british-business-bank",
+      "name": "British Business Bank",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/british-business-bank"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "british-land",
+      "name": "British Land",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/british-land"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "btg-pactual",
+      "name": "BTG Pactual",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/btg-pactual"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "btig",
+      "name": "BTIG",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/btig"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "burford-capital",
+      "name": "Burford Capital",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/burford-capital"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "cabot-properties",
+      "name": "Cabot Properties",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/cabot-properties"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "caledonia-investments",
+      "name": "Caledonia Investments",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/caledonia-investments"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "cambridge-associates",
+      "name": "Cambridge Associates",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/cambridge-associates"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "campbell-lutyens",
+      "name": "Campbell Lutyens",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/campbell-lutyens"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "canada-life",
+      "name": "Canada Life",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/canada-life"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "canary-wharf-group",
+      "name": "Canary Wharf Group",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/canary-wharf-group"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "capgemini",
+      "name": "Capgemini",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/capgemini"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "capital-group",
+      "name": "Capital Group",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/capital-group"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "capital-one",
+      "name": "Capital One",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/capital-one"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "capstone",
+      "name": "Capstone",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/capstone"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "capula-investment-management",
+      "name": "Capula Investment Management",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/capula-investment-management"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "carter-jonas",
+      "name": "Carter Jonas",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/carter-jonas"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "castleton-commodities-international",
+      "name": "Castleton Commodities International",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/castleton-commodities-international"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "caxton-associates",
+      "name": "Caxton Associates",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/caxton-associates"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "cboe-global-markets",
+      "name": "Cboe Global Markets",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/cboe-global-markets"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "cbre",
+      "name": "CBRE",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/cbre"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "cd-r",
+      "name": "CD&R",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/cd-r"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "centerview-partners",
+      "name": "Centerview Partners",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/centerview-partners"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "centrica",
+      "name": "Centrica",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/centrica"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "cfc",
+      "name": "CFC",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/cfc"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "cfo-insights",
+      "name": "CFO Insights",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/cfo-insights"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "charities-aid-foundation",
+      "name": "Charities Aid Foundation",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/charities-aid-foundation"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "charles-river-associates",
+      "name": "Charles River Associates",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/charles-river-associates"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "chatham-financial",
+      "name": "Chatham Financial",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/chatham-financial"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "chicago-trading-company",
+      "name": "Chicago Trading Company",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/chicago-trading-company"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "cibc",
+      "name": "CIBC",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/cibc"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "citadel",
+      "name": "Citadel",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/citadel"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "citadel-securities",
+      "name": "Citadel Securities",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/citadel-securities"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "citco",
+      "name": "Citco",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/citco"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "citi",
+      "name": "Citi",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/citi"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "citic-clsa",
+      "name": "CITIC CLSA",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/citic-clsa"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "clarksons",
+      "name": "Clarksons",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/clarksons"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "climate-investment",
+      "name": "Climate Investment",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/climate-investment"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/coinbase"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "colliers",
+      "name": "Colliers",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/colliers"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "columbia-threadneedle-investments",
+      "name": "Columbia Threadneedle Investments",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/columbia-threadneedle-investments"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "compass-lexecon",
+      "name": "Compass Lexecon",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/compass-lexecon"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "compound-equity-group",
+      "name": "Compound Equity Group",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/compound-equity-group"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "convex-insurance",
+      "name": "Convex Insurance",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/convex-insurance"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "copper-co",
+      "name": "Copper.co",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/copper-co"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "credit-agricole",
+      "name": "Crédit Agricole",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/credit-agricole"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ct-accountants-advisers",
+      "name": "CT: Accountants Advisers",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ct-accountants-advisers"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "cushman-wakefield",
+      "name": "Cushman & Wakefield",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/cushman-wakefield"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "cygnum-capital",
+      "name": "Cygnum Capital",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/cygnum-capital"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "d-e-shaw",
+      "name": "D.E. Shaw",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/d-e-shaw"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "da-vinci-trading",
+      "name": "Da Vinci Trading",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/da-vinci-trading"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "dare",
+      "name": "Dare",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/dare"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "dc-advisory",
+      "name": "DC Advisory",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/dc-advisory"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "dealglobe",
+      "name": "DealGlobe",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/dealglobe"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "deloitte",
+      "name": "Deloitte",
+      "sectors": [
+        "finance",
+        "technology",
+        "law"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/deloitte"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "deutsche-bank",
+      "name": "Deutsche Bank",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/deutsche-bank"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "dimensional-fund-advisors",
+      "name": "Dimensional Fund Advisors",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/dimensional-fund-advisors"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "dow-jones",
+      "name": "Dow Jones",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/dow-jones"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "drw",
+      "name": "DRW",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/drw"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "dv-trading",
+      "name": "DV Trading",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/dv-trading"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "dws",
+      "name": "DWS",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/dws"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "e-on",
+      "name": "E.ON",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/e-on"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "eastdil-secured",
+      "name": "Eastdil Secured",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/eastdil-secured"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ebrd",
+      "name": "EBRD",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ebrd"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "edf-trading",
+      "name": "EDF Trading",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/edf-trading"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "enstar-group",
+      "name": "Enstar Group",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/enstar-group"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "eq",
+      "name": "EQ",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/eq"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "eqt",
+      "name": "EQT",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/eqt"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "equinor",
+      "name": "Equinor",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/equinor"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "equitix",
+      "name": "Equitix",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/equitix"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ethical-capital-partners",
+      "name": "Ethical Capital Partners",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ethical-capital-partners"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "evercore",
+      "name": "Evercore",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/evercore"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "everest",
+      "name": "Everest",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/everest"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "exoduspoint",
+      "name": "ExodusPoint",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/exoduspoint"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ey",
+      "name": "EY",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ey"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ey-parthenon",
+      "name": "EY-Parthenon",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ey-parthenon"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "factset",
+      "name": "FactSet",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/factset"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "fenchurch-advisory",
+      "name": "Fenchurch Advisory",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/fenchurch-advisory"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "fide-partners",
+      "name": "Fide Partners",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/fide-partners"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "fidelity",
+      "name": "Fidelity Investments",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/fidelity"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "fidelity-international",
+      "name": "Fidelity International",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/fidelity-international"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "financial-conduct-authority",
+      "name": "Financial Conduct Authority",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/financial-conduct-authority"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "first-actuarial",
+      "name": "First Actuarial",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/first-actuarial"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "first-bank-of-nigeria",
+      "name": "First Bank of Nigeria",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/first-bank-of-nigeria"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "first-wealth",
+      "name": "First Wealth",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/first-wealth"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "flow-traders",
+      "name": "Flow Traders",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/flow-traders"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "flowdesk",
+      "name": "Flowdesk",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/flowdesk"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "forvis-mazars",
+      "name": "Forvis Mazars",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/forvis-mazars"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "franklin-templeton",
+      "name": "Franklin Templeton",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/franklin-templeton"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "frontier-economics",
+      "name": "Frontier Economics",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/frontier-economics"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "fti-consulting",
+      "name": "FTI Consulting",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/fti-consulting"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "future-planet-capital",
+      "name": "Future Planet Capital",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/future-planet-capital"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "g-research",
+      "name": "G-Research",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/g-research"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "galaxy",
+      "name": "Galaxy",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/galaxy"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "gartner",
+      "name": "Gartner",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/gartner"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "general-atlantic",
+      "name": "General Atlantic",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/general-atlantic"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "general-electric",
+      "name": "General Electric",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/general-electric"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "genesis-quant-capital",
+      "name": "Genesis Quant Capital",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/genesis-quant-capital"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "gep",
+      "name": "GEP",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/gep"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "gic",
+      "name": "GIC",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/gic"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "gleacher-shacklock",
+      "name": "Gleacher Shacklock",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/gleacher-shacklock"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "glg",
+      "name": "GLG",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/glg"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "global-gate",
+      "name": "Global Gate",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/global-gate"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "global-infrastructure-advisors",
+      "name": "Global Infrastructure Advisors",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/global-infrastructure-advisors"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "gneiss-energy",
+      "name": "Gneiss Energy",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/gneiss-energy"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "goldman-sachs",
+      "name": "Goldman Sachs",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/goldman-sachs"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "google",
+      "name": "Google",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/google"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "government-economic-service",
+      "name": "Government Economic Service",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/government-economic-service"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "gp-bullhound",
+      "name": "GP Bullhound",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/gp-bullhound"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "gpfs",
+      "name": "GPFS",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/gpfs"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "grant-thornton",
+      "name": "Grant Thornton",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/grant-thornton"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "greenhill",
+      "name": "Greenhill",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/greenhill"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "greystar",
+      "name": "Greystar",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/greystar"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "grosvenor",
+      "name": "Grosvenor",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/grosvenor"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "gsa-capital",
+      "name": "GSA Capital",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/gsa-capital"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "guggenheim-partners",
+      "name": "Guggenheim Partners",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/guggenheim-partners"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "guidehouse",
+      "name": "Guidehouse",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/guidehouse"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "gunvor",
+      "name": "Gunvor",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/gunvor"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "hamilton-insurance-group",
+      "name": "Hamilton Insurance Group",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/hamilton-insurance-group"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "hamilton-lane",
+      "name": "Hamilton Lane",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/hamilton-lane"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "handelsbanken",
+      "name": "Handelsbanken",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/handelsbanken"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "harris-williams",
+      "name": "Harris Williams",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/harris-williams"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "harrison-street",
+      "name": "Harrison Street",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/harrison-street"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "hayfin-capital-management",
+      "name": "Hayfin Capital Management",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/hayfin-capital-management"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "hdi-global",
+      "name": "HDI Global",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/hdi-global"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "hines",
+      "name": "Hines",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/hines"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "hiscox",
+      "name": "Hiscox",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/hiscox"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "houlihan-lokey",
+      "name": "Houlihan Lokey",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/houlihan-lokey"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "howden",
+      "name": "Howden",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/howden"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "hsbc",
+      "name": "HSBC",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/hsbc"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "hudson-river-trading",
+      "name": "Hudson River Trading",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/hudson-river-trading"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "hymans-robertson",
+      "name": "Hymans Robertson",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/hymans-robertson"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ice",
+      "name": "ICE",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ice"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "imc-trading",
+      "name": "IMC Trading",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/imc-trading"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "infrared-capital-partners",
+      "name": "InfraRed Capital Partners",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/infrared-capital-partners"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "inizio-ignite",
+      "name": "Inizio Ignite",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/inizio-ignite"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "insurance-advisory-partners",
+      "name": "Insurance Advisory Partners",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/insurance-advisory-partners"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "interpath-advisory",
+      "name": "Interpath Advisory",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/interpath-advisory"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "intriva",
+      "name": "Intriva",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/intriva"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "investec",
+      "name": "Investec",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/investec"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "iqt",
+      "name": "IQT",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/iqt"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "isam",
+      "name": "iSAM",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/isam"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "isio",
+      "name": "Isio",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/isio"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ithaca-energy",
+      "name": "Ithaca Energy",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ithaca-energy"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "j-p-morgan",
+      "name": "J.P. Morgan",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/j-p-morgan"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "jane-street",
+      "name": "Jane Street",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/jane-street"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "javelin-global-commodities",
+      "name": "Javelin Global Commodities",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/javelin-global-commodities"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "jefferies",
+      "name": "Jefferies",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/jefferies"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "jll",
+      "name": "JLL",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/jll"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "johnston-carmichael",
+      "name": "Johnston Carmichael",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/johnston-carmichael"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "julius-baer",
+      "name": "Julius Baer",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/julius-baer"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "jump-trading",
+      "name": "Jump Trading",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/jump-trading"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "just",
+      "name": "Just",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/just"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "kline-hill-partners",
+      "name": "Kline Hill Partners",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/kline-hill-partners"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "knight-frank",
+      "name": "Knight Frank",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/knight-frank"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "korn-ferry",
+      "name": "Korn Ferry",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/korn-ferry"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "kpmg",
+      "name": "KPMG",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/kpmg"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "kr8-advisory",
+      "name": "KR8 Advisory",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/kr8-advisory"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "l-e-k-consulting",
+      "name": "L.E.K. Consulting",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/l-e-k-consulting"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "l-oreal",
+      "name": "L'Oréal",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/l-oreal"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "lasalle",
+      "name": "LaSalle",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/lasalle"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "lazard",
+      "name": "Lazard",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/lazard"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "lazard-asset-management",
+      "name": "Lazard Asset Management",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/lazard-asset-management"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "lcp",
+      "name": "LCP",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/lcp"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "leerink-partners",
+      "name": "Leerink Partners",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/leerink-partners"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "legal-general",
+      "name": "Legal & General",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/legal-general"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "lendable",
+      "name": "Lendable",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/lendable"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "lenovo",
+      "name": "Lenovo",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/lenovo"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "leo-crown-estates",
+      "name": "Leo-Crown Estates",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/leo-crown-estates"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "liberty-global",
+      "name": "Liberty Global",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/liberty-global"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "lincoln-international",
+      "name": "Lincoln International",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/lincoln-international"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "liontree",
+      "name": "LionTree",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/liontree"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "liquidnet",
+      "name": "Liquidnet",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/liquidnet"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "lloyds-banking-group",
+      "name": "Lloyds Banking Group",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/lloyds-banking-group"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "lmr-partners",
+      "name": "LMR Partners",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/lmr-partners"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "lockton",
+      "name": "Lockton",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/lockton"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "loizou-co",
+      "name": "Loizou & Co",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/loizou-co"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "london-stock-exchange-group",
+      "name": "London Stock Exchange Group",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/london-stock-exchange-group"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "m-g",
+      "name": "M&G",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/m-g"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "macquarie-group",
+      "name": "Macquarie Group",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/macquarie-group"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "macro-hive",
+      "name": "Macro Hive",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/macro-hive"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "mako-trading",
+      "name": "Mako Trading",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/mako-trading"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "man-group",
+      "name": "Man Group",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/man-group"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "markel",
+      "name": "Markel",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/markel"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "marketaxess",
+      "name": "MarketAxess",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/marketaxess"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "marsh-mclennan",
+      "name": "Marsh McLennan",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/marsh-mclennan"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "marshall-wace",
+      "name": "Marshall Wace",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/marshall-wace"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "maven-securities",
+      "name": "Maven Securities",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/maven-securities"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "mckinsey-company",
+      "name": "McKinsey & Company",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/mckinsey-company"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "menzies",
+      "name": "Menzies",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/menzies"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "mercer",
+      "name": "Mercer",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/mercer"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "mfs",
+      "name": "MFS",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/mfs"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "midland-heart",
+      "name": "Midland Heart",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/midland-heart"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "millennium-management",
+      "name": "Millennium Management",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/millennium-management"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "mizuho",
+      "name": "Mizuho",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/mizuho"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "mki-global-partners",
+      "name": "MKI Global Partners",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/mki-global-partners"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "moelis-co",
+      "name": "Moelis & Co",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/moelis-co"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "moody-s",
+      "name": "Moody's",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/moody-s"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "morgan-stanley",
+      "name": "Morgan Stanley",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/morgan-stanley"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "mufg",
+      "name": "MUFG",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/mufg"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "munich-re",
+      "name": "Munich Re",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/munich-re"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "national-bank",
+      "name": "National Bank of Canada",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/national-bank"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "nationwide",
+      "name": "Nationwide",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/nationwide"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "natrium-capital",
+      "name": "Natrium Capital",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/natrium-capital"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "natwest-markets",
+      "name": "NatWest Markets",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/natwest-markets"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ncr-atleos",
+      "name": "NCR Atleos",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ncr-atleos"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "near-future-limited",
+      "name": "Near Future",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/near-future-limited"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "nera",
+      "name": "NERA",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/nera"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "network-rail",
+      "name": "Network Rail",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/network-rail"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "neuberger-berman",
+      "name": "Neuberger Berman",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/neuberger-berman"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "newton",
+      "name": "Newton",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/newton"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "nextwave-consulting",
+      "name": "NextWave Consulting",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/nextwave-consulting"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "nfu-mutual",
+      "name": "NFU Mutual",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/nfu-mutual"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "nomura",
+      "name": "Nomura",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/nomura"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "norges-bank",
+      "name": "Norges Bank",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/norges-bank"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "northern-trust",
+      "name": "Northern Trust",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/northern-trust"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "nuveen",
+      "name": "Nuveen",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/nuveen"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "oak-hill-advisors",
+      "name": "Oak Hill Advisors",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/oak-hill-advisors"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "oc-c",
+      "name": "OC&C",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/oc-c"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "oliver-wyman",
+      "name": "Oliver Wyman",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/oliver-wyman"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "optiver",
+      "name": "Optiver",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/optiver"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "oracle",
+      "name": "Oracle",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/oracle"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "orbis",
+      "name": "Orbis",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/orbis"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "oxera",
+      "name": "Oxera",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/oxera"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "p-g",
+      "name": "P&G",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/p-g"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "panmure-liberum",
+      "name": "Panmure Liberum",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/panmure-liberum"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "patrizia",
+      "name": "Patrizia",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/patrizia"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "peel-hunt",
+      "name": "Peel Hunt",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/peel-hunt"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "pension-insurance-corporation",
+      "name": "Pension Insurance Corporation",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/pension-insurance-corporation"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "perella-weinberg-partners",
+      "name": "Perella Weinberg Partners",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/perella-weinberg-partners"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "pgim",
+      "name": "PGIM",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/pgim"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "pharus",
+      "name": "Pharus",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/pharus"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "pictet-asset-management",
+      "name": "Pictet Asset Management",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/pictet-asset-management"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "pimco",
+      "name": "PIMCO",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/pimco"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "piper-sandler",
+      "name": "Piper Sandler",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/piper-sandler"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "pjt-partners",
+      "name": "PJT Partners",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/pjt-partners"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "pkf-littlejohn",
+      "name": "PKF Littlejohn",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/pkf-littlejohn"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "pkf-smith-cooper",
+      "name": "PKF Smith Cooper",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/pkf-smith-cooper"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "platinum-peak-holdings",
+      "name": "Platinum Peak Holdings Ltd",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/platinum-peak-holdings"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "plural-strategy",
+      "name": "Plural Strategy",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/plural-strategy"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "point72",
+      "name": "Point72",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/point72"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "principal-asset-management",
+      "name": "Principal Asset Management",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/principal-asset-management"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "private-equity-insights",
+      "name": "Private Equity Insights",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/private-equity-insights"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "proxima",
+      "name": "Proxima",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/proxima"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "putnam",
+      "name": "Putnam",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/putnam"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "pwc",
+      "name": "PwC",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/pwc"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "qatalyst-partners",
+      "name": "Qatalyst Partners",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/qatalyst-partners"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "quadrature",
+      "name": "Quadrature",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/quadrature"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "quantbot-technologies",
+      "name": "Quantbot Technologies",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/quantbot-technologies"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "quantuma",
+      "name": "Quantuma",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/quantuma"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "qube-rt",
+      "name": "Qube RT",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/qube-rt"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "raine-group",
+      "name": "Raine Group",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/raine-group"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "raymond-james",
+      "name": "Raymond James",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/raymond-james"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "rbc-capital-markets",
+      "name": "RBC Capital Markets",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/rbc-capital-markets"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "redburn",
+      "name": "Redburn",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/redburn"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "rede-partners",
+      "name": "Rede Partners",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/rede-partners"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "retail-insights",
+      "name": "Retail Insights",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/retail-insights"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "revolut",
+      "name": "Revolut",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/revolut"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ripple",
+      "name": "Ripple",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ripple"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "rokos-capital-management",
+      "name": "Rokos Capital Management",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/rokos-capital-management"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "roland-berger",
+      "name": "Roland Berger",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/roland-berger"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "rothesay",
+      "name": "Rothesay",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/rothesay"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "rothschild-co",
+      "name": "Rothschild & Co.",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/rothschild-co"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "royal-london",
+      "name": "Royal London",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/royal-london"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "rsm",
+      "name": "RSM",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/rsm"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "rwe",
+      "name": "RWE",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/rwe"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ryan",
+      "name": "Ryan",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ryan"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ryan-specialty",
+      "name": "Ryan Specialty",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ryan-specialty"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "rystad-energy",
+      "name": "Rystad Energy",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/rystad-energy"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "s-p-global",
+      "name": "S&P Global",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/s-p-global"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "s-w",
+      "name": "S&W",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/s-w"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "saffery",
+      "name": "Saffery",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/saffery"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "saltgate",
+      "name": "Saltgate",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/saltgate"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "santander",
+      "name": "Santander",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/santander"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "savills",
+      "name": "Savills",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/savills"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "schonfeld",
+      "name": "Schonfeld",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/schonfeld"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "schroders",
+      "name": "Schroders",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/schroders"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "scotiabank",
+      "name": "Scotiabank",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/scotiabank"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "severn-trent",
+      "name": "Severn Trent",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/severn-trent"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "shell",
+      "name": "Shell",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/shell"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "silvertide",
+      "name": "SilverTide",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/silvertide"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "simon-kucher",
+      "name": "Simon-Kucher",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/simon-kucher"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "sixth-street",
+      "name": "Sixth Street",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/sixth-street"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "skagen-capital",
+      "name": "Skagen Capital",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/skagen-capital"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "sky",
+      "name": "Sky",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/sky"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "smbc",
+      "name": "SMBC",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/smbc"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "societe-generale",
+      "name": "Société Générale",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/societe-generale"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "sona-asset-management",
+      "name": "Sona Asset Management",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/sona-asset-management"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "soros-fund-management",
+      "name": "Soros Fund Management",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/soros-fund-management"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "squarepoint-capital",
+      "name": "Squarepoint Capital",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/squarepoint-capital"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "standard-chartered",
+      "name": "Standard Chartered",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/standard-chartered"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "state-street",
+      "name": "State Street",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/state-street"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "stepstone-group",
+      "name": "StepStone Group",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/stepstone-group"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "stifel",
+      "name": "Stifel",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/stifel"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "stj-advisors",
+      "name": "STJ Advisors",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/stj-advisors"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "stonex",
+      "name": "StoneX",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/stonex"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "stout",
+      "name": "Stout",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/stout"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "superbet",
+      "name": "Superbet",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/superbet"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "susquehanna-international-group",
+      "name": "Susquehanna International Group",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/susquehanna-international-group"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "swiss-re",
+      "name": "Swiss Re",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/swiss-re"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "synthesis",
+      "name": "Synthesis",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/synthesis"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "td-securities",
+      "name": "TD Securities",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/td-securities"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "temasek",
+      "name": "Temasek",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/temasek"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "tencent",
+      "name": "Tencent",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/tencent"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "teneo",
+      "name": "Teneo",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/teneo"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "tesco",
+      "name": "Tesco",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/tesco"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "teza-technologies",
+      "name": "Teza Technologies",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/teza-technologies"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "the-dot-group",
+      "name": "The Dot Group",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/the-dot-group"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/the-wall-street-journal"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "tide-insurance",
+      "name": "Tide Insurance",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/tide-insurance"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/tiktok"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "tokio-marine-kiln",
+      "name": "Tokio Marine Kiln",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/tokio-marine-kiln"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "tower-research-capital",
+      "name": "Tower Research Capital",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/tower-research-capital"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "tp-icap",
+      "name": "TP ICAP",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/tp-icap"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "tradeweb",
+      "name": "Tradeweb",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/tradeweb"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "turner-townsend",
+      "name": "Turner & Townsend",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/turner-townsend"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "uber",
+      "name": "Uber",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/uber"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ubs",
+      "name": "UBS",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ubs"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "vanguard",
+      "name": "Vanguard",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/vanguard"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "verition-fund-management",
+      "name": "Verition Fund Management",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/verition-fund-management"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "virtu-financial",
+      "name": "Virtu Financial",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/virtu-financial"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "visa",
+      "name": "Visa",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/visa"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "w-p-carey",
+      "name": "W. P. Carey",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/w-p-carey"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "walter-scott",
+      "name": "Walter Scott",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/walter-scott"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "waters-corporation",
+      "name": "Waters Corporation",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/waters-corporation"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "weatherbys-private-bank",
+      "name": "Weatherbys Private Bank",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/weatherbys-private-bank"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "wechat-pay",
+      "name": "WeChat Pay",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/wechat-pay"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "wells-fargo",
+      "name": "Wells Fargo",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/wells-fargo"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "welltower",
+      "name": "Welltower",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/welltower"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "westgrove",
+      "name": "Westgrove",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/westgrove"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "william-blair",
+      "name": "William Blair",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/william-blair"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "willis-towers-watson",
+      "name": "WTW",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/willis-towers-watson"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "wincent",
+      "name": "Wincent",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/wincent"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "wintermute",
+      "name": "Wintermute",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/wintermute"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "wood-mackenzie",
+      "name": "Wood Mackenzie",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/wood-mackenzie"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "xantium",
+      "name": "Xantium",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/xantium"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "xtx-markets",
+      "name": "XTX Markets",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/xtx-markets"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "zeus-capital",
+      "name": "Zeus Capital",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/zeus-capital"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "zs",
+      "name": "ZS",
+      "sectors": [
+        "finance"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/zs"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "zurich-insurance",
+      "name": "Zurich Insurance",
+      "sectors": [
+        "finance",
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/zurich-insurance"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    }
+  ]
+}

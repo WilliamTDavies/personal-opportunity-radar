@@ -1,0 +1,2133 @@
+{
+  "schema_version": 1,
+  "organisations": [
+    {
+      "id": "aize",
+      "name": "Aize",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/aize"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "amd",
+      "name": "AMD",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/amd"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "arctic-lake",
+      "name": "Arctic Lake",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/arctic-lake"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "aries-global",
+      "name": "Aries Global",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/aries-global"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "arm",
+      "name": "Arm",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/arm"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "arondite",
+      "name": "Arondite",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/arondite"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ashton-fire",
+      "name": "Ashton Fire",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ashton-fire"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "autodesk",
+      "name": "Autodesk",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/autodesk"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "aveva",
+      "name": "AVEVA",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/aveva"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "baillie-gifford",
+      "name": "Baillie Gifford",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/baillie-gifford"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bending-spoons",
+      "name": "Bending Spoons",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bending-spoons"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bgc-group",
+      "name": "BGC Group",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bgc-group"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "binome",
+      "name": "Binome",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/binome"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bose",
+      "name": "Bose",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bose"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bristol-myers-squibb",
+      "name": "Bristol Myers Squibb",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bristol-myers-squibb"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "bt",
+      "name": "BT",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/bt"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "cadence",
+      "name": "Cadence",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/cadence"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "certara",
+      "name": "Certara",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/certara"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "checkout-com",
+      "name": "Checkout.com",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/checkout-com"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ciena",
+      "name": "Ciena",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ciena"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "cirrus-logic",
+      "name": "Cirrus Logic",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/cirrus-logic"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "clear-com",
+      "name": "Clear-Com",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/clear-com"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "climate-policy-initiative",
+      "name": "Climate Policy Initiative",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/climate-policy-initiative"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "cloudflare",
+      "name": "Cloudflare",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/cloudflare"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "cogna",
+      "name": "Cogna",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/cogna"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "commonai-cic",
+      "name": "CommonAI CIC",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/commonai-cic"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "compare-the-market",
+      "name": "Compare The Market",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/compare-the-market"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "confluent",
+      "name": "Confluent",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/confluent"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "convergent",
+      "name": "Convergent",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/convergent"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "crowdstrike",
+      "name": "Crowdstrike",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/crowdstrike"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "deliveroo",
+      "name": "Deliveroo",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/deliveroo"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "direct-soccer",
+      "name": "Direct Soccer",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/direct-soccer"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "dojo",
+      "name": "Dojo",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/dojo"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ebay",
+      "name": "eBay",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ebay"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "epic-games",
+      "name": "Epic Games",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/epic-games"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "esourcing-data",
+      "name": "eSourcing Data",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/esourcing-data"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "expedia",
+      "name": "Expedia",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/expedia"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "f5",
+      "name": "F5",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/f5"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "fair-football-ai",
+      "name": "FAIR Football AI",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/fair-football-ai"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "figma",
+      "name": "Figma",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/figma"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "fleek",
+      "name": "Fleek",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/fleek"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "frazer-nash-consultancy",
+      "name": "Frazer-Nash Consultancy",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/frazer-nash-consultancy"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "fuse-energy",
+      "name": "Fuse Energy",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/fuse-energy"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "g-p",
+      "name": "G-P",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/g-p"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "gallagher",
+      "name": "Gallagher",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/gallagher"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "gearset",
+      "name": "Gearset",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/gearset"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "giant-ventures",
+      "name": "Giant Ventures",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/giant-ventures"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "government-statistical-service",
+      "name": "Government Statistical Service",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/government-statistical-service"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "gresham-investment-management",
+      "name": "Gresham Investment Management",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/gresham-investment-management"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "gsk",
+      "name": "GSK",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/gsk"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "hacktron-ai",
+      "name": "Hacktron AI",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/hacktron-ai"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "harbor",
+      "name": "Harbor",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/harbor"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "helsing",
+      "name": "Helsing",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/helsing"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "hubspot",
+      "name": "Hubspot",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/hubspot"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ibm",
+      "name": "IBM",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ibm"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "incident-io",
+      "name": "incident.io",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/incident-io"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "jetbrains",
+      "name": "JetBrains",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/jetbrains"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "johnson-johnson",
+      "name": "Johnson & Johnson",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/johnson-johnson"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "keysight",
+      "name": "Keysight",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/keysight"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "leonardo",
+      "name": "Leonardo",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/leonardo"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/mastercard"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "mathworks",
+      "name": "MathWorks",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/mathworks"
+        }
+      ],
+      "source_resolution_status": "resolved"
+    },
+    {
+      "id": "mbda",
+      "name": "MBDA",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/mbda"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "meta",
+      "name": "Meta",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/meta"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "metrea",
+      "name": "Metrea",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/metrea"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "mewburn-ellis",
+      "name": "Mewburn Ellis",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/mewburn-ellis"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/microsoft"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "moloco",
+      "name": "Moloco",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/moloco"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "mongodb",
+      "name": "MongoDB",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/mongodb"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "monzo",
+      "name": "Monzo",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/monzo"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "motorola-solutions",
+      "name": "Motorola Solutions",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/motorola-solutions"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "multus",
+      "name": "Multus",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/multus"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "nannie",
+      "name": "Nannie",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/nannie"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "nasdaq",
+      "name": "NASDAQ",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/nasdaq"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "national-gas",
+      "name": "National Gas",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/national-gas"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "netcraft",
+      "name": "Netcraft",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/netcraft"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "nordic-semiconductor",
+      "name": "Nordic Semiconductor",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/nordic-semiconductor"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "nutanix",
+      "name": "Nutanix",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/nutanix"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "nvidia",
+      "name": "Nvidia",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/nvidia"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "oaknorth",
+      "name": "OakNorth",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/oaknorth"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "onestream",
+      "name": "Onestream",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/onestream"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "oxford-nanopore-technologies",
+      "name": "Oxford Nanopore Technologies",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/oxford-nanopore-technologies"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "pa-consulting",
+      "name": "PA Consulting",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/pa-consulting"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "palantir",
+      "name": "Palantir",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/palantir"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "parexel",
+      "name": "Parexel",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/parexel"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/perplexity"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "pexip",
+      "name": "Pexip",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/pexip"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "phasecraft",
+      "name": "Phasecraft",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/phasecraft"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "police-scotland",
+      "name": "Police Scotland",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/police-scotland"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "pqshield",
+      "name": "PQShield",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/pqshield"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "precisely",
+      "name": "Precisely",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/precisely"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "proxisense",
+      "name": "PrOXisense",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/proxisense"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "qualcomm",
+      "name": "Qualcomm",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/qualcomm"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "quantum-dice",
+      "name": "Quantum Dice",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/quantum-dice"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "quilter-cheviot",
+      "name": "Quilter",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/quilter-cheviot"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "red-bull",
+      "name": "Red Bull",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/red-bull"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "redgate",
+      "name": "Redgate",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/redgate"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "riverlane",
+      "name": "Riverlane",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/riverlane"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "roku",
+      "name": "Roku",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/roku"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "rolls-royce",
+      "name": "Rolls-Royce",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/rolls-royce"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "runna",
+      "name": "Runna",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/runna"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "salesforce",
+      "name": "Salesforce",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/salesforce"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "samsara",
+      "name": "Samsara",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/samsara"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "siemens",
+      "name": "Siemens",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/siemens"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "silver-8-capital",
+      "name": "Silver 8 Capital",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/silver-8-capital"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "slb",
+      "name": "SLB",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/slb"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "snap",
+      "name": "Snap",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/snap"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "snyk",
+      "name": "Snyk",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/snyk"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "spaice",
+      "name": "SPAICE",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/spaice"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "sparklayer",
+      "name": "SparkLayer",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/sparklayer"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "sportlight-technology",
+      "name": "Sportlight Technology",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/sportlight-technology"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "spotify",
+      "name": "Spotify",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/spotify"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "squarespace",
+      "name": "Squarespace",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/squarespace"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "stmicroelectronics",
+      "name": "STMicroelectronics",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/stmicroelectronics"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "stripe",
+      "name": "Stripe",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/stripe"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "symphony",
+      "name": "Symphony",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/symphony"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "talos",
+      "name": "Talos",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/talos"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "te-connectivity",
+      "name": "TE Connectivity",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/te-connectivity"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "thales",
+      "name": "Thales",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/thales"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "the-trade-desk",
+      "name": "The Trade Desk",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/the-trade-desk"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "thought-machine",
+      "name": "Thought Machine",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/thought-machine"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "tpp",
+      "name": "TPP",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/tpp"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "trainline",
+      "name": "Trainline",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/trainline"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "trayport",
+      "name": "Trayport",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/trayport"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "treefera",
+      "name": "Treefera",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/treefera"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "ttp",
+      "name": "TTP",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/ttp"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "udemy",
+      "name": "Udemy",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/udemy"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "uipath",
+      "name": "UiPath",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/uipath"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "unlikelyai",
+      "name": "UnlikelyAI",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/unlikelyai"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "usertesting",
+      "name": "UserTesting",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/usertesting"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "viasat",
+      "name": "Viasat",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/viasat"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "viator",
+      "name": "Viator",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/viator"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    },
+    {
+      "id": "wise",
+      "name": "Wise",
+      "sectors": [
+        "technology"
+      ],
+      "organisation_type": "employer",
+      "provenance": [
+        {
+          "kind": "trackr_benchmark",
+          "benchmark_id": "trackr-uk-public-trackers-2026-08-31",
+          "company_path": "/company/wise"
+        }
+      ],
+      "source_resolution_status": "unresolved"
+    }
+  ]
+}
