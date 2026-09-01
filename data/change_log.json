@@ -1819,5 +1819,19 @@
     "field": "lifecycle",
     "from": "open",
     "to": "stale"
+  },
+  {
+    "canonical_id": "bnp-paribas-our-job-offers-in-trainee-internship",
+    "changed_at": "2026-09-01T14:00:08Z",
+    "field": "start_date",
+    "from": "2027-07",
+    "to": "2026-07"
+  },
+  {
+    "canonical_id": "gchq-ncsc-cyber-consultant-ref-3811",
+    "changed_at": "2026-09-01T14:00:08Z",
+    "field": "source_url",
+    "from": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-1383c839c0ea/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
+    "to": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-c768051d9680/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB"
   }
 ]
