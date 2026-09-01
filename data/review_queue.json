@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T14:01:53Z",
+  "generated_at": "2026-09-01T14:06:58Z",
   "opportunities": [
     {
       "canonical_id": "durham-bsi-undergraduate-summer-bursary",
@@ -194,13 +194,13 @@
       "lifecycle": "open",
       "eligibility": "uncertain",
       "primary_action": "Apply",
-      "source_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-648a098b474e/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
+      "source_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-53dc566b1a9d/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
       "location": "London, UK",
       "start_date": "2026-01",
       "end_date": null,
       "deadline": "2026-09-02",
       "deadline_status": "fixed",
-      "deadline_source": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-648a098b474e/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
+      "deadline_source": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-53dc566b1a9d/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
       "deadline_verified": true,
       "rolling": false,
       "opens_at": null,
@@ -220,19 +220,19 @@
       "evidence": [
         {
           "statement": "The official detail page identifies NCSC Cyber Consultant Ref. 3811 as a current or announced opportunity.",
-          "source_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-648a098b474e/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
+          "source_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-53dc566b1a9d/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
           "checked_at": "2026-09-01",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2026-09-02.",
-          "source_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-648a098b474e/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
+          "source_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-53dc566b1a9d/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
           "checked_at": "2026-09-01",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
-          "source_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-648a098b474e/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
+          "source_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-53dc566b1a9d/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
           "checked_at": "2026-09-01",
           "source_type": "official"
         }
@@ -281,11 +281,11 @@
       ],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T00:10:39Z",
-      "last_seen": "2026-09-01T14:01:42Z",
-      "last_changed": "2026-09-01T14:01:42Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "gchq-vacancies",
       "source_kind": "discovered",
-      "content_fingerprint": "2ba63723c677f5e08b272d5886a1c2d3ff007c9645de6263225a385c453a7c6b",
+      "content_fingerprint": "f9c86e92af712f98f0ae01f6679f634d6e77494d4a9ab7691ca87b86c00445db",
       "confidence": 0.99,
       "priority_tier": "C",
       "review_required": true,
@@ -296,7 +296,7 @@
       "access_scope": "unknown",
       "source_conflict": false,
       "change_summary": [
-        "source_url: https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-c768051d9680/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB → https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-648a098b474e/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB"
+        "source_url: https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-648a098b474e/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB → https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-53dc566b1a9d/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB"
       ],
       "opportunity_type": "competition_or_development",
       "career_fields": [
@@ -310,12 +310,12 @@
       "cycle": "2026",
       "application_url": "https://www.gchq.gov.uk/collection/applying-to-gchq",
       "discovered_via": "https://www.gchq-careers.co.uk/jobs/",
-      "primary_evidence_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-648a098b474e/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
+      "primary_evidence_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-53dc566b1a9d/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
       "alternate_sources": [
         "https://www.gchq-careers.co.uk/jobs/"
       ],
-      "last_verified": "2026-09-01T14:01:42Z",
-      "deadline_last_verified": "2026-09-01T14:01:42Z",
+      "last_verified": "2026-09-01T14:06:38Z",
+      "deadline_last_verified": "2026-09-01T14:06:38Z",
       "missing_count": 0,
       "source_family": "gchq",
       "security_vetting": "Developed Vetting",
@@ -863,22 +863,22 @@
         {
           "statement": "The official detail page identifies 2027 Summer Internship - Client Support as a current or announced opportunity.",
           "source_url": "https://job-boards.greenhouse.io/virtu/jobs/8746197002",
-          "checked_at": "2026-08-31",
+          "checked_at": "2026-09-01",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2026-12-11.",
           "source_url": "https://job-boards.greenhouse.io/virtu/jobs/8746197002",
-          "checked_at": "2026-08-31",
+          "checked_at": "2026-09-01",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-08-31",
+      "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T22:37:21Z",
-      "last_seen": "2026-08-31T22:37:21Z",
-      "last_changed": "2026-08-31T22:37:21Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "virtu-financial-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "4057b211a24c1285615db07c0ba9807f29f424754b46355c933584bc24ec022b",
@@ -910,8 +910,8 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/virtu/jobs?content=true"
       ],
-      "last_verified": "2026-08-31T22:37:21Z",
-      "deadline_last_verified": "2026-08-31T22:37:21Z",
+      "last_verified": "2026-09-01T14:06:38Z",
+      "deadline_last_verified": "2026-09-01T14:06:38Z",
       "missing_count": 0,
       "source_family": "virtu-financial",
       "security_vetting": null,
@@ -959,22 +959,22 @@
         {
           "statement": "The official detail page identifies 2027 Summer Internship - Technical as a current or announced opportunity.",
           "source_url": "https://job-boards.greenhouse.io/virtu/jobs/8745933002",
-          "checked_at": "2026-08-31",
+          "checked_at": "2026-09-01",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2026-12-11.",
           "source_url": "https://job-boards.greenhouse.io/virtu/jobs/8745933002",
-          "checked_at": "2026-08-31",
+          "checked_at": "2026-09-01",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-08-31",
+      "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T22:37:21Z",
-      "last_seen": "2026-08-31T22:37:21Z",
-      "last_changed": "2026-08-31T22:37:21Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "virtu-financial-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "51dd18e4f17c8e1e3ec749905b4f1b8c97485939da7ec82d92c2a8a03f879f7f",
@@ -1007,8 +1007,8 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/virtu/jobs?content=true"
       ],
-      "last_verified": "2026-08-31T22:37:21Z",
-      "deadline_last_verified": "2026-08-31T22:37:21Z",
+      "last_verified": "2026-09-01T14:06:38Z",
+      "deadline_last_verified": "2026-09-01T14:06:38Z",
       "missing_count": 0,
       "source_family": "virtu-financial",
       "security_vetting": null,
@@ -1069,8 +1069,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T22:58:04Z",
-      "last_seen": "2026-09-01T14:00:08Z",
-      "last_changed": "2026-09-01T14:00:08Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "jump-trading-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "5a538fe879041951781c3f65ed2e871a84a458eabb4d77d178955d7a426118f5",
@@ -1111,7 +1111,7 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true"
       ],
-      "last_verified": "2026-09-01T14:00:08Z",
+      "last_verified": "2026-09-01T14:06:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "jump-trading",
@@ -1172,8 +1172,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T22:58:04Z",
-      "last_seen": "2026-09-01T14:00:08Z",
-      "last_changed": "2026-09-01T14:00:08Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "jump-trading-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "e3d010094077900ab0e5595a10407d924a7880eb8284089161f0d18c3962a7b9",
@@ -1213,7 +1213,7 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true"
       ],
-      "last_verified": "2026-09-01T14:00:08Z",
+      "last_verified": "2026-09-01T14:06:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "jump-trading",
@@ -1275,8 +1275,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T22:58:04Z",
-      "last_seen": "2026-09-01T14:00:08Z",
-      "last_changed": "2026-09-01T14:00:08Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "jump-trading-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "4d231368380c2b743993bc822e0a7ca154e8bcce3d55617822220e3a9161bc26",
@@ -1317,7 +1317,7 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true"
       ],
-      "last_verified": "2026-09-01T14:00:08Z",
+      "last_verified": "2026-09-01T14:06:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "jump-trading",
@@ -1379,8 +1379,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T22:58:04Z",
-      "last_seen": "2026-09-01T14:00:08Z",
-      "last_changed": "2026-09-01T14:00:08Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "jump-trading-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "8a9a5207043916d95e88d01a24bdfc483ea43f9c32ac48e1bf9a67812555f1b8",
@@ -1421,7 +1421,7 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true"
       ],
-      "last_verified": "2026-09-01T14:00:08Z",
+      "last_verified": "2026-09-01T14:06:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "jump-trading",
@@ -1482,8 +1482,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T22:58:04Z",
-      "last_seen": "2026-09-01T14:00:08Z",
-      "last_changed": "2026-09-01T14:00:08Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "jump-trading-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "3fe62f415750b36751ff888f57aa0a8e20c4f49aa937ec629eb8c2b57044f054",
@@ -1523,7 +1523,7 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true"
       ],
-      "last_verified": "2026-09-01T14:00:08Z",
+      "last_verified": "2026-09-01T14:06:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "jump-trading",
@@ -1585,8 +1585,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T22:58:04Z",
-      "last_seen": "2026-09-01T14:00:08Z",
-      "last_changed": "2026-09-01T14:00:08Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "jump-trading-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "5343185c7eb928541207e71997a92c1e7e9fb5322d348fa188154c13d27de78c",
@@ -1627,7 +1627,7 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true"
       ],
-      "last_verified": "2026-09-01T14:00:08Z",
+      "last_verified": "2026-09-01T14:06:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "jump-trading",
@@ -1689,8 +1689,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T22:58:04Z",
-      "last_seen": "2026-09-01T14:00:08Z",
-      "last_changed": "2026-09-01T14:00:08Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "jump-trading-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "200946090a64f1623da8ba4fc59c405d757e30f1c54e91daa14e0aabf5cdc7fb",
@@ -1731,7 +1731,7 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true"
       ],
-      "last_verified": "2026-09-01T14:00:08Z",
+      "last_verified": "2026-09-01T14:06:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "jump-trading",
@@ -1792,8 +1792,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T22:58:04Z",
-      "last_seen": "2026-09-01T14:00:08Z",
-      "last_changed": "2026-09-01T14:00:08Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "jump-trading-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "032f9d523d29cb60dcb9cb6957d9566309c2e92b72dc10d740b2b3539a14c061",
@@ -1832,7 +1832,7 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true"
       ],
-      "last_verified": "2026-09-01T14:00:08Z",
+      "last_verified": "2026-09-01T14:06:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "jump-trading",
@@ -1894,8 +1894,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T22:58:04Z",
-      "last_seen": "2026-09-01T14:00:08Z",
-      "last_changed": "2026-09-01T14:00:08Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "jump-trading-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "07e3eb54e97ab64bf689ba858e8653c5aa3118eec2c45d3fd9c136c23ec7e76d",
@@ -1936,7 +1936,7 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true"
       ],
-      "last_verified": "2026-09-01T14:00:08Z",
+      "last_verified": "2026-09-01T14:06:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "jump-trading",
@@ -1997,8 +1997,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T22:58:04Z",
-      "last_seen": "2026-09-01T14:00:08Z",
-      "last_changed": "2026-09-01T14:00:08Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "jump-trading-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "5d3b25145e2b8469328a9adda56ac743ae6cd8853de1b90a262d0384514593a8",
@@ -2038,7 +2038,7 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true"
       ],
-      "last_verified": "2026-09-01T14:00:08Z",
+      "last_verified": "2026-09-01T14:06:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "jump-trading",
@@ -2100,8 +2100,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T22:58:04Z",
-      "last_seen": "2026-09-01T14:00:08Z",
-      "last_changed": "2026-09-01T14:00:08Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "jump-trading-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "0ea1d625ae6e7f9a53ddc1f4ce063dd989478ed05a42324512803885b3f0017b",
@@ -2142,7 +2142,7 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true"
       ],
-      "last_verified": "2026-09-01T14:00:08Z",
+      "last_verified": "2026-09-01T14:06:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "jump-trading",
@@ -2405,16 +2405,16 @@
         {
           "statement": "The official detail page identifies Forward Deployed Software Engineer, Internship - Commercial as a current or announced opportunity.",
           "source_url": "https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636",
-          "checked_at": "2026-08-31",
+          "checked_at": "2026-09-01",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-08-31",
+      "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T22:37:21Z",
-      "last_seen": "2026-08-31T22:37:21Z",
-      "last_changed": "2026-08-31T22:37:21Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "palantir-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "f51bd92371d78bb62f624deffb2008ca7e41b9a8d220de1aca6b8fc159c040d9",
@@ -2448,7 +2448,7 @@
       "alternate_sources": [
         "https://api.lever.co/v0/postings/palantir?mode=json"
       ],
-      "last_verified": "2026-08-31T22:37:21Z",
+      "last_verified": "2026-09-01T14:06:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "palantir",
@@ -2495,16 +2495,16 @@
         {
           "statement": "The official detail page identifies Forward Deployed Software Engineer, Internship - UK Government as a current or announced opportunity.",
           "source_url": "https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf",
-          "checked_at": "2026-08-31",
+          "checked_at": "2026-09-01",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-08-31",
+      "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T22:37:21Z",
-      "last_seen": "2026-08-31T22:37:21Z",
-      "last_changed": "2026-08-31T22:37:21Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "palantir-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "1ae2dd6ad813ac96b8f08d3627e3722a0a9635a28b905cd2b8e20d6362f5cfa1",
@@ -2538,7 +2538,7 @@
       "alternate_sources": [
         "https://api.lever.co/v0/postings/palantir?mode=json"
       ],
-      "last_verified": "2026-08-31T22:37:21Z",
+      "last_verified": "2026-09-01T14:06:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "palantir",
@@ -2693,7 +2693,7 @@
       "eligibility": "uncertain",
       "primary_action": "Apply",
       "source_url": "https://group.bnpparibas/en/careers/all-job-offers/trainee-internship",
-      "location": "London, UK",
+      "location": "Online",
       "start_date": "2026-07",
       "end_date": null,
       "deadline": null,
@@ -2738,11 +2738,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-09-01T14:01:42Z",
-      "last_changed": "2026-09-01T14:01:42Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "bnp-paribas-students",
       "source_kind": "discovered",
-      "content_fingerprint": "f81ee7900713ed2a5088e626b93cd82fa28c8caa5ab9bce580dd9b143339c2b2",
+      "content_fingerprint": "8595f23e2e526f60525716514d80dfd2b1164104e89fe50dcd6cafbc4bd6b57e",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -2752,7 +2752,9 @@
       "identity_targeted": false,
       "access_scope": "unknown",
       "source_conflict": false,
-      "change_summary": [],
+      "change_summary": [
+        "location: London, UK → Online"
+      ],
       "opportunity_type": "internship",
       "career_fields": [
         "finance",
@@ -2760,9 +2762,9 @@
         "data"
       ],
       "subject_fields": [],
-      "country": "United Kingdom",
-      "city": "London",
-      "work_mode": "on_site",
+      "country": "",
+      "city": "",
+      "work_mode": "remote",
       "cycle": "2026",
       "application_url": "https://group.bnpparibas/en/careers/lets-prepare-to-apply",
       "discovered_via": "https://group.bnpparibas/en/careers/candidate-student",
@@ -2770,7 +2772,7 @@
       "alternate_sources": [
         "https://group.bnpparibas/en/careers/candidate-student"
       ],
-      "last_verified": "2026-09-01T14:01:42Z",
+      "last_verified": "2026-09-01T14:06:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "bnp-paribas",
@@ -2818,16 +2820,16 @@
         {
           "statement": "The official detail page identifies Product Designer, Internship as a current or announced opportunity.",
           "source_url": "https://jobs.lever.co/palantir/44129013-01e0-4699-8fc1-7a189bb37b63",
-          "checked_at": "2026-08-31",
+          "checked_at": "2026-09-01",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-08-31",
+      "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T22:37:21Z",
-      "last_seen": "2026-08-31T22:37:21Z",
-      "last_changed": "2026-08-31T22:37:21Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "palantir-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "02a50f7c54c723512d35f7ce8523c8e69a77bf7e54917780434f5a17bce913de",
@@ -2858,13 +2860,119 @@
       "alternate_sources": [
         "https://api.lever.co/v0/postings/palantir?mode=json"
       ],
-      "last_verified": "2026-08-31T22:37:21Z",
+      "last_verified": "2026-09-01T14:06:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "palantir",
       "security_vetting": null,
       "required_documents": [],
       "duration": null,
+      "template_dependent": false,
+      "auto_publish_reason": "",
+      "parser_version": 3
+    },
+    {
+      "canonical_id": "optiver-quantitative-research-internship-2027-start",
+      "title": "Quantitative Research Internship (2027 Start)",
+      "organisation": "Optiver",
+      "stream": "internships",
+      "lifecycle": "open",
+      "eligibility": "uncertain",
+      "primary_action": "Apply",
+      "source_url": "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/amsterdam/quantitative-research-internship-2027-start/",
+      "location": "London, UK",
+      "start_date": "2028-07",
+      "end_date": null,
+      "deadline": null,
+      "deadline_status": "none_stated",
+      "deadline_source": null,
+      "deadline_verified": false,
+      "rolling": false,
+      "opens_at": null,
+      "research_mode": null,
+      "summary": "Quantitative Research Internship (2027 Start)",
+      "why_it_fits": "Official subject, timing and access evidence will be evaluated against the Durham Mathematics & Physics profile.",
+      "eligibility_note": "Needs eligibility check against the extracted official criteria.",
+      "next_step": "Apply through the official route.",
+      "tags": [
+        "2028",
+        "automatically discovered",
+        "computer science",
+        "data",
+        "engineering",
+        "finance",
+        "mathematics",
+        "physics",
+        "quant",
+        "research",
+        "software",
+        "statistics"
+      ],
+      "aliases": [],
+      "merged_alias_ids": [],
+      "evidence": [
+        {
+          "statement": "The official detail page identifies Quantitative Research Internship (2027 Start) as a current or announced opportunity.",
+          "source_url": "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/amsterdam/quantitative-research-internship-2027-start/",
+          "checked_at": "2026-09-01",
+          "source_type": "official"
+        }
+      ],
+      "requirements": [],
+      "rule_evaluations": [],
+      "checked_at": "2026-09-01",
+      "first_seen": "2026-08-31T00:03:43Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
+      "source_id": "optiver-students",
+      "source_kind": "discovered",
+      "content_fingerprint": "7b4280db1cc47303229ffa3347219cde46b07f2787e670d8743bbbe29ef5cfae",
+      "confidence": 0.8999999999999999,
+      "priority_tier": "C",
+      "review_required": true,
+      "review_reasons": [
+        "important eligibility evidence remains unknown"
+      ],
+      "identity_targeted": false,
+      "access_scope": "unknown",
+      "source_conflict": false,
+      "change_summary": [
+        "eligibility: ineligible → uncertain",
+        "requirements: ['graduation_year:[2027]:required'] → []"
+      ],
+      "opportunity_type": "internship",
+      "career_fields": [
+        "quant",
+        "software",
+        "finance",
+        "research",
+        "engineering",
+        "data"
+      ],
+      "subject_fields": [
+        "mathematics",
+        "physics",
+        "computer science",
+        "statistics",
+        "engineering"
+      ],
+      "country": "United Kingdom",
+      "city": "London",
+      "work_mode": "on_site",
+      "cycle": "2028",
+      "application_url": "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/amsterdam/quantitative-research-internship-2027-start/apply",
+      "discovered_via": "https://optiver.com/working-at-optiver/career-opportunities/",
+      "primary_evidence_url": "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/amsterdam/quantitative-research-internship-2027-start/",
+      "alternate_sources": [
+        "https://optiver.com/working-at-optiver/career-opportunities/"
+      ],
+      "last_verified": "2026-09-01T14:06:38Z",
+      "deadline_last_verified": null,
+      "missing_count": 0,
+      "source_family": "optiver",
+      "security_vetting": null,
+      "required_documents": [],
+      "duration": "8 month",
       "template_dependent": false,
       "auto_publish_reason": "",
       "parser_version": 3
@@ -2942,8 +3050,8 @@
       ],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T22:37:21Z",
-      "last_seen": "2026-09-01T14:00:08Z",
-      "last_changed": "2026-09-01T14:00:08Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "point72-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "54f4994d3ccf32610fd9581824a626f004e94433690303ca96f4761056ead87d",
@@ -2980,7 +3088,7 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/point72/jobs?content=true"
       ],
-      "last_verified": "2026-09-01T14:00:08Z",
+      "last_verified": "2026-09-01T14:06:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "point72",
@@ -3135,11 +3243,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T00:10:39Z",
-      "last_seen": "2026-09-01T14:01:42Z",
-      "last_changed": "2026-09-01T14:01:42Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "oxford-maths-summer-research",
       "source_kind": "discovered",
-      "content_fingerprint": "6ecc818ba6b5e4d26f1a770fc69ed6beda8692f332434e0089fd8dcc40d8ccfb",
+      "content_fingerprint": "eb99b1abd4e12d51778fea08c16b63f3940228e0cdf5d51b997dbc2387b9f5a5",
       "confidence": 0.7599999999999999,
       "priority_tier": "B",
       "review_required": true,
@@ -3170,7 +3278,7 @@
       "alternate_sources": [
         "https://www.maths.ox.ac.uk/members/students/undergraduate-courses/teaching-and-learning/extracurricular-projects"
       ],
-      "last_verified": "2026-09-01T14:01:42Z",
+      "last_verified": "2026-09-01T14:06:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "oxford-mathematics",
@@ -3297,11 +3405,11 @@
       ],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T00:20:18Z",
-      "last_seen": "2026-09-01T14:01:42Z",
-      "last_changed": "2026-09-01T14:01:42Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "imc-careers",
       "source_kind": "discovered",
-      "content_fingerprint": "73a19be86df5ef11ba4d9044a6a9f87934b7e6b8c9505c68ae566a16ca30dba1",
+      "content_fingerprint": "ac5d2c31e9d97b21e566ea20743998e3543d09318a6ad847977000b6634f331c",
       "confidence": 0.99,
       "priority_tier": "C",
       "review_required": true,
@@ -3336,144 +3444,13 @@
       "alternate_sources": [
         "https://www.imc.com/eu/careers/students-graduates"
       ],
-      "last_verified": "2026-09-01T14:01:42Z",
+      "last_verified": "2026-09-01T14:06:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "imc-trading",
       "security_vetting": null,
       "required_documents": [],
       "duration": null,
-      "template_dependent": false,
-      "auto_publish_reason": "",
-      "parser_version": 3
-    },
-    {
-      "canonical_id": "optiver-software-engineer-internship-2027-start",
-      "title": "Software Engineer Internship (2027 Start)",
-      "organisation": "Optiver",
-      "stream": "internships",
-      "lifecycle": "open",
-      "eligibility": "uncertain",
-      "primary_action": "Apply",
-      "source_url": "https://optiver.com/join-us/jobs/technology/london/software-engineer-internship-2027-start/",
-      "location": "London, UK",
-      "start_date": "2028-07",
-      "end_date": null,
-      "deadline": null,
-      "deadline_status": "none_stated",
-      "deadline_source": null,
-      "deadline_verified": false,
-      "rolling": false,
-      "opens_at": null,
-      "research_mode": null,
-      "summary": "Software Engineer Internship (2027 Start) Skip to menu Skip to search Skip to main content Skip to footer Menu Back to Technology jobs in London Software Engineer Internship (2027 Start) Level Internship Location London Department Technology Apply Apply As a Software Engineering Intern, you will work side-by-side with your mentor and teammates to build software for Optiver’s real-time trading environment.",
-      "why_it_fits": "Official subject, timing and access evidence will be evaluated against the Durham Mathematics & Physics profile.",
-      "eligibility_note": "Needs eligibility check: Work Authorization is deliberately not inferred from the profile.",
-      "next_step": "Apply through the official route.",
-      "tags": [
-        "2028",
-        "automatically discovered",
-        "computer science",
-        "data",
-        "engineering",
-        "finance",
-        "quant",
-        "research",
-        "software"
-      ],
-      "aliases": [
-        "optiver-trading"
-      ],
-      "merged_alias_ids": [
-        "optiver-trading"
-      ],
-      "evidence": [
-        {
-          "statement": "The official detail page identifies Software Engineer Internship (2027 Start) as a current or announced opportunity.",
-          "source_url": "https://optiver.com/join-us/jobs/technology/london/software-engineer-internship-2027-start/",
-          "checked_at": "2026-08-31",
-          "source_type": "official"
-        },
-        {
-          "statement": "The eligibility rules were extracted from the official detail-page wording.",
-          "source_url": "https://optiver.com/join-us/jobs/technology/london/software-engineer-internship-2027-start/",
-          "checked_at": "2026-08-31",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page identifies Software Engineer Internship (2027 Start) as a current or announced opportunity.",
-          "source_url": "https://optiver.com/join-us/jobs/technology/amsterdam/software-engineer-internship-2027-start/",
-          "checked_at": "2026-08-31",
-          "source_type": "official"
-        }
-      ],
-      "requirements": [
-        {
-          "rule": "work_authorization",
-          "value": true,
-          "strength": "required",
-          "evidence": "Official work-authorisation wording"
-        }
-      ],
-      "rule_evaluations": [
-        {
-          "rule": "work_authorization",
-          "strength": "required",
-          "outcome": "unknown",
-          "reason": "Work Authorization is deliberately not inferred from the profile."
-        }
-      ],
-      "checked_at": "2026-08-31",
-      "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-08-31T22:37:21Z",
-      "last_changed": "2026-08-31T22:37:21Z",
-      "source_id": "optiver-students",
-      "source_kind": "discovered",
-      "content_fingerprint": "a43f9e3ff3667a89949d78db1ddc29204b0682221b357e0b416846eff57dc75b",
-      "confidence": 0.99,
-      "priority_tier": "C",
-      "review_required": true,
-      "review_reasons": [
-        "absent from three consecutive healthy source scans",
-        "conflicting official lifecycle",
-        "important eligibility evidence remains unknown"
-      ],
-      "identity_targeted": false,
-      "access_scope": "unknown",
-      "source_conflict": true,
-      "change_summary": [],
-      "opportunity_type": "internship",
-      "career_fields": [
-        "quant",
-        "software",
-        "finance",
-        "research",
-        "engineering",
-        "data"
-      ],
-      "subject_fields": [
-        "computer science",
-        "engineering"
-      ],
-      "country": "United Kingdom",
-      "city": "London",
-      "work_mode": "on_site",
-      "cycle": "2028",
-      "application_url": "https://optiver.com/join-us/jobs/technology/london/software-engineer-internship-2027-start/apply",
-      "discovered_via": "https://optiver.com/working-at-optiver/career-opportunities/",
-      "primary_evidence_url": "https://optiver.com/join-us/jobs/technology/london/software-engineer-internship-2027-start/",
-      "alternate_sources": [
-        "https://optiver.com/working-at-optiver/career-opportunities/"
-      ],
-      "last_verified": "2026-08-31T22:37:21Z",
-      "deadline_last_verified": null,
-      "missing_count": 2,
-      "source_family": "optiver",
-      "security_vetting": null,
-      "required_documents": [
-        "CV"
-      ],
-      "duration": "7 day",
       "template_dependent": false,
       "auto_publish_reason": "",
       "parser_version": 3
@@ -3514,16 +3491,16 @@
         {
           "statement": "The official detail page identifies Software Engineer, Internship as a current or announced opportunity.",
           "source_url": "https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602",
-          "checked_at": "2026-08-31",
+          "checked_at": "2026-09-01",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-08-31",
+      "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T22:37:21Z",
-      "last_seen": "2026-08-31T22:37:21Z",
-      "last_changed": "2026-08-31T22:37:21Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "palantir-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "440ecd1ef7b6d7e8d224c931114e15733633bae0245e78a4e65452afb9382299",
@@ -3555,7 +3532,7 @@
       "alternate_sources": [
         "https://api.lever.co/v0/postings/palantir?mode=json"
       ],
-      "last_verified": "2026-08-31T22:37:21Z",
+      "last_verified": "2026-09-01T14:06:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "palantir",
@@ -3604,16 +3581,16 @@
         {
           "statement": "The official detail page identifies Software Engineer, Internship - Infrastructure as a current or announced opportunity.",
           "source_url": "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e",
-          "checked_at": "2026-08-31",
+          "checked_at": "2026-09-01",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-08-31",
+      "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T22:37:21Z",
-      "last_seen": "2026-08-31T22:37:21Z",
-      "last_changed": "2026-08-31T22:37:21Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "palantir-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "dadad9126de5dbd20895f6d1b5c0565215492e9fba142cebabf108245e597b6a",
@@ -3649,7 +3626,7 @@
       "alternate_sources": [
         "https://api.lever.co/v0/postings/palantir?mode=json"
       ],
-      "last_verified": "2026-08-31T22:37:21Z",
+      "last_verified": "2026-09-01T14:06:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "palantir",
@@ -3980,11 +3957,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-01T14:01:42Z",
-      "last_changed": "2026-09-01T14:01:42Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "ubs-tomorrows-talent",
       "source_kind": "discovered",
-      "content_fingerprint": "b3d4ede368cf9e8a430560d741e0c9597a3786907d5fe97dc8042499774b0df5",
+      "content_fingerprint": "ccb3bdd0ca065168743ef2a3155fc02b8dc731d7bda281a1c996885496170b97",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -4012,7 +3989,7 @@
       "alternate_sources": [
         "https://www.ubs.com/global/en/careers/early-careers/tomorrows-talent-program.html"
       ],
-      "last_verified": "2026-09-01T14:01:42Z",
+      "last_verified": "2026-09-01T14:06:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "ubs",
@@ -4072,8 +4049,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-01",
       "first_seen": "2026-08-31T00:10:39Z",
-      "last_seen": "2026-09-01T14:01:42Z",
-      "last_changed": "2026-09-01T14:01:42Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
       "source_id": "oxford-maths-summer-research",
       "source_kind": "discovered",
       "content_fingerprint": "b2be3afe7686be3fc1e3810ba378da49fc2dafd215fe714d994002217294fb2d",
@@ -4108,7 +4085,7 @@
       "alternate_sources": [
         "https://www.maths.ox.ac.uk/members/students/undergraduate-courses/teaching-and-learning/extracurricular-projects"
       ],
-      "last_verified": "2026-09-01T14:01:42Z",
+      "last_verified": "2026-09-01T14:06:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "oxford-mathematics",

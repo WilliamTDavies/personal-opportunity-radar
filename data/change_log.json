@@ -1870,5 +1870,56 @@
     "field": "lifecycle",
     "from": "open",
     "to": "stale"
+  },
+  {
+    "canonical_id": "bnp-paribas-our-job-offers-in-trainee-internship",
+    "changed_at": "2026-09-01T14:06:38Z",
+    "field": "location",
+    "from": "London, UK",
+    "to": "Online"
+  },
+  {
+    "canonical_id": "gchq-ncsc-cyber-consultant-ref-3811",
+    "changed_at": "2026-09-01T14:06:38Z",
+    "field": "source_url",
+    "from": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-648a098b474e/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
+    "to": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-53dc566b1a9d/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB"
+  },
+  {
+    "canonical_id": "optiver-quantitative-research-internship-2027-start",
+    "changed_at": "2026-09-01T14:06:38Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "optiver-quantitative-research-internship-2027-start",
+    "changed_at": "2026-09-01T14:06:38Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2027]:required"
+    ],
+    "to": []
+  },
+  {
+    "canonical_id": "optiver-software-engineer-internship-2027-start",
+    "changed_at": "2026-09-01T14:06:38Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "optiver-software-engineer-internship-2027-start",
+    "changed_at": "2026-09-01T14:06:38Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "defence-science-and-technology-laboratory-become-a-dstl-graduate-or-student",
+    "changed_at": "2026-09-01T14:06:38Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
   }
 ]
