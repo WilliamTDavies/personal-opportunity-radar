@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-02T16:33:33Z",
+  "updated_at": "2026-09-02T20:03:25Z",
   "opportunities": [
     {
       "canonical_id": "blackrock-2027-spring-insight-emea",
@@ -57,11 +57,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-02",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-02T16:33:33Z",
-      "last_changed": "2026-09-02T16:33:33Z",
+      "last_seen": "2026-09-02T20:03:25Z",
+      "last_changed": "2026-09-02T20:03:25Z",
       "source_id": "blackrock-spring-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "18c7c36cc5350cd8bc770e8d8faa096b5d9ed026ab8e60fa2acc4aa388001769",
+      "content_fingerprint": "e84e136250cff5ca33ff60049423ff7b97d6be13b449a1d762d16bf3001ddcdc",
       "confidence": 0.8,
       "priority_tier": "A",
       "review_required": false,
@@ -81,8 +81,8 @@
       "discovered_via": "https://careers.blackrock.com/job/london/2027-spring-insight-event-emea/45831/97150826752",
       "primary_evidence_url": "https://careers.blackrock.com/job/london/2027-spring-insight-event-emea/45831/97150826752",
       "alternate_sources": [],
-      "last_verified": "2026-09-02T16:33:33Z",
-      "deadline_last_verified": "2026-09-02T16:33:33Z",
+      "last_verified": "2026-09-02T20:03:25Z",
+      "deadline_last_verified": "2026-09-02T20:03:25Z",
       "missing_count": 0,
       "source_family": "blackrock",
       "security_vetting": null,
@@ -1383,8 +1383,8 @@
       ],
       "checked_at": "2026-09-02",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-09-02T16:33:33Z",
-      "last_changed": "2026-09-02T16:33:33Z",
+      "last_seen": "2026-09-02T20:03:25Z",
+      "last_changed": "2026-09-02T20:03:25Z",
       "source_id": "g-research-spring-quant-2027",
       "source_kind": "discovered",
       "content_fingerprint": "352f1441ab2643be80434c000c5df864e2fb023a23a33f3e153a6e78eb27b271",
@@ -1420,7 +1420,7 @@
       "discovered_via": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
       "primary_evidence_url": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
       "alternate_sources": [],
-      "last_verified": "2026-09-02T16:33:33Z",
+      "last_verified": "2026-09-02T20:03:25Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "g-research",
@@ -1484,11 +1484,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-02",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-09-02T16:33:33Z",
-      "last_changed": "2026-09-02T16:33:33Z",
+      "last_seen": "2026-09-02T20:03:25Z",
+      "last_changed": "2026-09-02T20:03:25Z",
       "source_id": "evercore-spring-week-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "fe1c1364b40fc048126d0081a14892f8eb723aae625842619ff23336cd818c60",
+      "content_fingerprint": "e9f44cc9e76faf4dfd1839bfeef7eeec656d570221bb0f5a6ffcd2c3584eecc4",
       "confidence": 0.8,
       "priority_tier": "A",
       "review_required": false,
@@ -1508,7 +1508,7 @@
       "discovered_via": "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/",
       "primary_evidence_url": "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/",
       "alternate_sources": [],
-      "last_verified": "2026-09-02T16:33:33Z",
+      "last_verified": "2026-09-02T20:03:25Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "evercore",
@@ -1575,11 +1575,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-02",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-09-02T16:33:33Z",
-      "last_changed": "2026-09-02T16:33:33Z",
+      "last_seen": "2026-09-02T20:03:25Z",
+      "last_changed": "2026-09-02T20:03:25Z",
       "source_id": "barclays-discovery-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "9bd75c0e5808abf16e7a9ed001adcc9e0a3660e47486956cc511323b7779d8e9",
+      "content_fingerprint": "db4d6781a606c033c1311462d0054ca31f1bc6e45b824df741c3568336776f58",
       "confidence": 0.8,
       "priority_tier": "A",
       "review_required": false,
@@ -1599,7 +1599,7 @@
       "discovered_via": "https://search.jobs.barclays/discovery",
       "primary_evidence_url": "https://search.jobs.barclays/discovery",
       "alternate_sources": [],
-      "last_verified": "2026-09-02T16:33:33Z",
+      "last_verified": "2026-09-02T20:03:25Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "barclays",
@@ -1650,19 +1650,19 @@
         {
           "statement": "The official detail page identifies Undergraduate Research Bursaries 2027 as a current or announced opportunity.",
           "source_url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
-          "checked_at": "2026-09-01",
+          "checked_at": "2026-09-02",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2027-02-01.",
           "source_url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
-          "checked_at": "2026-09-01",
+          "checked_at": "2026-09-02",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
-          "checked_at": "2026-09-01",
+          "checked_at": "2026-09-02",
           "source_type": "official"
         }
       ],
@@ -1714,13 +1714,13 @@
           "reason": "Known course is BSc Mathematics and Physics; required subject set: ['mathematics', 'computer science', 'statistics']."
         }
       ],
-      "checked_at": "2026-09-01",
+      "checked_at": "2026-09-02",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-09-01T20:07:34Z",
-      "last_changed": "2026-09-01T20:07:34Z",
+      "last_seen": "2026-09-02T20:03:25Z",
+      "last_changed": "2026-09-02T20:03:25Z",
       "source_id": "lms-bursary-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "320b164915ca601f36b346c0f642af5f845e855298c8a70f032ffce5a8a4bcf5",
+      "content_fingerprint": "aef3d3da1b6e7ca0a23a900d1e242ba90325bc6030d65966e6373e52ab50b65c",
       "confidence": 0.99,
       "priority_tier": "C",
       "review_required": false,
@@ -1747,8 +1747,8 @@
       "discovered_via": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
       "primary_evidence_url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
       "alternate_sources": [],
-      "last_verified": "2026-09-01T20:07:34Z",
-      "deadline_last_verified": "2026-09-01T20:07:34Z",
+      "last_verified": "2026-09-02T20:03:25Z",
+      "deadline_last_verified": "2026-09-02T20:03:25Z",
       "missing_count": 0,
       "source_family": "london-mathematical-society",
       "security_vetting": null,
@@ -1930,8 +1930,8 @@
       ],
       "checked_at": "2026-09-02",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-09-02T16:33:33Z",
-      "last_changed": "2026-09-02T16:33:33Z",
+      "last_seen": "2026-09-02T20:03:25Z",
+      "last_changed": "2026-09-02T20:03:25Z",
       "source_id": "jane-street-see-london-2027",
       "source_kind": "discovered",
       "content_fingerprint": "e9dc54e79446f4922e93a0a73375fac1f99bd3485aefa35f90c40d66e347ebed",
@@ -1960,8 +1960,8 @@
       "alternate_sources": [
         "https://www.janestreet.com/jobs/programs-endpoint.json"
       ],
-      "last_verified": "2026-09-02T16:33:33Z",
-      "deadline_last_verified": "2026-09-02T16:33:33Z",
+      "last_verified": "2026-09-02T20:03:25Z",
+      "deadline_last_verified": "2026-09-02T20:03:25Z",
       "missing_count": 0,
       "source_family": "jane-street",
       "security_vetting": null,
@@ -2046,8 +2046,8 @@
       ],
       "checked_at": "2026-09-02",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-09-02T16:33:33Z",
-      "last_changed": "2026-09-02T16:33:33Z",
+      "last_seen": "2026-09-02T20:03:25Z",
+      "last_changed": "2026-09-02T20:03:25Z",
       "source_id": "jane-street-see-london-2027",
       "source_kind": "discovered",
       "content_fingerprint": "b03c542895106715a70ee9eed425d9ba8376d7e6874aea282cd0e2238b667cba",
@@ -2080,8 +2080,8 @@
       "alternate_sources": [
         "https://www.janestreet.com/jobs/programs-endpoint.json"
       ],
-      "last_verified": "2026-09-02T16:33:33Z",
-      "deadline_last_verified": "2026-09-02T16:33:33Z",
+      "last_verified": "2026-09-02T20:03:25Z",
+      "deadline_last_verified": "2026-09-02T20:03:25Z",
       "missing_count": 0,
       "source_family": "jane-street",
       "security_vetting": null,
@@ -2175,8 +2175,8 @@
       ],
       "checked_at": "2026-09-02",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-09-02T16:33:33Z",
-      "last_changed": "2026-09-02T16:33:33Z",
+      "last_seen": "2026-09-02T20:03:25Z",
+      "last_changed": "2026-09-02T20:03:25Z",
       "source_id": "jane-street-see-london-2027",
       "source_kind": "discovered",
       "content_fingerprint": "9a9867cf88dbbbf74a988b604d09a84d13b118375537ca01842340410a258e10",
@@ -2212,8 +2212,8 @@
       "alternate_sources": [
         "https://www.janestreet.com/jobs/programs-endpoint.json"
       ],
-      "last_verified": "2026-09-02T16:33:33Z",
-      "deadline_last_verified": "2026-09-02T16:33:33Z",
+      "last_verified": "2026-09-02T20:03:25Z",
+      "deadline_last_verified": "2026-09-02T20:03:25Z",
       "missing_count": 0,
       "source_family": "jane-street",
       "security_vetting": null,
@@ -2258,13 +2258,13 @@
         {
           "statement": "The official detail page identifies Summer Intelligence Internship as a current or announced opportunity.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#summer-intelligence-internship",
-          "checked_at": "2026-08-31",
+          "checked_at": "2026-09-02",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#summer-intelligence-internship",
-          "checked_at": "2026-08-31",
+          "checked_at": "2026-09-02",
           "source_type": "official"
         }
       ],
@@ -2310,13 +2310,13 @@
           "reason": "Security vetting is recorded as a later appointment condition, not predicted as an eligibility result."
         }
       ],
-      "checked_at": "2026-08-31",
+      "checked_at": "2026-09-02",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-08-31T22:37:21Z",
-      "last_changed": "2026-08-31T22:37:21Z",
+      "last_seen": "2026-09-02T20:03:25Z",
+      "last_changed": "2026-09-02T20:03:25Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
-      "content_fingerprint": "935152d0edb267499c48d10388ae9a4dbb3395257e6945c71015a109a809c92f",
+      "content_fingerprint": "7a56d3e9fedb6d10573d58c1ef7ed19235e758e975db7ef982a231f7d54d01fd",
       "confidence": 0.6799999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -2345,7 +2345,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-08-31T22:37:21Z",
+      "last_verified": "2026-09-02T20:03:25Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
@@ -2392,13 +2392,13 @@
         {
           "statement": "The official detail page identifies Maths and Cryptography Internship as a current or announced opportunity.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#maths-and-cryptography-internship",
-          "checked_at": "2026-08-31",
+          "checked_at": "2026-09-02",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#maths-and-cryptography-internship",
-          "checked_at": "2026-08-31",
+          "checked_at": "2026-09-02",
           "source_type": "official"
         }
       ],
@@ -2444,10 +2444,10 @@
           "reason": "Security vetting is recorded as a later appointment condition, not predicted as an eligibility result."
         }
       ],
-      "checked_at": "2026-08-31",
+      "checked_at": "2026-09-02",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-08-31T22:37:21Z",
-      "last_changed": "2026-08-31T22:37:21Z",
+      "last_seen": "2026-09-02T20:03:25Z",
+      "last_changed": "2026-09-02T20:03:25Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "7de1a9fbc928b1fd1e779e3d1ba6a7ade0f586654ae3ebec2ee01302b07abfe1",
@@ -2480,7 +2480,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-08-31T22:37:21Z",
+      "last_verified": "2026-09-02T20:03:25Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
@@ -2526,13 +2526,13 @@
         {
           "statement": "The official detail page identifies Maths and Cryptography Insight Programme as a current or announced opportunity.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#maths-and-cryptography-insight-programme",
-          "checked_at": "2026-08-31",
+          "checked_at": "2026-09-02",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#maths-and-cryptography-insight-programme",
-          "checked_at": "2026-08-31",
+          "checked_at": "2026-09-02",
           "source_type": "official"
         }
       ],
@@ -2578,10 +2578,10 @@
           "reason": "Security vetting is recorded as a later appointment condition, not predicted as an eligibility result."
         }
       ],
-      "checked_at": "2026-08-31",
+      "checked_at": "2026-09-02",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-08-31T22:37:21Z",
-      "last_changed": "2026-08-31T22:37:21Z",
+      "last_seen": "2026-09-02T20:03:25Z",
+      "last_changed": "2026-09-02T20:03:25Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "fccba847d49579f962ef51ae6fadb669d586c7383a3fd5645a3b881d7d61f05b",
@@ -2613,7 +2613,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-08-31T22:37:21Z",
+      "last_verified": "2026-09-02T20:03:25Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
@@ -2659,13 +2659,13 @@
         {
           "statement": "The official detail page identifies Cyber Insights Summer School as a current or announced opportunity.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#cyber-insights-summer-school",
-          "checked_at": "2026-08-31",
+          "checked_at": "2026-09-02",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#cyber-insights-summer-school",
-          "checked_at": "2026-08-31",
+          "checked_at": "2026-09-02",
           "source_type": "official"
         }
       ],
@@ -2711,10 +2711,10 @@
           "reason": "Security vetting is recorded as a later appointment condition, not predicted as an eligibility result."
         }
       ],
-      "checked_at": "2026-08-31",
+      "checked_at": "2026-09-02",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-08-31T22:37:21Z",
-      "last_changed": "2026-08-31T22:37:21Z",
+      "last_seen": "2026-09-02T20:03:25Z",
+      "last_changed": "2026-09-02T20:03:25Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "95f123183cb8d46517681bbc97fd9056c7cb6a605d7f6a4d52f3cb555331d238",
@@ -2746,7 +2746,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-08-31T22:37:21Z",
+      "last_verified": "2026-09-02T20:03:25Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
@@ -2794,13 +2794,13 @@
         {
           "statement": "The official detail page identifies Student Scheme for Technologists as a current or announced opportunity.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#student-scheme-for-technologists",
-          "checked_at": "2026-08-31",
+          "checked_at": "2026-09-02",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#student-scheme-for-technologists",
-          "checked_at": "2026-08-31",
+          "checked_at": "2026-09-02",
           "source_type": "official"
         }
       ],
@@ -2846,10 +2846,10 @@
           "reason": "Security vetting is recorded as a later appointment condition, not predicted as an eligibility result."
         }
       ],
-      "checked_at": "2026-08-31",
+      "checked_at": "2026-09-02",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-08-31T22:37:21Z",
-      "last_changed": "2026-08-31T22:37:21Z",
+      "last_seen": "2026-09-02T20:03:25Z",
+      "last_changed": "2026-09-02T20:03:25Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "bff5f7e4fdc4ade988b9c1edf3d202fb8564e2c7b2bc86fc4b6ac23be1a65b1d",
@@ -2885,7 +2885,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-08-31T22:37:21Z",
+      "last_verified": "2026-09-02T20:03:25Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
@@ -3881,8 +3881,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-02",
       "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-09-02T09:51:24Z",
-      "last_changed": "2026-09-02T09:51:24Z",
+      "last_seen": "2026-09-02T20:03:25Z",
+      "last_changed": "2026-09-02T20:03:25Z",
       "source_id": "esa-academy",
       "source_kind": "discovered",
       "content_fingerprint": "2f37357811676c08db391b64e91ea920f09e90200e13927d17b019ec4e182e58",
@@ -3911,7 +3911,7 @@
       "alternate_sources": [
         "https://www.esa.int/Education/ESA_Academy/Current_opportunities"
       ],
-      "last_verified": "2026-09-02T09:51:24Z",
+      "last_verified": "2026-09-02T20:03:25Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "european-space-agency",
@@ -3972,8 +3972,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-02",
       "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-09-02T09:51:24Z",
-      "last_changed": "2026-09-02T09:51:24Z",
+      "last_seen": "2026-09-02T20:03:25Z",
+      "last_changed": "2026-09-02T20:03:25Z",
       "source_id": "esa-academy",
       "source_kind": "discovered",
       "content_fingerprint": "4b532abefc3ca72f7ec6b937463977893ee8e42bc171055721663e13d2a0f3d1",
@@ -4006,8 +4006,8 @@
       "alternate_sources": [
         "https://www.esa.int/Education/ESA_Academy/Current_opportunities"
       ],
-      "last_verified": "2026-09-02T09:51:24Z",
-      "deadline_last_verified": "2026-09-02T09:51:24Z",
+      "last_verified": "2026-09-02T20:03:25Z",
+      "deadline_last_verified": "2026-09-02T20:03:25Z",
       "missing_count": 0,
       "source_family": "european-space-agency",
       "security_vetting": null,
@@ -4090,8 +4090,8 @@
       ],
       "checked_at": "2026-09-02",
       "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-09-02T09:51:24Z",
-      "last_changed": "2026-09-02T09:51:24Z",
+      "last_seen": "2026-09-02T20:03:25Z",
+      "last_changed": "2026-09-02T20:03:25Z",
       "source_id": "esa-academy",
       "source_kind": "discovered",
       "content_fingerprint": "8492decdc91f05a65671bdef402a46c72ff57dc2efe86a91508abc73c802ac83",
@@ -4124,8 +4124,8 @@
       "alternate_sources": [
         "https://www.esa.int/Education/ESA_Academy/Current_opportunities"
       ],
-      "last_verified": "2026-09-02T09:51:24Z",
-      "deadline_last_verified": "2026-09-02T09:51:24Z",
+      "last_verified": "2026-09-02T20:03:25Z",
+      "deadline_last_verified": "2026-09-02T20:03:25Z",
       "missing_count": 0,
       "source_family": "european-space-agency",
       "security_vetting": null,
@@ -5811,7 +5811,7 @@
       ],
       "last_verified": "2026-08-31T00:23:55Z",
       "deadline_last_verified": "2026-08-31T00:23:55Z",
-      "missing_count": 4,
+      "missing_count": 5,
       "source_family": "cambridge-mathematics",
       "security_vetting": null,
       "required_documents": [
@@ -5866,8 +5866,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-02",
       "first_seen": "2026-08-31T00:10:39Z",
-      "last_seen": "2026-09-02T09:51:24Z",
-      "last_changed": "2026-09-02T09:51:24Z",
+      "last_seen": "2026-09-02T20:03:25Z",
+      "last_changed": "2026-09-02T20:03:25Z",
       "source_id": "oxford-maths-summer-research",
       "source_kind": "discovered",
       "content_fingerprint": "eb99b1abd4e12d51778fea08c16b63f3940228e0cdf5d51b997dbc2387b9f5a5",
@@ -5901,7 +5901,7 @@
       "alternate_sources": [
         "https://www.maths.ox.ac.uk/members/students/undergraduate-courses/teaching-and-learning/extracurricular-projects"
       ],
-      "last_verified": "2026-09-02T09:51:24Z",
+      "last_verified": "2026-09-02T20:03:25Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "oxford-mathematics",
@@ -5958,8 +5958,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-02",
       "first_seen": "2026-08-31T00:10:39Z",
-      "last_seen": "2026-09-02T09:51:24Z",
-      "last_changed": "2026-09-02T09:51:24Z",
+      "last_seen": "2026-09-02T20:03:25Z",
+      "last_changed": "2026-09-02T20:03:25Z",
       "source_id": "oxford-maths-summer-research",
       "source_kind": "discovered",
       "content_fingerprint": "9b323b189d84a5d743551d82cc8d229e0b522f16b550294e555483ede80f0d34",
@@ -5994,7 +5994,7 @@
       "alternate_sources": [
         "https://www.maths.ox.ac.uk/members/students/undergraduate-courses/teaching-and-learning/extracurricular-projects"
       ],
-      "last_verified": "2026-09-02T09:51:24Z",
+      "last_verified": "2026-09-02T20:03:25Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "oxford-mathematics",
@@ -7187,7 +7187,7 @@
       "alternate_sources": [],
       "last_verified": "2026-08-31T00:23:55Z",
       "deadline_last_verified": null,
-      "missing_count": 5,
+      "missing_count": 6,
       "source_family": "uk-government-science",
       "security_vetting": null,
       "required_documents": [],
@@ -7466,11 +7466,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-02",
       "first_seen": "2026-08-31T00:23:55Z",
-      "last_seen": "2026-09-02T09:51:24Z",
-      "last_changed": "2026-09-02T09:51:24Z",
+      "last_seen": "2026-09-02T20:03:25Z",
+      "last_changed": "2026-09-02T20:03:25Z",
       "source_id": "cambridge-cms-summer-research",
       "source_kind": "discovered",
-      "content_fingerprint": "a330c4480e17dfe51aeb9489c55de6e0cfaaba6a96d3e46b704de6ea56b723b1",
+      "content_fingerprint": "2bc8b097a29a8e9eb049e8cde01e27afd76d38de06f87ddf6c25d13e2acda541",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -7502,8 +7502,8 @@
       "alternate_sources": [
         "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-programmes"
       ],
-      "last_verified": "2026-09-02T09:51:24Z",
-      "deadline_last_verified": "2026-09-02T09:51:24Z",
+      "last_verified": "2026-09-02T20:03:25Z",
+      "deadline_last_verified": "2026-09-02T20:03:25Z",
       "missing_count": 0,
       "source_family": "cambridge-mathematics",
       "security_vetting": null,
@@ -8055,11 +8055,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-02",
       "first_seen": "2026-08-31T03:18:34Z",
-      "last_seen": "2026-09-02T16:33:33Z",
-      "last_changed": "2026-09-02T16:33:33Z",
+      "last_seen": "2026-09-02T20:03:25Z",
+      "last_changed": "2026-09-02T20:03:25Z",
       "source_id": "lazard-spring-insight-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "0b9d38e2f10982e7a9135c55a86828f88c0bab93dc96933b894d5169f51253a9",
+      "content_fingerprint": "0ba56cf637dad11b25f9072fa9660496bd422f87f768f9039c2f21c685da9c9d",
       "confidence": 0.8,
       "priority_tier": "B",
       "review_required": false,
@@ -8079,7 +8079,7 @@
       "discovered_via": "https://www.lazard.com/about-lazard/locations/united-kingdom/careers-in-the-united-kingdom/early-career-programmes-in-the-uk/",
       "primary_evidence_url": "https://www.lazard.com/about-lazard/locations/united-kingdom/careers-in-the-united-kingdom/early-career-programmes-in-the-uk/",
       "alternate_sources": [],
-      "last_verified": "2026-09-02T16:33:33Z",
+      "last_verified": "2026-09-02T20:03:25Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "lazard",
@@ -22883,11 +22883,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-02",
       "first_seen": "2026-09-01T14:00:08Z",
-      "last_seen": "2026-09-02T09:51:24Z",
-      "last_changed": "2026-09-02T09:51:24Z",
+      "last_seen": "2026-09-02T20:03:25Z",
+      "last_changed": "2026-09-02T20:03:25Z",
       "source_id": "fields-fusrp-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "3f4503fb0f01401e80ccb8f0a74a7daa20962a3ab75e38ce983ac049daada909",
+      "content_fingerprint": "7c3f8d91349796a1be3d189181cb6aa0a5f43c8cefc2bc4a52af881587330cd3",
       "confidence": 0.8,
       "priority_tier": "B",
       "review_required": false,
@@ -22907,7 +22907,7 @@
       "discovered_via": "https://www.fields.utoronto.ca/activities/26-27/FUSRP",
       "primary_evidence_url": "https://www.fields.utoronto.ca/activities/26-27/FUSRP",
       "alternate_sources": [],
-      "last_verified": "2026-09-02T09:51:24Z",
+      "last_verified": "2026-09-02T20:03:25Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "fields-institute",
