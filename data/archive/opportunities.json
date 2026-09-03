@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T21:01:49Z",
+  "generated_at": "2026-09-03T04:21:18Z",
   "opportunities": [
     {
       "canonical_id": "deutsche-bank-2027-fic-spring",
@@ -560,6 +560,147 @@
         "proposal"
       ],
       "duration": null,
+      "template_dependent": false,
+      "auto_publish_reason": "",
+      "parser_version": 3
+    },
+    {
+      "canonical_id": "gchq-ncsc-cyber-consultant-ref-3811",
+      "title": "NCSC Cyber Consultant Ref. 3811",
+      "organisation": "GCHQ",
+      "stream": "competitions_development",
+      "lifecycle": "closed",
+      "eligibility": "uncertain",
+      "primary_action": "Apply",
+      "source_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-53dc566b1a9d/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
+      "location": "London, UK",
+      "start_date": "2026-01",
+      "end_date": null,
+      "deadline": "2026-09-02",
+      "deadline_status": "fixed",
+      "deadline_source": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-53dc566b1a9d/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
+      "deadline_verified": true,
+      "rolling": false,
+      "opens_at": null,
+      "research_mode": null,
+      "summary": "Title: NCSC Cyber Consultant Ref. 3811. Location: London, Manchester. Department: Cyber. Closing Date: 02/09/2026, 23:55",
+      "why_it_fits": "Official subject, timing and access evidence will be evaluated against the Durham Mathematics & Physics profile.",
+      "eligibility_note": "Needs eligibility check: Uk Residency is deliberately not inferred from the profile.",
+      "next_step": "Apply through the official route.",
+      "tags": [
+        "2026",
+        "automatically discovered",
+        "cyber",
+        "data"
+      ],
+      "aliases": [],
+      "merged_alias_ids": [],
+      "evidence": [
+        {
+          "statement": "The official detail page identifies NCSC Cyber Consultant Ref. 3811 as a current or announced opportunity.",
+          "source_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-53dc566b1a9d/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
+          "checked_at": "2026-09-01",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page states an application deadline of 2026-09-02.",
+          "source_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-53dc566b1a9d/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
+          "checked_at": "2026-09-01",
+          "source_type": "official"
+        },
+        {
+          "statement": "The eligibility rules were extracted from the official detail-page wording.",
+          "source_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-53dc566b1a9d/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
+          "checked_at": "2026-09-01",
+          "source_type": "official"
+        }
+      ],
+      "requirements": [
+        {
+          "rule": "nationality",
+          "value": [
+            "British"
+          ],
+          "strength": "required",
+          "evidence": "Official nationality requirement"
+        },
+        {
+          "rule": "uk_residency",
+          "value": true,
+          "strength": "required",
+          "evidence": "Official residency wording"
+        },
+        {
+          "rule": "security_vetting",
+          "value": "Developed Vetting",
+          "strength": "informational",
+          "evidence": "Appointment is subject to official vetting"
+        }
+      ],
+      "rule_evaluations": [
+        {
+          "rule": "nationality",
+          "strength": "required",
+          "outcome": "met",
+          "reason": "Known nationality is British."
+        },
+        {
+          "rule": "uk_residency",
+          "strength": "required",
+          "outcome": "unknown",
+          "reason": "Uk Residency is deliberately not inferred from the profile."
+        },
+        {
+          "rule": "security_vetting",
+          "strength": "informational",
+          "outcome": "not_applicable",
+          "reason": "Security vetting is recorded as a later appointment condition, not predicted as an eligibility result."
+        }
+      ],
+      "checked_at": "2026-09-01",
+      "first_seen": "2026-08-31T00:10:39Z",
+      "last_seen": "2026-09-01T14:06:38Z",
+      "last_changed": "2026-09-01T14:06:38Z",
+      "source_id": "gchq-vacancies",
+      "source_kind": "discovered",
+      "content_fingerprint": "f9c86e92af712f98f0ae01f6679f634d6e77494d4a9ab7691ca87b86c00445db",
+      "confidence": 0.99,
+      "priority_tier": "C",
+      "review_required": true,
+      "review_reasons": [
+        "important eligibility evidence remains unknown"
+      ],
+      "identity_targeted": false,
+      "access_scope": "unknown",
+      "source_conflict": false,
+      "change_summary": [
+        "source_url: https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-648a098b474e/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB → https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-53dc566b1a9d/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB"
+      ],
+      "opportunity_type": "competition_or_development",
+      "career_fields": [
+        "cyber",
+        "data"
+      ],
+      "subject_fields": [],
+      "country": "United Kingdom",
+      "city": "London",
+      "work_mode": "on_site",
+      "cycle": "2026",
+      "application_url": "https://www.gchq.gov.uk/collection/applying-to-gchq",
+      "discovered_via": "https://www.gchq-careers.co.uk/jobs/",
+      "primary_evidence_url": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-53dc566b1a9d/candidate/so/pm/1/pl/6/opp/3811-NCSC-Cyber-Consultant-Ref-3811/en-GB",
+      "alternate_sources": [
+        "https://www.gchq-careers.co.uk/jobs/"
+      ],
+      "last_verified": "2026-09-01T14:06:38Z",
+      "deadline_last_verified": "2026-09-01T14:06:38Z",
+      "missing_count": 0,
+      "source_family": "gchq",
+      "security_vetting": "Developed Vetting",
+      "required_documents": [
+        "CV"
+      ],
+      "duration": "25 day",
       "template_dependent": false,
       "auto_publish_reason": "",
       "parser_version": 3
@@ -1155,19 +1296,19 @@
         {
           "statement": "The official detail page identifies SEE London March 30th - April 3rd, 2027 as a current or announced opportunity.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/see/",
-          "checked_at": "2026-09-02",
+          "checked_at": "2026-09-03",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2027-01-03.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/see/",
-          "checked_at": "2026-09-02",
+          "checked_at": "2026-09-03",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/see/",
-          "checked_at": "2026-09-02",
+          "checked_at": "2026-09-03",
           "source_type": "official"
         }
       ],
@@ -1196,10 +1337,10 @@
           "reason": "Known university country is United Kingdom; accepted: ['Austria', 'Belgium', 'Denmark', 'Germany', 'Netherlands', 'Norway', 'Sweden', 'Switzerland']."
         }
       ],
-      "checked_at": "2026-09-02",
+      "checked_at": "2026-09-03",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-09-02T20:03:25Z",
-      "last_changed": "2026-09-02T20:03:25Z",
+      "last_seen": "2026-09-03T04:21:17Z",
+      "last_changed": "2026-09-03T04:21:17Z",
       "source_id": "jane-street-see-london-2027",
       "source_kind": "discovered",
       "content_fingerprint": "9a9867cf88dbbbf74a988b604d09a84d13b118375537ca01842340410a258e10",
@@ -1235,8 +1376,8 @@
       "alternate_sources": [
         "https://www.janestreet.com/jobs/programs-endpoint.json"
       ],
-      "last_verified": "2026-09-02T20:03:25Z",
-      "deadline_last_verified": "2026-09-02T20:03:25Z",
+      "last_verified": "2026-09-03T04:21:17Z",
+      "deadline_last_verified": "2026-09-03T04:21:17Z",
       "missing_count": 0,
       "source_family": "jane-street",
       "security_vetting": null,
