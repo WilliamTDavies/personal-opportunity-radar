@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T16:24:25Z",
+  "generated_at": "2026-09-03T20:05:26Z",
   "opportunities": [
     {
       "canonical_id": "durham-bsi-undergraduate-summer-bursary",
@@ -137,11 +137,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-03",
       "first_seen": "2026-08-31T00:23:55Z",
-      "last_seen": "2026-09-03T10:02:47Z",
-      "last_changed": "2026-09-03T10:02:47Z",
+      "last_seen": "2026-09-03T20:05:14Z",
+      "last_changed": "2026-09-03T20:05:14Z",
       "source_id": "cambridge-cms-summer-research",
       "source_kind": "discovered",
-      "content_fingerprint": "c93f3bbf8635830c6cbbfce131891a72d5a5ab0e5a31fa66fdbc6bff45cca8f9",
+      "content_fingerprint": "7ba99c809e4fac1e0434e9dd02475493ca57123027074bc825d98374a3e755cc",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -173,8 +173,8 @@
       "alternate_sources": [
         "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-programmes"
       ],
-      "last_verified": "2026-09-03T10:02:47Z",
-      "deadline_last_verified": "2026-09-03T10:02:47Z",
+      "last_verified": "2026-09-03T20:05:14Z",
+      "deadline_last_verified": "2026-09-03T20:05:14Z",
       "missing_count": 0,
       "source_family": "cambridge-mathematics",
       "security_vetting": null,
@@ -781,8 +781,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-03",
       "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-09-03T10:02:47Z",
-      "last_changed": "2026-09-03T10:02:47Z",
+      "last_seen": "2026-09-03T20:05:14Z",
+      "last_changed": "2026-09-03T20:05:14Z",
       "source_id": "esa-academy",
       "source_kind": "discovered",
       "content_fingerprint": "4b532abefc3ca72f7ec6b937463977893ee8e42bc171055721663e13d2a0f3d1",
@@ -815,8 +815,8 @@
       "alternate_sources": [
         "https://www.esa.int/Education/ESA_Academy/Current_opportunities"
       ],
-      "last_verified": "2026-09-03T10:02:47Z",
-      "deadline_last_verified": "2026-09-03T10:02:47Z",
+      "last_verified": "2026-09-03T20:05:14Z",
+      "deadline_last_verified": "2026-09-03T20:05:14Z",
       "missing_count": 0,
       "source_family": "european-space-agency",
       "security_vetting": null,
@@ -2242,8 +2242,8 @@
       ],
       "checked_at": "2026-09-03",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-09-03T10:02:47Z",
-      "last_changed": "2026-09-03T10:02:47Z",
+      "last_seen": "2026-09-03T20:05:14Z",
+      "last_changed": "2026-09-03T20:05:14Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "95f123183cb8d46517681bbc97fd9056c7cb6a605d7f6a4d52f3cb555331d238",
@@ -2275,7 +2275,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-09-03T10:02:47Z",
+      "last_verified": "2026-09-03T20:05:14Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
@@ -2328,8 +2328,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-03",
       "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-09-03T10:02:47Z",
-      "last_changed": "2026-09-03T10:02:47Z",
+      "last_seen": "2026-09-03T20:05:14Z",
+      "last_changed": "2026-09-03T20:05:14Z",
       "source_id": "esa-academy",
       "source_kind": "discovered",
       "content_fingerprint": "f443ee5e3f79be43a4482b8ca4c4004ea73d0242a3e6ea86cb405d0f01cbcdce",
@@ -2358,7 +2358,7 @@
       "alternate_sources": [
         "https://www.esa.int/Education/ESA_Academy/Current_opportunities"
       ],
-      "last_verified": "2026-09-03T10:02:47Z",
+      "last_verified": "2026-09-03T20:05:14Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "european-space-agency",
@@ -2639,8 +2639,8 @@
       ],
       "checked_at": "2026-09-03",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-09-03T10:02:47Z",
-      "last_changed": "2026-09-03T10:02:47Z",
+      "last_seen": "2026-09-03T20:05:14Z",
+      "last_changed": "2026-09-03T20:05:14Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "7de1a9fbc928b1fd1e779e3d1ba6a7ade0f586654ae3ebec2ee01302b07abfe1",
@@ -2673,7 +2673,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-09-03T10:02:47Z",
+      "last_verified": "2026-09-03T20:05:14Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
@@ -3243,8 +3243,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-03",
       "first_seen": "2026-08-31T00:10:39Z",
-      "last_seen": "2026-09-03T10:02:47Z",
-      "last_changed": "2026-09-03T10:02:47Z",
+      "last_seen": "2026-09-03T20:05:14Z",
+      "last_changed": "2026-09-03T20:05:14Z",
       "source_id": "oxford-maths-summer-research",
       "source_kind": "discovered",
       "content_fingerprint": "576e61d743bf9a2466e0e539b9f1120f2b0b65067dc590c6d5a575dda1f1cdab",
@@ -3278,7 +3278,7 @@
       "alternate_sources": [
         "https://www.maths.ox.ac.uk/members/students/undergraduate-courses/teaching-and-learning/extracurricular-projects"
       ],
-      "last_verified": "2026-09-03T10:02:47Z",
+      "last_verified": "2026-09-03T20:05:14Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "oxford-mathematics",
@@ -3728,8 +3728,8 @@
       ],
       "checked_at": "2026-09-03",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-09-03T10:02:47Z",
-      "last_changed": "2026-09-03T10:02:47Z",
+      "last_seen": "2026-09-03T20:05:14Z",
+      "last_changed": "2026-09-03T20:05:14Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "bff5f7e4fdc4ade988b9c1edf3d202fb8564e2c7b2bc86fc4b6ac23be1a65b1d",
@@ -3765,7 +3765,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-09-03T10:02:47Z",
+      "last_verified": "2026-09-03T20:05:14Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
@@ -3865,8 +3865,8 @@
       ],
       "checked_at": "2026-09-03",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-09-03T10:02:47Z",
-      "last_changed": "2026-09-03T10:02:47Z",
+      "last_seen": "2026-09-03T20:05:14Z",
+      "last_changed": "2026-09-03T20:05:14Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "7a56d3e9fedb6d10573d58c1ef7ed19235e758e975db7ef982a231f7d54d01fd",
@@ -3898,7 +3898,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-09-03T10:02:47Z",
+      "last_verified": "2026-09-03T20:05:14Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
@@ -4049,8 +4049,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-03",
       "first_seen": "2026-08-31T00:10:39Z",
-      "last_seen": "2026-09-03T10:02:47Z",
-      "last_changed": "2026-09-03T10:02:47Z",
+      "last_seen": "2026-09-03T20:05:14Z",
+      "last_changed": "2026-09-03T20:05:14Z",
       "source_id": "oxford-maths-summer-research",
       "source_kind": "discovered",
       "content_fingerprint": "9b323b189d84a5d743551d82cc8d229e0b522f16b550294e555483ede80f0d34",
@@ -4085,7 +4085,7 @@
       "alternate_sources": [
         "https://www.maths.ox.ac.uk/members/students/undergraduate-courses/teaching-and-learning/extracurricular-projects"
       ],
-      "last_verified": "2026-09-03T10:02:47Z",
+      "last_verified": "2026-09-03T20:05:14Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "oxford-mathematics",
