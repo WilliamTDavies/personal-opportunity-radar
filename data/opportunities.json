@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-04T20:44:31Z",
+  "generated_at": "2026-09-05T04:25:05Z",
   "profile_version": 1,
   "alias_map": {
     "db-fic-spring-2027": "deutsche-bank-2027-fic-spring",
@@ -160,7 +160,7 @@
         {
           "statement": "The official source matched: 2027 spring insight, 2029, 4 december 2026.",
           "source_url": "https://careers.blackrock.com/job/london/2027-spring-insight-event-emea/45831/97150826752",
-          "checked_at": "2026-09-04",
+          "checked_at": "2026-09-05",
           "source_type": "official"
         }
       ],
@@ -182,13 +182,13 @@
           "reason": "Known graduation year is 2029; accepted: 2029."
         }
       ],
-      "checked_at": "2026-09-04",
+      "checked_at": "2026-09-05",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-04T20:44:30Z",
-      "last_changed": "2026-09-04T20:44:30Z",
+      "last_seen": "2026-09-05T04:25:04Z",
+      "last_changed": "2026-09-05T04:25:04Z",
       "source_id": "blackrock-spring-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "55e16f047e708a2865e09fd8c41ccb3cd5fcbca523475686587dcd678355b72d",
+      "content_fingerprint": "7916489dd893ef6a4532caba2b37df8ccc3ca799d4acc198fa42b3d03d382de4",
       "confidence": 0.8,
       "priority_tier": "A",
       "review_required": false,
@@ -208,8 +208,8 @@
       "discovered_via": "https://careers.blackrock.com/job/london/2027-spring-insight-event-emea/45831/97150826752",
       "primary_evidence_url": "https://careers.blackrock.com/job/london/2027-spring-insight-event-emea/45831/97150826752",
       "alternate_sources": [],
-      "last_verified": "2026-09-04T20:44:30Z",
-      "deadline_last_verified": "2026-09-04T20:44:30Z",
+      "last_verified": "2026-09-05T04:25:04Z",
+      "deadline_last_verified": "2026-09-05T04:25:04Z",
       "missing_count": 0,
       "source_family": "blackrock",
       "security_vetting": null,
@@ -490,7 +490,7 @@
         {
           "statement": "The official source matched: 2027 internship, register your interest.",
           "source_url": "https://search.jobs.barclays/discovery",
-          "checked_at": "2026-09-04",
+          "checked_at": "2026-09-05",
           "source_type": "official"
         }
       ],
@@ -514,13 +514,13 @@
           "reason": "Known graduation year is 2029; accepted: 2027, 2028, 2029."
         }
       ],
-      "checked_at": "2026-09-04",
+      "checked_at": "2026-09-05",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-09-04T20:44:30Z",
-      "last_changed": "2026-09-04T20:44:30Z",
+      "last_seen": "2026-09-05T04:25:04Z",
+      "last_changed": "2026-09-05T04:25:04Z",
       "source_id": "barclays-discovery-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "16a5eac90efb9a75df5a3d5484750b44bfef0f4242073764a4805631a2e221d1",
+      "content_fingerprint": "1784be33ad462fcac82b6504e6373b8c0cab0f7ad6f8e97c9d0a2bec51ed22b7",
       "confidence": 0.8,
       "priority_tier": "A",
       "review_required": false,
@@ -540,7 +540,7 @@
       "discovered_via": "https://search.jobs.barclays/discovery",
       "primary_evidence_url": "https://search.jobs.barclays/discovery",
       "alternate_sources": [],
-      "last_verified": "2026-09-04T20:44:30Z",
+      "last_verified": "2026-09-05T04:25:04Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "barclays",
@@ -587,7 +587,7 @@
         {
           "statement": "The official source matched: london spring weeks, april 2027, 1 year students.",
           "source_url": "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/",
-          "checked_at": "2026-09-04",
+          "checked_at": "2026-09-05",
           "source_type": "official"
         }
       ],
@@ -609,13 +609,13 @@
           "reason": "Candidate would be in academic year 1; accepted: [1]."
         }
       ],
-      "checked_at": "2026-09-04",
+      "checked_at": "2026-09-05",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-09-04T20:44:30Z",
-      "last_changed": "2026-09-04T20:44:30Z",
+      "last_seen": "2026-09-05T04:25:04Z",
+      "last_changed": "2026-09-05T04:25:04Z",
       "source_id": "evercore-spring-week-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "d1cb6f2c9137c2f9fbfef936930afbed95f31a4e34ba3b12cbfcf7e9655b4b8f",
+      "content_fingerprint": "8b3856e6ae0f04bc55745dfdee0ca09c3037174fbc9543d880d2c73cb00a3345",
       "confidence": 0.8,
       "priority_tier": "A",
       "review_required": false,
@@ -635,7 +635,7 @@
       "discovered_via": "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/",
       "primary_evidence_url": "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/",
       "alternate_sources": [],
-      "last_verified": "2026-09-04T20:44:30Z",
+      "last_verified": "2026-09-05T04:25:04Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "evercore",
@@ -807,13 +807,13 @@
         {
           "statement": "The official detail page identifies Spring into Quant Finance 2026 as a current or announced opportunity.",
           "source_url": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
-          "checked_at": "2026-09-04",
+          "checked_at": "2026-09-05",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
-          "checked_at": "2026-09-04",
+          "checked_at": "2026-09-05",
           "source_type": "official"
         }
       ],
@@ -839,10 +839,10 @@
           "reason": "Known course is BSc Mathematics and Physics; required subject set: ['mathematics', 'physics', 'computer science', 'engineering', 'statistics']."
         }
       ],
-      "checked_at": "2026-09-04",
+      "checked_at": "2026-09-05",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-09-04T20:44:30Z",
-      "last_changed": "2026-09-04T20:44:30Z",
+      "last_seen": "2026-09-05T04:25:04Z",
+      "last_changed": "2026-09-05T04:25:04Z",
       "source_id": "g-research-spring-quant-2027",
       "source_kind": "discovered",
       "content_fingerprint": "ca98437439128cb2204563f012a0ac08a76c3643a74e981510efbd54fc522289",
@@ -878,7 +878,7 @@
       "discovered_via": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
       "primary_evidence_url": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
       "alternate_sources": [],
-      "last_verified": "2026-09-04T20:44:30Z",
+      "last_verified": "2026-09-05T04:25:04Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "g-research",
@@ -1530,7 +1530,7 @@
         {
           "statement": "The official source matched: 2027 spring insight, later in 2026, rolling.",
           "source_url": "https://www.lazard.com/about-lazard/locations/united-kingdom/careers-in-the-united-kingdom/early-career-programmes-in-the-uk/",
-          "checked_at": "2026-09-04",
+          "checked_at": "2026-09-05",
           "source_type": "official"
         }
       ],
@@ -1552,13 +1552,13 @@
           "reason": "Candidate would be in academic year 1; accepted: [1]."
         }
       ],
-      "checked_at": "2026-09-04",
+      "checked_at": "2026-09-05",
       "first_seen": "2026-08-31T03:18:34Z",
-      "last_seen": "2026-09-04T20:44:30Z",
-      "last_changed": "2026-09-04T20:44:30Z",
+      "last_seen": "2026-09-05T04:25:04Z",
+      "last_changed": "2026-09-05T04:25:04Z",
       "source_id": "lazard-spring-insight-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "029df462572b41ae92726b8c92931fb331064d2c1d2741b4fecd14203f55b4fe",
+      "content_fingerprint": "6e79210e3bd5294d1533dac041ff03e7bc057299012576a2a2f4ee584ed67078",
       "confidence": 0.8,
       "priority_tier": "B",
       "review_required": false,
@@ -1578,7 +1578,7 @@
       "discovered_via": "https://www.lazard.com/about-lazard/locations/united-kingdom/careers-in-the-united-kingdom/early-career-programmes-in-the-uk/",
       "primary_evidence_url": "https://www.lazard.com/about-lazard/locations/united-kingdom/careers-in-the-united-kingdom/early-career-programmes-in-the-uk/",
       "alternate_sources": [],
-      "last_verified": "2026-09-04T20:44:30Z",
+      "last_verified": "2026-09-05T04:25:04Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "lazard",
