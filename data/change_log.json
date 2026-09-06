@@ -1928,5 +1928,1304 @@
     "field": "lifecycle",
     "from": "open",
     "to": "stale"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Buffalo-Relationship-Management-International-Wealth-and-Premier-Banking-Internship-NY-14210/1369520757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Relationship-Management-International-Wealth-and-Premier-Banking-Internship-018983/1371072257/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1369520757/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1371072257/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "deadline",
+    "from": "2026-09-14",
+    "to": "2026-10-31"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "opens_at",
+    "from": "2026-08-17",
+    "to": "2026-09-03"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "start_date",
+    "from": "2027-06-07",
+    "to": "2028-07"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "end_date",
+    "from": "2027-08-13",
+    "to": null
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-private-bank-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "Relationship Management - Private Bank - Internship",
+    "to": "Transaction Banking - Global Trade Solutions - Internship"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-private-bank-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/New-York-Relationship-Management-Private-Bank-Internship-NY-10001/1368775657/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Transaction-Banking-Global-Trade-Solutions-Internship-018983/1371072357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-private-bank-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1368775657/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1371072357/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-private-bank-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "deadline",
+    "from": "2026-09-14",
+    "to": "2026-10-31"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-private-bank-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "opens_at",
+    "from": "2026-08-17",
+    "to": "2026-09-03"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-private-bank-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "start_date",
+    "from": "2027-06-07",
+    "to": "2028-07"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-private-bank-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "end_date",
+    "from": "2027-08-13",
+    "to": null
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "Transaction Banking - Global Payments Solutions - Internship",
+    "to": "Relationship Management - Private Bank - Internship"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Buffalo-Transaction-Banking-Global-Payments-Solutions-Internship-NY-14210/1369520257/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Relationship-Management-Private-Bank-Internship-018983/1371071757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1369520257/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1371071757/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "deadline",
+    "from": "2026-09-14",
+    "to": "2026-10-31"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "opens_at",
+    "from": "2026-08-17",
+    "to": "2026-09-03"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "start_date",
+    "from": "2027-06-07",
+    "to": "2028-07"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "end_date",
+    "from": "2027-08-13",
+    "to": null
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "Relationship Management - International Wealth and Premier Banking - Internship",
+    "to": "Transaction Banking - Securities Services - Internship"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/New-York-Relationship-Management-International-Wealth-and-Premier-Banking-Internship-NY-10001/1369520557/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Transaction-Banking-Securities-Services-Internship-018983/1371070057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1369520557/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1371070057/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "deadline",
+    "from": "2026-09-14",
+    "to": "2026-10-31"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "opens_at",
+    "from": "2026-08-17",
+    "to": "2026-09-03"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "start_date",
+    "from": "2027-06-07",
+    "to": "2028-07"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "end_date",
+    "from": "2027-08-13",
+    "to": null
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/New-York-Transaction-Banking-Global-Payments-Solutions-Internship-NY-10001/1369520357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Transaction-Banking-Global-Payments-Solutions-Internship-018983/1371071357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1369520357/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1371071357/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "deadline",
+    "from": "2026-09-14",
+    "to": "2026-10-31"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "opens_at",
+    "from": "2026-08-17",
+    "to": "2026-09-03"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "start_date",
+    "from": "2027-06-07",
+    "to": "2028-07"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "end_date",
+    "from": "2027-08-13",
+    "to": null
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "Investment Banking - Internship",
+    "to": "Relationship Management - Commercial Bank - Internship"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Investment-Banking-Internship-018983/1365766857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Relationship-Management-Commercial-Bank-Internship-Hong/1371079357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1365766857/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1371079357/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "deadline",
+    "from": "2026-10-30",
+    "to": "2026-10-31"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "opens_at",
+    "from": "2026-07-06",
+    "to": "2026-09-03"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "start_date",
+    "from": "2027-07",
+    "to": "2028-07"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "graduation_year:[2028]:required"
+    ]
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "Investment Banking - HSBC Infrastructure Finance - Internship",
+    "to": "Business Analyst - Treasury - Internship"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Investment-Banking-HSBC-Infrastructure-Finance-Internship-018983/1365767157/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Business-Analyst-Treasury-Internship-Hong/1371080057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1365767157/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1371080057/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "deadline",
+    "from": "2026-10-30",
+    "to": "2026-10-31"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "opens_at",
+    "from": "2026-07-06",
+    "to": "2026-09-03"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "start_date",
+    "from": "2027-07",
+    "to": "2028-07"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "graduation_year:[2028]:required"
+    ]
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "Markets - Sales and Trading - Internship",
+    "to": "Investment Specialist - Investments - Internship"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Markets-Sales-and-Trading-Internship-018983/1365767057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Investment-Specialist-Investments-Internship-Hong/1371079857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1365767057/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1371079857/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "deadline",
+    "from": "2026-10-30",
+    "to": "2026-10-31"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "opens_at",
+    "from": "2026-07-06",
+    "to": "2026-09-03"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "start_date",
+    "from": "2027-07",
+    "to": "2028-07"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "graduation_year:[2028]:required"
+    ]
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "Relationship Management - Corporate and Institutional Banking - Internship",
+    "to": "Transaction Banking - Global Payments Solutions - Internship"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Relationship-Management-Corporate-and-Institutional-Banking-Internship-018983/1365766457/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Transaction-Banking-Global-Payments-Solutions-Internship-Hong/1371076557/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1365766457/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1371076557/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "deadline",
+    "from": "2026-10-30",
+    "to": "2026-10-31"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "opens_at",
+    "from": "2026-07-06",
+    "to": "2026-09-03"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "start_date",
+    "from": "2027-07",
+    "to": "2028-07"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "graduation_year:[2028]:required"
+    ]
+  },
+  {
+    "canonical_id": "optiver-graduate-fpga-engineer-2027-start",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "Graduate FPGA Engineer (2027 Start)",
+    "to": "Institutional Trading - The Trading Floor"
+  },
+  {
+    "canonical_id": "optiver-graduate-fpga-engineer-2027-start",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://optiver.com/join-us/jobs/technology/amsterdam/graduate-fpga-engineer-2027-start/",
+    "to": "https://optiver.com/join-us/jobs/institutional-sales-and-trading/amsterdam/institutional-trader-3/"
+  },
+  {
+    "canonical_id": "optiver-graduate-fpga-engineer-2027-start",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://optiver.com/join-us/jobs/technology/amsterdam/graduate-fpga-engineer-2027-start/apply",
+    "to": "https://optiver.com/join-us/jobs/institutional-sales-and-trading/amsterdam/institutional-trader-3/apply"
+  },
+  {
+    "canonical_id": "optiver-graduate-fpga-engineer-2027-start",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "optiver-graduate-fpga-engineer-2027-start",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2027]:required",
+      "degree_subject:['engineering']:required"
+    ],
+    "to": []
+  },
+  {
+    "canonical_id": "optiver-fpga-internship-2027-start",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "FPGA Internship (2027 Start)",
+    "to": "Graduate FPGA Engineer (2027 Start)"
+  },
+  {
+    "canonical_id": "optiver-fpga-internship-2027-start",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://optiver.com/join-us/jobs/technology/amsterdam/fpga-internship-2027-start/",
+    "to": "https://optiver.com/join-us/jobs/technology/amsterdam/graduate-fpga-engineer-2027-start/"
+  },
+  {
+    "canonical_id": "optiver-fpga-internship-2027-start",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://optiver.com/join-us/jobs/technology/amsterdam/fpga-internship-2027-start/apply",
+    "to": "https://optiver.com/join-us/jobs/technology/amsterdam/graduate-fpga-engineer-2027-start/apply"
+  },
+  {
+    "canonical_id": "optiver-fpga-internship-2027-start",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "start_date",
+    "from": "2028-07",
+    "to": "2027-01"
+  },
+  {
+    "canonical_id": "optiver-fpga-internship-2027-start",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "requirements",
+    "from": [
+      "degree_subject:['engineering']:required"
+    ],
+    "to": [
+      "graduation_year:[2027]:required",
+      "degree_subject:['engineering']:required"
+    ]
+  },
+  {
+    "canonical_id": "optiver-graduate-quantitative-researcher-2027-start",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "Graduate Quantitative Researcher (2027 Start)",
+    "to": "FPGA Internship (2027 Start)"
+  },
+  {
+    "canonical_id": "optiver-graduate-quantitative-researcher-2027-start",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/amsterdam/graduate-quantitative-researcher-2027-start/",
+    "to": "https://optiver.com/join-us/jobs/technology/amsterdam/fpga-internship-2027-start/"
+  },
+  {
+    "canonical_id": "optiver-graduate-quantitative-researcher-2027-start",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/amsterdam/graduate-quantitative-researcher-2027-start/apply",
+    "to": "https://optiver.com/join-us/jobs/technology/amsterdam/fpga-internship-2027-start/apply"
+  },
+  {
+    "canonical_id": "optiver-graduate-quantitative-researcher-2027-start",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "start_date",
+    "from": "2027-01",
+    "to": "2028-07"
+  },
+  {
+    "canonical_id": "optiver-graduate-quantitative-researcher-2027-start",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2027]:required",
+      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering']:required"
+    ],
+    "to": [
+      "degree_subject:['engineering']:required"
+    ]
+  },
+  {
+    "canonical_id": "optiver-quantitative-research-internship-2027-start",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "Quantitative Research Internship (2027 Start)",
+    "to": "Graduate Quantitative Researcher (2027 Start)"
+  },
+  {
+    "canonical_id": "optiver-quantitative-research-internship-2027-start",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/amsterdam/quantitative-research-internship-2027-start/",
+    "to": "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/amsterdam/graduate-quantitative-researcher-2027-start/"
+  },
+  {
+    "canonical_id": "optiver-quantitative-research-internship-2027-start",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/amsterdam/quantitative-research-internship-2027-start/apply",
+    "to": "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/amsterdam/graduate-quantitative-researcher-2027-start/apply"
+  },
+  {
+    "canonical_id": "optiver-quantitative-research-internship-2027-start",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "start_date",
+    "from": "2028-07",
+    "to": "2027-01"
+  },
+  {
+    "canonical_id": "optiver-quantitative-research-internship-2027-start",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "optiver-quantitative-research-internship-2027-start",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "location",
+    "from": "London, UK",
+    "to": "Online"
+  },
+  {
+    "canonical_id": "optiver-quantitative-research-internship-2027-start",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "graduation_year:[2027]:required",
+      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering']:required"
+    ]
+  },
+  {
+    "canonical_id": "dv-trading-4691295005",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "2027 Summer Internship - Trading (DV Equities)",
+    "to": "Quantitative Trading Intern - Summer 2027 (DV Equities)"
+  },
+  {
+    "canonical_id": "dv-trading-4691295005",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "start_date",
+    "from": "2027-07",
+    "to": "2028-07"
+  },
+  {
+    "canonical_id": "jump-trading-8027946",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "eligible"
+  },
+  {
+    "canonical_id": "jump-trading-8027946",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering', 'statistics', 'data science']:required"
+    ]
+  },
+  {
+    "canonical_id": "jump-trading-7975008",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "Campus Data Engineer (Intern)",
+    "to": "Campus C++ Software Engineer (Intern)"
+  },
+  {
+    "canonical_id": "jump-trading-7975008",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027860"
+  },
+  {
+    "canonical_id": "jump-trading-7975008",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027860"
+  },
+  {
+    "canonical_id": "jump-trading-7975008",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "eligible"
+  },
+  {
+    "canonical_id": "jump-trading-7975008",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "location",
+    "from": "London",
+    "to": "Shanghai"
+  },
+  {
+    "canonical_id": "jump-trading-7975008",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering', 'statistics', 'data science']:required"
+    ]
+  },
+  {
+    "canonical_id": "jump-trading-8002998",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=7975008"
+  },
+  {
+    "canonical_id": "jump-trading-8002998",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=7975008"
+  },
+  {
+    "canonical_id": "jump-trading-8002998",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "eligibility",
+    "from": "eligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "jump-trading-8002998",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "location",
+    "from": "Chicago",
+    "to": "London"
+  },
+  {
+    "canonical_id": "jump-trading-8002998",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "requirements",
+    "from": [
+      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering', 'data science']:required"
+    ],
+    "to": []
+  },
+  {
+    "canonical_id": "jump-trading-7974391",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "Campus FPGA Engineer (Intern)",
+    "to": "Campus Data Engineer (Intern)"
+  },
+  {
+    "canonical_id": "jump-trading-7974391",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=7974391",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8002998"
+  },
+  {
+    "canonical_id": "jump-trading-7974391",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=7974391",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8002998"
+  },
+  {
+    "canonical_id": "jump-trading-7974391",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "eligible"
+  },
+  {
+    "canonical_id": "jump-trading-7974391",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "location",
+    "from": "London",
+    "to": "Chicago"
+  },
+  {
+    "canonical_id": "jump-trading-7974391",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering', 'data science']:required"
+    ]
+  },
+  {
+    "canonical_id": "jump-trading-8003013",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=7974391"
+  },
+  {
+    "canonical_id": "jump-trading-8003013",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=7974391"
+  },
+  {
+    "canonical_id": "jump-trading-8003013",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "location",
+    "from": "Chicago",
+    "to": "London"
+  },
+  {
+    "canonical_id": "jump-trading-8027955",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027955",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027923"
+  },
+  {
+    "canonical_id": "jump-trading-8027955",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027955",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027923"
+  },
+  {
+    "canonical_id": "jump-trading-8027955",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "location",
+    "from": "Singapore",
+    "to": "Shanghai"
+  },
+  {
+    "canonical_id": "jump-trading-8027955",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "requirements",
+    "from": [
+      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering', 'data science']:required"
+    ],
+    "to": [
+      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering', 'statistics', 'data science']:required"
+    ]
+  },
+  {
+    "canonical_id": "jump-trading-8027939",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "Campus Quantitative Researcher (Intern)",
+    "to": "Campus Python Software Engineer (Intern)"
+  },
+  {
+    "canonical_id": "jump-trading-8027939",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027955"
+  },
+  {
+    "canonical_id": "jump-trading-8027939",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027955"
+  },
+  {
+    "canonical_id": "jump-trading-8027939",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "eligible"
+  },
+  {
+    "canonical_id": "jump-trading-8027939",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering', 'statistics', 'data science']:required"
+    ]
+  },
+  {
+    "canonical_id": "jump-trading-8010307",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027939"
+  },
+  {
+    "canonical_id": "jump-trading-8010307",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027939"
+  },
+  {
+    "canonical_id": "jump-trading-8010307",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "location",
+    "from": "London; Amsterdam",
+    "to": "Singapore"
+  },
+  {
+    "canonical_id": "jump-trading-8059384",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "Campus Quantitative Researcher (M1/M2 Intern)",
+    "to": "Campus Quantitative Researcher (Intern)"
+  },
+  {
+    "canonical_id": "jump-trading-8059384",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8059384",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8010307"
+  },
+  {
+    "canonical_id": "jump-trading-8059384",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8059384",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8010307"
+  },
+  {
+    "canonical_id": "jump-trading-8059384",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "location",
+    "from": "London; Paris",
+    "to": "London; Amsterdam"
+  },
+  {
+    "canonical_id": "jump-trading-8027898",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "Campus Quantitative Researcher (Off-Cycle - Winter/Spring 2027 Intern)",
+    "to": "Campus Quantitative Researcher (M1/M2 Intern)"
+  },
+  {
+    "canonical_id": "jump-trading-8027898",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027898",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8059384"
+  },
+  {
+    "canonical_id": "jump-trading-8027898",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027898",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8059384"
+  },
+  {
+    "canonical_id": "jump-trading-8027898",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "start_date",
+    "from": "2027-07",
+    "to": null
+  },
+  {
+    "canonical_id": "jump-trading-8027898",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "jump-trading-8027898",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "location",
+    "from": "Hong Kong; Shanghai",
+    "to": "London; Paris"
+  },
+  {
+    "canonical_id": "jump-trading-8027898",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2027]:required"
+    ],
+    "to": []
+  },
+  {
+    "canonical_id": "jump-trading-7982648",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "Campus Quantitative Researcher, UG/MS (Intern)",
+    "to": "Campus Quantitative Researcher (Off-Cycle - Winter/Spring 2027 Intern)"
+  },
+  {
+    "canonical_id": "jump-trading-7982648",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=7982648",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027898"
+  },
+  {
+    "canonical_id": "jump-trading-7982648",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=7982648",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027898"
+  },
+  {
+    "canonical_id": "jump-trading-7982648",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "start_date",
+    "from": null,
+    "to": "2027-07"
+  },
+  {
+    "canonical_id": "jump-trading-7982648",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "jump-trading-7982648",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "location",
+    "from": "Chicago; New York",
+    "to": "Hong Kong; Shanghai"
+  },
+  {
+    "canonical_id": "jump-trading-7982648",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "graduation_year:[2027]:required"
+    ]
+  },
+  {
+    "canonical_id": "jump-trading-8027922",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "Campus Quantitative Trader (Intern)",
+    "to": "Campus Quantitative Researcher, UG/MS (Intern)"
+  },
+  {
+    "canonical_id": "jump-trading-8027922",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027922",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=7982648"
+  },
+  {
+    "canonical_id": "jump-trading-8027922",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027922",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=7982648"
+  },
+  {
+    "canonical_id": "jump-trading-8027922",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "location",
+    "from": "Hong Kong; Shanghai",
+    "to": "Chicago; New York"
+  },
+  {
+    "canonical_id": "jump-trading-8027941",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027941",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027922"
+  },
+  {
+    "canonical_id": "jump-trading-8027941",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027941",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027922"
+  },
+  {
+    "canonical_id": "jump-trading-8027941",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "location",
+    "from": "Singapore",
+    "to": "Hong Kong; Shanghai"
+  },
+  {
+    "canonical_id": "jump-trading-7848371",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027941"
+  },
+  {
+    "canonical_id": "jump-trading-7848371",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027941"
+  },
+  {
+    "canonical_id": "jump-trading-7848371",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "location",
+    "from": "Chicago; New York",
+    "to": "Singapore"
+  },
+  {
+    "canonical_id": "jump-trading-7975026",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "Campus Software Engineer (Intern)",
+    "to": "Campus Quantitative Trader (Intern)"
+  },
+  {
+    "canonical_id": "jump-trading-7975026",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=7848371"
+  },
+  {
+    "canonical_id": "jump-trading-7975026",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=7848371"
+  },
+  {
+    "canonical_id": "jump-trading-7975026",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "location",
+    "from": "London",
+    "to": "Chicago; New York"
+  },
+  {
+    "canonical_id": "jump-trading-8027952",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "Campus Systems Engineer (Intern)",
+    "to": "Campus Software Engineer (Intern)"
+  },
+  {
+    "canonical_id": "jump-trading-8027952",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=7975026"
+  },
+  {
+    "canonical_id": "jump-trading-8027952",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=7975026"
+  },
+  {
+    "canonical_id": "jump-trading-8027952",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "location",
+    "from": "Singapore",
+    "to": "London"
+  },
+  {
+    "canonical_id": "jump-trading-8000323",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027952"
+  },
+  {
+    "canonical_id": "jump-trading-8000323",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027952"
+  },
+  {
+    "canonical_id": "jump-trading-8000323",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "location",
+    "from": "London; Amsterdam",
+    "to": "Singapore"
+  },
+  {
+    "canonical_id": "jump-trading-7565728",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "Campus Trading Team Software Engineer (Intern)",
+    "to": "Campus Systems Engineer (Intern)"
+  },
+  {
+    "canonical_id": "jump-trading-7565728",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=7565728",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8000323"
+  },
+  {
+    "canonical_id": "jump-trading-7565728",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=7565728",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8000323"
+  },
+  {
+    "canonical_id": "jump-trading-7565728",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "start_date",
+    "from": "2027-07",
+    "to": null
+  },
+  {
+    "canonical_id": "jump-trading-7565728",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "jump-trading-7565728",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "location",
+    "from": "Hong Kong",
+    "to": "London; Amsterdam"
+  },
+  {
+    "canonical_id": "jump-trading-7565728",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2027]:required"
+    ],
+    "to": []
+  },
+  {
+    "canonical_id": "jump-trading-8003019",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "title",
+    "from": "Campus UI Software Engineer (Intern)",
+    "to": "Campus Trading Team Software Engineer (Intern)"
+  },
+  {
+    "canonical_id": "jump-trading-8003019",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=7565728"
+  },
+  {
+    "canonical_id": "jump-trading-8003019",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=7565728"
+  },
+  {
+    "canonical_id": "jump-trading-8003019",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "start_date",
+    "from": null,
+    "to": "2027-07"
+  },
+  {
+    "canonical_id": "jump-trading-8003019",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "jump-trading-8003019",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "location",
+    "from": "Chicago",
+    "to": "Hong Kong"
+  },
+  {
+    "canonical_id": "jump-trading-8003019",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "graduation_year:[2027]:required"
+    ]
+  },
+  {
+    "canonical_id": "jump-trading-7974943",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8003019"
+  },
+  {
+    "canonical_id": "jump-trading-7974943",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8003019"
+  },
+  {
+    "canonical_id": "jump-trading-7974943",
+    "changed_at": "2026-09-06T08:55:25Z",
+    "field": "location",
+    "from": "London",
+    "to": "Chicago"
   }
 ]
