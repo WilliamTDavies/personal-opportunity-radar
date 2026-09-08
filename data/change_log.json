@@ -3227,5 +3227,12 @@
     "field": "location",
     "from": "London",
     "to": "Chicago"
+  },
+  {
+    "canonical_id": "g-research-spring-into-quant-finance-2027",
+    "changed_at": "2026-09-08T11:16:10Z",
+    "field": "location",
+    "from": "Not stated",
+    "to": "London, UK"
   }
 ]
