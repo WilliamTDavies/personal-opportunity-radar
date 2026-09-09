@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T16:36:56Z",
+  "generated_at": "2026-09-09T19:59:04Z",
   "opportunities": [
     {
       "canonical_id": "durham-bsi-undergraduate-summer-bursary",
@@ -137,11 +137,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-09",
       "first_seen": "2026-08-31T00:23:55Z",
-      "last_seen": "2026-09-09T10:03:37Z",
-      "last_changed": "2026-09-09T10:03:37Z",
+      "last_seen": "2026-09-09T19:58:53Z",
+      "last_changed": "2026-09-09T19:58:53Z",
       "source_id": "cambridge-cms-summer-research",
       "source_kind": "discovered",
-      "content_fingerprint": "b0e03380568ca4713b2d25667bbc107f1eb3d1d130a67d63e5881ffe15d6a5c9",
+      "content_fingerprint": "b925187b10c8fada367afd0b22dfdfb5dc1463ef4abd847b748313fc029f5498",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -173,8 +173,8 @@
       "alternate_sources": [
         "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-programmes"
       ],
-      "last_verified": "2026-09-09T10:03:37Z",
-      "deadline_last_verified": "2026-09-09T10:03:37Z",
+      "last_verified": "2026-09-09T19:58:53Z",
+      "deadline_last_verified": "2026-09-09T19:58:53Z",
       "missing_count": 0,
       "source_family": "cambridge-mathematics",
       "security_vetting": null,
@@ -979,8 +979,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-09",
       "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-09-09T10:03:37Z",
-      "last_changed": "2026-09-09T10:03:37Z",
+      "last_seen": "2026-09-09T19:58:53Z",
+      "last_changed": "2026-09-09T19:58:53Z",
       "source_id": "esa-academy",
       "source_kind": "discovered",
       "content_fingerprint": "4b532abefc3ca72f7ec6b937463977893ee8e42bc171055721663e13d2a0f3d1",
@@ -1013,8 +1013,8 @@
       "alternate_sources": [
         "https://www.esa.int/Education/ESA_Academy/Current_opportunities"
       ],
-      "last_verified": "2026-09-09T10:03:37Z",
-      "deadline_last_verified": "2026-09-09T10:03:37Z",
+      "last_verified": "2026-09-09T19:58:53Z",
+      "deadline_last_verified": "2026-09-09T19:58:53Z",
       "missing_count": 0,
       "source_family": "european-space-agency",
       "security_vetting": null,
@@ -2384,8 +2384,8 @@
       ],
       "checked_at": "2026-09-09",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-09-09T10:03:37Z",
-      "last_changed": "2026-09-09T10:03:37Z",
+      "last_seen": "2026-09-09T19:58:53Z",
+      "last_changed": "2026-09-09T19:58:53Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "95f123183cb8d46517681bbc97fd9056c7cb6a605d7f6a4d52f3cb555331d238",
@@ -2417,7 +2417,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-09-09T10:03:37Z",
+      "last_verified": "2026-09-09T19:58:53Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
@@ -2470,8 +2470,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-09",
       "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-09-09T10:03:37Z",
-      "last_changed": "2026-09-09T10:03:37Z",
+      "last_seen": "2026-09-09T19:58:53Z",
+      "last_changed": "2026-09-09T19:58:53Z",
       "source_id": "esa-academy",
       "source_kind": "discovered",
       "content_fingerprint": "589f8755414981725ef16ceb1b3fc8402481a739c0a3ba247880bf895e592a46",
@@ -2500,7 +2500,7 @@
       "alternate_sources": [
         "https://www.esa.int/Education/ESA_Academy/Current_opportunities"
       ],
-      "last_verified": "2026-09-09T10:03:37Z",
+      "last_verified": "2026-09-09T19:58:53Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "european-space-agency",
@@ -2961,8 +2961,8 @@
       ],
       "checked_at": "2026-09-09",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-09-09T10:03:37Z",
-      "last_changed": "2026-09-09T10:03:37Z",
+      "last_seen": "2026-09-09T19:58:53Z",
+      "last_changed": "2026-09-09T19:58:53Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "7de1a9fbc928b1fd1e779e3d1ba6a7ade0f586654ae3ebec2ee01302b07abfe1",
@@ -2995,7 +2995,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-09-09T10:03:37Z",
+      "last_verified": "2026-09-09T19:58:53Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
@@ -3459,11 +3459,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-09",
       "first_seen": "2026-08-31T00:10:39Z",
-      "last_seen": "2026-09-09T10:03:37Z",
-      "last_changed": "2026-09-09T10:03:37Z",
+      "last_seen": "2026-09-09T19:58:53Z",
+      "last_changed": "2026-09-09T19:58:53Z",
       "source_id": "oxford-maths-summer-research",
       "source_kind": "discovered",
-      "content_fingerprint": "576e61d743bf9a2466e0e539b9f1120f2b0b65067dc590c6d5a575dda1f1cdab",
+      "content_fingerprint": "7d1ae964712ccceeaebf3d01bde51e75653d8b185a7d1eb9e0cc34431e61e64f",
       "confidence": 0.7599999999999999,
       "priority_tier": "B",
       "review_required": true,
@@ -3494,7 +3494,7 @@
       "alternate_sources": [
         "https://www.maths.ox.ac.uk/members/students/undergraduate-courses/teaching-and-learning/extracurricular-projects"
       ],
-      "last_verified": "2026-09-09T10:03:37Z",
+      "last_verified": "2026-09-09T19:58:53Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "oxford-mathematics",
@@ -3956,8 +3956,8 @@
       ],
       "checked_at": "2026-09-09",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-09-09T10:03:37Z",
-      "last_changed": "2026-09-09T10:03:37Z",
+      "last_seen": "2026-09-09T19:58:53Z",
+      "last_changed": "2026-09-09T19:58:53Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "bff5f7e4fdc4ade988b9c1edf3d202fb8564e2c7b2bc86fc4b6ac23be1a65b1d",
@@ -3993,7 +3993,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-09-09T10:03:37Z",
+      "last_verified": "2026-09-09T19:58:53Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
@@ -4093,8 +4093,8 @@
       ],
       "checked_at": "2026-09-09",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-09-09T10:03:37Z",
-      "last_changed": "2026-09-09T10:03:37Z",
+      "last_seen": "2026-09-09T19:58:53Z",
+      "last_changed": "2026-09-09T19:58:53Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "7a56d3e9fedb6d10573d58c1ef7ed19235e758e975db7ef982a231f7d54d01fd",
@@ -4126,7 +4126,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-09-09T10:03:37Z",
+      "last_verified": "2026-09-09T19:58:53Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
