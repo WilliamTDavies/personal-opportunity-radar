@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T11:16:59Z",
+  "generated_at": "2026-09-10T16:23:34Z",
   "opportunities": [
     {
       "canonical_id": "deutsche-bank-2027-fic-spring",
@@ -1533,8 +1533,8 @@
       ],
       "checked_at": "2026-09-10",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-09-10T09:59:37Z",
-      "last_changed": "2026-09-10T09:59:37Z",
+      "last_seen": "2026-09-10T16:23:33Z",
+      "last_changed": "2026-09-10T16:23:33Z",
       "source_id": "jane-street-see-london-2027",
       "source_kind": "discovered",
       "content_fingerprint": "9a9867cf88dbbbf74a988b604d09a84d13b118375537ca01842340410a258e10",
@@ -1570,8 +1570,8 @@
       "alternate_sources": [
         "https://www.janestreet.com/jobs/programs-endpoint.json"
       ],
-      "last_verified": "2026-09-10T09:59:37Z",
-      "deadline_last_verified": "2026-09-10T09:59:37Z",
+      "last_verified": "2026-09-10T16:23:33Z",
+      "deadline_last_verified": "2026-09-10T16:23:33Z",
       "missing_count": 0,
       "source_family": "jane-street",
       "security_vetting": null,
