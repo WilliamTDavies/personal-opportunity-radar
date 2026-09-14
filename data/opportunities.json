@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-13T20:48:12Z",
+  "generated_at": "2026-09-14T04:53:31Z",
   "profile_version": 1,
   "alias_map": {
     "db-fic-spring-2027": "deutsche-bank-2027-fic-spring",
@@ -184,7 +184,7 @@
         {
           "statement": "The official source matched: 2027 spring insight, 2029, 4 december 2026.",
           "source_url": "https://careers.blackrock.com/job/london/2027-spring-insight-event-emea/45831/97150826752",
-          "checked_at": "2026-09-13",
+          "checked_at": "2026-09-14",
           "source_type": "official"
         }
       ],
@@ -206,13 +206,13 @@
           "reason": "Known graduation year is 2029; accepted: 2029."
         }
       ],
-      "checked_at": "2026-09-13",
+      "checked_at": "2026-09-14",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-13T20:48:11Z",
-      "last_changed": "2026-09-13T20:48:11Z",
+      "last_seen": "2026-09-14T04:53:30Z",
+      "last_changed": "2026-09-14T04:53:30Z",
       "source_id": "blackrock-spring-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "3b83721328869234f13bc9eccf4ae5cc581ce34d25668a7dfc2fce37a2e23d9d",
+      "content_fingerprint": "3811478c8778a21c7112136ef523cbec257c4e7a8b2da77a2951f4b4f7a7966b",
       "confidence": 0.8,
       "priority_tier": "A",
       "review_required": false,
@@ -232,8 +232,8 @@
       "discovered_via": "https://careers.blackrock.com/job/london/2027-spring-insight-event-emea/45831/97150826752",
       "primary_evidence_url": "https://careers.blackrock.com/job/london/2027-spring-insight-event-emea/45831/97150826752",
       "alternate_sources": [],
-      "last_verified": "2026-09-13T20:48:11Z",
-      "deadline_last_verified": "2026-09-13T20:48:11Z",
+      "last_verified": "2026-09-14T04:53:30Z",
+      "deadline_last_verified": "2026-09-14T04:53:30Z",
       "missing_count": 0,
       "source_family": "blackrock",
       "security_vetting": null,
@@ -514,7 +514,7 @@
         {
           "statement": "The official source matched: 2027 internship, register your interest.",
           "source_url": "https://search.jobs.barclays/discovery",
-          "checked_at": "2026-09-13",
+          "checked_at": "2026-09-14",
           "source_type": "official"
         }
       ],
@@ -538,13 +538,13 @@
           "reason": "Known graduation year is 2029; accepted: 2027, 2028, 2029."
         }
       ],
-      "checked_at": "2026-09-13",
+      "checked_at": "2026-09-14",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-09-13T20:48:11Z",
-      "last_changed": "2026-09-13T20:48:11Z",
+      "last_seen": "2026-09-14T04:53:30Z",
+      "last_changed": "2026-09-14T04:53:30Z",
       "source_id": "barclays-discovery-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "ca609d149060401bc708f2387fc0497252e0e6f22c29416a24a6ae9ac915668c",
+      "content_fingerprint": "6dee94af44ff4e18efbb59509b57edcefd73349f90dac9035d4a995a26172647",
       "confidence": 0.8,
       "priority_tier": "A",
       "review_required": false,
@@ -564,7 +564,7 @@
       "discovered_via": "https://search.jobs.barclays/discovery",
       "primary_evidence_url": "https://search.jobs.barclays/discovery",
       "alternate_sources": [],
-      "last_verified": "2026-09-13T20:48:11Z",
+      "last_verified": "2026-09-14T04:53:30Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "barclays",
@@ -611,7 +611,7 @@
         {
           "statement": "The official source matched: london spring weeks, april 2027, 1 year students.",
           "source_url": "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/",
-          "checked_at": "2026-09-13",
+          "checked_at": "2026-09-14",
           "source_type": "official"
         }
       ],
@@ -633,13 +633,13 @@
           "reason": "Candidate would be in academic year 1; accepted: [1]."
         }
       ],
-      "checked_at": "2026-09-13",
+      "checked_at": "2026-09-14",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-09-13T20:48:11Z",
-      "last_changed": "2026-09-13T20:48:11Z",
+      "last_seen": "2026-09-14T04:53:30Z",
+      "last_changed": "2026-09-14T04:53:30Z",
       "source_id": "evercore-spring-week-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "ff7dae965b28a68e5061620fae63297a0170662dca479a1d0d120852bf458ff8",
+      "content_fingerprint": "a0dd3f70462bdcc80a0a8eeb0dd1cf115c8d0e1475ca835d02c372dde299836b",
       "confidence": 0.8,
       "priority_tier": "A",
       "review_required": false,
@@ -659,7 +659,7 @@
       "discovered_via": "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/",
       "primary_evidence_url": "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/",
       "alternate_sources": [],
-      "last_verified": "2026-09-13T20:48:11Z",
+      "last_verified": "2026-09-14T04:53:30Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "evercore",
@@ -831,13 +831,13 @@
         {
           "statement": "The official detail page identifies Spring into Quant Finance 2026 as a current or announced opportunity.",
           "source_url": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
-          "checked_at": "2026-09-13",
+          "checked_at": "2026-09-14",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
-          "checked_at": "2026-09-13",
+          "checked_at": "2026-09-14",
           "source_type": "official"
         }
       ],
@@ -863,13 +863,13 @@
           "reason": "Known course is BSc Mathematics and Physics; required subject set: ['mathematics', 'physics', 'computer science', 'engineering', 'statistics']."
         }
       ],
-      "checked_at": "2026-09-13",
+      "checked_at": "2026-09-14",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-09-13T20:48:11Z",
-      "last_changed": "2026-09-13T20:48:11Z",
+      "last_seen": "2026-09-14T04:53:30Z",
+      "last_changed": "2026-09-14T04:53:30Z",
       "source_id": "g-research-spring-quant-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "a610b03da6f2fc66865b183631e2842368c0ac85981a87eecd8d7c0b013e0d4f",
+      "content_fingerprint": "a0ac8ceefd9693d0f5d8b3d6ae7ebe9603e7cf6d600c04e30f4946cad80b3187",
       "confidence": 0.99,
       "priority_tier": "A",
       "review_required": false,
@@ -902,7 +902,7 @@
       "discovered_via": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
       "primary_evidence_url": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
       "alternate_sources": [],
-      "last_verified": "2026-09-13T20:48:11Z",
+      "last_verified": "2026-09-14T04:53:30Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "g-research",
@@ -1762,97 +1762,6 @@
       "application_url": null,
       "discovered_via": "",
       "primary_evidence_url": "https://careers.bankofamerica.com/en-us/students/application-process",
-      "alternate_sources": [],
-      "last_verified": "2026-08-30",
-      "deadline_last_verified": null,
-      "missing_count": 0,
-      "source_family": "",
-      "security_vetting": null,
-      "required_documents": [],
-      "duration": null,
-      "template_dependent": false,
-      "auto_publish_reason": "",
-      "parser_version": 2
-    },
-    {
-      "canonical_id": "cme-september-trading-challenge-2026",
-      "title": "September 2026 Trading Challenge",
-      "organisation": "CME Group",
-      "stream": "competitions_development",
-      "lifecycle": "open",
-      "eligibility": "uncertain",
-      "primary_action": "Enter",
-      "source_url": "https://www.cmegroup.com/futures_challenge/challenges/1608/landing",
-      "location": "Online",
-      "start_date": "2026-09-13",
-      "end_date": "2026-09-18",
-      "deadline": "2026-09-13T22:00:00Z",
-      "deadline_status": "fixed",
-      "deadline_source": "official challenge page",
-      "deadline_verified": true,
-      "rolling": false,
-      "opens_at": null,
-      "research_mode": null,
-      "summary": "Short simulated futures trading challenge open to residents of listed countries including the UK.",
-      "why_it_fits": "A practical markets competition, subject to a residency condition.",
-      "eligibility_note": "Needs eligibility check: Uk Residency is deliberately not inferred from the profile.",
-      "next_step": "Check the residence definition in the official rules before entering.",
-      "tags": [
-        "trading",
-        "competition",
-        "residency check"
-      ],
-      "aliases": [],
-      "merged_alias_ids": [],
-      "evidence": [
-        {
-          "statement": "The official page gives 13–18 September 2026 and limits access to residents of listed countries including the UK.",
-          "source_url": "https://www.cmegroup.com/futures_challenge/challenges/1608/landing",
-          "checked_at": "2026-08-30",
-          "source_type": "official"
-        }
-      ],
-      "requirements": [
-        {
-          "rule": "uk_residency",
-          "value": true,
-          "strength": "required",
-          "evidence": "Official country eligibility list"
-        }
-      ],
-      "rule_evaluations": [
-        {
-          "rule": "uk_residency",
-          "strength": "required",
-          "outcome": "unknown",
-          "reason": "Uk Residency is deliberately not inferred from the profile."
-        }
-      ],
-      "checked_at": "2026-08-30",
-      "first_seen": "2026-08-30T00:00:00Z",
-      "last_seen": "2026-08-30T00:00:00Z",
-      "last_changed": "2026-08-30T00:00:00Z",
-      "source_id": "cme-september-trading-2026",
-      "source_kind": "manual",
-      "content_fingerprint": "",
-      "confidence": 0.92,
-      "priority_tier": "C",
-      "review_required": false,
-      "review_reasons": [],
-      "identity_targeted": false,
-      "access_scope": "unknown",
-      "source_conflict": false,
-      "change_summary": [],
-      "opportunity_type": "",
-      "career_fields": [],
-      "subject_fields": [],
-      "country": "",
-      "city": "",
-      "work_mode": "unknown",
-      "cycle": "",
-      "application_url": null,
-      "discovered_via": "",
-      "primary_evidence_url": "https://www.cmegroup.com/futures_challenge/challenges/1608/landing",
       "alternate_sources": [],
       "last_verified": "2026-08-30",
       "deadline_last_verified": null,
