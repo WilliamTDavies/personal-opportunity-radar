@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:42:19Z",
+  "generated_at": "2026-09-15T16:57:22Z",
   "opportunities": [
     {
       "canonical_id": "cme-september-trading-challenge-2026",
@@ -1365,8 +1365,8 @@
       ],
       "checked_at": "2026-09-15",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-09-15T04:52:03Z",
-      "last_changed": "2026-09-15T04:52:03Z",
+      "last_seen": "2026-09-15T16:57:20Z",
+      "last_changed": "2026-09-15T16:57:20Z",
       "source_id": "jane-street-see-london-2027",
       "source_kind": "discovered",
       "content_fingerprint": "f0a2f1d4f1e6844676b72853e0aa14edb909106940cafccb30354ed318a49513",
@@ -1402,8 +1402,8 @@
       "alternate_sources": [
         "https://www.janestreet.com/jobs/programs-endpoint.json"
       ],
-      "last_verified": "2026-09-15T04:52:03Z",
-      "deadline_last_verified": "2026-09-15T04:52:03Z",
+      "last_verified": "2026-09-15T16:57:20Z",
+      "deadline_last_verified": "2026-09-15T16:57:20Z",
       "missing_count": 0,
       "source_family": "jane-street",
       "security_vetting": null,
