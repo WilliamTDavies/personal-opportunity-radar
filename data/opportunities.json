@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-15T21:19:02Z",
+  "generated_at": "2026-09-16T04:47:24Z",
   "profile_version": 1,
   "alias_map": {
     "db-fic-spring-2027": "deutsche-bank-2027-fic-spring",
@@ -184,7 +184,7 @@
         {
           "statement": "The official source matched: 2027 spring insight, 2029, 4 december 2026.",
           "source_url": "https://careers.blackrock.com/job/london/2027-spring-insight-event-emea/45831/97150826752",
-          "checked_at": "2026-09-15",
+          "checked_at": "2026-09-16",
           "source_type": "official"
         }
       ],
@@ -206,13 +206,13 @@
           "reason": "Known graduation year is 2029; accepted: 2029."
         }
       ],
-      "checked_at": "2026-09-15",
+      "checked_at": "2026-09-16",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-15T21:19:01Z",
-      "last_changed": "2026-09-15T21:19:01Z",
+      "last_seen": "2026-09-16T04:47:23Z",
+      "last_changed": "2026-09-16T04:47:23Z",
       "source_id": "blackrock-spring-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "4bc4e8ead6c791314084fb5c6daabf27b2a70d6adb84ff429a340abb9c0c05b5",
+      "content_fingerprint": "c0cf3990cc7d64e64e20fcd0de978e66863f15509e6cf144357a17e8e2ec2fc7",
       "confidence": 0.8,
       "priority_tier": "A",
       "review_required": false,
@@ -232,8 +232,8 @@
       "discovered_via": "https://careers.blackrock.com/job/london/2027-spring-insight-event-emea/45831/97150826752",
       "primary_evidence_url": "https://careers.blackrock.com/job/london/2027-spring-insight-event-emea/45831/97150826752",
       "alternate_sources": [],
-      "last_verified": "2026-09-15T21:19:01Z",
-      "deadline_last_verified": "2026-09-15T21:19:01Z",
+      "last_verified": "2026-09-16T04:47:23Z",
+      "deadline_last_verified": "2026-09-16T04:47:23Z",
       "missing_count": 0,
       "source_family": "blackrock",
       "security_vetting": null,
@@ -279,19 +279,19 @@
         {
           "statement": "The official detail page identifies Bridge London April 1st - April 3rd, 2027 as a current or announced opportunity.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/bridge/",
-          "checked_at": "2026-09-15",
+          "checked_at": "2026-09-16",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2027-01-03.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/bridge/",
-          "checked_at": "2026-09-15",
+          "checked_at": "2026-09-16",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/bridge/",
-          "checked_at": "2026-09-15",
+          "checked_at": "2026-09-16",
           "source_type": "official"
         }
       ],
@@ -328,10 +328,10 @@
           "reason": "Candidate would be in academic year 1; accepted: [1, 2]."
         }
       ],
-      "checked_at": "2026-09-15",
+      "checked_at": "2026-09-16",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-09-15T20:24:29Z",
-      "last_changed": "2026-09-15T20:24:29Z",
+      "last_seen": "2026-09-16T04:47:23Z",
+      "last_changed": "2026-09-16T04:47:23Z",
       "source_id": "jane-street-see-london-2027",
       "source_kind": "discovered",
       "content_fingerprint": "c2c9607f5467ce9543f814ec6bcc6b41d0b659c84a70d330fe77635426fb3590",
@@ -342,9 +342,7 @@
       "identity_targeted": false,
       "access_scope": "unknown",
       "source_conflict": false,
-      "change_summary": [
-        "requirements: ['study_year:[1, 2]:required'] → ['graduation_year:[2029]:required', 'study_year:[1, 2]:required']"
-      ],
+      "change_summary": [],
       "opportunity_type": "insight_programme",
       "career_fields": [
         "quant",
@@ -362,8 +360,8 @@
       "alternate_sources": [
         "https://www.janestreet.com/jobs/programs-endpoint.json"
       ],
-      "last_verified": "2026-09-15T20:24:29Z",
-      "deadline_last_verified": "2026-09-15T20:24:29Z",
+      "last_verified": "2026-09-16T04:47:23Z",
+      "deadline_last_verified": "2026-09-16T04:47:23Z",
       "missing_count": 0,
       "source_family": "jane-street",
       "security_vetting": null,
@@ -412,19 +410,19 @@
         {
           "statement": "The official detail page identifies FTTP London March 21st - March 25th, 2027 as a current or announced opportunity.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/fttp/",
-          "checked_at": "2026-09-15",
+          "checked_at": "2026-09-16",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2027-01-03.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/fttp/",
-          "checked_at": "2026-09-15",
+          "checked_at": "2026-09-16",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/fttp/",
-          "checked_at": "2026-09-15",
+          "checked_at": "2026-09-16",
           "source_type": "official"
         }
       ],
@@ -446,10 +444,10 @@
           "reason": "Candidate would be in academic year 1; accepted: [1]."
         }
       ],
-      "checked_at": "2026-09-15",
+      "checked_at": "2026-09-16",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-09-15T20:24:29Z",
-      "last_changed": "2026-09-15T20:24:29Z",
+      "last_seen": "2026-09-16T04:47:23Z",
+      "last_changed": "2026-09-16T04:47:23Z",
       "source_id": "jane-street-see-london-2027",
       "source_kind": "discovered",
       "content_fingerprint": "8139ff14580cf73e18184f1b8c3caa03661a69c56df781e8a675359677187f1f",
@@ -482,8 +480,8 @@
       "alternate_sources": [
         "https://www.janestreet.com/jobs/programs-endpoint.json"
       ],
-      "last_verified": "2026-09-15T20:24:29Z",
-      "deadline_last_verified": "2026-09-15T20:24:29Z",
+      "last_verified": "2026-09-16T04:47:23Z",
+      "deadline_last_verified": "2026-09-16T04:47:23Z",
       "missing_count": 0,
       "source_family": "jane-street",
       "security_vetting": null,
@@ -530,7 +528,7 @@
         {
           "statement": "The official source matched: 2027 internship, register your interest.",
           "source_url": "https://search.jobs.barclays/discovery",
-          "checked_at": "2026-09-15",
+          "checked_at": "2026-09-16",
           "source_type": "official"
         }
       ],
@@ -554,13 +552,13 @@
           "reason": "Known graduation year is 2029; accepted: 2027, 2028, 2029."
         }
       ],
-      "checked_at": "2026-09-15",
+      "checked_at": "2026-09-16",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-09-15T21:19:01Z",
-      "last_changed": "2026-09-15T21:19:01Z",
+      "last_seen": "2026-09-16T04:47:23Z",
+      "last_changed": "2026-09-16T04:47:23Z",
       "source_id": "barclays-discovery-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "7f25f2f962ceeef63d673dfe1af5452c6f402082d0e59245170d343dbd2a2f5f",
+      "content_fingerprint": "63c8128f25177d5c2399208fe80441eda9e1cd8301ae84dce290f5aee4663022",
       "confidence": 0.8,
       "priority_tier": "A",
       "review_required": false,
@@ -580,7 +578,7 @@
       "discovered_via": "https://search.jobs.barclays/discovery",
       "primary_evidence_url": "https://search.jobs.barclays/discovery",
       "alternate_sources": [],
-      "last_verified": "2026-09-15T21:19:01Z",
+      "last_verified": "2026-09-16T04:47:23Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "barclays",
@@ -627,7 +625,7 @@
         {
           "statement": "The official source matched: london spring weeks, april 2027, 1 year students.",
           "source_url": "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/",
-          "checked_at": "2026-09-15",
+          "checked_at": "2026-09-16",
           "source_type": "official"
         }
       ],
@@ -649,13 +647,13 @@
           "reason": "Candidate would be in academic year 1; accepted: [1]."
         }
       ],
-      "checked_at": "2026-09-15",
+      "checked_at": "2026-09-16",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-09-15T21:19:01Z",
-      "last_changed": "2026-09-15T21:19:01Z",
+      "last_seen": "2026-09-16T04:47:23Z",
+      "last_changed": "2026-09-16T04:47:23Z",
       "source_id": "evercore-spring-week-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "fa56e46acaf28af537d84e723948090f996486875b70086e72eeaaf2152d05ad",
+      "content_fingerprint": "1a57cf052362bc440dee3168340f1810b2099b7491074c9ab21e2b2f1e1875a1",
       "confidence": 0.8,
       "priority_tier": "A",
       "review_required": false,
@@ -675,7 +673,7 @@
       "discovered_via": "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/",
       "primary_evidence_url": "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/",
       "alternate_sources": [],
-      "last_verified": "2026-09-15T21:19:01Z",
+      "last_verified": "2026-09-16T04:47:23Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "evercore",
@@ -847,13 +845,13 @@
         {
           "statement": "The official detail page identifies Spring into Quant Finance 2026 as a current or announced opportunity.",
           "source_url": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
-          "checked_at": "2026-09-15",
+          "checked_at": "2026-09-16",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
-          "checked_at": "2026-09-15",
+          "checked_at": "2026-09-16",
           "source_type": "official"
         }
       ],
@@ -879,10 +877,10 @@
           "reason": "Known course is BSc Mathematics and Physics; required subject set: ['mathematics', 'physics', 'computer science', 'engineering', 'statistics']."
         }
       ],
-      "checked_at": "2026-09-15",
+      "checked_at": "2026-09-16",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-09-15T21:19:01Z",
-      "last_changed": "2026-09-15T21:19:01Z",
+      "last_seen": "2026-09-16T04:47:23Z",
+      "last_changed": "2026-09-16T04:47:23Z",
       "source_id": "g-research-spring-quant-2027",
       "source_kind": "discovered",
       "content_fingerprint": "2382479783cbd6d24f040ef5fb1640e8e41b44cf0f12a8fe1e8f8212fdbbbc1c",
@@ -918,7 +916,7 @@
       "discovered_via": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
       "primary_evidence_url": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
       "alternate_sources": [],
-      "last_verified": "2026-09-15T21:19:01Z",
+      "last_verified": "2026-09-16T04:47:23Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "g-research",
