@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:35:18Z",
+  "generated_at": "2026-09-19T09:41:43Z",
   "opportunities": [
     {
       "canonical_id": "cme-september-trading-challenge-2026",
@@ -471,19 +471,19 @@
         {
           "statement": "The official detail page identifies New Rocketry Training Programme from ESA Academy! as a current or announced opportunity.",
           "source_url": "https://www.esa.int/Education/ESA_Academy/New_Rocketry_Training_Programme_from_ESA_Academy",
-          "checked_at": "2026-09-18",
+          "checked_at": "2026-09-19",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2025-11-17.",
           "source_url": "https://www.esa.int/Education/ESA_Academy/New_Rocketry_Training_Programme_from_ESA_Academy",
-          "checked_at": "2026-09-18",
+          "checked_at": "2026-09-19",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.esa.int/Education/ESA_Academy/New_Rocketry_Training_Programme_from_ESA_Academy",
-          "checked_at": "2026-09-18",
+          "checked_at": "2026-09-19",
           "source_type": "official"
         }
       ],
@@ -506,10 +506,10 @@
           "reason": "Candidate would be in academic year 0; accepted: [1, 2]."
         }
       ],
-      "checked_at": "2026-09-18",
+      "checked_at": "2026-09-19",
       "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-09-18T19:54:42Z",
-      "last_changed": "2026-09-18T19:54:42Z",
+      "last_seen": "2026-09-19T09:41:34Z",
+      "last_changed": "2026-09-19T09:41:34Z",
       "source_id": "esa-academy",
       "source_kind": "discovered",
       "content_fingerprint": "e45fab399046b2d1a596ee012559754453316111aa2d146b966d9843f2b74b90",
@@ -542,8 +542,8 @@
       "alternate_sources": [
         "https://www.esa.int/Education/ESA_Academy/Current_opportunities"
       ],
-      "last_verified": "2026-09-18T19:54:42Z",
-      "deadline_last_verified": "2026-09-18T19:54:42Z",
+      "last_verified": "2026-09-19T09:41:34Z",
+      "deadline_last_verified": "2026-09-19T09:41:34Z",
       "missing_count": 0,
       "source_family": "european-space-agency",
       "security_vetting": null,
@@ -592,25 +592,25 @@
         {
           "statement": "The official detail page identifies Summer Research Bursary Application Form as a current or announced opportunity.",
           "source_url": "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-bursary-application",
-          "checked_at": "2026-09-18",
+          "checked_at": "2026-09-19",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2026-03-23.",
           "source_url": "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-bursary-application",
-          "checked_at": "2026-09-18",
+          "checked_at": "2026-09-19",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-09-18",
+      "checked_at": "2026-09-19",
       "first_seen": "2026-08-31T00:23:55Z",
-      "last_seen": "2026-09-18T19:54:42Z",
-      "last_changed": "2026-09-18T19:54:42Z",
+      "last_seen": "2026-09-19T09:41:34Z",
+      "last_changed": "2026-09-19T09:41:34Z",
       "source_id": "cambridge-cms-summer-research",
       "source_kind": "discovered",
-      "content_fingerprint": "da96c477be22574058bccf4f31078bc915550782ec5add6be603888b24595108",
+      "content_fingerprint": "9a462def140a6c99896c7002b8e5fd1b84f9cdaca7782a23afb80dcfe430e634",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -642,8 +642,8 @@
       "alternate_sources": [
         "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-programmes"
       ],
-      "last_verified": "2026-09-18T19:54:42Z",
-      "deadline_last_verified": "2026-09-18T19:54:42Z",
+      "last_verified": "2026-09-19T09:41:34Z",
+      "deadline_last_verified": "2026-09-19T09:41:34Z",
       "missing_count": 0,
       "source_family": "cambridge-mathematics",
       "security_vetting": null,
@@ -3377,13 +3377,13 @@
         {
           "statement": "The official detail page identifies Maths and Cryptography Insight Programme as a current or announced opportunity.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#maths-and-cryptography-insight-programme",
-          "checked_at": "2026-09-18",
+          "checked_at": "2026-09-19",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#maths-and-cryptography-insight-programme",
-          "checked_at": "2026-09-18",
+          "checked_at": "2026-09-19",
           "source_type": "official"
         }
       ],
@@ -3429,10 +3429,10 @@
           "reason": "Security vetting is recorded as a later appointment condition, not predicted as an eligibility result."
         }
       ],
-      "checked_at": "2026-09-18",
+      "checked_at": "2026-09-19",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-09-18T19:54:42Z",
-      "last_changed": "2026-09-18T19:54:42Z",
+      "last_seen": "2026-09-19T09:41:34Z",
+      "last_changed": "2026-09-19T09:41:34Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "fccba847d49579f962ef51ae6fadb669d586c7383a3fd5645a3b881d7d61f05b",
@@ -3464,7 +3464,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-09-18T19:54:42Z",
+      "last_verified": "2026-09-19T09:41:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
