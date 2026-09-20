@@ -4116,5 +4116,596 @@
       "graduation_year:[2029]:required",
       "study_year:[1, 2]:required"
     ]
+  },
+  {
+    "canonical_id": "gchq-ncsc-cyber-consultant-ref-3811",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "title",
+    "from": "Cyber Insights Summer School - Registration of Interest Ref.3824",
+    "to": "Cyber Insights Summer School Ref. 3827"
+  },
+  {
+    "canonical_id": "gchq-ncsc-cyber-consultant-ref-3811",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "source_url",
+    "from": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-53f1a5726a96/candidate/so/pm/1/pl/6/opp/3824-Cyber-Insights-Summer-School-Registration-of-Interest-Ref-3824/en-GB",
+    "to": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-19f957f98de4/candidate/so/pm/1/pl/6/opp/3827-Cyber-Insights-Summer-School-Ref-3827/en-GB"
+  },
+  {
+    "canonical_id": "gchq-ncsc-cyber-consultant-ref-3811",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "start_date",
+    "from": "2028-04",
+    "to": "2028-01"
+  },
+  {
+    "canonical_id": "gchq-ncsc-cyber-consultant-ref-3811",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2030]:required",
+      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering']:required",
+      "nationality:['British']:required",
+      "uk_residency:True:required",
+      "security_vetting:Security vetting:informational"
+    ],
+    "to": [
+      "graduation_year:[2030]:required",
+      "degree_subject:['mathematics', 'engineering']:required",
+      "nationality:['British']:required",
+      "uk_residency:True:required",
+      "security_vetting:Security vetting:informational"
+    ]
+  },
+  {
+    "canonical_id": "dv-trading-4691295005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "title",
+    "from": "AI Engineer Intern - Summer 2027",
+    "to": "2027 Quantitative Research Intern (DV Equities)"
+  },
+  {
+    "canonical_id": "dv-trading-4691295005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "source_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732429005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4733877005"
+  },
+  {
+    "canonical_id": "dv-trading-4691295005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "application_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732429005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4733877005"
+  },
+  {
+    "canonical_id": "dv-trading-4691295005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "dv-trading-4691295005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "location",
+    "from": "Chicago",
+    "to": "Hong Kong"
+  },
+  {
+    "canonical_id": "dv-trading-4691295005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2028]:required"
+    ],
+    "to": []
+  },
+  {
+    "canonical_id": "dv-trading-4722749005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "title",
+    "from": "Client Platforms Engineer Intern - Summer 2027",
+    "to": "2027 Software Developer Intern (DV Equities)"
+  },
+  {
+    "canonical_id": "dv-trading-4722749005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "source_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732700005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4733880005"
+  },
+  {
+    "canonical_id": "dv-trading-4722749005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "application_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732700005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4733880005"
+  },
+  {
+    "canonical_id": "dv-trading-4722749005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "location",
+    "from": "London",
+    "to": "Hong Kong"
+  },
+  {
+    "canonical_id": "dv-trading-4722749005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2028]:required"
+    ],
+    "to": [
+      "degree_subject:['computer science', 'engineering']:required"
+    ]
+  },
+  {
+    "canonical_id": "dv-trading-4719118005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "title",
+    "from": "Client Platforms Engineer Intern - Summer 2027",
+    "to": "AI Engineer Intern - Summer 2027"
+  },
+  {
+    "canonical_id": "dv-trading-4719118005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "source_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732429005"
+  },
+  {
+    "canonical_id": "dv-trading-4719118005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "application_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732429005"
+  },
+  {
+    "canonical_id": "dv-trading-4719118005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "location",
+    "from": "New York",
+    "to": "Chicago"
+  },
+  {
+    "canonical_id": "dv-trading-4719119005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "source_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005"
+  },
+  {
+    "canonical_id": "dv-trading-4719119005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "application_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005"
+  },
+  {
+    "canonical_id": "dv-trading-4719119005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "location",
+    "from": "Chicago",
+    "to": "New York"
+  },
+  {
+    "canonical_id": "dv-trading-4719125005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "title",
+    "from": "DevOps Engineer Intern - Summer 2027",
+    "to": "Client Platforms Engineer Intern - Summer 2027"
+  },
+  {
+    "canonical_id": "dv-trading-4719125005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "source_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4730886005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732700005"
+  },
+  {
+    "canonical_id": "dv-trading-4719125005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "application_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4730886005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732700005"
+  },
+  {
+    "canonical_id": "dv-trading-4719125005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "location",
+    "from": "Chicago",
+    "to": "London"
+  },
+  {
+    "canonical_id": "dv-trading-4719135005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "title",
+    "from": "Futures & Options Trading Analyst Intern - Summer 2027",
+    "to": "Client Platforms Engineer Intern - Summer 2027"
+  },
+  {
+    "canonical_id": "dv-trading-4719135005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "source_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4722749005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005"
+  },
+  {
+    "canonical_id": "dv-trading-4719135005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "application_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4722749005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005"
+  },
+  {
+    "canonical_id": "dv-trading-4719135005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "start_date",
+    "from": "2027-07",
+    "to": "2028-07"
+  },
+  {
+    "canonical_id": "dv-trading-4719135005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "eligibility",
+    "from": "eligible",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "dv-trading-4719135005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "location",
+    "from": "New York",
+    "to": "Chicago"
+  },
+  {
+    "canonical_id": "dv-trading-4719135005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "requirements",
+    "from": [
+      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering', 'statistics']:required"
+    ],
+    "to": [
+      "graduation_year:[2028]:required"
+    ]
+  },
+  {
+    "canonical_id": "dv-trading-4719134005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "title",
+    "from": "Quantitative Research Intern - Summer 2027 (DV Equities)",
+    "to": "DevOps Engineer Intern - Summer 2027"
+  },
+  {
+    "canonical_id": "dv-trading-4719134005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "source_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4733133005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4730886005"
+  },
+  {
+    "canonical_id": "dv-trading-4719134005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "application_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4733133005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4730886005"
+  },
+  {
+    "canonical_id": "dv-trading-4719134005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "dv-trading-4719134005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "location",
+    "from": "New York",
+    "to": "Chicago"
+  },
+  {
+    "canonical_id": "dv-trading-4719134005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "graduation_year:[2028]:required"
+    ]
+  },
+  {
+    "canonical_id": "dv-trading-4702083005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "title",
+    "from": "Quantitative Trading Intern - Summer 2027 (DV Equities)",
+    "to": "Futures & Options Trading Analyst Intern - Summer 2027"
+  },
+  {
+    "canonical_id": "dv-trading-4702083005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "source_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4702083005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4722749005"
+  },
+  {
+    "canonical_id": "dv-trading-4702083005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "application_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4702083005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4722749005"
+  },
+  {
+    "canonical_id": "dv-trading-4702083005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "eligible"
+  },
+  {
+    "canonical_id": "dv-trading-4702083005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering', 'statistics']:required"
+    ]
+  },
+  {
+    "canonical_id": "dv-trading-4733138005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "title",
+    "from": "Software Developer Intern - Summer 2027 (DV Equities)",
+    "to": "Quantitative Research Intern - Summer 2027 (DV Equities)"
+  },
+  {
+    "canonical_id": "dv-trading-4733138005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "source_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4733138005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4733133005"
+  },
+  {
+    "canonical_id": "dv-trading-4733138005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "application_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4733138005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4733133005"
+  },
+  {
+    "canonical_id": "dv-trading-4733138005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "dv-trading-4733138005",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "requirements",
+    "from": [
+      "degree_subject:['computer science', 'engineering']:required"
+    ],
+    "to": []
+  },
+  {
+    "canonical_id": "point72-8491055002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "title",
+    "from": "2027 Point72 Academy Investment Analyst Summer Internship Program - Hong Kong",
+    "to": "2027 Investment Services Internship - PIPELINE"
+  },
+  {
+    "canonical_id": "point72-8491055002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "source_url",
+    "from": "https://boards.greenhouse.io/point72/jobs/8491055002?gh_jid=8491055002",
+    "to": "https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002"
+  },
+  {
+    "canonical_id": "point72-8491055002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "application_url",
+    "from": "https://boards.greenhouse.io/point72/jobs/8491055002?gh_jid=8491055002",
+    "to": "https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002"
+  },
+  {
+    "canonical_id": "point72-8491055002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "start_date",
+    "from": "2028-07",
+    "to": "2027-07"
+  },
+  {
+    "canonical_id": "point72-8491055002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "point72-8491055002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "location",
+    "from": "Hong Kong",
+    "to": "New York, New York, United States, Stamford, Connecticut, United States"
+  },
+  {
+    "canonical_id": "point72-8491055002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2027, 2028]:required"
+    ],
+    "to": []
+  },
+  {
+    "canonical_id": "point72-8491138002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "title",
+    "from": "2027 Point72 Academy Investment Analyst Summer Internship Program - Japan",
+    "to": "2027 Point72 Academy Investment Analyst Summer Internship Program - Hong Kong"
+  },
+  {
+    "canonical_id": "point72-8491138002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "source_url",
+    "from": "https://boards.greenhouse.io/point72/jobs/8491138002?gh_jid=8491138002",
+    "to": "https://boards.greenhouse.io/point72/jobs/8491055002?gh_jid=8491055002"
+  },
+  {
+    "canonical_id": "point72-8491138002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "application_url",
+    "from": "https://boards.greenhouse.io/point72/jobs/8491138002?gh_jid=8491138002",
+    "to": "https://boards.greenhouse.io/point72/jobs/8491055002?gh_jid=8491055002"
+  },
+  {
+    "canonical_id": "point72-8491138002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "location",
+    "from": "Japan",
+    "to": "Hong Kong"
+  },
+  {
+    "canonical_id": "point72-8729717002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "title",
+    "from": "2027 Point72 Academy Investment Analyst Summer Internship Program - Japan (BCF)",
+    "to": "2027 Point72 Academy Investment Analyst Summer Internship Program - Japan"
+  },
+  {
+    "canonical_id": "point72-8729717002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "source_url",
+    "from": "https://boards.greenhouse.io/point72/jobs/8729717002?gh_jid=8729717002",
+    "to": "https://boards.greenhouse.io/point72/jobs/8491138002?gh_jid=8491138002"
+  },
+  {
+    "canonical_id": "point72-8729717002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "application_url",
+    "from": "https://boards.greenhouse.io/point72/jobs/8729717002?gh_jid=8729717002",
+    "to": "https://boards.greenhouse.io/point72/jobs/8491138002?gh_jid=8491138002"
+  },
+  {
+    "canonical_id": "point72-8491128002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "title",
+    "from": "2027 Point72 Academy Investment Analyst Summer Internship Program - Singapore",
+    "to": "2027 Point72 Academy Investment Analyst Summer Internship Program - Japan (BCF)"
+  },
+  {
+    "canonical_id": "point72-8491128002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "source_url",
+    "from": "https://boards.greenhouse.io/point72/jobs/8491128002?gh_jid=8491128002",
+    "to": "https://boards.greenhouse.io/point72/jobs/8729717002?gh_jid=8729717002"
+  },
+  {
+    "canonical_id": "point72-8491128002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "application_url",
+    "from": "https://boards.greenhouse.io/point72/jobs/8491128002?gh_jid=8491128002",
+    "to": "https://boards.greenhouse.io/point72/jobs/8729717002?gh_jid=8729717002"
+  },
+  {
+    "canonical_id": "point72-8491128002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "location",
+    "from": "Singapore",
+    "to": "Japan"
+  },
+  {
+    "canonical_id": "point72-8729688002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "title",
+    "from": "AI Instructor, Point72 Academy",
+    "to": "2027 Point72 Academy Investment Analyst Summer Internship Program - Singapore"
+  },
+  {
+    "canonical_id": "point72-8729688002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "source_url",
+    "from": "https://boards.greenhouse.io/point72/jobs/8729688002?gh_jid=8729688002",
+    "to": "https://boards.greenhouse.io/point72/jobs/8491128002?gh_jid=8491128002"
+  },
+  {
+    "canonical_id": "point72-8729688002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "application_url",
+    "from": "https://boards.greenhouse.io/point72/jobs/8729688002?gh_jid=8729688002",
+    "to": "https://boards.greenhouse.io/point72/jobs/8491128002?gh_jid=8491128002"
+  },
+  {
+    "canonical_id": "point72-8729688002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "start_date",
+    "from": null,
+    "to": "2028-07"
+  },
+  {
+    "canonical_id": "point72-8729688002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "location",
+    "from": "New York, NY",
+    "to": "Singapore"
+  },
+  {
+    "canonical_id": "point72-8729688002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "requirements",
+    "from": [
+      "degree_subject:['computer science', 'engineering', 'statistics', 'data science']:required"
+    ],
+    "to": [
+      "graduation_year:[2027, 2028]:required"
+    ]
+  },
+  {
+    "canonical_id": "point72-8603979002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "title",
+    "from": "Corporate Access, off-cycle internship (6-months) – Japanese speaking",
+    "to": "AI Instructor, Point72 Academy"
+  },
+  {
+    "canonical_id": "point72-8603979002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "source_url",
+    "from": "https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002",
+    "to": "https://boards.greenhouse.io/point72/jobs/8729688002?gh_jid=8729688002"
+  },
+  {
+    "canonical_id": "point72-8603979002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "application_url",
+    "from": "https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002",
+    "to": "https://boards.greenhouse.io/point72/jobs/8729688002?gh_jid=8729688002"
+  },
+  {
+    "canonical_id": "point72-8603979002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "point72-8603979002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "location",
+    "from": "Hong Kong",
+    "to": "New York, NY"
+  },
+  {
+    "canonical_id": "point72-8603979002",
+    "changed_at": "2026-09-20T09:27:30Z",
+    "field": "requirements",
+    "from": [
+      "undergraduate:True:required"
+    ],
+    "to": [
+      "degree_subject:['computer science', 'engineering', 'statistics', 'data science']:required"
+    ]
   }
 ]
