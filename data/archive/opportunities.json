@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T09:27:47Z",
+  "generated_at": "2026-09-20T10:02:46Z",
   "opportunities": [
     {
       "canonical_id": "cme-september-trading-challenge-2026",
@@ -508,8 +508,8 @@
       ],
       "checked_at": "2026-09-20",
       "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-09-20T09:27:30Z",
-      "last_changed": "2026-09-20T09:27:30Z",
+      "last_seen": "2026-09-20T10:02:38Z",
+      "last_changed": "2026-09-20T10:02:38Z",
       "source_id": "esa-academy",
       "source_kind": "discovered",
       "content_fingerprint": "e45fab399046b2d1a596ee012559754453316111aa2d146b966d9843f2b74b90",
@@ -542,8 +542,8 @@
       "alternate_sources": [
         "https://www.esa.int/Education/ESA_Academy/Current_opportunities"
       ],
-      "last_verified": "2026-09-20T09:27:30Z",
-      "deadline_last_verified": "2026-09-20T09:27:30Z",
+      "last_verified": "2026-09-20T10:02:38Z",
+      "deadline_last_verified": "2026-09-20T10:02:38Z",
       "missing_count": 0,
       "source_family": "european-space-agency",
       "security_vetting": null,
@@ -3356,8 +3356,8 @@
       ],
       "checked_at": "2026-09-20",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-09-20T09:27:30Z",
-      "last_changed": "2026-09-20T09:27:30Z",
+      "last_seen": "2026-09-20T10:02:38Z",
+      "last_changed": "2026-09-20T10:02:38Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "fccba847d49579f962ef51ae6fadb669d586c7383a3fd5645a3b881d7d61f05b",
@@ -3389,7 +3389,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-09-20T09:27:30Z",
+      "last_verified": "2026-09-20T10:02:38Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
