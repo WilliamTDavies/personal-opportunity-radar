@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T16:55:50Z",
+  "generated_at": "2026-09-22T20:26:53Z",
   "opportunities": [
     {
       "canonical_id": "cme-september-trading-challenge-2026",
@@ -508,8 +508,8 @@
       ],
       "checked_at": "2026-09-22",
       "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-09-22T10:15:23Z",
-      "last_changed": "2026-09-22T10:15:23Z",
+      "last_seen": "2026-09-22T20:26:41Z",
+      "last_changed": "2026-09-22T20:26:41Z",
       "source_id": "esa-academy",
       "source_kind": "discovered",
       "content_fingerprint": "e45fab399046b2d1a596ee012559754453316111aa2d146b966d9843f2b74b90",
@@ -542,8 +542,8 @@
       "alternate_sources": [
         "https://www.esa.int/Education/ESA_Academy/Current_opportunities"
       ],
-      "last_verified": "2026-09-22T10:15:23Z",
-      "deadline_last_verified": "2026-09-22T10:15:23Z",
+      "last_verified": "2026-09-22T20:26:41Z",
+      "deadline_last_verified": "2026-09-22T20:26:41Z",
       "missing_count": 0,
       "source_family": "european-space-agency",
       "security_vetting": null,
@@ -606,11 +606,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-22",
       "first_seen": "2026-08-31T00:23:55Z",
-      "last_seen": "2026-09-22T10:15:23Z",
-      "last_changed": "2026-09-22T10:15:23Z",
+      "last_seen": "2026-09-22T20:26:41Z",
+      "last_changed": "2026-09-22T20:26:41Z",
       "source_id": "cambridge-cms-summer-research",
       "source_kind": "discovered",
-      "content_fingerprint": "17e6dc71e731bca1d0dc08f79000bc360dd055e04339f0f56ba93516d4007f68",
+      "content_fingerprint": "d45108031d38cf9c98dfcc7d09a635684caf136f7b55a0f2c13e289b94856740",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -642,8 +642,8 @@
       "alternate_sources": [
         "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-programmes"
       ],
-      "last_verified": "2026-09-22T10:15:23Z",
-      "deadline_last_verified": "2026-09-22T10:15:23Z",
+      "last_verified": "2026-09-22T20:26:41Z",
+      "deadline_last_verified": "2026-09-22T20:26:41Z",
       "missing_count": 0,
       "source_family": "cambridge-mathematics",
       "security_vetting": null,
@@ -1357,8 +1357,8 @@
       ],
       "checked_at": "2026-09-22",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-09-22T16:55:48Z",
-      "last_changed": "2026-09-22T16:55:48Z",
+      "last_seen": "2026-09-22T20:26:41Z",
+      "last_changed": "2026-09-22T20:26:41Z",
       "source_id": "jane-street-see-london-2027",
       "source_kind": "discovered",
       "content_fingerprint": "f0a2f1d4f1e6844676b72853e0aa14edb909106940cafccb30354ed318a49513",
@@ -1394,8 +1394,8 @@
       "alternate_sources": [
         "https://www.janestreet.com/jobs/programs-endpoint.json"
       ],
-      "last_verified": "2026-09-22T16:55:48Z",
-      "deadline_last_verified": "2026-09-22T16:55:48Z",
+      "last_verified": "2026-09-22T20:26:41Z",
+      "deadline_last_verified": "2026-09-22T20:26:41Z",
       "missing_count": 0,
       "source_family": "jane-street",
       "security_vetting": null,
@@ -1445,19 +1445,19 @@
         {
           "statement": "The official detail page identifies Undergraduate Research Bursaries 2027 as a current or announced opportunity.",
           "source_url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
-          "checked_at": "2026-09-21",
+          "checked_at": "2026-09-22",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2027-02-01.",
           "source_url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
-          "checked_at": "2026-09-21",
+          "checked_at": "2026-09-22",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
-          "checked_at": "2026-09-21",
+          "checked_at": "2026-09-22",
           "source_type": "official"
         }
       ],
@@ -1509,13 +1509,13 @@
           "reason": "Known course is BSc Mathematics and Physics; required subject set: ['mathematics', 'computer science', 'statistics']."
         }
       ],
-      "checked_at": "2026-09-21",
+      "checked_at": "2026-09-22",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-09-21T21:12:40Z",
-      "last_changed": "2026-09-21T21:12:40Z",
+      "last_seen": "2026-09-22T20:26:41Z",
+      "last_changed": "2026-09-22T20:26:41Z",
       "source_id": "lms-bursary-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "ec1752a128ffd8c8cf7ef38082edc235753df277af7ba91c933fa8e68e09179c",
+      "content_fingerprint": "091bdca45e7e76bb60b102a8b6a13c8a4cb97283d4d1fb55c0587dff7ee15836",
       "confidence": 0.99,
       "priority_tier": "C",
       "review_required": false,
@@ -1542,8 +1542,8 @@
       "discovered_via": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
       "primary_evidence_url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
       "alternate_sources": [],
-      "last_verified": "2026-09-21T21:12:40Z",
-      "deadline_last_verified": "2026-09-21T21:12:40Z",
+      "last_verified": "2026-09-22T20:26:41Z",
+      "deadline_last_verified": "2026-09-22T20:26:41Z",
       "missing_count": 0,
       "source_family": "london-mathematical-society",
       "security_vetting": null,
@@ -3356,8 +3356,8 @@
       ],
       "checked_at": "2026-09-22",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-09-22T10:15:23Z",
-      "last_changed": "2026-09-22T10:15:23Z",
+      "last_seen": "2026-09-22T20:26:41Z",
+      "last_changed": "2026-09-22T20:26:41Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "fccba847d49579f962ef51ae6fadb669d586c7383a3fd5645a3b881d7d61f05b",
@@ -3389,7 +3389,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-09-22T10:15:23Z",
+      "last_verified": "2026-09-22T20:26:41Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
