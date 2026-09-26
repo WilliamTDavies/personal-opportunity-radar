@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T16:21:48Z",
+  "generated_at": "2026-09-26T20:06:18Z",
   "opportunities": [
     {
       "canonical_id": "cme-september-trading-challenge-2026",
@@ -508,8 +508,8 @@
       ],
       "checked_at": "2026-09-26",
       "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-09-26T10:08:40Z",
-      "last_changed": "2026-09-26T10:08:40Z",
+      "last_seen": "2026-09-26T20:06:07Z",
+      "last_changed": "2026-09-26T20:06:07Z",
       "source_id": "esa-academy",
       "source_kind": "discovered",
       "content_fingerprint": "2a77dee6c887e42b713dd9a7afb5e5bfde8bba623a6ae65928ed62cc9dfbabb8",
@@ -542,8 +542,8 @@
       "alternate_sources": [
         "https://www.esa.int/Education/ESA_Academy/Current_opportunities"
       ],
-      "last_verified": "2026-09-26T10:08:40Z",
-      "deadline_last_verified": "2026-09-26T10:08:40Z",
+      "last_verified": "2026-09-26T20:06:07Z",
+      "deadline_last_verified": "2026-09-26T20:06:07Z",
       "missing_count": 0,
       "source_family": "european-space-agency",
       "security_vetting": null,
@@ -606,11 +606,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-09-26",
       "first_seen": "2026-08-31T00:23:55Z",
-      "last_seen": "2026-09-26T10:08:40Z",
-      "last_changed": "2026-09-26T10:08:40Z",
+      "last_seen": "2026-09-26T20:06:07Z",
+      "last_changed": "2026-09-26T20:06:07Z",
       "source_id": "cambridge-cms-summer-research",
       "source_kind": "discovered",
-      "content_fingerprint": "735c09d8583489416f85ee19dcbd9b2f7ccd3935eca3ddb0c375a1412bd9fbf4",
+      "content_fingerprint": "afb5b3b0437eed947da7f5ea074d0383d06b1ff298dac6313fa63e4da9a43f6a",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -642,8 +642,8 @@
       "alternate_sources": [
         "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-programmes"
       ],
-      "last_verified": "2026-09-26T10:08:40Z",
-      "deadline_last_verified": "2026-09-26T10:08:40Z",
+      "last_verified": "2026-09-26T20:06:07Z",
+      "deadline_last_verified": "2026-09-26T20:06:07Z",
       "missing_count": 0,
       "source_family": "cambridge-mathematics",
       "security_vetting": null,
@@ -3356,8 +3356,8 @@
       ],
       "checked_at": "2026-09-26",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-09-26T10:08:40Z",
-      "last_changed": "2026-09-26T10:08:40Z",
+      "last_seen": "2026-09-26T20:06:07Z",
+      "last_changed": "2026-09-26T20:06:07Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "fccba847d49579f962ef51ae6fadb669d586c7383a3fd5645a3b881d7d61f05b",
@@ -3389,7 +3389,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-09-26T10:08:40Z",
+      "last_verified": "2026-09-26T20:06:07Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
