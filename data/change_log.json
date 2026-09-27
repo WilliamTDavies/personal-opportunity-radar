@@ -4707,5 +4707,1334 @@
     "to": [
       "degree_subject:['computer science', 'engineering', 'statistics', 'data science']:required"
     ]
+  },
+  {
+    "canonical_id": "bnp-paribas-our-job-offers-in-trainee-internship",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "deadline_status",
+    "from": "none_stated",
+    "to": "rolling"
+  },
+  {
+    "canonical_id": "g-research-berkeley-quant-challenge-2026",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "start_date",
+    "from": "2026-07",
+    "to": "2026-10-08"
+  },
+  {
+    "canonical_id": "g-research-berkeley-quant-challenge-2026",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "end_date",
+    "from": null,
+    "to": "2026-10-10"
+  },
+  {
+    "canonical_id": "optiver-graduate-fpga-engineer-2027-start",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://optiver.com/join-us/jobs/institutional-sales-and-trading/shanghai/2027-shanghai-performance-researcher-summer-internship/",
+    "to": "https://optiver.com/join-us/jobs/trading/shanghai/2027-shanghai-performance-researcher-summer-internship/"
+  },
+  {
+    "canonical_id": "optiver-graduate-fpga-engineer-2027-start",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://optiver.com/join-us/jobs/institutional-sales-and-trading/shanghai/2027-shanghai-performance-researcher-summer-internship/apply",
+    "to": "https://optiver.com/join-us/jobs/trading/shanghai/2027-shanghai-performance-researcher-summer-internship/apply"
+  },
+  {
+    "canonical_id": "dv-trading-4719119005",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005"
+  },
+  {
+    "canonical_id": "dv-trading-4719119005",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005"
+  },
+  {
+    "canonical_id": "dv-trading-4719119005",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "New York",
+    "to": "Chicago"
+  },
+  {
+    "canonical_id": "dv-trading-4719135005",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005"
+  },
+  {
+    "canonical_id": "dv-trading-4719135005",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005"
+  },
+  {
+    "canonical_id": "dv-trading-4719135005",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "Chicago",
+    "to": "New York"
+  },
+  {
+    "canonical_id": "inizio-ignite-7966944",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Associate Consultant (Campus - 2027)",
+    "to": "Summer Associate Consultant (UK) – 2027 Internship Program"
+  },
+  {
+    "canonical_id": "inizio-ignite-7966944",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://job-boards.greenhouse.io/ashfieldadvisory/jobs/7966944",
+    "to": "https://job-boards.greenhouse.io/ashfieldadvisory/jobs/7967069"
+  },
+  {
+    "canonical_id": "inizio-ignite-7966944",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://job-boards.greenhouse.io/ashfieldadvisory/jobs/7966944",
+    "to": "https://job-boards.greenhouse.io/ashfieldadvisory/jobs/7967069"
+  },
+  {
+    "canonical_id": "inizio-ignite-7966944",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "start_date",
+    "from": "2027-01",
+    "to": "2028-07"
+  },
+  {
+    "canonical_id": "inizio-ignite-7966944",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "Boston, Massachusetts; New York, NY",
+    "to": "London, United Kingdom"
+  },
+  {
+    "canonical_id": "jump-trading-8002998",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8002998"
+  },
+  {
+    "canonical_id": "jump-trading-8002998",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8002998"
+  },
+  {
+    "canonical_id": "jump-trading-8002998",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "eligible"
+  },
+  {
+    "canonical_id": "jump-trading-8002998",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "London",
+    "to": "Chicago"
+  },
+  {
+    "canonical_id": "jump-trading-8002998",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering', 'data science']:required"
+    ]
+  },
+  {
+    "canonical_id": "jump-trading-7974391",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=7975008"
+  },
+  {
+    "canonical_id": "jump-trading-7974391",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=7975008"
+  },
+  {
+    "canonical_id": "jump-trading-7974391",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "eligibility",
+    "from": "eligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "jump-trading-7974391",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "Chicago",
+    "to": "London"
+  },
+  {
+    "canonical_id": "jump-trading-7974391",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "requirements",
+    "from": [
+      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering', 'data science']:required"
+    ],
+    "to": []
+  },
+  {
+    "canonical_id": "palantir-0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "American Tech Fellowship",
+    "to": "Forward Deployed Infrastructure Engineer, Internship - US Government"
+  },
+  {
+    "canonical_id": "palantir-0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0",
+    "to": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9"
+  },
+  {
+    "canonical_id": "palantir-0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0/apply",
+    "to": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9/apply"
+  },
+  {
+    "canonical_id": "palantir-0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "lifecycle",
+    "from": "stale",
+    "to": "open"
+  },
+  {
+    "canonical_id": "palantir-0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "start_date",
+    "from": "2026-01",
+    "to": null
+  },
+  {
+    "canonical_id": "palantir-0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "North America",
+    "to": "Washington, D.C."
+  },
+  {
+    "canonical_id": "palantir-0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "requirements",
+    "from": [
+      "degree_subject:['physics', 'computer science', 'engineering', 'data science']:preferred"
+    ],
+    "to": []
+  },
+  {
+    "canonical_id": "palantir-1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Forward Deployed Software Engineer, Internship",
+    "to": "Forward Deployed Infrastructure Engineer, Internship - US Government"
+  },
+  {
+    "canonical_id": "palantir-1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a",
+    "to": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69"
+  },
+  {
+    "canonical_id": "palantir-1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a/apply",
+    "to": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69/apply"
+  },
+  {
+    "canonical_id": "palantir-1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "start_date",
+    "from": "2027-07",
+    "to": null
+  },
+  {
+    "canonical_id": "palantir-1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "Paris, France",
+    "to": "Palo Alto, CA"
+  },
+  {
+    "canonical_id": "palantir-395a4483-fc3d-4b77-a500-501923fd0976",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Forward Deployed Software Engineer, Internship - AUS Government",
+    "to": "Forward Deployed Infrastructure Engineer, Internship - US Government"
+  },
+  {
+    "canonical_id": "palantir-395a4483-fc3d-4b77-a500-501923fd0976",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976",
+    "to": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b"
+  },
+  {
+    "canonical_id": "palantir-395a4483-fc3d-4b77-a500-501923fd0976",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976/apply",
+    "to": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b/apply"
+  },
+  {
+    "canonical_id": "palantir-395a4483-fc3d-4b77-a500-501923fd0976",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "Sydney, Australia",
+    "to": "New York, NY"
+  },
+  {
+    "canonical_id": "palantir-2ad0ab10-34c3-410d-883b-8052864a95cd",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Forward Deployed Software Engineer, Internship - Commercial",
+    "to": "Forward Deployed Software Engineer, Internship"
+  },
+  {
+    "canonical_id": "palantir-2ad0ab10-34c3-410d-883b-8052864a95cd",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd",
+    "to": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a"
+  },
+  {
+    "canonical_id": "palantir-2ad0ab10-34c3-410d-883b-8052864a95cd",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd/apply",
+    "to": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a/apply"
+  },
+  {
+    "canonical_id": "palantir-2ad0ab10-34c3-410d-883b-8052864a95cd",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "start_date",
+    "from": null,
+    "to": "2027-07"
+  },
+  {
+    "canonical_id": "palantir-2ad0ab10-34c3-410d-883b-8052864a95cd",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "Seoul, South Korea",
+    "to": "Paris, France"
+  },
+  {
+    "canonical_id": "palantir-4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Forward Deployed Software Engineer, Internship - Commercial",
+    "to": "Forward Deployed Software Engineer, Internship - AUS Government"
+  },
+  {
+    "canonical_id": "palantir-4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+    "to": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976"
+  },
+  {
+    "canonical_id": "palantir-4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/apply",
+    "to": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976/apply"
+  },
+  {
+    "canonical_id": "palantir-4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "New York, NY",
+    "to": "Sydney, Australia"
+  },
+  {
+    "canonical_id": "palantir-599b1907-aba1-4303-837b-66e69a521636",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636",
+    "to": "https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd"
+  },
+  {
+    "canonical_id": "palantir-599b1907-aba1-4303-837b-66e69a521636",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply",
+    "to": "https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd/apply"
+  },
+  {
+    "canonical_id": "palantir-599b1907-aba1-4303-837b-66e69a521636",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "London, United Kingdom",
+    "to": "Seoul, South Korea"
+  },
+  {
+    "canonical_id": "palantir-d5486403-c050-4920-b2e0-91b69b61ebb2",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2",
+    "to": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6"
+  },
+  {
+    "canonical_id": "palantir-d5486403-c050-4920-b2e0-91b69b61ebb2",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply",
+    "to": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/apply"
+  },
+  {
+    "canonical_id": "palantir-d5486403-c050-4920-b2e0-91b69b61ebb2",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "Chicago, IL",
+    "to": "New York, NY"
+  },
+  {
+    "canonical_id": "palantir-cccfe1bd-f15b-4fe5-b044-c793e7961c1b",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Forward Deployed Software Engineer, Internship - Defense Tech",
+    "to": "Forward Deployed Software Engineer, Internship - Commercial"
+  },
+  {
+    "canonical_id": "palantir-cccfe1bd-f15b-4fe5-b044-c793e7961c1b",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b",
+    "to": "https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636"
+  },
+  {
+    "canonical_id": "palantir-cccfe1bd-f15b-4fe5-b044-c793e7961c1b",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply",
+    "to": "https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply"
+  },
+  {
+    "canonical_id": "palantir-cccfe1bd-f15b-4fe5-b044-c793e7961c1b",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "Washington, D.C.",
+    "to": "London, United Kingdom"
+  },
+  {
+    "canonical_id": "palantir-ac0dc094-2480-43c2-8495-26ade227ff4f",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Forward Deployed Software Engineer, Internship - France",
+    "to": "Forward Deployed Software Engineer, Internship - Commercial"
+  },
+  {
+    "canonical_id": "palantir-ac0dc094-2480-43c2-8495-26ade227ff4f",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f",
+    "to": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2"
+  },
+  {
+    "canonical_id": "palantir-ac0dc094-2480-43c2-8495-26ade227ff4f",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f/apply",
+    "to": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply"
+  },
+  {
+    "canonical_id": "palantir-ac0dc094-2480-43c2-8495-26ade227ff4f",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "start_date",
+    "from": "2026-07",
+    "to": null
+  },
+  {
+    "canonical_id": "palantir-ac0dc094-2480-43c2-8495-26ade227ff4f",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "New York, NY",
+    "to": "Chicago, IL"
+  },
+  {
+    "canonical_id": "palantir-9e40d77f-b07c-437b-98e7-def9b0184d89",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Forward Deployed Software Engineer, Internship - Intel",
+    "to": "Forward Deployed Software Engineer, Internship - Defense Tech"
+  },
+  {
+    "canonical_id": "palantir-9e40d77f-b07c-437b-98e7-def9b0184d89",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89",
+    "to": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b"
+  },
+  {
+    "canonical_id": "palantir-9e40d77f-b07c-437b-98e7-def9b0184d89",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89/apply",
+    "to": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply"
+  },
+  {
+    "canonical_id": "palantir-26e23f5d-083b-45aa-b223-1a6e43d960bf",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Forward Deployed Software Engineer, Internship - UK Government",
+    "to": "Forward Deployed Software Engineer, Internship - France"
+  },
+  {
+    "canonical_id": "palantir-26e23f5d-083b-45aa-b223-1a6e43d960bf",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf",
+    "to": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f"
+  },
+  {
+    "canonical_id": "palantir-26e23f5d-083b-45aa-b223-1a6e43d960bf",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf/apply",
+    "to": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f/apply"
+  },
+  {
+    "canonical_id": "palantir-26e23f5d-083b-45aa-b223-1a6e43d960bf",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "start_date",
+    "from": null,
+    "to": "2026-07"
+  },
+  {
+    "canonical_id": "palantir-26e23f5d-083b-45aa-b223-1a6e43d960bf",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "London, United Kingdom",
+    "to": "New York, NY"
+  },
+  {
+    "canonical_id": "palantir-315f695d-04d1-4a9a-848e-cb2bec7a997e",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Forward Deployed Software Engineer, Internship - US Government",
+    "to": "Forward Deployed Software Engineer, Internship - Intel"
+  },
+  {
+    "canonical_id": "palantir-315f695d-04d1-4a9a-848e-cb2bec7a997e",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e",
+    "to": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89"
+  },
+  {
+    "canonical_id": "palantir-315f695d-04d1-4a9a-848e-cb2bec7a997e",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e/apply",
+    "to": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89/apply"
+  },
+  {
+    "canonical_id": "palantir-315f695d-04d1-4a9a-848e-cb2bec7a997e",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "Honolulu, HI",
+    "to": "Washington, D.C."
+  },
+  {
+    "canonical_id": "palantir-e0010393-c300-446f-bf67-fa2ef067f16f",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Forward Deployed Software Engineer, Internship - US Government",
+    "to": "Forward Deployed Software Engineer, Internship - UK Government"
+  },
+  {
+    "canonical_id": "palantir-e0010393-c300-446f-bf67-fa2ef067f16f",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f",
+    "to": "https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf"
+  },
+  {
+    "canonical_id": "palantir-e0010393-c300-446f-bf67-fa2ef067f16f",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f/apply",
+    "to": "https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf/apply"
+  },
+  {
+    "canonical_id": "palantir-e0010393-c300-446f-bf67-fa2ef067f16f",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "New York, NY",
+    "to": "London, United Kingdom"
+  },
+  {
+    "canonical_id": "palantir-e6ff8bf2-135e-474d-ad37-24f490ae1dd2",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2",
+    "to": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e"
+  },
+  {
+    "canonical_id": "palantir-e6ff8bf2-135e-474d-ad37-24f490ae1dd2",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2/apply",
+    "to": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e/apply"
+  },
+  {
+    "canonical_id": "palantir-e6ff8bf2-135e-474d-ad37-24f490ae1dd2",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "Washington, D.C.",
+    "to": "Honolulu, HI"
+  },
+  {
+    "canonical_id": "palantir-ef725594-42dd-4f0d-ba8e-df8179dbc6cb",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Information Security Engineer, Internship",
+    "to": "Forward Deployed Software Engineer, Internship - US Government"
+  },
+  {
+    "canonical_id": "palantir-ef725594-42dd-4f0d-ba8e-df8179dbc6cb",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb",
+    "to": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f"
+  },
+  {
+    "canonical_id": "palantir-ef725594-42dd-4f0d-ba8e-df8179dbc6cb",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb/apply",
+    "to": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f/apply"
+  },
+  {
+    "canonical_id": "palantir-61eaa54c-e1b7-4064-afad-f7df3d48d652",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Neurodivergent Fellowship",
+    "to": "Forward Deployed Software Engineer, Internship - US Government"
+  },
+  {
+    "canonical_id": "palantir-61eaa54c-e1b7-4064-afad-f7df3d48d652",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/61eaa54c-e1b7-4064-afad-f7df3d48d652",
+    "to": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2"
+  },
+  {
+    "canonical_id": "palantir-61eaa54c-e1b7-4064-afad-f7df3d48d652",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/61eaa54c-e1b7-4064-afad-f7df3d48d652/apply",
+    "to": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2/apply"
+  },
+  {
+    "canonical_id": "palantir-61eaa54c-e1b7-4064-afad-f7df3d48d652",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "New York, NY",
+    "to": "Washington, D.C."
+  },
+  {
+    "canonical_id": "palantir-fd952b52-7b9c-4056-a3dd-0bc41fcfe603",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Neurodivergent Fellowship",
+    "to": "Information Security Engineer, Internship"
+  },
+  {
+    "canonical_id": "palantir-fd952b52-7b9c-4056-a3dd-0bc41fcfe603",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/fd952b52-7b9c-4056-a3dd-0bc41fcfe603",
+    "to": "https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb"
+  },
+  {
+    "canonical_id": "palantir-fd952b52-7b9c-4056-a3dd-0bc41fcfe603",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/fd952b52-7b9c-4056-a3dd-0bc41fcfe603/apply",
+    "to": "https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb/apply"
+  },
+  {
+    "canonical_id": "palantir-fd952b52-7b9c-4056-a3dd-0bc41fcfe603",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "Washington, D.C.",
+    "to": "New York, NY"
+  },
+  {
+    "canonical_id": "palantir-1a935143-e857-480c-bc5a-ad625d754eb6",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Product Designer, Internship",
+    "to": "Neurodivergent Fellowship"
+  },
+  {
+    "canonical_id": "palantir-1a935143-e857-480c-bc5a-ad625d754eb6",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6",
+    "to": "https://jobs.lever.co/palantir/61eaa54c-e1b7-4064-afad-f7df3d48d652"
+  },
+  {
+    "canonical_id": "palantir-1a935143-e857-480c-bc5a-ad625d754eb6",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6/apply",
+    "to": "https://jobs.lever.co/palantir/61eaa54c-e1b7-4064-afad-f7df3d48d652/apply"
+  },
+  {
+    "canonical_id": "palantir-44129013-01e0-4699-8fc1-7a189bb37b63",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Product Designer, Internship",
+    "to": "Neurodivergent Fellowship"
+  },
+  {
+    "canonical_id": "palantir-44129013-01e0-4699-8fc1-7a189bb37b63",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/44129013-01e0-4699-8fc1-7a189bb37b63",
+    "to": "https://jobs.lever.co/palantir/fd952b52-7b9c-4056-a3dd-0bc41fcfe603"
+  },
+  {
+    "canonical_id": "palantir-44129013-01e0-4699-8fc1-7a189bb37b63",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/44129013-01e0-4699-8fc1-7a189bb37b63/apply",
+    "to": "https://jobs.lever.co/palantir/fd952b52-7b9c-4056-a3dd-0bc41fcfe603/apply"
+  },
+  {
+    "canonical_id": "palantir-44129013-01e0-4699-8fc1-7a189bb37b63",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "London, United Kingdom",
+    "to": "Washington, D.C."
+  },
+  {
+    "canonical_id": "palantir-8f7bbffa-92aa-4d25-9586-943b3322a27d",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Product Designer, Internship - US Government",
+    "to": "Product Designer, Internship"
+  },
+  {
+    "canonical_id": "palantir-8f7bbffa-92aa-4d25-9586-943b3322a27d",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d",
+    "to": "https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6"
+  },
+  {
+    "canonical_id": "palantir-8f7bbffa-92aa-4d25-9586-943b3322a27d",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d/apply",
+    "to": "https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6/apply"
+  },
+  {
+    "canonical_id": "palantir-9db71277-3a9a-481b-a2a3-25c3125b0e8a",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Product Designer, Internship - US Government",
+    "to": "Product Designer, Internship"
+  },
+  {
+    "canonical_id": "palantir-9db71277-3a9a-481b-a2a3-25c3125b0e8a",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a",
+    "to": "https://jobs.lever.co/palantir/44129013-01e0-4699-8fc1-7a189bb37b63"
+  },
+  {
+    "canonical_id": "palantir-9db71277-3a9a-481b-a2a3-25c3125b0e8a",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a/apply",
+    "to": "https://jobs.lever.co/palantir/44129013-01e0-4699-8fc1-7a189bb37b63/apply"
+  },
+  {
+    "canonical_id": "palantir-9db71277-3a9a-481b-a2a3-25c3125b0e8a",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "Palo Alto, CA",
+    "to": "London, United Kingdom"
+  },
+  {
+    "canonical_id": "palantir-fa060d94-f85d-4d02-be58-b81787fe57e5",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5",
+    "to": "https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d"
+  },
+  {
+    "canonical_id": "palantir-fa060d94-f85d-4d02-be58-b81787fe57e5",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5/apply",
+    "to": "https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d/apply"
+  },
+  {
+    "canonical_id": "palantir-fa060d94-f85d-4d02-be58-b81787fe57e5",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "Washington, D.C.",
+    "to": "New York, NY"
+  },
+  {
+    "canonical_id": "palantir-373eb939-6f57-4836-8479-be79a5e07249",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Software Engineer, Internship",
+    "to": "Product Designer, Internship - US Government"
+  },
+  {
+    "canonical_id": "palantir-373eb939-6f57-4836-8479-be79a5e07249",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249",
+    "to": "https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a"
+  },
+  {
+    "canonical_id": "palantir-373eb939-6f57-4836-8479-be79a5e07249",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249/apply",
+    "to": "https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a/apply"
+  },
+  {
+    "canonical_id": "palantir-373eb939-6f57-4836-8479-be79a5e07249",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "Denver, CO",
+    "to": "Palo Alto, CA"
+  },
+  {
+    "canonical_id": "palantir-76a60923-bb49-40f5-b061-7c7eb1299602",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Software Engineer, Internship",
+    "to": "Product Designer, Internship - US Government"
+  },
+  {
+    "canonical_id": "palantir-76a60923-bb49-40f5-b061-7c7eb1299602",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602",
+    "to": "https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5"
+  },
+  {
+    "canonical_id": "palantir-76a60923-bb49-40f5-b061-7c7eb1299602",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602/apply",
+    "to": "https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5/apply"
+  },
+  {
+    "canonical_id": "palantir-76a60923-bb49-40f5-b061-7c7eb1299602",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "London, United Kingdom",
+    "to": "Washington, D.C."
+  },
+  {
+    "canonical_id": "palantir-7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+    "to": "https://jobs.lever.co/palantir/3531977a-9b2f-40a0-a486-4eeb38e75fc1"
+  },
+  {
+    "canonical_id": "palantir-7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d/apply",
+    "to": "https://jobs.lever.co/palantir/3531977a-9b2f-40a0-a486-4eeb38e75fc1/apply"
+  },
+  {
+    "canonical_id": "palantir-7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "New York, NY",
+    "to": "Singapore, Singapore"
+  },
+  {
+    "canonical_id": "palantir-bdcfb29f-4f27-42de-933f-7f83a359b9f0",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0",
+    "to": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249"
+  },
+  {
+    "canonical_id": "palantir-bdcfb29f-4f27-42de-933f-7f83a359b9f0",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0/apply",
+    "to": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249/apply"
+  },
+  {
+    "canonical_id": "palantir-bdcfb29f-4f27-42de-933f-7f83a359b9f0",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "Washington, D.C.",
+    "to": "Denver, CO"
+  },
+  {
+    "canonical_id": "palantir-e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+    "to": "https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602"
+  },
+  {
+    "canonical_id": "palantir-e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c/apply",
+    "to": "https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602/apply"
+  },
+  {
+    "canonical_id": "palantir-e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "Palo Alto, CA",
+    "to": "London, United Kingdom"
+  },
+  {
+    "canonical_id": "palantir-8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Software Engineer, Internship - Defense Tech",
+    "to": "Software Engineer, Internship"
+  },
+  {
+    "canonical_id": "palantir-8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e",
+    "to": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d"
+  },
+  {
+    "canonical_id": "palantir-8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e/apply",
+    "to": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d/apply"
+  },
+  {
+    "canonical_id": "palantir-a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Software Engineer, Internship - Defense Tech",
+    "to": "Software Engineer, Internship"
+  },
+  {
+    "canonical_id": "palantir-a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d",
+    "to": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0"
+  },
+  {
+    "canonical_id": "palantir-a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d/apply",
+    "to": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0/apply"
+  },
+  {
+    "canonical_id": "palantir-a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "Palo Alto, CA",
+    "to": "Washington, D.C."
+  },
+  {
+    "canonical_id": "palantir-f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Software Engineer, Internship - Defense Tech",
+    "to": "Software Engineer, Internship"
+  },
+  {
+    "canonical_id": "palantir-f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7",
+    "to": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c"
+  },
+  {
+    "canonical_id": "palantir-f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7/apply",
+    "to": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c/apply"
+  },
+  {
+    "canonical_id": "palantir-f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "Washington, D.C.",
+    "to": "Palo Alto, CA"
+  },
+  {
+    "canonical_id": "palantir-b229baac-494b-4a0d-9a13-2e38806e06f3",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Software Engineer, Internship - Infrastructure",
+    "to": "Software Engineer, Internship - Defense Tech"
+  },
+  {
+    "canonical_id": "palantir-b229baac-494b-4a0d-9a13-2e38806e06f3",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3",
+    "to": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e"
+  },
+  {
+    "canonical_id": "palantir-b229baac-494b-4a0d-9a13-2e38806e06f3",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3/apply",
+    "to": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e/apply"
+  },
+  {
+    "canonical_id": "palantir-f221738b-e97c-4ce3-a12a-17ada2b855e4",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Software Engineer, Internship - Infrastructure",
+    "to": "Software Engineer, Internship - Defense Tech"
+  },
+  {
+    "canonical_id": "palantir-f221738b-e97c-4ce3-a12a-17ada2b855e4",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4",
+    "to": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d"
+  },
+  {
+    "canonical_id": "palantir-f221738b-e97c-4ce3-a12a-17ada2b855e4",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4/apply",
+    "to": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d/apply"
+  },
+  {
+    "canonical_id": "palantir-fd3603a9-7016-45c6-9c8d-04c9279ab85e",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Software Engineer, Internship - Infrastructure",
+    "to": "Software Engineer, Internship - Defense Tech"
+  },
+  {
+    "canonical_id": "palantir-fd3603a9-7016-45c6-9c8d-04c9279ab85e",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e",
+    "to": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7"
+  },
+  {
+    "canonical_id": "palantir-fd3603a9-7016-45c6-9c8d-04c9279ab85e",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply",
+    "to": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7/apply"
+  },
+  {
+    "canonical_id": "palantir-fd3603a9-7016-45c6-9c8d-04c9279ab85e",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "London, United Kingdom",
+    "to": "Washington, D.C."
+  },
+  {
+    "canonical_id": "palantir-373367a9-3160-49d8-b7af-2efec062fad1",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Software Engineer, Internship - Production Infrastructure",
+    "to": "Software Engineer, Internship - Infrastructure"
+  },
+  {
+    "canonical_id": "palantir-373367a9-3160-49d8-b7af-2efec062fad1",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1",
+    "to": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3"
+  },
+  {
+    "canonical_id": "palantir-373367a9-3160-49d8-b7af-2efec062fad1",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1/apply",
+    "to": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3/apply"
+  },
+  {
+    "canonical_id": "palantir-373367a9-3160-49d8-b7af-2efec062fad1",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "Seattle, WA",
+    "to": "New York, NY"
+  },
+  {
+    "canonical_id": "palantir-37964982-9b4c-471e-a1d8-fb8f45d7f116",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Software Engineer, Internship - Production Infrastructure",
+    "to": "Software Engineer, Internship - Infrastructure"
+  },
+  {
+    "canonical_id": "palantir-37964982-9b4c-471e-a1d8-fb8f45d7f116",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116",
+    "to": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4"
+  },
+  {
+    "canonical_id": "palantir-37964982-9b4c-471e-a1d8-fb8f45d7f116",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116/apply",
+    "to": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4/apply"
+  },
+  {
+    "canonical_id": "palantir-37964982-9b4c-471e-a1d8-fb8f45d7f116",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "New York, NY",
+    "to": "Palo Alto, CA"
+  },
+  {
+    "canonical_id": "palantir-3ab9e715-1ea9-4c6c-ad50-7340eac14e86",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Software Engineer, Internship - Production Infrastructure",
+    "to": "Software Engineer, Internship - Infrastructure"
+  },
+  {
+    "canonical_id": "palantir-3ab9e715-1ea9-4c6c-ad50-7340eac14e86",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86",
+    "to": "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e"
+  },
+  {
+    "canonical_id": "palantir-3ab9e715-1ea9-4c6c-ad50-7340eac14e86",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86/apply",
+    "to": "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply"
+  },
+  {
+    "canonical_id": "palantir-3ab9e715-1ea9-4c6c-ad50-7340eac14e86",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "Washington, D.C.",
+    "to": "London, United Kingdom"
+  },
+  {
+    "canonical_id": "palantir-75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+    "to": "Software Engineer, Internship - Production Infrastructure"
+  },
+  {
+    "canonical_id": "palantir-75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
+    "to": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1"
+  },
+  {
+    "canonical_id": "palantir-75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3/apply",
+    "to": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1/apply"
+  },
+  {
+    "canonical_id": "palantir-75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "Chicago, IL",
+    "to": "Seattle, WA"
+  },
+  {
+    "canonical_id": "palantir-e6789b17-62fb-4226-a079-f8c17ff19e2d",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+    "to": "Software Engineer, Internship - Production Infrastructure"
+  },
+  {
+    "canonical_id": "palantir-e6789b17-62fb-4226-a079-f8c17ff19e2d",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d",
+    "to": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116"
+  },
+  {
+    "canonical_id": "palantir-e6789b17-62fb-4226-a079-f8c17ff19e2d",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d/apply",
+    "to": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116/apply"
+  },
+  {
+    "canonical_id": "palantir-5c4c65c5-77da-4d36-856c-4ade87631019",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
+    "to": "Software Engineer, Internship - Production Infrastructure"
+  },
+  {
+    "canonical_id": "palantir-5c4c65c5-77da-4d36-856c-4ade87631019",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019",
+    "to": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86"
+  },
+  {
+    "canonical_id": "palantir-5c4c65c5-77da-4d36-856c-4ade87631019",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019/apply",
+    "to": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86/apply"
+  },
+  {
+    "canonical_id": "palantir-5c7bb70c-83ea-43e7-8055-0c8f319f4333",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
+    "to": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial"
+  },
+  {
+    "canonical_id": "palantir-5c7bb70c-83ea-43e7-8055-0c8f319f4333",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333",
+    "to": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3"
+  },
+  {
+    "canonical_id": "palantir-5c7bb70c-83ea-43e7-8055-0c8f319f4333",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333/apply",
+    "to": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3/apply"
+  },
+  {
+    "canonical_id": "palantir-5c7bb70c-83ea-43e7-8055-0c8f319f4333",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "location",
+    "from": "New York, NY",
+    "to": "Chicago, IL"
+  },
+  {
+    "canonical_id": "palantir-655f9937-a4ce-4e7d-80e2-a6659af07329",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "Year at Palantir - Software Engineer, Internship",
+    "to": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial"
+  },
+  {
+    "canonical_id": "palantir-655f9937-a4ce-4e7d-80e2-a6659af07329",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329",
+    "to": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d"
+  },
+  {
+    "canonical_id": "palantir-655f9937-a4ce-4e7d-80e2-a6659af07329",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329/apply",
+    "to": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d/apply"
+  },
+  {
+    "canonical_id": "point72-8491055002",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "title",
+    "from": "2027 Investment Services Internship - PIPELINE",
+    "to": "2027 Investment Services Internship"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "point72-8377772002",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "virtu-financial-8657500002",
+    "changed_at": "2026-09-27T10:12:28Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
   }
 ]
