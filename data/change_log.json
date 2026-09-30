@@ -6036,5 +6036,12 @@
     "field": "lifecycle",
     "from": "open",
     "to": "stale"
+  },
+  {
+    "canonical_id": "g-research-spring-into-quant-finance-2027",
+    "changed_at": "2026-09-30T11:19:31Z",
+    "field": "location",
+    "from": "London, UK",
+    "to": "Not stated"
   }
 ]
