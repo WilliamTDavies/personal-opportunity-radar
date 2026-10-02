@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:39:42Z",
+  "generated_at": "2026-10-02T05:34:09Z",
   "opportunities": [
     {
       "canonical_id": "cme-september-trading-challenge-2026",
@@ -1315,19 +1315,19 @@
         {
           "statement": "The official detail page identifies SEE London March 30th - April 3rd, 2027 as a current or announced opportunity.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/see/",
-          "checked_at": "2026-10-01",
+          "checked_at": "2026-10-02",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2027-01-03.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/see/",
-          "checked_at": "2026-10-01",
+          "checked_at": "2026-10-02",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/see/",
-          "checked_at": "2026-10-01",
+          "checked_at": "2026-10-02",
           "source_type": "official"
         }
       ],
@@ -1356,10 +1356,10 @@
           "reason": "Known university country is United Kingdom; accepted: ['Austria', 'Belgium', 'Denmark', 'Germany', 'Netherlands', 'Norway', 'Sweden', 'Switzerland']."
         }
       ],
-      "checked_at": "2026-10-01",
+      "checked_at": "2026-10-02",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-01T21:57:43Z",
-      "last_changed": "2026-10-01T21:57:43Z",
+      "last_seen": "2026-10-02T05:34:08Z",
+      "last_changed": "2026-10-02T05:34:08Z",
       "source_id": "jane-street-see-london-2027",
       "source_kind": "discovered",
       "content_fingerprint": "2be707111258033c9a7a8c72ccae8df2a3b64c941e262f13faa445aa28f79b53",
@@ -1395,8 +1395,8 @@
       "alternate_sources": [
         "https://www.janestreet.com/jobs/programs-endpoint.json"
       ],
-      "last_verified": "2026-10-01T21:57:43Z",
-      "deadline_last_verified": "2026-10-01T21:57:43Z",
+      "last_verified": "2026-10-02T05:34:08Z",
+      "deadline_last_verified": "2026-10-02T05:34:08Z",
       "missing_count": 0,
       "source_family": "jane-street",
       "security_vetting": null,
