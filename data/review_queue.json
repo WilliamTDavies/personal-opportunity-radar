@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T05:49:50Z",
+  "generated_at": "2026-10-04T10:45:55Z",
   "opportunities": [
     {
       "canonical_id": "durham-bsi-undergraduate-summer-bursary",
@@ -123,25 +123,25 @@
         {
           "statement": "The official detail page identifies Summer Research Bursary Application Form as a current or announced opportunity.",
           "source_url": "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-bursary-application",
-          "checked_at": "2026-10-03",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2026-03-23.",
           "source_url": "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-bursary-application",
-          "checked_at": "2026-10-03",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-10-03",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T00:23:55Z",
-      "last_seen": "2026-10-03T20:07:47Z",
-      "last_changed": "2026-10-03T20:07:47Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "cambridge-cms-summer-research",
       "source_kind": "discovered",
-      "content_fingerprint": "ab8d40dc6cd73fbc35e509e6ea4acf6bb8db1c91dd0422243c7b7946ddd2fabc",
+      "content_fingerprint": "01aaf083ff4dbfabf324eb0f3fe1d0fa3d92f91ca028bc1792e374ee6fa21f7d",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -173,8 +173,8 @@
       "alternate_sources": [
         "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-programmes"
       ],
-      "last_verified": "2026-10-03T20:07:47Z",
-      "deadline_last_verified": "2026-10-03T20:07:47Z",
+      "last_verified": "2026-10-04T10:45:34Z",
+      "deadline_last_verified": "2026-10-04T10:45:34Z",
       "missing_count": 0,
       "source_family": "cambridge-mathematics",
       "security_vetting": null,
@@ -187,114 +187,369 @@
       "parser_version": 3
     },
     {
-      "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship",
-      "title": "Relationship Management - Private Bank - Internship",
+      "canonical_id": "hsbc-transaction-banking-issuer-services-off-cycle-internship",
+      "title": "Transaction Banking - Issuer Services - Off-Cycle Internship",
       "organisation": "HSBC",
       "stream": "internships",
       "lifecycle": "open",
-      "eligibility": "ineligible",
+      "eligibility": "uncertain",
       "primary_action": "Apply",
-      "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Relationship-Management-Private-Bank-Internship-018983/1371071757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+      "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Transaction-Banking-Issuer-Services-Off-Cycle-Internship-E14-5HQ/1373573657/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+      "location": "London, UK",
+      "start_date": "2027-07",
+      "end_date": null,
+      "deadline": "2026-10-15",
+      "deadline_status": "fixed",
+      "deadline_source": "https://apply.careers.hsbc.com/emergingtalent/job/London-Transaction-Banking-Issuer-Services-Off-Cycle-Internship-E14-5HQ/1373573657/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+      "deadline_verified": true,
+      "rolling": false,
+      "opens_at": "2026-10-01",
+      "research_mode": null,
+      "summary": "London Transaction Banking - Issuer Services - Off-Cycle Internship, E14 5HQ",
+      "why_it_fits": "Official subject, timing and access evidence will be evaluated against the Durham Mathematics & Physics profile.",
+      "eligibility_note": "Needs eligibility check against the extracted official criteria.",
+      "next_step": "Apply through the official route.",
+      "tags": [
+        "2027",
+        "automatically discovered",
+        "cyber",
+        "data",
+        "finance",
+        "research"
+      ],
+      "aliases": [],
+      "merged_alias_ids": [],
+      "evidence": [
+        {
+          "statement": "The official detail page identifies Transaction Banking - Issuer Services - Off-Cycle Internship as a current or announced opportunity.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Transaction-Banking-Issuer-Services-Off-Cycle-Internship-E14-5HQ/1373573657/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page states an application deadline of 2026-10-15.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Transaction-Banking-Issuer-Services-Off-Cycle-Internship-E14-5HQ/1373573657/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        }
+      ],
+      "requirements": [],
+      "rule_evaluations": [],
+      "checked_at": "2026-10-04",
+      "first_seen": "2026-10-04T10:45:34Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
+      "source_id": "hsbc-student-programmes",
+      "source_kind": "discovered",
+      "content_fingerprint": "ff3076712de63a10287e7582326e4f45092ca05438f655158587c4425b1e786f",
+      "confidence": 0.8999999999999999,
+      "priority_tier": "C",
+      "review_required": true,
+      "review_reasons": [
+        "important eligibility evidence remains unknown"
+      ],
+      "identity_targeted": false,
+      "access_scope": "unknown",
+      "source_conflict": false,
+      "change_summary": [],
+      "opportunity_type": "internship",
+      "career_fields": [
+        "finance",
+        "cyber",
+        "research",
+        "data"
+      ],
+      "subject_fields": [],
+      "country": "United Kingdom",
+      "city": "London",
+      "work_mode": "on_site",
+      "cycle": "2027",
+      "application_url": "https://apply.careers.hsbc.com/talentcommunity/apply/1373573657/?locale=en_GB",
+      "discovered_via": "https://www.hsbc.com/careers/students-and-graduates/find-a-programme",
+      "primary_evidence_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Transaction-Banking-Issuer-Services-Off-Cycle-Internship-E14-5HQ/1373573657/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+      "alternate_sources": [
+        "https://www.hsbc.com/careers/students-and-graduates/find-a-programme"
+      ],
+      "last_verified": "2026-10-04T10:45:34Z",
+      "deadline_last_verified": "2026-10-04T10:45:34Z",
+      "missing_count": 0,
+      "source_family": "hsbc",
+      "security_vetting": null,
+      "required_documents": [],
+      "duration": "10 Week",
+      "template_dependent": false,
+      "auto_publish_reason": "",
+      "parser_version": 3
+    },
+    {
+      "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+      "title": "Engineering - Internship",
+      "organisation": "HSBC",
+      "stream": "internships",
+      "lifecycle": "open",
+      "eligibility": "uncertain",
+      "primary_action": "Apply",
+      "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Sheffield-Engineering-Internship-S1-4NB/1371596557/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
       "location": "United Kingdom",
       "start_date": "2028-07",
       "end_date": null,
-      "deadline": "2026-10-31",
+      "deadline": "2026-10-18",
       "deadline_status": "fixed",
-      "deadline_source": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Relationship-Management-Private-Bank-Internship-018983/1371071757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+      "deadline_source": "https://apply.careers.hsbc.com/emergingtalent/job/Sheffield-Engineering-Internship-S1-4NB/1371596557/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
       "deadline_verified": true,
       "rolling": false,
-      "opens_at": "2026-09-03",
+      "opens_at": "2026-10-01",
       "research_mode": null,
-      "summary": "Singapore Relationship Management - Private Bank - Internship, 018983",
+      "summary": "Engineering - Internship Job Details | HSBC Global Services Limited We use cookies to offer you the best possible website experience.",
       "why_it_fits": "Official subject, timing and access evidence will be evaluated against the Durham Mathematics & Physics profile.",
-      "eligibility_note": "Needs eligibility check: Known graduation year is 2029; accepted: 2028.",
+      "eligibility_note": "Needs eligibility check: Work Authorization is deliberately not inferred from the profile.",
       "next_step": "Apply through the official route.",
       "tags": [
         "2028",
         "automatically discovered",
         "cyber",
         "data",
-        "finance"
+        "engineering",
+        "finance",
+        "software"
       ],
       "aliases": [
         "hsbc-business-analyst-international-wealth-and-premier-banking-internship",
+        "hsbc-business-analyst-treasury-internship",
+        "hsbc-cyber-internship",
+        "hsbc-engineering-internship",
+        "hsbc-global-investment-research-internship",
+        "hsbc-hang-seng-management-trainee-mt-programme-global-markets",
+        "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+        "hsbc-investment-banking-hsbc-infrastructure-finance-off-cycle-internship",
+        "hsbc-investment-banking-internship",
+        "hsbc-investment-specialist-alternatives-internship",
+        "hsbc-investment-specialist-investments-internship",
+        "hsbc-markets-sales-and-trading-internship",
+        "hsbc-relationship-management-commercial-bank-internship",
         "hsbc-relationship-management-corporate-and-institutional-banking-internship",
         "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
         "hsbc-relationship-management-private-bank-internship",
-        "hsbc-transaction-banking-global-trade-solutions-internship"
+        "hsbc-transaction-banking-global-payments-solutions-internship",
+        "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+        "hsbc-transaction-banking-global-trade-solutions-internship",
+        "hsbc-transaction-banking-global-trade-solutions-off-cycle-internship",
+        "hsbc-transaction-banking-securities-services-internship"
       ],
       "merged_alias_ids": [
         "hsbc-business-analyst-international-wealth-and-premier-banking-internship",
+        "hsbc-business-analyst-treasury-internship",
+        "hsbc-cyber-internship",
+        "hsbc-engineering-internship",
+        "hsbc-global-investment-research-internship",
+        "hsbc-hang-seng-management-trainee-mt-programme-global-markets",
+        "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+        "hsbc-investment-banking-hsbc-infrastructure-finance-off-cycle-internship",
+        "hsbc-investment-banking-internship",
+        "hsbc-investment-specialist-alternatives-internship",
+        "hsbc-investment-specialist-investments-internship",
+        "hsbc-markets-sales-and-trading-internship",
+        "hsbc-relationship-management-commercial-bank-internship",
         "hsbc-relationship-management-corporate-and-institutional-banking-internship",
         "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
         "hsbc-relationship-management-private-bank-internship",
-        "hsbc-transaction-banking-global-trade-solutions-internship"
+        "hsbc-transaction-banking-global-payments-solutions-internship",
+        "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+        "hsbc-transaction-banking-global-trade-solutions-internship",
+        "hsbc-transaction-banking-global-trade-solutions-off-cycle-internship",
+        "hsbc-transaction-banking-securities-services-internship"
       ],
       "evidence": [
         {
-          "statement": "The official detail page identifies Business Analyst - International Wealth and Premier Banking - Internship as a current or announced opportunity.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Taipei-Business-Analyst-International-Wealth-and-Premier-Banking-Internship-Taip-11561/1371304657/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-27",
+          "statement": "The official detail page identifies Engineering - Internship as a current or announced opportunity.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Sheffield-Engineering-Internship-S1-4NB/1371596557/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         },
         {
-          "statement": "The official detail page states an application deadline of 2026-10-31.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Taipei-Business-Analyst-International-Wealth-and-Premier-Banking-Internship-Taip-11561/1371304657/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-27",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page identifies Relationship Management - Private Bank - Internship as a current or announced opportunity.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Relationship-Management-Private-Bank-Internship-018983/1371071757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-27",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page states an application deadline of 2026-10-31.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Relationship-Management-Private-Bank-Internship-018983/1371071757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-27",
+          "statement": "The official detail page states an application deadline of 2026-10-18.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Sheffield-Engineering-Internship-S1-4NB/1371596557/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Relationship-Management-Private-Bank-Internship-018983/1371071757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-27",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Sheffield-Engineering-Internship-S1-4NB/1371596557/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         },
         {
-          "statement": "The official detail page identifies Transaction Banking - Global Trade Solutions - Internship as a current or announced opportunity.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Transaction-Banking-Global-Trade-Solutions-Internship-018983/1371072357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-27",
+          "statement": "The official detail page identifies Relationship Management - International Wealth and Premier Banking - Internship, International Wealth and Premier Banking, USA, Buffalo Relationship Management - International Wealth and Premier Banking - Internship (opens in new window) as a current or announced opportunity.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Buffalo-Relationship-Management-International-Wealth-and-Premier-Banking-Internship-NY-14210/1369520757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-08-31",
           "source_type": "official"
         },
         {
-          "statement": "The official detail page states an application deadline of 2026-10-31.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Transaction-Banking-Global-Trade-Solutions-Internship-018983/1371072357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-27",
+          "statement": "The official detail page identifies Investment Specialist - Alternatives - Internship as a current or announced opportunity.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Investment-Specialist-Alternatives-Internship-E14-5HQ/1373566657/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page states an application deadline of 2026-10-15.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Investment-Specialist-Alternatives-Internship-E14-5HQ/1373566657/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Transaction-Banking-Global-Trade-Solutions-Internship-018983/1371072357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-27",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Investment-Specialist-Alternatives-Internship-E14-5HQ/1373566657/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page identifies Relationship Management - Commercial Bank - Internship as a current or announced opportunity.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Manchester-Relationship-Management-Commercial-Bank-Internship-M2-7HD/1373612057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page states an application deadline of 2026-11-01.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Manchester-Relationship-Management-Commercial-Bank-Internship-M2-7HD/1373612057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The eligibility rules were extracted from the official detail-page wording.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Manchester-Relationship-Management-Commercial-Bank-Internship-M2-7HD/1373612057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page identifies Cyber - Internship as a current or announced opportunity.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Sheffield-Cyber-Internship-S1-4NB/1373562857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page states an application deadline of 2026-10-18.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Sheffield-Cyber-Internship-S1-4NB/1373562857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The eligibility rules were extracted from the official detail-page wording.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Sheffield-Cyber-Internship-S1-4NB/1373562857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         },
         {
           "statement": "The official detail page identifies Transaction Banking - Global Payments Solutions - Internship as a current or announced opportunity.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Transaction-Banking-Global-Payments-Solutions-Internship-018983/1371071357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-27",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Transaction-Banking-Global-Payments-Solutions-Internship-E14-5HQ/1373585357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         },
         {
-          "statement": "The official detail page states an application deadline of 2026-10-31.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Transaction-Banking-Global-Payments-Solutions-Internship-018983/1371071357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-27",
+          "statement": "The official detail page states an application deadline of 2026-10-15.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Transaction-Banking-Global-Payments-Solutions-Internship-E14-5HQ/1373585357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Transaction-Banking-Global-Payments-Solutions-Internship-018983/1371071357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-27",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Transaction-Banking-Global-Payments-Solutions-Internship-E14-5HQ/1373585357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page identifies Transaction Banking - Global Trade Solutions - Off-Cycle Internship as a current or announced opportunity.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Transaction-Banking-Global-Trade-Solutions-Off-Cycle-Internship-E14-5HQ/1373576357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page states an application deadline of 2026-10-15.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Transaction-Banking-Global-Trade-Solutions-Off-Cycle-Internship-E14-5HQ/1373576357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page identifies Relationship Management - Private Bank - Internship as a current or announced opportunity.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Relationship-Management-Private-Bank-Internship-E14-5HQ/1373563257/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page states an application deadline of 2026-10-29.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Relationship-Management-Private-Bank-Internship-E14-5HQ/1373563257/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The eligibility rules were extracted from the official detail-page wording.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Relationship-Management-Private-Bank-Internship-E14-5HQ/1373563257/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page identifies Investment Banking - HSBC Infrastructure Finance - Off-Cycle Internship as a current or announced opportunity.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Investment-Banking-HSBC-Infrastructure-Finance-Off-Cycle-Internship-E14-5HQ/1373577357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page states an application deadline of 2026-10-15.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Investment-Banking-HSBC-Infrastructure-Finance-Off-Cycle-Internship-E14-5HQ/1373577357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page identifies Markets - Sales and Trading - Internship as a current or announced opportunity.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Markets-Sales-and-Trading-Internship-018983/1365767057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-08-31",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page states an application deadline of 2026-10-30.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Markets-Sales-and-Trading-Internship-018983/1365767057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-08-31",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page identifies Relationship Management - Commercial Bank - Internship as a current or announced opportunity.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Relationship-Management-Commercial-Bank-Internship-E14-5HQ/1373604457/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page states an application deadline of 2026-10-18.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Relationship-Management-Commercial-Bank-Internship-E14-5HQ/1373604457/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The eligibility rules were extracted from the official detail-page wording.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Relationship-Management-Commercial-Bank-Internship-E14-5HQ/1373604457/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page identifies Investment Banking - Internship as a current or announced opportunity.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Investment-Banking-Internship-018983/1365766857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-08-31",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page states an application deadline of 2026-10-30.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Investment-Banking-Internship-018983/1365766857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-08-31",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page identifies Markets - Sales and Trading - Internship as a current or announced opportunity.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Markets-Sales-and-Trading-Internship-Hong/1365768857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-08-31",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page states an application deadline of 2026-10-30.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Markets-Sales-and-Trading-Internship-Hong/1365768857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-08-31",
           "source_type": "official"
         },
         {
@@ -319,73 +574,189 @@
           "statement": "The official detail page states an application deadline of 2026-10-30.",
           "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Relationship-Management-Corporate-and-Institutional-Banking-Internship-Hong/1365768957/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
           "checked_at": "2026-08-31",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page identifies Markets - Sales and Trading - Internship as a current or announced opportunity.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Markets-Sales-and-Trading-Internship-E14-5HQ/1373586957/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page states an application deadline of 2026-10-15.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Markets-Sales-and-Trading-Internship-E14-5HQ/1373586957/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The eligibility rules were extracted from the official detail-page wording.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Markets-Sales-and-Trading-Internship-E14-5HQ/1373586957/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page identifies Transaction Banking - Securities Services - Internship as a current or announced opportunity.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Transaction-Banking-Securities-Services-Internship-E14-5HQ/1373585557/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page states an application deadline of 2026-10-15.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Transaction-Banking-Securities-Services-Internship-E14-5HQ/1373585557/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The eligibility rules were extracted from the official detail-page wording.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Transaction-Banking-Securities-Services-Internship-E14-5HQ/1373585557/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page identifies Investment Banking - HSBC Infrastructure Finance - Internship as a current or announced opportunity.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Investment-Banking-HSBC-Infrastructure-Finance-Internship-E14-5HQ/1373579357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page states an application deadline of 2026-10-15.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Investment-Banking-HSBC-Infrastructure-Finance-Internship-E14-5HQ/1373579357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The eligibility rules were extracted from the official detail-page wording.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Investment-Banking-HSBC-Infrastructure-Finance-Internship-E14-5HQ/1373579357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page identifies Investment Banking - Internship as a current or announced opportunity.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Investment-Banking-Internship-E14-5HQ/1373578457/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page states an application deadline of 2026-10-15.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Investment-Banking-Internship-E14-5HQ/1373578457/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The eligibility rules were extracted from the official detail-page wording.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Investment-Banking-Internship-E14-5HQ/1373578457/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page identifies Relationship Management - Corporate and Institutional Banking - Internship as a current or announced opportunity.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Relationship-Management-Corporate-and-Institutional-Banking-Internship-E14-5HQ/1373585257/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page states an application deadline of 2026-10-15.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Relationship-Management-Corporate-and-Institutional-Banking-Internship-E14-5HQ/1373585257/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The eligibility rules were extracted from the official detail-page wording.",
+          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/London-Relationship-Management-Corporate-and-Institutional-Banking-Internship-E14-5HQ/1373585257/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [
         {
-          "rule": "graduation_year",
-          "value": [
-            2028
-          ],
+          "rule": "penultimate_year",
+          "value": true,
           "strength": "required",
-          "evidence": "Official graduation-year wording"
+          "evidence": "Official penultimate-year requirement"
+        },
+        {
+          "rule": "work_authorization",
+          "value": true,
+          "strength": "required",
+          "evidence": "Official work-authorisation wording"
         }
       ],
       "rule_evaluations": [
         {
-          "rule": "graduation_year",
+          "rule": "penultimate_year",
           "strength": "required",
-          "outcome": "conflict",
-          "reason": "Known graduation year is 2029; accepted: 2028."
+          "outcome": "met",
+          "reason": "Known degree dates make penultimate-year status True for this cycle."
+        },
+        {
+          "rule": "work_authorization",
+          "strength": "required",
+          "outcome": "unknown",
+          "reason": "Work Authorization is deliberately not inferred from the profile."
         }
       ],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "hsbc-student-programmes",
       "source_kind": "discovered",
-      "content_fingerprint": "86848ca843ab8b945f65af4862cae9ed4268b3f5587ee2813ffa15e49217a4e1",
+      "content_fingerprint": "7249c3d93ad399d8f1857d53882803d182c6e1169209870439c7f8d18c52d0d3",
       "confidence": 0.99,
       "priority_tier": "C",
       "review_required": true,
       "review_reasons": [
+        "absent from three consecutive healthy source scans",
         "conflicting official deadline",
         "conflicting official eligibility",
+        "conflicting official lifecycle",
         "conflicting official opens_at",
+        "current application lifecycle is unclear",
+        "detail page could not be fully verified",
+        "generic extraction confidence is below the automatic-publication threshold",
         "important eligibility evidence remains unknown"
       ],
       "identity_targeted": false,
       "access_scope": "unknown",
       "source_conflict": true,
-      "change_summary": [],
+      "change_summary": [
+        "title: Hang Seng Management Trainee (MT) Programme - Global Markets → Engineering - Internship",
+        "source_url: https://apply.careers.hsbc.com/emergingtalent/job/Central-Hang-Seng-Management-Trainee-%28MT%29-Programme-Global-Markets-Hong/1371336857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent → https://apply.careers.hsbc.com/emergingtalent/job/Sheffield-Engineering-Internship-S1-4NB/1371596557/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+        "application_url: https://apply.careers.hsbc.com/talentcommunity/apply/1371336857/?locale=en_GB → https://apply.careers.hsbc.com/talentcommunity/apply/1371596557/?locale=en_GB",
+        "deadline: 2026-11-30 → 2026-10-18",
+        "opens_at: 2026-09-08 → 2026-10-01",
+        "start_date: 2027-01 → 2028-07",
+        "eligibility: ineligible → uncertain",
+        "requirements: ['graduation_year:[2027]:required'] → ['penultimate_year:True:required', 'work_authorization:True:required']"
+      ],
       "opportunity_type": "internship",
       "career_fields": [
+        "software",
         "finance",
         "cyber",
+        "engineering",
         "data"
       ],
-      "subject_fields": [],
+      "subject_fields": [
+        "engineering"
+      ],
       "country": "United Kingdom",
       "city": "",
       "work_mode": "on_site",
       "cycle": "2028",
-      "application_url": "https://apply.careers.hsbc.com/talentcommunity/apply/1371071757/?locale=en_GB",
+      "application_url": "https://apply.careers.hsbc.com/talentcommunity/apply/1371596557/?locale=en_GB",
       "discovered_via": "https://www.hsbc.com/careers/students-and-graduates/find-a-programme",
-      "primary_evidence_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Relationship-Management-Private-Bank-Internship-018983/1371071757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+      "primary_evidence_url": "https://apply.careers.hsbc.com/emergingtalent/job/Sheffield-Engineering-Internship-S1-4NB/1371596557/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
       "alternate_sources": [
         "https://www.hsbc.com/careers/students-and-graduates/find-a-programme"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
-      "deadline_last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
+      "deadline_last_verified": "2026-10-04T10:45:34Z",
       "missing_count": 0,
       "source_family": "hsbc",
       "security_vetting": null,
-      "required_documents": [
-        "transcript"
-      ],
-      "duration": "10 Week",
+      "required_documents": [],
+      "duration": "8 week",
       "template_dependent": false,
       "auto_publish_reason": "",
       "parser_version": 3
@@ -426,22 +797,22 @@
         {
           "statement": "The official detail page identifies Announcement of opportunity for the ESA Academy Experiments Programme 2026-2027 as a current or announced opportunity.",
           "source_url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme/Announcement_of_opportunity_for_the_ESA_Academy_Experiments_Programme_2026-2027",
-          "checked_at": "2026-10-03",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2026-11-22.",
           "source_url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme/Announcement_of_opportunity_for_the_ESA_Academy_Experiments_Programme_2026-2027",
-          "checked_at": "2026-10-03",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-10-03",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-10-03T20:07:47Z",
-      "last_changed": "2026-10-03T20:07:47Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "esa-academy",
       "source_kind": "discovered",
       "content_fingerprint": "734da649ccab66e2a9532c459dc559dc4e116617686d5f4009a426bd54453f74",
@@ -474,286 +845,13 @@
       "alternate_sources": [
         "https://www.esa.int/Education/ESA_Academy/Current_opportunities"
       ],
-      "last_verified": "2026-10-03T20:07:47Z",
-      "deadline_last_verified": "2026-10-03T20:07:47Z",
+      "last_verified": "2026-10-04T10:45:34Z",
+      "deadline_last_verified": "2026-10-04T10:45:34Z",
       "missing_count": 0,
       "source_family": "european-space-agency",
       "security_vetting": null,
       "required_documents": [],
       "duration": "12 month",
-      "template_dependent": false,
-      "auto_publish_reason": "",
-      "parser_version": 3
-    },
-    {
-      "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
-      "title": "Hang Seng Management Trainee (MT) Programme - Global Markets",
-      "organisation": "HSBC",
-      "stream": "competitions_development",
-      "lifecycle": "open",
-      "eligibility": "ineligible",
-      "primary_action": "Apply",
-      "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Hang-Seng-Management-Trainee-%28MT%29-Programme-Global-Markets-Hong/1371336857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-      "location": "United Kingdom",
-      "start_date": "2027-01",
-      "end_date": null,
-      "deadline": "2026-11-30",
-      "deadline_status": "fixed",
-      "deadline_source": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Hang-Seng-Management-Trainee-%28MT%29-Programme-Global-Markets-Hong/1371336857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-      "deadline_verified": true,
-      "rolling": false,
-      "opens_at": "2026-09-08",
-      "research_mode": null,
-      "summary": "Central Hang Seng Management Trainee (MT) Programme - Global Markets - Hong",
-      "why_it_fits": "Official subject, timing and access evidence will be evaluated against the Durham Mathematics & Physics profile.",
-      "eligibility_note": "Needs eligibility check: Known graduation year is 2029; accepted: 2027.",
-      "next_step": "Apply through the official route.",
-      "tags": [
-        "2027",
-        "automatically discovered",
-        "cyber",
-        "data",
-        "finance",
-        "quant"
-      ],
-      "aliases": [
-        "hsbc-business-analyst-treasury-internship",
-        "hsbc-global-investment-research-internship",
-        "hsbc-hang-seng-management-trainee-mt-programme-global-markets",
-        "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
-        "hsbc-investment-banking-internship",
-        "hsbc-investment-specialist-investments-internship",
-        "hsbc-markets-sales-and-trading-internship",
-        "hsbc-relationship-management-commercial-bank-internship",
-        "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
-        "hsbc-transaction-banking-securities-services-internship"
-      ],
-      "merged_alias_ids": [
-        "hsbc-business-analyst-treasury-internship",
-        "hsbc-global-investment-research-internship",
-        "hsbc-hang-seng-management-trainee-mt-programme-global-markets",
-        "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
-        "hsbc-investment-banking-internship",
-        "hsbc-investment-specialist-investments-internship",
-        "hsbc-markets-sales-and-trading-internship",
-        "hsbc-relationship-management-commercial-bank-internship",
-        "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
-        "hsbc-transaction-banking-securities-services-internship"
-      ],
-      "evidence": [
-        {
-          "statement": "The official detail page identifies Hang Seng Management Trainee (MT) Programme - Global Markets as a current or announced opportunity.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Hang-Seng-Management-Trainee-%28MT%29-Programme-Global-Markets-Hong/1371336857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-27",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page states an application deadline of 2026-11-30.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Hang-Seng-Management-Trainee-%28MT%29-Programme-Global-Markets-Hong/1371336857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-27",
-          "source_type": "official"
-        },
-        {
-          "statement": "The eligibility rules were extracted from the official detail-page wording.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Hang-Seng-Management-Trainee-%28MT%29-Programme-Global-Markets-Hong/1371336857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-27",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page identifies Relationship Management - International Wealth and Premier Banking - Internship, International Wealth and Premier Banking, USA, Buffalo Relationship Management - International Wealth and Premier Banking - Internship (opens in new window) as a current or announced opportunity.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Buffalo-Relationship-Management-International-Wealth-and-Premier-Banking-Internship-NY-14210/1369520757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-08-31",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page identifies Transaction Banking - Securities Services - Internship as a current or announced opportunity.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Transaction-Banking-Securities-Services-Internship-018983/1371070057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-27",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page states an application deadline of 2026-10-31.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Transaction-Banking-Securities-Services-Internship-018983/1371070057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-27",
-          "source_type": "official"
-        },
-        {
-          "statement": "The eligibility rules were extracted from the official detail-page wording.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Transaction-Banking-Securities-Services-Internship-018983/1371070057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-27",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page identifies Relationship Management - International Wealth and Premier Banking - Internship as a current or announced opportunity.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Relationship-Management-International-Wealth-and-Premier-Banking-Internship-018983/1371072257/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-27",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page states an application deadline of 2026-10-31.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Relationship-Management-International-Wealth-and-Premier-Banking-Internship-018983/1371072257/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-27",
-          "source_type": "official"
-        },
-        {
-          "statement": "The eligibility rules were extracted from the official detail-page wording.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Relationship-Management-International-Wealth-and-Premier-Banking-Internship-018983/1371072257/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-27",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page identifies Business Analyst - Treasury - Internship as a current or announced opportunity.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Business-Analyst-Treasury-Internship-Hong/1371080057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-06",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page states an application deadline of 2026-10-31.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Business-Analyst-Treasury-Internship-Hong/1371080057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-06",
-          "source_type": "official"
-        },
-        {
-          "statement": "The eligibility rules were extracted from the official detail-page wording.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Business-Analyst-Treasury-Internship-Hong/1371080057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-06",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page identifies Investment Specialist - Investments - Internship as a current or announced opportunity.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Investment-Specialist-Investments-Internship-Hong/1371079857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-06",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page states an application deadline of 2026-10-31.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Investment-Specialist-Investments-Internship-Hong/1371079857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-06",
-          "source_type": "official"
-        },
-        {
-          "statement": "The eligibility rules were extracted from the official detail-page wording.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Investment-Specialist-Investments-Internship-Hong/1371079857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-06",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page identifies Markets - Sales and Trading - Internship as a current or announced opportunity.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Markets-Sales-and-Trading-Internship-018983/1365767057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-08-31",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page states an application deadline of 2026-10-30.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Markets-Sales-and-Trading-Internship-018983/1365767057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-08-31",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page identifies Investment Banking - Internship as a current or announced opportunity.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Investment-Banking-Internship-018983/1365766857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-08-31",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page states an application deadline of 2026-10-30.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Investment-Banking-Internship-018983/1365766857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-08-31",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page identifies Markets - Sales and Trading - Internship as a current or announced opportunity.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Markets-Sales-and-Trading-Internship-Hong/1365768857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-08-31",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page states an application deadline of 2026-10-30.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Markets-Sales-and-Trading-Internship-Hong/1365768857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-08-31",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page identifies Transaction Banking - Securities Services - Internship as a current or announced opportunity.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Transaction-Banking-Securities-Services-Internship-Hong/1371075757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-27",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page states an application deadline of 2026-10-31.",
-          "source_url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Transaction-Banking-Securities-Services-Internship-Hong/1371075757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-          "checked_at": "2026-09-27",
-          "source_type": "official"
-        }
-      ],
-      "requirements": [
-        {
-          "rule": "graduation_year",
-          "value": [
-            2027
-          ],
-          "strength": "required",
-          "evidence": "Official graduation-year wording"
-        }
-      ],
-      "rule_evaluations": [
-        {
-          "rule": "graduation_year",
-          "strength": "required",
-          "outcome": "conflict",
-          "reason": "Known graduation year is 2029; accepted: 2027."
-        }
-      ],
-      "checked_at": "2026-09-27",
-      "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
-      "source_id": "hsbc-student-programmes",
-      "source_kind": "discovered",
-      "content_fingerprint": "70df48063a10365f80d4c93b6d76d2dfcf1c55fee0dd07b1127dd24152df4235",
-      "confidence": 0.99,
-      "priority_tier": "C",
-      "review_required": true,
-      "review_reasons": [
-        "absent from three consecutive healthy source scans",
-        "conflicting official deadline",
-        "conflicting official eligibility",
-        "conflicting official lifecycle",
-        "conflicting official opens_at",
-        "current application lifecycle is unclear",
-        "detail page could not be fully verified",
-        "generic extraction confidence is below the automatic-publication threshold",
-        "important eligibility evidence remains unknown"
-      ],
-      "identity_targeted": false,
-      "access_scope": "unknown",
-      "source_conflict": true,
-      "change_summary": [],
-      "opportunity_type": "competition_or_development",
-      "career_fields": [
-        "quant",
-        "finance",
-        "cyber",
-        "data"
-      ],
-      "subject_fields": [],
-      "country": "United Kingdom",
-      "city": "",
-      "work_mode": "on_site",
-      "cycle": "2027",
-      "application_url": "https://apply.careers.hsbc.com/talentcommunity/apply/1371336857/?locale=en_GB",
-      "discovered_via": "https://www.hsbc.com/careers/students-and-graduates/find-a-programme",
-      "primary_evidence_url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Hang-Seng-Management-Trainee-%28MT%29-Programme-Global-Markets-Hong/1371336857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-      "alternate_sources": [
-        "https://www.hsbc.com/careers/students-and-graduates/find-a-programme"
-      ],
-      "last_verified": "2026-09-27T10:12:28Z",
-      "deadline_last_verified": "2026-09-27T10:12:28Z",
-      "missing_count": 0,
-      "source_family": "hsbc",
-      "security_vetting": null,
-      "required_documents": [],
-      "duration": "24 month",
       "template_dependent": false,
       "auto_publish_reason": "",
       "parser_version": 3
@@ -795,22 +893,22 @@
         {
           "statement": "The official detail page identifies 2027 Summer Internship - Client Support as a current or announced opportunity.",
           "source_url": "https://job-boards.greenhouse.io/virtu/jobs/8746197002",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2026-12-11.",
           "source_url": "https://job-boards.greenhouse.io/virtu/jobs/8746197002",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T22:37:21Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "virtu-financial-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "4057b211a24c1285615db07c0ba9807f29f424754b46355c933584bc24ec022b",
@@ -842,8 +940,8 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/virtu/jobs?content=true"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
-      "deadline_last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
+      "deadline_last_verified": "2026-10-04T10:45:34Z",
       "missing_count": 0,
       "source_family": "virtu-financial",
       "security_vetting": null,
@@ -891,22 +989,22 @@
         {
           "statement": "The official detail page identifies 2027 Summer Internship - Technical as a current or announced opportunity.",
           "source_url": "https://job-boards.greenhouse.io/virtu/jobs/8745933002",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2026-12-11.",
           "source_url": "https://job-boards.greenhouse.io/virtu/jobs/8745933002",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T22:37:21Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "virtu-financial-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "51dd18e4f17c8e1e3ec749905b4f1b8c97485939da7ec82d92c2a8a03f879f7f",
@@ -939,180 +1037,13 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/virtu/jobs?content=true"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
-      "deadline_last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
+      "deadline_last_verified": "2026-10-04T10:45:34Z",
       "missing_count": 0,
       "source_family": "virtu-financial",
       "security_vetting": null,
       "required_documents": [],
       "duration": "10 week",
-      "template_dependent": false,
-      "auto_publish_reason": "",
-      "parser_version": 3
-    },
-    {
-      "canonical_id": "optiver-graduate-fpga-engineer-2027-start",
-      "title": "2027 Shanghai Performance Researcher Summer Internship",
-      "organisation": "Optiver",
-      "stream": "internships",
-      "lifecycle": "open",
-      "eligibility": "ineligible",
-      "primary_action": "Apply",
-      "source_url": "https://optiver.com/join-us/jobs/trading/shanghai/2027-shanghai-performance-researcher-summer-internship/",
-      "location": "Not stated",
-      "start_date": "2028-07",
-      "end_date": null,
-      "deadline": null,
-      "deadline_status": "none_stated",
-      "deadline_source": null,
-      "deadline_verified": false,
-      "rolling": false,
-      "opens_at": null,
-      "research_mode": null,
-      "summary": "2027 Shanghai Performance Researcher Summer Internship",
-      "why_it_fits": "Official subject, timing and access evidence will be evaluated against the Durham Mathematics & Physics profile.",
-      "eligibility_note": "Needs eligibility check: Known graduation year is 2029; accepted: 2027.",
-      "next_step": "Apply through the official route.",
-      "tags": [
-        "2028",
-        "automatically discovered",
-        "computer science",
-        "data",
-        "engineering",
-        "finance",
-        "quant",
-        "research",
-        "software"
-      ],
-      "aliases": [
-        "optiver-2027-shanghai-performance-researcher-summer-internship",
-        "optiver-fpga-internship-2027-start",
-        "optiver-graduate-quantitative-researcher-2027-start",
-        "optiver-institutional-trading-the-trading-floor",
-        "optiver-quantitative-research-internship-2027-start"
-      ],
-      "merged_alias_ids": [
-        "optiver-2027-shanghai-performance-researcher-summer-internship",
-        "optiver-fpga-internship-2027-start",
-        "optiver-graduate-quantitative-researcher-2027-start",
-        "optiver-institutional-trading-the-trading-floor",
-        "optiver-quantitative-research-internship-2027-start"
-      ],
-      "evidence": [
-        {
-          "statement": "The official detail page identifies 2027 Shanghai Performance Researcher Summer Internship as a current or announced opportunity.",
-          "source_url": "https://optiver.com/join-us/jobs/trading/shanghai/2027-shanghai-performance-researcher-summer-internship/",
-          "checked_at": "2026-09-27",
-          "source_type": "official"
-        },
-        {
-          "statement": "The eligibility rules were extracted from the official detail-page wording.",
-          "source_url": "https://optiver.com/join-us/jobs/trading/shanghai/2027-shanghai-performance-researcher-summer-internship/",
-          "checked_at": "2026-09-27",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page identifies Institutional Trading - The Trading Floor as a current or announced opportunity.",
-          "source_url": "https://optiver.com/join-us/jobs/institutional-sales-and-trading/amsterdam/institutional-trader-3/",
-          "checked_at": "2026-09-20",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page identifies Graduate FPGA Engineer (2027 Start) as a current or announced opportunity.",
-          "source_url": "https://optiver.com/join-us/jobs/technology/amsterdam/graduate-fpga-engineer-2027-start/",
-          "checked_at": "2026-09-13",
-          "source_type": "official"
-        },
-        {
-          "statement": "The eligibility rules were extracted from the official detail-page wording.",
-          "source_url": "https://optiver.com/join-us/jobs/technology/amsterdam/graduate-fpga-engineer-2027-start/",
-          "checked_at": "2026-09-13",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page identifies FPGA Internship (2027 Start) as a current or announced opportunity.",
-          "source_url": "https://optiver.com/join-us/jobs/technology/amsterdam/fpga-internship-2027-start/",
-          "checked_at": "2026-09-13",
-          "source_type": "official"
-        },
-        {
-          "statement": "The eligibility rules were extracted from the official detail-page wording.",
-          "source_url": "https://optiver.com/join-us/jobs/technology/amsterdam/fpga-internship-2027-start/",
-          "checked_at": "2026-09-13",
-          "source_type": "official"
-        }
-      ],
-      "requirements": [
-        {
-          "rule": "graduation_year",
-          "value": [
-            2027
-          ],
-          "strength": "required",
-          "evidence": "Official graduation-year wording"
-        }
-      ],
-      "rule_evaluations": [
-        {
-          "rule": "graduation_year",
-          "strength": "required",
-          "outcome": "conflict",
-          "reason": "Known graduation year is 2029; accepted: 2027."
-        }
-      ],
-      "checked_at": "2026-09-27",
-      "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
-      "source_id": "optiver-students",
-      "source_kind": "discovered",
-      "content_fingerprint": "c753dcc76313a752f3609c1e50390c7f0a53b661e56d6f4fea157d9fd4598d58",
-      "confidence": 0.99,
-      "priority_tier": "C",
-      "review_required": true,
-      "review_reasons": [
-        "conflicting official eligibility",
-        "important eligibility evidence remains unknown"
-      ],
-      "identity_targeted": false,
-      "access_scope": "unknown",
-      "source_conflict": true,
-      "change_summary": [
-        "source_url: https://optiver.com/join-us/jobs/institutional-sales-and-trading/shanghai/2027-shanghai-performance-researcher-summer-internship/ → https://optiver.com/join-us/jobs/trading/shanghai/2027-shanghai-performance-researcher-summer-internship/",
-        "application_url: https://optiver.com/join-us/jobs/institutional-sales-and-trading/shanghai/2027-shanghai-performance-researcher-summer-internship/apply → https://optiver.com/join-us/jobs/trading/shanghai/2027-shanghai-performance-researcher-summer-internship/apply"
-      ],
-      "opportunity_type": "internship",
-      "career_fields": [
-        "quant",
-        "software",
-        "finance",
-        "research",
-        "engineering",
-        "data"
-      ],
-      "subject_fields": [
-        "computer science",
-        "engineering"
-      ],
-      "country": "",
-      "city": "",
-      "work_mode": "on_site",
-      "cycle": "2028",
-      "application_url": "https://optiver.com/join-us/jobs/trading/shanghai/2027-shanghai-performance-researcher-summer-internship/apply",
-      "discovered_via": "https://optiver.com/working-at-optiver/career-opportunities/",
-      "primary_evidence_url": "https://optiver.com/join-us/jobs/trading/shanghai/2027-shanghai-performance-researcher-summer-internship/",
-      "alternate_sources": [
-        "https://optiver.com/working-at-optiver/career-opportunities/"
-      ],
-      "last_verified": "2026-09-27T10:12:28Z",
-      "deadline_last_verified": null,
-      "missing_count": 0,
-      "source_family": "optiver",
-      "security_vetting": null,
-      "required_documents": [
-        "cover letter"
-      ],
-      "duration": "8-week",
       "template_dependent": false,
       "auto_publish_reason": "",
       "parser_version": 3
@@ -1126,7 +1057,7 @@
       "eligibility": "uncertain",
       "primary_action": "Apply",
       "source_url": "https://www.gresearch.com/events/berkeley-quant-challenge-2026/",
-      "location": "London, UK",
+      "location": "Not stated",
       "start_date": "2026-10-08",
       "end_date": "2026-10-10",
       "deadline": null,
@@ -1156,19 +1087,19 @@
         {
           "statement": "The official detail page identifies Berkeley quant challenge 2026 as a current or announced opportunity.",
           "source_url": "https://www.gresearch.com/events/berkeley-quant-challenge-2026/",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-09-13T09:43:52Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "g-research-events",
       "source_kind": "discovered",
-      "content_fingerprint": "0e589acc7f74137b541779125c4e2bb17bc44ba7006542add12a628733d71eba",
+      "content_fingerprint": "298c8e4235d18224d63cac568f7a80595d4e1112eb6cc3e9d19c33380cb97541",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -1179,8 +1110,7 @@
       "access_scope": "unknown",
       "source_conflict": false,
       "change_summary": [
-        "start_date: 2026-07 → 2026-10-08",
-        "end_date: None → 2026-10-10"
+        "location: London, UK → Not stated"
       ],
       "opportunity_type": "research_programme",
       "career_fields": [
@@ -1194,8 +1124,8 @@
       "subject_fields": [
         "engineering"
       ],
-      "country": "United Kingdom",
-      "city": "London",
+      "country": "",
+      "city": "",
       "work_mode": "on_site",
       "cycle": "2026",
       "application_url": "https://share-eu1.hsforms.com/1V6NH2eO-SoGCgGNoOwAVQw2b8apt",
@@ -1204,7 +1134,7 @@
       "alternate_sources": [
         "https://www.gresearch.com/events/"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "g-research",
@@ -1224,7 +1154,7 @@
       "eligibility": "uncertain",
       "primary_action": "Apply",
       "source_url": "https://www.gresearch.com/events/cambridge-quant-challenge-2026/",
-      "location": "London, UK",
+      "location": "Not stated",
       "start_date": "2026-07",
       "end_date": null,
       "deadline": null,
@@ -1254,19 +1184,19 @@
         {
           "statement": "The official detail page identifies Cambridge quant challenge 2026 as a current or announced opportunity.",
           "source_url": "https://www.gresearch.com/events/cambridge-quant-challenge-2026/",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-09-13T09:43:52Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "g-research-events",
       "source_kind": "discovered",
-      "content_fingerprint": "55269da5167a2108080e3085804890e5d64796af9ad6cc52724a4ac0a2bf6b1b",
+      "content_fingerprint": "97b0b331c8ad92d2e0a74f5e0a169f48d27774a0b19397e12978838c81ebbc34",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -1276,7 +1206,9 @@
       "identity_targeted": false,
       "access_scope": "unknown",
       "source_conflict": false,
-      "change_summary": [],
+      "change_summary": [
+        "location: London, UK → Not stated"
+      ],
       "opportunity_type": "research_programme",
       "career_fields": [
         "quant",
@@ -1289,8 +1221,8 @@
       "subject_fields": [
         "engineering"
       ],
-      "country": "United Kingdom",
-      "city": "London",
+      "country": "",
+      "city": "",
       "work_mode": "on_site",
       "cycle": "2026",
       "application_url": "https://share-eu1.hsforms.com/1LlBQtHq0T1yVVJbYcpFpqQ2b8apt",
@@ -1299,7 +1231,7 @@
       "alternate_sources": [
         "https://www.gresearch.com/events/"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "g-research",
@@ -1353,16 +1285,16 @@
         {
           "statement": "The official detail page identifies Campus ASIC Engineer (Intern) as a current or announced opportunity.",
           "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7974837",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T22:58:04Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "jump-trading-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "5a538fe879041951781c3f65ed2e871a84a458eabb4d77d178955d7a426118f5",
@@ -1403,7 +1335,7 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "jump-trading",
@@ -1456,16 +1388,16 @@
         {
           "statement": "The official detail page identifies Campus Crypto Researcher (Intern) as a current or announced opportunity.",
           "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7362318",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T22:58:04Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "jump-trading-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "e3d010094077900ab0e5595a10407d924a7880eb8284089161f0d18c3962a7b9",
@@ -1505,7 +1437,7 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "jump-trading",
@@ -1567,22 +1499,22 @@
         {
           "statement": "The official detail page identifies Campus Data Engineer (Intern) as a current or announced opportunity.",
           "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         },
         {
           "statement": "The official detail page identifies Campus FPGA Engineer (Intern) as a current or announced opportunity.",
           "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7974391",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T22:58:04Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "jump-trading-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "4d231368380c2b743993bc822e0a7ca154e8bcce3d55617822220e3a9161bc26",
@@ -1596,13 +1528,7 @@
       "identity_targeted": false,
       "access_scope": "unknown",
       "source_conflict": false,
-      "change_summary": [
-        "source_url: https://www.jumptrading.com/hr/job?gh_jid=8002998 → https://www.jumptrading.com/hr/job?gh_jid=7975008",
-        "application_url: https://www.jumptrading.com/hr/job?gh_jid=8002998 → https://www.jumptrading.com/hr/job?gh_jid=7975008",
-        "eligibility: eligible → uncertain",
-        "location: Chicago → London",
-        "requirements: [\"degree_subject:['mathematics', 'physics', 'computer science', 'engineering', 'data science']:required\"] → []"
-      ],
+      "change_summary": [],
       "opportunity_type": "internship",
       "career_fields": [
         "quant",
@@ -1629,7 +1555,7 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "jump-trading",
@@ -1682,16 +1608,16 @@
         {
           "statement": "The official detail page identifies Campus ML Research Engineer (Intern) as a current or announced opportunity.",
           "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7977145",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T22:58:04Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "jump-trading-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "3fe62f415750b36751ff888f57aa0a8e20c4f49aa937ec629eb8c2b57044f054",
@@ -1731,7 +1657,7 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "jump-trading",
@@ -1743,7 +1669,7 @@
       "parser_version": 3
     },
     {
-      "canonical_id": "jump-trading-8059384",
+      "canonical_id": "jump-trading-8010307",
       "title": "Campus Quantitative Researcher (Intern)",
       "organisation": "Jump Trading",
       "stream": "internships",
@@ -1780,33 +1706,23 @@
         "statistics"
       ],
       "aliases": [
-        "jump-trading-8010307",
-        "jump-trading-8027898"
+        "jump-trading-8027939"
       ],
-      "merged_alias_ids": [
-        "jump-trading-8010307",
-        "jump-trading-8027898"
-      ],
+      "merged_alias_ids": [],
       "evidence": [
         {
           "statement": "The official detail page identifies Campus Quantitative Researcher (Intern) as a current or announced opportunity.",
           "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
-          "checked_at": "2026-09-27",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page identifies Campus Quantitative Researcher (M1/M2 Intern) as a current or announced opportunity.",
-          "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8059384",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T22:58:04Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "jump-trading-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "5343185c7eb928541207e71997a92c1e7e9fb5322d348fa188154c13d27de78c",
@@ -1814,13 +1730,17 @@
       "priority_tier": "C",
       "review_required": true,
       "review_reasons": [
-        "generic extraction confidence is below the automatic-publication threshold",
-        "important eligibility evidence remains unknown"
+        "important eligibility evidence remains unknown",
+        "generic extraction confidence is below the automatic-publication threshold"
       ],
       "identity_targeted": false,
       "access_scope": "unknown",
       "source_conflict": false,
-      "change_summary": [],
+      "change_summary": [
+        "source_url: https://www.jumptrading.com/hr/job?gh_jid=8027939 → https://www.jumptrading.com/hr/job?gh_jid=8010307",
+        "application_url: https://www.jumptrading.com/hr/job?gh_jid=8027939 → https://www.jumptrading.com/hr/job?gh_jid=8010307",
+        "location: Singapore → London; Amsterdam"
+      ],
       "opportunity_type": "internship",
       "career_fields": [
         "quant",
@@ -1847,13 +1767,119 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "jump-trading",
       "security_vetting": null,
       "required_documents": [],
       "duration": "10-week",
+      "template_dependent": false,
+      "auto_publish_reason": "",
+      "parser_version": 3
+    },
+    {
+      "canonical_id": "jump-trading-8027898",
+      "title": "Campus Quantitative Researcher (M1/M2 Intern)",
+      "organisation": "Jump Trading",
+      "stream": "internships",
+      "lifecycle": "open",
+      "eligibility": "uncertain",
+      "primary_action": "Apply",
+      "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8059384",
+      "location": "London; Paris",
+      "start_date": null,
+      "end_date": null,
+      "deadline": null,
+      "deadline_status": "none_stated",
+      "deadline_source": null,
+      "deadline_verified": false,
+      "rolling": false,
+      "opens_at": null,
+      "research_mode": null,
+      "summary": "Possible research topics are varied and can be tailored to suit specific interests or academic requirements.</p> <p>Then, you enter into a hands-on training program focused on enhancing your knowledge of trading, programming, and quantitative analysis.",
+      "why_it_fits": "Official subject, timing and access evidence will be evaluated against the Durham Mathematics & Physics profile.",
+      "eligibility_note": "Needs eligibility check against the extracted official criteria.",
+      "next_step": "Apply through the official route.",
+      "tags": [
+        "automatically discovered",
+        "computer science",
+        "current",
+        "data",
+        "engineering",
+        "finance",
+        "mathematics",
+        "physics",
+        "quant",
+        "research",
+        "software",
+        "statistics"
+      ],
+      "aliases": [
+        "jump-trading-8059384"
+      ],
+      "merged_alias_ids": [],
+      "evidence": [
+        {
+          "statement": "The official detail page identifies Campus Quantitative Researcher (M1/M2 Intern) as a current or announced opportunity.",
+          "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8059384",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        }
+      ],
+      "requirements": [],
+      "rule_evaluations": [],
+      "checked_at": "2026-10-04",
+      "first_seen": "2026-08-31T22:58:04Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
+      "source_id": "jump-trading-trackr-official-1",
+      "source_kind": "discovered",
+      "content_fingerprint": "200946090a64f1623da8ba4fc59c405d757e30f1c54e91daa14e0aabf5cdc7fb",
+      "confidence": 0.6799999999999999,
+      "priority_tier": "C",
+      "review_required": true,
+      "review_reasons": [
+        "important eligibility evidence remains unknown",
+        "generic extraction confidence is below the automatic-publication threshold"
+      ],
+      "identity_targeted": false,
+      "access_scope": "unknown",
+      "source_conflict": false,
+      "change_summary": [],
+      "opportunity_type": "internship",
+      "career_fields": [
+        "quant",
+        "software",
+        "finance",
+        "research",
+        "engineering",
+        "data"
+      ],
+      "subject_fields": [
+        "mathematics",
+        "physics",
+        "computer science",
+        "statistics",
+        "engineering"
+      ],
+      "country": "United Kingdom",
+      "city": "London",
+      "work_mode": "on_site",
+      "cycle": "current",
+      "application_url": "https://www.jumptrading.com/hr/job?gh_jid=8059384",
+      "discovered_via": "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true",
+      "primary_evidence_url": "https://www.jumptrading.com/hr/job?gh_jid=8059384",
+      "alternate_sources": [
+        "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true"
+      ],
+      "last_verified": "2026-10-04T10:45:34Z",
+      "deadline_last_verified": null,
+      "missing_count": 0,
+      "source_family": "jump-trading",
+      "security_vetting": null,
+      "required_documents": [],
+      "duration": null,
       "template_dependent": false,
       "auto_publish_reason": "",
       "parser_version": 3
@@ -1900,16 +1926,16 @@
         {
           "statement": "The official detail page identifies Campus Quantitative Trader (Intern) as a current or announced opportunity.",
           "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T22:58:04Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "jump-trading-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "032f9d523d29cb60dcb9cb6957d9566309c2e92b72dc10d740b2b3539a14c061",
@@ -1948,7 +1974,7 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "jump-trading",
@@ -1997,23 +2023,33 @@
         "software"
       ],
       "aliases": [
-        "jump-trading-7975026"
+        "jump-trading-7975026",
+        "jump-trading-8000323"
       ],
-      "merged_alias_ids": [],
+      "merged_alias_ids": [
+        "jump-trading-7975026",
+        "jump-trading-8000323"
+      ],
       "evidence": [
         {
           "statement": "The official detail page identifies Campus Software Engineer (Intern) as a current or announced opportunity.",
           "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page identifies Campus Systems Engineer (Intern) as a current or announced opportunity.",
+          "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T22:58:04Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "jump-trading-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "07e3eb54e97ab64bf689ba858e8653c5aa3118eec2c45d3fd9c136c23ec7e76d",
@@ -2021,8 +2057,8 @@
       "priority_tier": "C",
       "review_required": true,
       "review_reasons": [
-        "important eligibility evidence remains unknown",
-        "generic extraction confidence is below the automatic-publication threshold"
+        "generic extraction confidence is below the automatic-publication threshold",
+        "important eligibility evidence remains unknown"
       ],
       "identity_targeted": false,
       "access_scope": "unknown",
@@ -2054,111 +2090,7 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
-      "deadline_last_verified": null,
-      "missing_count": 0,
-      "source_family": "jump-trading",
-      "security_vetting": null,
-      "required_documents": [],
-      "duration": "10-week",
-      "template_dependent": false,
-      "auto_publish_reason": "",
-      "parser_version": 3
-    },
-    {
-      "canonical_id": "jump-trading-7565728",
-      "title": "Campus Systems Engineer (Intern)",
-      "organisation": "Jump Trading",
-      "stream": "internships",
-      "lifecycle": "open",
-      "eligibility": "uncertain",
-      "primary_action": "Apply",
-      "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
-      "location": "London; Amsterdam",
-      "start_date": null,
-      "end_date": null,
-      "deadline": null,
-      "deadline_status": "none_stated",
-      "deadline_source": null,
-      "deadline_verified": false,
-      "rolling": false,
-      "opens_at": null,
-      "research_mode": null,
-      "summary": "We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems.</p> <p data-renderer-start-pos=\"1448\">Trading Infrastructure is a global organization of Engineers who architect, build and maintain our world-class infrastructure.",
-      "why_it_fits": "Official subject, timing and access evidence will be evaluated against the Durham Mathematics & Physics profile.",
-      "eligibility_note": "Needs eligibility check against the extracted official criteria.",
-      "next_step": "Apply through the official route.",
-      "tags": [
-        "automatically discovered",
-        "computer science",
-        "current",
-        "data",
-        "engineering",
-        "finance",
-        "mathematics",
-        "physics",
-        "quant",
-        "research",
-        "software"
-      ],
-      "aliases": [
-        "jump-trading-8000323"
-      ],
-      "merged_alias_ids": [],
-      "evidence": [
-        {
-          "statement": "The official detail page identifies Campus Systems Engineer (Intern) as a current or announced opportunity.",
-          "source_url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
-          "checked_at": "2026-09-27",
-          "source_type": "official"
-        }
-      ],
-      "requirements": [],
-      "rule_evaluations": [],
-      "checked_at": "2026-09-27",
-      "first_seen": "2026-08-31T22:58:04Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
-      "source_id": "jump-trading-trackr-official-1",
-      "source_kind": "discovered",
-      "content_fingerprint": "5d3b25145e2b8469328a9adda56ac743ae6cd8853de1b90a262d0384514593a8",
-      "confidence": 0.6799999999999999,
-      "priority_tier": "C",
-      "review_required": true,
-      "review_reasons": [
-        "important eligibility evidence remains unknown",
-        "generic extraction confidence is below the automatic-publication threshold"
-      ],
-      "identity_targeted": false,
-      "access_scope": "unknown",
-      "source_conflict": false,
-      "change_summary": [],
-      "opportunity_type": "internship",
-      "career_fields": [
-        "quant",
-        "software",
-        "finance",
-        "research",
-        "engineering",
-        "data"
-      ],
-      "subject_fields": [
-        "mathematics",
-        "physics",
-        "computer science",
-        "engineering"
-      ],
-      "country": "Netherlands",
-      "city": "London",
-      "work_mode": "on_site",
-      "cycle": "current",
-      "application_url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
-      "discovered_via": "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true",
-      "primary_evidence_url": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
-      "alternate_sources": [
-        "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true"
-      ],
-      "last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "jump-trading",
@@ -2216,7 +2148,7 @@
         {
           "statement": "The official detail page identifies Campus UI Software Engineer (Intern) as a current or announced opportunity.",
           "source_url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         },
         {
@@ -2228,10 +2160,10 @@
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T22:58:04Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "jump-trading-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "0ea1d625ae6e7f9a53ddc1f4ce063dd989478ed05a42324512803885b3f0017b",
@@ -2272,7 +2204,7 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs?content=true"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "jump-trading",
@@ -2318,13 +2250,13 @@
         {
           "statement": "The official detail page identifies Cyber Insights Summer School as a current or announced opportunity.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#cyber-insights-summer-school",
-          "checked_at": "2026-10-03",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#cyber-insights-summer-school",
-          "checked_at": "2026-10-03",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
@@ -2370,10 +2302,10 @@
           "reason": "Security vetting is recorded as a later appointment condition, not predicted as an eligibility result."
         }
       ],
-      "checked_at": "2026-10-03",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-03T20:07:47Z",
-      "last_changed": "2026-10-03T20:07:47Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "95f123183cb8d46517681bbc97fd9056c7cb6a605d7f6a4d52f3cb555331d238",
@@ -2405,7 +2337,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-10-03T20:07:47Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
@@ -2450,16 +2382,16 @@
         {
           "statement": "The official detail page identifies ESA Academy Experiments programme as a current or announced opportunity.",
           "source_url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme",
-          "checked_at": "2026-10-03",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-10-03",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-10-03T20:07:47Z",
-      "last_changed": "2026-10-03T20:07:47Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "esa-academy",
       "source_kind": "discovered",
       "content_fingerprint": "5bb5844c489ea58714f86717e90252b37b4aff76fe0b23dd4d7033a6e824a575",
@@ -2488,7 +2420,7 @@
       "alternate_sources": [
         "https://www.esa.int/Education/ESA_Academy/Current_opportunities"
       ],
-      "last_verified": "2026-10-03T20:07:47Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "european-space-agency",
@@ -2537,16 +2469,16 @@
         {
           "statement": "The official detail page identifies Forward Deployed Software Engineer, Internship - Commercial as a current or announced opportunity.",
           "source_url": "https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T22:37:21Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "palantir-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "f51bd92371d78bb62f624deffb2008ca7e41b9a8d220de1aca6b8fc159c040d9",
@@ -2560,12 +2492,7 @@
       "identity_targeted": false,
       "access_scope": "unknown",
       "source_conflict": false,
-      "change_summary": [
-        "title: Forward Deployed Software Engineer, Internship - Defense Tech → Forward Deployed Software Engineer, Internship - Commercial",
-        "source_url: https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b → https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636",
-        "application_url: https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply → https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply",
-        "location: Washington, D.C. → London, United Kingdom"
-      ],
+      "change_summary": [],
       "opportunity_type": "internship",
       "career_fields": [
         "software",
@@ -2585,7 +2512,7 @@
       "alternate_sources": [
         "https://api.lever.co/v0/postings/palantir?mode=json"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "palantir",
@@ -2634,16 +2561,16 @@
         {
           "statement": "The official detail page identifies Forward Deployed Software Engineer, Internship - UK Government as a current or announced opportunity.",
           "source_url": "https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T22:37:21Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "palantir-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "1ae2dd6ad813ac96b8f08d3627e3722a0a9635a28b905cd2b8e20d6362f5cfa1",
@@ -2657,12 +2584,7 @@
       "identity_targeted": false,
       "access_scope": "unknown",
       "source_conflict": false,
-      "change_summary": [
-        "title: Forward Deployed Software Engineer, Internship - US Government → Forward Deployed Software Engineer, Internship - UK Government",
-        "source_url: https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f → https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf",
-        "application_url: https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f/apply → https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf/apply",
-        "location: New York, NY → London, United Kingdom"
-      ],
+      "change_summary": [],
       "opportunity_type": "internship",
       "career_fields": [
         "software",
@@ -2682,10 +2604,174 @@
       "alternate_sources": [
         "https://api.lever.co/v0/postings/palantir?mode=json"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "palantir",
+      "security_vetting": null,
+      "required_documents": [],
+      "duration": null,
+      "template_dependent": false,
+      "auto_publish_reason": "",
+      "parser_version": 3
+    },
+    {
+      "canonical_id": "optiver-graduate-fpga-engineer-2027-start",
+      "title": "Market Risk Internship 2027 - Singapore",
+      "organisation": "Optiver",
+      "stream": "internships",
+      "lifecycle": "open",
+      "eligibility": "ineligible",
+      "primary_action": "Apply",
+      "source_url": "https://optiver.com/join-us/jobs/risk-finance-and-legal/singapore/market-risk-internship-2027-singapore/",
+      "location": "London, UK",
+      "start_date": "2027-07",
+      "end_date": null,
+      "deadline": null,
+      "deadline_status": "none_stated",
+      "deadline_source": null,
+      "deadline_verified": false,
+      "rolling": false,
+      "opens_at": null,
+      "research_mode": null,
+      "summary": "Market Risk Internship 2027 - Singapore Skip to menu Skip to search Skip to main content Skip to footer Menu Back to Risk, Finance & Legal jobs in Singapore Market Risk Internship 2027 - Singapore Level Internship Location Singapore Department Risk, Finance & Legal Apply Apply Ready to accelerate your growth in one of the most fascinating and dynamic industries?",
+      "why_it_fits": "Official subject, timing and access evidence will be evaluated against the Durham Mathematics & Physics profile.",
+      "eligibility_note": "Needs eligibility check: Known graduation year is 2029; accepted: 2027.",
+      "next_step": "Apply through the official route.",
+      "tags": [
+        "2027",
+        "automatically discovered",
+        "data",
+        "finance",
+        "quant",
+        "research"
+      ],
+      "aliases": [
+        "optiver-2027-shanghai-performance-researcher-summer-internship",
+        "optiver-fpga-internship-2027-start",
+        "optiver-graduate-quantitative-researcher-2027-start",
+        "optiver-institutional-trading-the-trading-floor",
+        "optiver-market-risk-internship-2027-singapore",
+        "optiver-quantitative-research-internship-2027-start"
+      ],
+      "merged_alias_ids": [
+        "optiver-2027-shanghai-performance-researcher-summer-internship",
+        "optiver-fpga-internship-2027-start",
+        "optiver-graduate-quantitative-researcher-2027-start",
+        "optiver-institutional-trading-the-trading-floor",
+        "optiver-market-risk-internship-2027-singapore",
+        "optiver-quantitative-research-internship-2027-start"
+      ],
+      "evidence": [
+        {
+          "statement": "The official detail page identifies Market Risk Internship 2027 - Singapore as a current or announced opportunity.",
+          "source_url": "https://optiver.com/join-us/jobs/risk-finance-and-legal/singapore/market-risk-internship-2027-singapore/",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The eligibility rules were extracted from the official detail-page wording.",
+          "source_url": "https://optiver.com/join-us/jobs/risk-finance-and-legal/singapore/market-risk-internship-2027-singapore/",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page identifies Institutional Trading - The Trading Floor as a current or announced opportunity.",
+          "source_url": "https://optiver.com/join-us/jobs/institutional-sales-and-trading/amsterdam/institutional-trader-3/",
+          "checked_at": "2026-09-20",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page identifies Graduate FPGA Engineer (2027 Start) as a current or announced opportunity.",
+          "source_url": "https://optiver.com/join-us/jobs/technology/amsterdam/graduate-fpga-engineer-2027-start/",
+          "checked_at": "2026-09-13",
+          "source_type": "official"
+        },
+        {
+          "statement": "The eligibility rules were extracted from the official detail-page wording.",
+          "source_url": "https://optiver.com/join-us/jobs/technology/amsterdam/graduate-fpga-engineer-2027-start/",
+          "checked_at": "2026-09-13",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page identifies FPGA Internship (2027 Start) as a current or announced opportunity.",
+          "source_url": "https://optiver.com/join-us/jobs/technology/amsterdam/fpga-internship-2027-start/",
+          "checked_at": "2026-09-13",
+          "source_type": "official"
+        },
+        {
+          "statement": "The eligibility rules were extracted from the official detail-page wording.",
+          "source_url": "https://optiver.com/join-us/jobs/technology/amsterdam/fpga-internship-2027-start/",
+          "checked_at": "2026-09-13",
+          "source_type": "official"
+        }
+      ],
+      "requirements": [
+        {
+          "rule": "graduation_year",
+          "value": [
+            2027
+          ],
+          "strength": "required",
+          "evidence": "Official graduation-year wording"
+        }
+      ],
+      "rule_evaluations": [
+        {
+          "rule": "graduation_year",
+          "strength": "required",
+          "outcome": "conflict",
+          "reason": "Known graduation year is 2029; accepted: 2027."
+        }
+      ],
+      "checked_at": "2026-10-04",
+      "first_seen": "2026-08-31T00:03:43Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
+      "source_id": "optiver-students",
+      "source_kind": "discovered",
+      "content_fingerprint": "e0782f1f99dcda209de5b7d7cfd63ba62754e91203963b51126e758df8a8f0c4",
+      "confidence": 0.99,
+      "priority_tier": "C",
+      "review_required": true,
+      "review_reasons": [
+        "absent from three consecutive healthy source scans",
+        "conflicting official eligibility",
+        "conflicting official lifecycle",
+        "important eligibility evidence remains unknown"
+      ],
+      "identity_targeted": false,
+      "access_scope": "unknown",
+      "source_conflict": true,
+      "change_summary": [
+        "title: 2027 Shanghai Performance Researcher Summer Internship → Market Risk Internship 2027 - Singapore",
+        "source_url: https://optiver.com/join-us/jobs/trading/shanghai/2027-shanghai-performance-researcher-summer-internship/ → https://optiver.com/join-us/jobs/risk-finance-and-legal/singapore/market-risk-internship-2027-singapore/",
+        "application_url: https://optiver.com/join-us/jobs/trading/shanghai/2027-shanghai-performance-researcher-summer-internship/apply → https://optiver.com/join-us/jobs/risk-finance-and-legal/singapore/market-risk-internship-2027-singapore/apply",
+        "start_date: 2028-07 → 2027-07",
+        "location: Not stated → London, UK"
+      ],
+      "opportunity_type": "internship",
+      "career_fields": [
+        "quant",
+        "finance",
+        "research",
+        "data"
+      ],
+      "subject_fields": [],
+      "country": "United Kingdom",
+      "city": "London",
+      "work_mode": "on_site",
+      "cycle": "2027",
+      "application_url": "https://optiver.com/join-us/jobs/risk-finance-and-legal/singapore/market-risk-internship-2027-singapore/apply",
+      "discovered_via": "https://optiver.com/working-at-optiver/career-opportunities/",
+      "primary_evidence_url": "https://optiver.com/join-us/jobs/risk-finance-and-legal/singapore/market-risk-internship-2027-singapore/",
+      "alternate_sources": [
+        "https://optiver.com/working-at-optiver/career-opportunities/"
+      ],
+      "last_verified": "2026-10-04T10:45:34Z",
+      "deadline_last_verified": null,
+      "missing_count": 0,
+      "source_family": "optiver",
       "security_vetting": null,
       "required_documents": [],
       "duration": null,
@@ -2729,13 +2815,13 @@
         {
           "statement": "The official detail page identifies Maths and Cryptography Internship as a current or announced opportunity.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#maths-and-cryptography-internship",
-          "checked_at": "2026-10-03",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#maths-and-cryptography-internship",
-          "checked_at": "2026-10-03",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
@@ -2781,10 +2867,10 @@
           "reason": "Security vetting is recorded as a later appointment condition, not predicted as an eligibility result."
         }
       ],
-      "checked_at": "2026-10-03",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-03T20:07:47Z",
-      "last_changed": "2026-10-03T20:07:47Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "7de1a9fbc928b1fd1e779e3d1ba6a7ade0f586654ae3ebec2ee01302b07abfe1",
@@ -2817,7 +2903,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-10-03T20:07:47Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
@@ -2841,10 +2927,10 @@
       "start_date": "2026-07",
       "end_date": null,
       "deadline": null,
-      "deadline_status": "rolling",
+      "deadline_status": "none_stated",
       "deadline_source": null,
       "deadline_verified": false,
-      "rolling": true,
+      "rolling": false,
       "opens_at": null,
       "research_mode": null,
       "summary": "Discover all our job offers in Trainee / Internship - The bank for a changing world - BNP Paribas",
@@ -2868,25 +2954,25 @@
         {
           "statement": "The official detail page identifies Our job offers in Trainee / Internship as a current or announced opportunity.",
           "source_url": "https://group.bnpparibas/en/careers/all-job-offers/trainee-internship",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         },
         {
           "statement": "The official detail page identifies Internship as a current or announced opportunity.",
           "source_url": "https://group.bnpparibas/en/careers/candidate-student/intership",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "bnp-paribas-students",
       "source_kind": "discovered",
-      "content_fingerprint": "b79be8f713b535cab5db92546c03ed7d788576f528d52596a52175dcd67cae38",
+      "content_fingerprint": "d34a6ad83ac9fbd7405bb216c2ebe720151e658026ece5da9dfdc97cec2b04de",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -2897,7 +2983,7 @@
       "access_scope": "unknown",
       "source_conflict": false,
       "change_summary": [
-        "deadline_status: none_stated → rolling"
+        "deadline_status: rolling → none_stated"
       ],
       "opportunity_type": "internship",
       "career_fields": [
@@ -2916,7 +3002,7 @@
       "alternate_sources": [
         "https://group.bnpparibas/en/careers/candidate-student"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "bnp-paribas",
@@ -2938,7 +3024,7 @@
       "eligibility": "uncertain",
       "primary_action": "Register Interest",
       "source_url": "https://www.gresearch.com/events/oxford-quant-challenge-2026/",
-      "location": "London, UK",
+      "location": "Not stated",
       "start_date": "2026-07",
       "end_date": null,
       "deadline": null,
@@ -2968,19 +3054,19 @@
         {
           "statement": "The official detail page identifies Oxford quant challenge 2026 as a current or announced opportunity.",
           "source_url": "https://www.gresearch.com/events/oxford-quant-challenge-2026/",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-09-13T09:43:52Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "g-research-events",
       "source_kind": "discovered",
-      "content_fingerprint": "f1e5c411f34c60e0d1d7988fe99edda913c933195aee39613699ebe2d0240b47",
+      "content_fingerprint": "4559e263a485ff19e9d6dbe50919db593550e442ee51e81bbc83d157bfd42d19",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -2990,7 +3076,9 @@
       "identity_targeted": false,
       "access_scope": "unknown",
       "source_conflict": false,
-      "change_summary": [],
+      "change_summary": [
+        "location: London, UK → Not stated"
+      ],
       "opportunity_type": "research_programme",
       "career_fields": [
         "quant",
@@ -3003,8 +3091,8 @@
       "subject_fields": [
         "engineering"
       ],
-      "country": "United Kingdom",
-      "city": "London",
+      "country": "",
+      "city": "",
       "work_mode": "on_site",
       "cycle": "2026",
       "application_url": null,
@@ -3013,7 +3101,7 @@
       "alternate_sources": [
         "https://www.gresearch.com/events/"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "g-research",
@@ -3110,7 +3198,7 @@
       ],
       "last_verified": "2026-09-27T10:12:28Z",
       "deadline_last_verified": null,
-      "missing_count": 0,
+      "missing_count": 1,
       "source_family": "g-research",
       "security_vetting": null,
       "required_documents": [],
@@ -3156,16 +3244,16 @@
         {
           "statement": "The official detail page identifies Product Designer, Internship as a current or announced opportunity.",
           "source_url": "https://jobs.lever.co/palantir/44129013-01e0-4699-8fc1-7a189bb37b63",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T22:37:21Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "palantir-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "02a50f7c54c723512d35f7ce8523c8e69a77bf7e54917780434f5a17bce913de",
@@ -3179,12 +3267,7 @@
       "identity_targeted": false,
       "access_scope": "unknown",
       "source_conflict": false,
-      "change_summary": [
-        "title: Product Designer, Internship - US Government → Product Designer, Internship",
-        "source_url: https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a → https://jobs.lever.co/palantir/44129013-01e0-4699-8fc1-7a189bb37b63",
-        "application_url: https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a/apply → https://jobs.lever.co/palantir/44129013-01e0-4699-8fc1-7a189bb37b63/apply",
-        "location: Palo Alto, CA → London, United Kingdom"
-      ],
+      "change_summary": [],
       "opportunity_type": "internship",
       "career_fields": [
         "software",
@@ -3201,7 +3284,7 @@
       "alternate_sources": [
         "https://api.lever.co/v0/postings/palantir?mode=json"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "palantir",
@@ -3253,13 +3336,13 @@
         {
           "statement": "The official detail page identifies Quantitative Researcher - Intern as a current or announced opportunity.",
           "source_url": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
@@ -3283,10 +3366,10 @@
           "reason": "Known course is BSc Mathematics and Physics; required subject set: ['mathematics', 'physics', 'computer science']."
         }
       ],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T22:37:21Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "point72-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "54f4994d3ccf32610fd9581824a626f004e94433690303ca96f4761056ead87d",
@@ -3323,7 +3406,7 @@
       "alternate_sources": [
         "https://boards-api.greenhouse.io/v1/boards/point72/jobs?content=true"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "point72",
@@ -3470,19 +3553,19 @@
         {
           "statement": "The official detail page identifies Research Fellowship Programmes as a current or announced opportunity.",
           "source_url": "https://www.maths.ox.ac.uk/people/research-fellowship-programmes",
-          "checked_at": "2026-10-03",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-10-03",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T00:10:39Z",
-      "last_seen": "2026-10-03T20:07:47Z",
-      "last_changed": "2026-10-03T20:07:47Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "oxford-maths-summer-research",
       "source_kind": "discovered",
-      "content_fingerprint": "bb40079de33538f5aa10c3973b2a8d7d1ae615fb34da80b544268dc13c59761d",
+      "content_fingerprint": "6f7416b6fc7e6176534d3cf39f847e4ac781cfa3783ff198e5d5541a6586cb2c",
       "confidence": 0.7599999999999999,
       "priority_tier": "B",
       "review_required": true,
@@ -3513,7 +3596,7 @@
       "alternate_sources": [
         "https://www.maths.ox.ac.uk/members/students/undergraduate-courses/teaching-and-learning/extracurricular-projects"
       ],
-      "last_verified": "2026-10-03T20:07:47Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "oxford-mathematics",
@@ -3568,19 +3651,19 @@
         {
           "statement": "The official detail page identifies Software Engineer Intern as a current or announced opportunity.",
           "source_url": "https://www.imc.com/eu/careers/jobs/4667854101",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.imc.com/eu/careers/jobs/4667854101",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         },
         {
           "statement": "The official detail page identifies Apply Now as a current or announced opportunity.",
           "source_url": "https://www.imc.com/eu/careers/jobs/4667854101/apply",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         },
         {
@@ -3653,6 +3736,18 @@
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.imc.com/eu/careers/jobs/4667814101/apply",
           "checked_at": "2026-09-27",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page identifies Apply Now as a current or announced opportunity.",
+          "source_url": "https://www.imc.com/eu/careers/jobs/4667814101/apply",
+          "checked_at": "2026-10-04",
+          "source_type": "official"
+        },
+        {
+          "statement": "The eligibility rules were extracted from the official detail-page wording.",
+          "source_url": "https://www.imc.com/eu/careers/jobs/4667814101/apply",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
@@ -3686,13 +3781,13 @@
           "reason": "Known degree dates make penultimate-year status True for this cycle."
         }
       ],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T00:20:18Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "imc-careers",
       "source_kind": "discovered",
-      "content_fingerprint": "2a8b5af6265a81bcdbe5aa62732dc46bfb3e125c945bd915f4dd6c6ce8d89b20",
+      "content_fingerprint": "d8c183ca024d6636f30289a48de468a970e9d1a456bd0db5a89cd744c2d0f529",
       "confidence": 0.99,
       "priority_tier": "C",
       "review_required": true,
@@ -3727,7 +3822,7 @@
       "alternate_sources": [
         "https://www.imc.com/eu/careers/students-graduates"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "imc-trading",
@@ -3776,16 +3871,16 @@
         {
           "statement": "The official detail page identifies Software Engineer, Internship as a current or announced opportunity.",
           "source_url": "https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T22:37:21Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "palantir-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "440ecd1ef7b6d7e8d224c931114e15733633bae0245e78a4e65452afb9382299",
@@ -3799,11 +3894,7 @@
       "identity_targeted": false,
       "access_scope": "unknown",
       "source_conflict": false,
-      "change_summary": [
-        "source_url: https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c → https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602",
-        "application_url: https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c/apply → https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602/apply",
-        "location: Palo Alto, CA → London, United Kingdom"
-      ],
+      "change_summary": [],
       "opportunity_type": "internship",
       "career_fields": [
         "software",
@@ -3821,7 +3912,7 @@
       "alternate_sources": [
         "https://api.lever.co/v0/postings/palantir?mode=json"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "palantir",
@@ -3872,16 +3963,16 @@
         {
           "statement": "The official detail page identifies Software Engineer, Internship - Infrastructure as a current or announced opportunity.",
           "source_url": "https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-31T22:37:21Z",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "palantir-trackr-official-1",
       "source_kind": "discovered",
       "content_fingerprint": "dadad9126de5dbd20895f6d1b5c0565215492e9fba142cebabf108245e597b6a",
@@ -3895,12 +3986,7 @@
       "identity_targeted": false,
       "access_scope": "unknown",
       "source_conflict": false,
-      "change_summary": [
-        "title: Software Engineer, Internship - Production Infrastructure → Software Engineer, Internship - Infrastructure",
-        "source_url: https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86 → https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e",
-        "application_url: https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86/apply → https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply",
-        "location: Washington, D.C. → London, United Kingdom"
-      ],
+      "change_summary": [],
       "opportunity_type": "internship",
       "career_fields": [
         "software",
@@ -3922,7 +4008,7 @@
       "alternate_sources": [
         "https://api.lever.co/v0/postings/palantir?mode=json"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "palantir",
@@ -3970,13 +4056,13 @@
         {
           "statement": "The official detail page identifies Student Scheme for Technologists as a current or announced opportunity.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#student-scheme-for-technologists",
-          "checked_at": "2026-10-03",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#student-scheme-for-technologists",
-          "checked_at": "2026-10-03",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
@@ -4022,10 +4108,10 @@
           "reason": "Security vetting is recorded as a later appointment condition, not predicted as an eligibility result."
         }
       ],
-      "checked_at": "2026-10-03",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-03T20:07:47Z",
-      "last_changed": "2026-10-03T20:07:47Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "bff5f7e4fdc4ade988b9c1edf3d202fb8564e2c7b2bc86fc4b6ac23be1a65b1d",
@@ -4061,7 +4147,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-10-03T20:07:47Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
@@ -4109,19 +4195,19 @@
         {
           "statement": "The official detail page identifies Students and New Careers as a current or announced opportunity.",
           "source_url": "https://www.mathworks.com/company/jobs/students.html?s_tid=nav_company_students",
-          "checked_at": "2026-10-03",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-10-03",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-09-17T20:30:38Z",
-      "last_seen": "2026-10-03T20:07:47Z",
-      "last_changed": "2026-10-03T20:07:47Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "mathworks-minidrone",
       "source_kind": "discovered",
-      "content_fingerprint": "fb8b04f00acc2fbaf9faaad1044ebd953cdf79eceda32468b037a1f5fb683e4d",
+      "content_fingerprint": "afa6fbbdcb30ad5f6ca1617c0787f5e7b18cc7e2bd455f147f18b42fb2a58df9",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -4152,7 +4238,7 @@
       "alternate_sources": [
         "https://www.mathworks.com/academia/student-competitions.html"
       ],
-      "last_verified": "2026-10-03T20:07:47Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "mathworks",
@@ -4295,13 +4381,13 @@
         {
           "statement": "The official detail page identifies Summer Intelligence Internship as a current or announced opportunity.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#summer-intelligence-internship",
-          "checked_at": "2026-10-03",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#summer-intelligence-internship",
-          "checked_at": "2026-10-03",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
@@ -4347,10 +4433,10 @@
           "reason": "Security vetting is recorded as a later appointment condition, not predicted as an eligibility result."
         }
       ],
-      "checked_at": "2026-10-03",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-03T20:07:47Z",
-      "last_changed": "2026-10-03T20:07:47Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "935152d0edb267499c48d10388ae9a4dbb3395257e6945c71015a109a809c92f",
@@ -4382,7 +4468,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-10-03T20:07:47Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
@@ -4433,19 +4519,19 @@
         {
           "statement": "The official detail page identifies Summer Internship Program as a current or announced opportunity.",
           "source_url": "https://www.ubs.com/global/en/careers/early-careers/summer-internship-program.html",
-          "checked_at": "2026-09-27",
+          "checked_at": "2026-10-04",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-09-27",
+      "checked_at": "2026-10-04",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-09-27T10:12:28Z",
-      "last_changed": "2026-09-27T10:12:28Z",
+      "last_seen": "2026-10-04T10:45:34Z",
+      "last_changed": "2026-10-04T10:45:34Z",
       "source_id": "ubs-tomorrows-talent",
       "source_kind": "discovered",
-      "content_fingerprint": "fbbe02b415853f39db121f9e87ffa9454199a816fd48a05a0bafe9aadac7ffa2",
+      "content_fingerprint": "ef9226787e925fa2998fc69d891c34cd11208cf7598cdb57b119eb98f5c1211d",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -4473,7 +4559,7 @@
       "alternate_sources": [
         "https://www.ubs.com/global/en/careers/early-careers/tomorrows-talent-program.html"
       ],
-      "last_verified": "2026-09-27T10:12:28Z",
+      "last_verified": "2026-10-04T10:45:34Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "ubs",

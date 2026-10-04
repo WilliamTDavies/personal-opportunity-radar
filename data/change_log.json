@@ -6043,5 +6043,1112 @@
     "field": "location",
     "from": "London, UK",
     "to": "Not stated"
+  },
+  {
+    "canonical_id": "bnp-paribas-our-job-offers-in-trainee-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "deadline_status",
+    "from": "rolling",
+    "to": "none_stated"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "title",
+    "from": "Hang Seng Management Trainee (MT) Programme - Global Markets",
+    "to": "Engineering - Internship"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Hang-Seng-Management-Trainee-%28MT%29-Programme-Global-Markets-Hong/1371336857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Sheffield-Engineering-Internship-S1-4NB/1371596557/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1371336857/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1371596557/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "deadline",
+    "from": "2026-11-30",
+    "to": "2026-10-18"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "opens_at",
+    "from": "2026-09-08",
+    "to": "2026-10-01"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "start_date",
+    "from": "2027-01",
+    "to": "2028-07"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2027]:required"
+    ],
+    "to": [
+      "penultimate_year:True:required",
+      "work_authorization:True:required"
+    ]
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-private-bank-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "title",
+    "from": "Business Analyst - International Wealth and Premier Banking - Internship",
+    "to": "Cyber - Internship"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-private-bank-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Taipei-Business-Analyst-International-Wealth-and-Premier-Banking-Internship-Taip-11561/1371304657/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Sheffield-Cyber-Internship-S1-4NB/1373562857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-private-bank-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1371304657/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1373562857/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-private-bank-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "deadline",
+    "from": "2026-10-31",
+    "to": "2026-10-18"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-private-bank-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "opens_at",
+    "from": "2026-09-07",
+    "to": "2026-10-01"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-private-bank-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "penultimate_year:True:required",
+      "work_authorization:True:required"
+    ]
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "title",
+    "from": "Relationship Management - International Wealth and Premier Banking - Internship",
+    "to": "Relationship Management - Commercial Bank - Internship"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Relationship-Management-International-Wealth-and-Premier-Banking-Internship-018983/1371072257/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Manchester-Relationship-Management-Commercial-Bank-Internship-M2-7HD/1373612057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1371072257/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1373612057/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "deadline",
+    "from": "2026-10-31",
+    "to": "2026-11-01"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "opens_at",
+    "from": "2026-09-03",
+    "to": "2026-10-01"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2028]:required"
+    ],
+    "to": [
+      "penultimate_year:True:required",
+      "work_authorization:True:required"
+    ]
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "title",
+    "from": "Relationship Management - Private Bank - Internship",
+    "to": "Transaction Banking - Global Payments Solutions - Internship"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Relationship-Management-Private-Bank-Internship-018983/1371071757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/London-Transaction-Banking-Global-Payments-Solutions-Internship-E14-5HQ/1373585357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1371071757/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1373585357/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "deadline",
+    "from": "2026-10-31",
+    "to": "2026-10-15"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "opens_at",
+    "from": "2026-09-03",
+    "to": "2026-10-01"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "United Kingdom",
+    "to": "London, UK"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2028]:required"
+    ],
+    "to": [
+      "graduation_year:[2028]:required",
+      "penultimate_year:True:required"
+    ]
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "title",
+    "from": "Transaction Banking - Securities Services - Internship",
+    "to": "Investment Specialist - Alternatives - Internship"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Transaction-Banking-Securities-Services-Internship-018983/1371070057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/London-Investment-Specialist-Alternatives-Internship-E14-5HQ/1373566657/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1371070057/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1373566657/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "deadline",
+    "from": "2026-10-31",
+    "to": "2026-10-15"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "opens_at",
+    "from": "2026-09-03",
+    "to": "2026-10-01"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "United Kingdom",
+    "to": "London, UK"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-global-payments-solutions-internship-corporate-and-i",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2028]:required"
+    ],
+    "to": [
+      "graduation_year:[2028]:required",
+      "penultimate_year:True:required"
+    ]
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "title",
+    "from": "Transaction Banking - Global Trade Solutions - Internship",
+    "to": "Transaction Banking - Global Trade Solutions - Off-Cycle Internship"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Transaction-Banking-Global-Trade-Solutions-Internship-018983/1371072357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/London-Transaction-Banking-Global-Trade-Solutions-Off-Cycle-Internship-E14-5HQ/1373576357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1371072357/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1373576357/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "deadline",
+    "from": "2026-10-31",
+    "to": "2026-10-15"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "opens_at",
+    "from": "2026-09-03",
+    "to": "2026-10-01"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "start_date",
+    "from": "2028-07",
+    "to": "2027-07"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "United Kingdom",
+    "to": "London, UK"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship-c",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2028]:required"
+    ],
+    "to": []
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "title",
+    "from": "Business Analyst - Treasury - Internship",
+    "to": "Relationship Management - Private Bank - Internship"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Business-Analyst-Treasury-Internship-Hong/1371080057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/London-Relationship-Management-Private-Bank-Internship-E14-5HQ/1373563257/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1371080057/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1373563257/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "lifecycle",
+    "from": "stale",
+    "to": "open"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "deadline",
+    "from": "2026-10-31",
+    "to": "2026-10-29"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "opens_at",
+    "from": "2026-09-03",
+    "to": "2026-10-01"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "United Kingdom",
+    "to": "London, UK"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2028]:required"
+    ],
+    "to": [
+      "graduation_year:[2028]:required",
+      "penultimate_year:True:required"
+    ]
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "title",
+    "from": "Investment Specialist - Investments - Internship",
+    "to": "Investment Banking - HSBC Infrastructure Finance - Off-Cycle Internship"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Investment-Specialist-Investments-Internship-Hong/1371079857/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/London-Investment-Banking-HSBC-Infrastructure-Finance-Off-Cycle-Internship-E14-5HQ/1373577357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1371079857/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1373577357/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "lifecycle",
+    "from": "stale",
+    "to": "open"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "deadline",
+    "from": "2026-10-31",
+    "to": "2026-10-15"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "opens_at",
+    "from": "2026-09-03",
+    "to": "2026-10-01"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "start_date",
+    "from": "2028-07",
+    "to": "2027-07"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "United Kingdom",
+    "to": "London, UK"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2028]:required"
+    ],
+    "to": []
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "title",
+    "from": "Transaction Banking - Global Payments Solutions - Internship",
+    "to": "Relationship Management - Commercial Bank - Internship"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Transaction-Banking-Global-Payments-Solutions-Internship-018983/1371071357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/London-Relationship-Management-Commercial-Bank-Internship-E14-5HQ/1373604457/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1371071357/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1373604457/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "deadline",
+    "from": "2026-10-31",
+    "to": "2026-10-18"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "opens_at",
+    "from": "2026-09-03",
+    "to": "2026-10-01"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "United Kingdom",
+    "to": "London, UK"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2028]:required"
+    ],
+    "to": [
+      "penultimate_year:True:required",
+      "work_authorization:True:required"
+    ]
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-securities-services-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "title",
+    "from": "Transaction Banking - Securities Services - Internship",
+    "to": "Markets - Sales and Trading - Internship"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-securities-services-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Transaction-Banking-Securities-Services-Internship-Hong/1371075757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/London-Markets-Sales-and-Trading-Internship-E14-5HQ/1373586957/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-securities-services-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1371075757/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1373586957/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-securities-services-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "deadline",
+    "from": "2026-10-31",
+    "to": "2026-10-15"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-securities-services-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "opens_at",
+    "from": "2026-09-03",
+    "to": "2026-10-01"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-securities-services-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "start_date",
+    "from": "2027-07",
+    "to": "2028-07"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-securities-services-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-securities-services-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "United Kingdom",
+    "to": "London, UK"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-securities-services-internship",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "graduation_year:[2028]:required",
+      "penultimate_year:True:required"
+    ]
+  },
+  {
+    "canonical_id": "rothschild-co-careers-2027-uk-global-advisory-spring-insight-programme",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://www.rothschildandco.com/fr/carrieres/etudiants-et-jeunes-diplomes/rechercher-un-programme/2027-uk-global-advisory-spring-insight-programme/",
+    "to": "https://rothschildandco.tal.net/vx/appcentre-ext/brand-4/spa-1/candidate/so/pm/1/pl/2/opp/994-2027-UK-Global-Advisory-Spring-Insight-Programme/en-GB"
+  },
+  {
+    "canonical_id": "societe-generale-the-v-i-e-programme",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://careers.societegenerale.com/en/vie",
+    "to": "https://careers.societegenerale.com/index%2Ephp/en/vie"
+  },
+  {
+    "canonical_id": "gchq-ncsc-cyber-consultant-ref-3811",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "title",
+    "from": "Cyber Insights Summer School Ref. 3827",
+    "to": "Maths and Cryptography Insight Programme Ref. 3833"
+  },
+  {
+    "canonical_id": "gchq-ncsc-cyber-consultant-ref-3811",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-19f957f98de4/candidate/so/pm/1/pl/6/opp/3827-Cyber-Insights-Summer-School-Ref-3827/en-GB",
+    "to": "https://recruitmentservices.applicationtrack.com/vx/lang-en-GB/mobile-0/appcentre-3/brand-7/xf-9940dc975530/candidate/so/pm/1/pl/6/opp/3833-Maths-and-Cryptography-Insight-Programme-Ref-3833/en-GB"
+  },
+  {
+    "canonical_id": "gchq-ncsc-cyber-consultant-ref-3811",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "start_date",
+    "from": "2028-01",
+    "to": "2027-01"
+  },
+  {
+    "canonical_id": "gchq-ncsc-cyber-consultant-ref-3811",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2030]:required",
+      "degree_subject:['mathematics', 'engineering']:required",
+      "nationality:['British']:required",
+      "uk_residency:True:required",
+      "security_vetting:Security vetting:informational"
+    ],
+    "to": [
+      "nationality:['British']:required",
+      "uk_residency:True:required",
+      "security_vetting:Security vetting:informational"
+    ]
+  },
+  {
+    "canonical_id": "g-research-berkeley-quant-challenge-2026",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "London, UK",
+    "to": "Not stated"
+  },
+  {
+    "canonical_id": "g-research-cambridge-quant-challenge-2026",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "London, UK",
+    "to": "Not stated"
+  },
+  {
+    "canonical_id": "g-research-oxford-quant-challenge-2026",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "London, UK",
+    "to": "Not stated"
+  },
+  {
+    "canonical_id": "optiver-graduate-fpga-engineer-2027-start",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "title",
+    "from": "2027 Shanghai Performance Researcher Summer Internship",
+    "to": "Market Risk Internship 2027 - Singapore"
+  },
+  {
+    "canonical_id": "optiver-graduate-fpga-engineer-2027-start",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://optiver.com/join-us/jobs/trading/shanghai/2027-shanghai-performance-researcher-summer-internship/",
+    "to": "https://optiver.com/join-us/jobs/risk-finance-and-legal/singapore/market-risk-internship-2027-singapore/"
+  },
+  {
+    "canonical_id": "optiver-graduate-fpga-engineer-2027-start",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://optiver.com/join-us/jobs/trading/shanghai/2027-shanghai-performance-researcher-summer-internship/apply",
+    "to": "https://optiver.com/join-us/jobs/risk-finance-and-legal/singapore/market-risk-internship-2027-singapore/apply"
+  },
+  {
+    "canonical_id": "optiver-graduate-fpga-engineer-2027-start",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "start_date",
+    "from": "2028-07",
+    "to": "2027-07"
+  },
+  {
+    "canonical_id": "optiver-graduate-fpga-engineer-2027-start",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "Not stated",
+    "to": "London, UK"
+  },
+  {
+    "canonical_id": "dv-trading-4719119005",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005"
+  },
+  {
+    "canonical_id": "dv-trading-4719119005",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005"
+  },
+  {
+    "canonical_id": "dv-trading-4719119005",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "Chicago",
+    "to": "New York"
+  },
+  {
+    "canonical_id": "dv-trading-4719135005",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005"
+  },
+  {
+    "canonical_id": "dv-trading-4719135005",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005"
+  },
+  {
+    "canonical_id": "dv-trading-4719135005",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "New York",
+    "to": "Chicago"
+  },
+  {
+    "canonical_id": "dv-trading-4736603005",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "title",
+    "from": "Security Engineer Intern - Summer 2027",
+    "to": "Quantitative Risk Intern - Summer 2027"
+  },
+  {
+    "canonical_id": "dv-trading-4736603005",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4736603005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4719118005"
+  },
+  {
+    "canonical_id": "dv-trading-4736603005",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4736603005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4719118005"
+  },
+  {
+    "canonical_id": "dv-trading-4736603005",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "start_date",
+    "from": "2027-07",
+    "to": "2028-07"
+  },
+  {
+    "canonical_id": "dv-trading-4736603005",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "London",
+    "to": "Chicago"
+  },
+  {
+    "canonical_id": "dv-trading-4736603005",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "requirements",
+    "from": [
+      "degree_subject:['computer science']:required"
+    ],
+    "to": [
+      "graduation_year:[2028]:required",
+      "degree_subject:['mathematics', 'physics', 'computer science', 'statistics']:required"
+    ]
+  },
+  {
+    "canonical_id": "jump-trading-8027955",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027955",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027923"
+  },
+  {
+    "canonical_id": "jump-trading-8027955",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027955",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027923"
+  },
+  {
+    "canonical_id": "jump-trading-8027955",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "Singapore",
+    "to": "Shanghai"
+  },
+  {
+    "canonical_id": "jump-trading-8027939",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027923",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027955"
+  },
+  {
+    "canonical_id": "jump-trading-8027939",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027923",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027955"
+  },
+  {
+    "canonical_id": "jump-trading-8027939",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "Shanghai",
+    "to": "Singapore"
+  },
+  {
+    "canonical_id": "jump-trading-8010307",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8010307"
+  },
+  {
+    "canonical_id": "jump-trading-8010307",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8010307"
+  },
+  {
+    "canonical_id": "jump-trading-8010307",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "Singapore",
+    "to": "London; Amsterdam"
+  },
+  {
+    "canonical_id": "jump-trading-8027900",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027900",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027939"
+  },
+  {
+    "canonical_id": "jump-trading-8027900",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027900",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027939"
+  },
+  {
+    "canonical_id": "jump-trading-8027900",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "Hong Kong; Shanghai",
+    "to": "Singapore"
+  },
+  {
+    "canonical_id": "jump-trading-8059384",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027900"
+  },
+  {
+    "canonical_id": "jump-trading-8059384",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027900"
+  },
+  {
+    "canonical_id": "jump-trading-8059384",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "London; Amsterdam",
+    "to": "Hong Kong; Shanghai"
+  },
+  {
+    "canonical_id": "jump-trading-8000323",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8000323"
+  },
+  {
+    "canonical_id": "jump-trading-8000323",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027952",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8000323"
+  },
+  {
+    "canonical_id": "jump-trading-8000323",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "Singapore",
+    "to": "London; Amsterdam"
+  },
+  {
+    "canonical_id": "jump-trading-8007788",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027952"
+  },
+  {
+    "canonical_id": "jump-trading-8007788",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8007788",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027952"
+  },
+  {
+    "canonical_id": "jump-trading-8007788",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "Chicago",
+    "to": "Singapore"
+  },
+  {
+    "canonical_id": "jump-trading-7565728",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8007788"
+  },
+  {
+    "canonical_id": "jump-trading-7565728",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8000323",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8007788"
+  },
+  {
+    "canonical_id": "jump-trading-7565728",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "London; Amsterdam",
+    "to": "Chicago"
+  },
+  {
+    "canonical_id": "point72-8726366002",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "title",
+    "from": "2026 Point72 Academy National Case Competition - US",
+    "to": "2027 Point72 Academy Spring Insight Programme – UK"
+  },
+  {
+    "canonical_id": "point72-8726366002",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://boards.greenhouse.io/point72/jobs/8726366002?gh_jid=8726366002",
+    "to": "https://boards.greenhouse.io/point72/jobs/8845395002?gh_jid=8845395002"
+  },
+  {
+    "canonical_id": "point72-8726366002",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://boards.greenhouse.io/point72/jobs/8726366002?gh_jid=8726366002",
+    "to": "https://boards.greenhouse.io/point72/jobs/8845395002?gh_jid=8845395002"
+  },
+  {
+    "canonical_id": "point72-8726366002",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "deadline",
+    "from": "2026-10-01",
+    "to": null
+  },
+  {
+    "canonical_id": "point72-8726366002",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "deadline_status",
+    "from": "fixed",
+    "to": "rolling"
+  },
+  {
+    "canonical_id": "point72-8726366002",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "start_date",
+    "from": "2028-01",
+    "to": "2029-04"
+  },
+  {
+    "canonical_id": "point72-8726366002",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "eligible"
+  },
+  {
+    "canonical_id": "point72-8726366002",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "location",
+    "from": "United States",
+    "to": "London, UK"
+  },
+  {
+    "canonical_id": "point72-8726366002",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2030]:required"
+    ],
+    "to": [
+      "graduation_year:[2029]:required",
+      "undergraduate:True:required"
+    ]
+  },
+  {
+    "canonical_id": "point72-7598678002",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "title",
+    "from": "2027 Cubist Quant Academy – Developers",
+    "to": "Micro-Intern: Research Technology Developer (IAP)"
+  },
+  {
+    "canonical_id": "point72-7598678002",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "source_url",
+    "from": "https://boards.greenhouse.io/point72/jobs/7598678002?gh_jid=7598678002",
+    "to": "https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002"
+  },
+  {
+    "canonical_id": "point72-7598678002",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "application_url",
+    "from": "https://boards.greenhouse.io/point72/jobs/7598678002?gh_jid=7598678002",
+    "to": "https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002"
+  },
+  {
+    "canonical_id": "point72-7598678002",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "start_date",
+    "from": "2027-01",
+    "to": null
+  },
+  {
+    "canonical_id": "point72-7598678002",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "likely_eligible"
+  },
+  {
+    "canonical_id": "point72-7598678002",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "requirements",
+    "from": [
+      "degree_subject:['computer science', 'engineering']:required"
+    ],
+    "to": [
+      "degree_subject:['computer science', 'engineering', 'data science']:preferred"
+    ]
+  },
+  {
+    "canonical_id": "optiver-graduate-quantitative-researcher-2027-start",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "optiver-quantitative-research-internship-2027-start",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "point72-8721562002",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "virtu-financial-7617953002",
+    "changed_at": "2026-10-04T10:45:34Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
   }
 ]
