@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T13:26:31Z",
+  "generated_at": "2026-10-08T22:21:37Z",
   "opportunities": [
     {
       "canonical_id": "cme-september-trading-challenge-2026",
@@ -508,8 +508,8 @@
       ],
       "checked_at": "2026-10-08",
       "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-10-08T12:12:15Z",
-      "last_changed": "2026-10-08T12:12:15Z",
+      "last_seen": "2026-10-08T22:21:27Z",
+      "last_changed": "2026-10-08T22:21:27Z",
       "source_id": "esa-academy",
       "source_kind": "discovered",
       "content_fingerprint": "2a77dee6c887e42b713dd9a7afb5e5bfde8bba623a6ae65928ed62cc9dfbabb8",
@@ -542,8 +542,8 @@
       "alternate_sources": [
         "https://www.esa.int/Education/ESA_Academy/Current_opportunities"
       ],
-      "last_verified": "2026-10-08T12:12:15Z",
-      "deadline_last_verified": "2026-10-08T12:12:15Z",
+      "last_verified": "2026-10-08T22:21:27Z",
+      "deadline_last_verified": "2026-10-08T22:21:27Z",
       "missing_count": 0,
       "source_family": "european-space-agency",
       "security_vetting": null,
@@ -606,11 +606,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-10-08",
       "first_seen": "2026-08-31T00:23:55Z",
-      "last_seen": "2026-10-08T12:12:15Z",
-      "last_changed": "2026-10-08T12:12:15Z",
+      "last_seen": "2026-10-08T22:21:27Z",
+      "last_changed": "2026-10-08T22:21:27Z",
       "source_id": "cambridge-cms-summer-research",
       "source_kind": "discovered",
-      "content_fingerprint": "614e7d1636426b074ef2cde6a69c5ec947eb5ff588042a2e544757f0673df84f",
+      "content_fingerprint": "11772d99f12c92ae5801792b7b2b2b0ad93a55fa6115247d2936b5409e220c53",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -642,8 +642,8 @@
       "alternate_sources": [
         "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-programmes"
       ],
-      "last_verified": "2026-10-08T12:12:15Z",
-      "deadline_last_verified": "2026-10-08T12:12:15Z",
+      "last_verified": "2026-10-08T22:21:27Z",
+      "deadline_last_verified": "2026-10-08T22:21:27Z",
       "missing_count": 0,
       "source_family": "cambridge-mathematics",
       "security_vetting": null,
@@ -799,7 +799,7 @@
     },
     {
       "canonical_id": "jane-street-see-ldn",
-      "title": "SEE London March 30th - April 3rd, 2027",
+      "title": "SEE London March 29th - April 3rd, 2027",
       "organisation": "Jane Street",
       "stream": "spring_insight",
       "lifecycle": "open",
@@ -807,7 +807,7 @@
       "primary_action": "Apply",
       "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/see/",
       "location": "London, UK",
-      "start_date": "2027-03-30",
+      "start_date": "2027-03-29",
       "end_date": "2027-04-03",
       "deadline": "2027-01-03",
       "deadline_status": "fixed",
@@ -836,7 +836,7 @@
       "merged_alias_ids": [],
       "evidence": [
         {
-          "statement": "The official detail page identifies SEE London March 30th - April 3rd, 2027 as a current or announced opportunity.",
+          "statement": "The official detail page identifies SEE London March 29th - April 3rd, 2027 as a current or announced opportunity.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/see/",
           "checked_at": "2026-10-08",
           "source_type": "official"
@@ -881,8 +881,8 @@
       ],
       "checked_at": "2026-10-08",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-08T13:26:29Z",
-      "last_changed": "2026-10-08T13:26:29Z",
+      "last_seen": "2026-10-08T22:21:27Z",
+      "last_changed": "2026-10-08T22:21:27Z",
       "source_id": "jane-street-see-london-2027",
       "source_kind": "discovered",
       "content_fingerprint": "d9fc0030675774dd734bc6bd73b9131673a0cce884f058239000fbbc5dd696fb",
@@ -893,7 +893,10 @@
       "identity_targeted": false,
       "access_scope": "unknown",
       "source_conflict": false,
-      "change_summary": [],
+      "change_summary": [
+        "title: SEE London March 30th - April 3rd, 2027 → SEE London March 29th - April 3rd, 2027",
+        "start_date: 2027-03-30 → 2027-03-29"
+      ],
       "opportunity_type": "insight_programme",
       "career_fields": [
         "quant",
@@ -918,8 +921,8 @@
       "alternate_sources": [
         "https://www.janestreet.com/jobs/programs-endpoint.json"
       ],
-      "last_verified": "2026-10-08T13:26:29Z",
-      "deadline_last_verified": "2026-10-08T13:26:29Z",
+      "last_verified": "2026-10-08T22:21:27Z",
+      "deadline_last_verified": "2026-10-08T22:21:27Z",
       "missing_count": 0,
       "source_family": "jane-street",
       "security_vetting": null,
@@ -969,19 +972,19 @@
         {
           "statement": "The official detail page identifies Undergraduate Research Bursaries 2027 as a current or announced opportunity.",
           "source_url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
-          "checked_at": "2026-10-07",
+          "checked_at": "2026-10-08",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2027-02-01.",
           "source_url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
-          "checked_at": "2026-10-07",
+          "checked_at": "2026-10-08",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
-          "checked_at": "2026-10-07",
+          "checked_at": "2026-10-08",
           "source_type": "official"
         }
       ],
@@ -1033,13 +1036,13 @@
           "reason": "Known course is BSc Mathematics and Physics; required subject set: ['mathematics', 'computer science', 'statistics']."
         }
       ],
-      "checked_at": "2026-10-07",
+      "checked_at": "2026-10-08",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-10-07T22:13:08Z",
-      "last_changed": "2026-10-07T22:13:08Z",
+      "last_seen": "2026-10-08T22:21:27Z",
+      "last_changed": "2026-10-08T22:21:27Z",
       "source_id": "lms-bursary-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "72ba0e1956c1d952cb278986ebaf246173c9762929f1cb1436ed30fc3e2e4794",
+      "content_fingerprint": "feccfb1594cf4fbb372c14b8d549daadfde73afbc6e261225febef2c5038c142",
       "confidence": 0.99,
       "priority_tier": "C",
       "review_required": false,
@@ -1066,8 +1069,8 @@
       "discovered_via": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
       "primary_evidence_url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
       "alternate_sources": [],
-      "last_verified": "2026-10-07T22:13:08Z",
-      "deadline_last_verified": "2026-10-07T22:13:08Z",
+      "last_verified": "2026-10-08T22:21:27Z",
+      "deadline_last_verified": "2026-10-08T22:21:27Z",
       "missing_count": 0,
       "source_family": "london-mathematical-society",
       "security_vetting": null,
@@ -2721,8 +2724,8 @@
       ],
       "checked_at": "2026-10-08",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-08T12:12:15Z",
-      "last_changed": "2026-10-08T12:12:15Z",
+      "last_seen": "2026-10-08T22:21:27Z",
+      "last_changed": "2026-10-08T22:21:27Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "fccba847d49579f962ef51ae6fadb669d586c7383a3fd5645a3b881d7d61f05b",
@@ -2754,7 +2757,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-10-08T12:12:15Z",
+      "last_verified": "2026-10-08T22:21:27Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",

@@ -7150,5 +7150,19 @@
     "field": "lifecycle",
     "from": "open",
     "to": "stale"
+  },
+  {
+    "canonical_id": "jane-street-see-ldn",
+    "changed_at": "2026-10-08T22:21:27Z",
+    "field": "title",
+    "from": "SEE London March 30th - April 3rd, 2027",
+    "to": "SEE London March 29th - April 3rd, 2027"
+  },
+  {
+    "canonical_id": "jane-street-see-ldn",
+    "changed_at": "2026-10-08T22:21:27Z",
+    "field": "start_date",
+    "from": "2027-03-30",
+    "to": "2027-03-29"
   }
 ]
