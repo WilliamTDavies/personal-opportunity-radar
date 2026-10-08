@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-07T23:03:48Z",
+  "updated_at": "2026-10-08T06:00:33Z",
   "opportunities": [
     {
       "canonical_id": "blackrock-2027-spring-insight-emea",
@@ -40,7 +40,7 @@
         {
           "statement": "The official source matched: 2027 spring insight, 2029, 4 december 2026.",
           "source_url": "https://careers.blackrock.com/job/london/2027-spring-insight-event-emea/45831/97150826752",
-          "checked_at": "2026-10-07",
+          "checked_at": "2026-10-08",
           "source_type": "official"
         }
       ],
@@ -55,13 +55,13 @@
         }
       ],
       "rule_evaluations": [],
-      "checked_at": "2026-10-07",
+      "checked_at": "2026-10-08",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-10-07T23:03:48Z",
-      "last_changed": "2026-10-07T23:03:48Z",
+      "last_seen": "2026-10-08T06:00:33Z",
+      "last_changed": "2026-10-08T06:00:33Z",
       "source_id": "blackrock-spring-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "34f0b9d693e77e077bc37d8953da536d4c804f033a40f3cdb3400c9872260829",
+      "content_fingerprint": "f1512dd44b5275502d928b64236fa66c757d138dadc29bb41e697908c113aed4",
       "confidence": 0.8,
       "priority_tier": "A",
       "review_required": false,
@@ -81,8 +81,8 @@
       "discovered_via": "https://careers.blackrock.com/job/london/2027-spring-insight-event-emea/45831/97150826752",
       "primary_evidence_url": "https://careers.blackrock.com/job/london/2027-spring-insight-event-emea/45831/97150826752",
       "alternate_sources": [],
-      "last_verified": "2026-10-07T23:03:48Z",
-      "deadline_last_verified": "2026-10-07T23:03:48Z",
+      "last_verified": "2026-10-08T06:00:33Z",
+      "deadline_last_verified": "2026-10-08T06:00:33Z",
       "missing_count": 0,
       "source_family": "blackrock",
       "security_vetting": null,
@@ -1349,13 +1349,13 @@
         {
           "statement": "The official detail page identifies Spring into Quant Finance 2026 as a current or announced opportunity.",
           "source_url": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
-          "checked_at": "2026-10-07",
+          "checked_at": "2026-10-08",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
-          "checked_at": "2026-10-07",
+          "checked_at": "2026-10-08",
           "source_type": "official"
         }
       ],
@@ -1381,10 +1381,10 @@
           "reason": "Known course is BSc Mathematics and Physics; required subject set: ['mathematics', 'physics', 'computer science', 'engineering', 'statistics']."
         }
       ],
-      "checked_at": "2026-10-07",
+      "checked_at": "2026-10-08",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-10-07T23:03:48Z",
-      "last_changed": "2026-10-07T23:03:48Z",
+      "last_seen": "2026-10-08T06:00:33Z",
+      "last_changed": "2026-10-08T06:00:33Z",
       "source_id": "g-research-spring-quant-2027",
       "source_kind": "discovered",
       "content_fingerprint": "45096cfcf4b94e143f703c823371f2e487ddcdcb8d713cdb2536878e27e478f3",
@@ -1420,7 +1420,7 @@
       "discovered_via": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
       "primary_evidence_url": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
       "alternate_sources": [],
-      "last_verified": "2026-10-07T23:03:48Z",
+      "last_verified": "2026-10-08T06:00:33Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "g-research",
@@ -1467,7 +1467,7 @@
         {
           "statement": "The official source matched: london spring weeks, april 2027, 1 year students.",
           "source_url": "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/",
-          "checked_at": "2026-10-07",
+          "checked_at": "2026-10-08",
           "source_type": "official"
         }
       ],
@@ -1482,13 +1482,13 @@
         }
       ],
       "rule_evaluations": [],
-      "checked_at": "2026-10-07",
+      "checked_at": "2026-10-08",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-10-07T23:03:48Z",
-      "last_changed": "2026-10-07T23:03:48Z",
+      "last_seen": "2026-10-08T06:00:33Z",
+      "last_changed": "2026-10-08T06:00:33Z",
       "source_id": "evercore-spring-week-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "30d537e4c1c7a9a72ad372fdd16cc2a0d2fddaf37ef546d3cd06a2be991ee5b6",
+      "content_fingerprint": "91904dc0338d7f4e64a3a1ed423f55a7d11f205eff59cfb3a9413e0f23f879f0",
       "confidence": 0.8,
       "priority_tier": "A",
       "review_required": false,
@@ -1508,7 +1508,7 @@
       "discovered_via": "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/",
       "primary_evidence_url": "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/",
       "alternate_sources": [],
-      "last_verified": "2026-10-07T23:03:48Z",
+      "last_verified": "2026-10-08T06:00:33Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "evercore",
@@ -1556,7 +1556,7 @@
         {
           "statement": "The official source matched: 2027 internship, register your interest.",
           "source_url": "https://search.jobs.barclays/discovery",
-          "checked_at": "2026-10-07",
+          "checked_at": "2026-10-08",
           "source_type": "official"
         }
       ],
@@ -1573,13 +1573,13 @@
         }
       ],
       "rule_evaluations": [],
-      "checked_at": "2026-10-07",
+      "checked_at": "2026-10-08",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-10-07T23:03:48Z",
-      "last_changed": "2026-10-07T23:03:48Z",
+      "last_seen": "2026-10-08T06:00:33Z",
+      "last_changed": "2026-10-08T06:00:33Z",
       "source_id": "barclays-discovery-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "1a799bc2f177710b631279581802d356b3d969ee98521ae90aab92e5cc0b7619",
+      "content_fingerprint": "9f3f2b17a8b5636ff0dabf84dc1bd264fee7070cba76c818a480f27ff1cfc284",
       "confidence": 0.8,
       "priority_tier": "A",
       "review_required": false,
@@ -1599,7 +1599,7 @@
       "discovered_via": "https://search.jobs.barclays/discovery",
       "primary_evidence_url": "https://search.jobs.barclays/discovery",
       "alternate_sources": [],
-      "last_verified": "2026-10-07T23:03:48Z",
+      "last_verified": "2026-10-08T06:00:33Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "barclays",
@@ -1893,19 +1893,19 @@
         {
           "statement": "The official detail page identifies Bridge London April 1st - April 3rd, 2027 as a current or announced opportunity.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/bridge/",
-          "checked_at": "2026-10-07",
+          "checked_at": "2026-10-08",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2027-01-03.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/bridge/",
-          "checked_at": "2026-10-07",
+          "checked_at": "2026-10-08",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/bridge/",
-          "checked_at": "2026-10-07",
+          "checked_at": "2026-10-08",
           "source_type": "official"
         }
       ],
@@ -1942,10 +1942,10 @@
           "reason": "Candidate would be in academic year 1; accepted: [1, 2]."
         }
       ],
-      "checked_at": "2026-10-07",
+      "checked_at": "2026-10-08",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-07T22:13:08Z",
-      "last_changed": "2026-10-07T22:13:08Z",
+      "last_seen": "2026-10-08T06:00:33Z",
+      "last_changed": "2026-10-08T06:00:33Z",
       "source_id": "jane-street-see-london-2027",
       "source_kind": "discovered",
       "content_fingerprint": "13dbf9e69acfaeb905d47bbac511ffe93c03606f4a12cd5347cb6fea87bcafb4",
@@ -1974,8 +1974,8 @@
       "alternate_sources": [
         "https://www.janestreet.com/jobs/programs-endpoint.json"
       ],
-      "last_verified": "2026-10-07T22:13:08Z",
-      "deadline_last_verified": "2026-10-07T22:13:08Z",
+      "last_verified": "2026-10-08T06:00:33Z",
+      "deadline_last_verified": "2026-10-08T06:00:33Z",
       "missing_count": 0,
       "source_family": "jane-street",
       "security_vetting": null,
@@ -2024,19 +2024,19 @@
         {
           "statement": "The official detail page identifies FTTP London March 21st - March 25th, 2027 as a current or announced opportunity.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/fttp/",
-          "checked_at": "2026-10-07",
+          "checked_at": "2026-10-08",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2027-01-03.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/fttp/",
-          "checked_at": "2026-10-07",
+          "checked_at": "2026-10-08",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/fttp/",
-          "checked_at": "2026-10-07",
+          "checked_at": "2026-10-08",
           "source_type": "official"
         }
       ],
@@ -2058,10 +2058,10 @@
           "reason": "Candidate would be in academic year 1; accepted: [1]."
         }
       ],
-      "checked_at": "2026-10-07",
+      "checked_at": "2026-10-08",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-07T22:13:08Z",
-      "last_changed": "2026-10-07T22:13:08Z",
+      "last_seen": "2026-10-08T06:00:33Z",
+      "last_changed": "2026-10-08T06:00:33Z",
       "source_id": "jane-street-see-london-2027",
       "source_kind": "discovered",
       "content_fingerprint": "9ee77a9d6bda4ff6e400e09fd5f5c776666338afdb0c001b4dd96748be61d2cf",
@@ -2094,8 +2094,8 @@
       "alternate_sources": [
         "https://www.janestreet.com/jobs/programs-endpoint.json"
       ],
-      "last_verified": "2026-10-07T22:13:08Z",
-      "deadline_last_verified": "2026-10-07T22:13:08Z",
+      "last_verified": "2026-10-08T06:00:33Z",
+      "deadline_last_verified": "2026-10-08T06:00:33Z",
       "missing_count": 0,
       "source_family": "jane-street",
       "security_vetting": null,
@@ -2146,19 +2146,19 @@
         {
           "statement": "The official detail page identifies SEE London March 30th - April 3rd, 2027 as a current or announced opportunity.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/see/",
-          "checked_at": "2026-10-07",
+          "checked_at": "2026-10-08",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2027-01-03.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/see/",
-          "checked_at": "2026-10-07",
+          "checked_at": "2026-10-08",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/see/",
-          "checked_at": "2026-10-07",
+          "checked_at": "2026-10-08",
           "source_type": "official"
         }
       ],
@@ -2187,10 +2187,10 @@
           "reason": "Known university country is United Kingdom; accepted: ['Austria', 'Belgium', 'Denmark', 'Germany', 'Netherlands', 'Norway', 'Sweden', 'Switzerland']."
         }
       ],
-      "checked_at": "2026-10-07",
+      "checked_at": "2026-10-08",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-07T22:13:08Z",
-      "last_changed": "2026-10-07T22:13:08Z",
+      "last_seen": "2026-10-08T06:00:33Z",
+      "last_changed": "2026-10-08T06:00:33Z",
       "source_id": "jane-street-see-london-2027",
       "source_kind": "discovered",
       "content_fingerprint": "1e2f07dbc175c295f3d9d41a1d35058daccf734fc63b8bb28b4969147b1bbe64",
@@ -2226,8 +2226,8 @@
       "alternate_sources": [
         "https://www.janestreet.com/jobs/programs-endpoint.json"
       ],
-      "last_verified": "2026-10-07T22:13:08Z",
-      "deadline_last_verified": "2026-10-07T22:13:08Z",
+      "last_verified": "2026-10-08T06:00:33Z",
+      "deadline_last_verified": "2026-10-08T06:00:33Z",
       "missing_count": 0,
       "source_family": "jane-street",
       "security_vetting": null,
