@@ -1,445 +1,5 @@
 [
   {
-    "canonical_id": "blackrock-2027-spring-insight-emea",
-    "changed_at": "2026-08-30T18:40:21Z",
-    "field": "deadline",
-    "from": null,
-    "to": "2026-12-04"
-  },
-  {
-    "canonical_id": "blackrock-2027-spring-insight-emea",
-    "changed_at": "2026-08-30T18:40:21Z",
-    "field": "deadline_status",
-    "from": "none_stated",
-    "to": "fixed"
-  },
-  {
-    "canonical_id": "rothschild-2027-global-advisory-spring",
-    "changed_at": "2026-08-31T00:03:43Z",
-    "field": "title",
-    "from": "2027 UK Global Advisory Spring Insight",
-    "to": "Early Insights"
-  },
-  {
-    "canonical_id": "rothschild-2027-global-advisory-spring",
-    "changed_at": "2026-08-31T00:03:43Z",
-    "field": "source_url",
-    "from": "https://www.rothschildandco.com/en/careers/students-and-graduates/opportunities/2027-uk-global-advisory-spring-insight-programme/",
-    "to": "https://www.rothschildandco.com/en/careers/students-and-graduates/early-insights/"
-  },
-  {
-    "canonical_id": "rothschild-2027-global-advisory-spring",
-    "changed_at": "2026-08-31T00:03:43Z",
-    "field": "lifecycle",
-    "from": "officially_announced",
-    "to": "unknown"
-  },
-  {
-    "canonical_id": "rothschild-2027-global-advisory-spring",
-    "changed_at": "2026-08-31T00:03:43Z",
-    "field": "opens_at",
-    "from": "2026-09-29",
-    "to": null
-  },
-  {
-    "canonical_id": "rothschild-2027-global-advisory-spring",
-    "changed_at": "2026-08-31T00:03:43Z",
-    "field": "start_date",
-    "from": "2027",
-    "to": "2026-01"
-  },
-  {
-    "canonical_id": "rothschild-2027-global-advisory-spring",
-    "changed_at": "2026-08-31T00:03:43Z",
-    "field": "eligibility",
-    "from": "eligible",
-    "to": "uncertain"
-  },
-  {
-    "canonical_id": "rothschild-2027-global-advisory-spring",
-    "changed_at": "2026-08-31T00:03:43Z",
-    "field": "location",
-    "from": "London, UK",
-    "to": "Online"
-  },
-  {
-    "canonical_id": "lazard-london-spring-insight-2027",
-    "changed_at": "2026-08-31T00:03:43Z",
-    "field": "title",
-    "from": "London Spring Insight 2027",
-    "to": "Careers Programmes in the U.K."
-  },
-  {
-    "canonical_id": "lazard-london-spring-insight-2027",
-    "changed_at": "2026-08-31T00:03:43Z",
-    "field": "lifecycle",
-    "from": "officially_announced",
-    "to": "unknown"
-  },
-  {
-    "canonical_id": "lazard-london-spring-insight-2027",
-    "changed_at": "2026-08-31T00:03:43Z",
-    "field": "opens_at",
-    "from": "2026",
-    "to": null
-  },
-  {
-    "canonical_id": "lazard-london-spring-insight-2027",
-    "changed_at": "2026-08-31T00:03:43Z",
-    "field": "start_date",
-    "from": "2027-spring",
-    "to": "2027-01"
-  },
-  {
-    "canonical_id": "lazard-london-spring-insight-2027",
-    "changed_at": "2026-08-31T00:03:43Z",
-    "field": "eligibility",
-    "from": "eligible",
-    "to": "uncertain"
-  },
-  {
-    "canonical_id": "lazard-london-spring-insight-2027",
-    "changed_at": "2026-08-31T00:03:43Z",
-    "field": "requirements",
-    "from": [
-      "study_year:[1]:required"
-    ],
-    "to": []
-  },
-  {
-    "canonical_id": "lms-undergraduate-research-bursary-2027",
-    "changed_at": "2026-08-31T00:03:43Z",
-    "field": "application_url",
-    "from": null,
-    "to": "https://www.lms.ac.uk/library/how-register"
-  },
-  {
-    "canonical_id": "lms-undergraduate-research-bursary-2027",
-    "changed_at": "2026-08-31T00:03:43Z",
-    "field": "deadline",
-    "from": "2027-01-31",
-    "to": "2027-02-01"
-  },
-  {
-    "canonical_id": "lms-undergraduate-research-bursary-2027",
-    "changed_at": "2026-08-31T00:03:43Z",
-    "field": "start_date",
-    "from": "2027-summer",
-    "to": "2028-07"
-  },
-  {
-    "canonical_id": "lms-undergraduate-research-bursary-2027",
-    "changed_at": "2026-08-31T00:03:43Z",
-    "field": "location",
-    "from": "United Kingdom",
-    "to": "London, UK"
-  },
-  {
-    "canonical_id": "lms-undergraduate-research-bursary-2027",
-    "changed_at": "2026-08-31T00:03:43Z",
-    "field": "requirements",
-    "from": [
-      "study_year:[2, 3]:required"
-    ],
-    "to": [
-      "graduation_year:[2027]:required",
-      "study_year:[1]:required",
-      "degree_subject:['mathematics', 'computer science', 'statistics']:required"
-    ]
-  },
-  {
-    "canonical_id": "blackrock-2027-spring-insight-emea",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "title",
-    "from": "2027 Spring Insight Event — EMEA",
-    "to": "2027 Spring Insight Event - EMEA"
-  },
-  {
-    "canonical_id": "blackrock-2027-spring-insight-emea",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "application_url",
-    "from": null,
-    "to": "https://blackrock.tal.net/vx/candidate/so/pm/1/pl/1/opp/12223?instant=apply"
-  },
-  {
-    "canonical_id": "blackrock-2027-spring-insight-emea",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "start_date",
-    "from": "2027-04",
-    "to": "2029-04"
-  },
-  {
-    "canonical_id": "blackrock-2027-spring-insight-emea",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "location",
-    "from": "London or Edinburgh, UK",
-    "to": "London, UK"
-  },
-  {
-    "canonical_id": "deutsche-bank-2027-tdi-spring",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "title",
-    "from": "2027 Technology, Data & Innovation Spring into Banking",
-    "to": "Internship Programme"
-  },
-  {
-    "canonical_id": "deutsche-bank-2027-tdi-spring",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "source_url",
-    "from": "https://careers.db.com/students-graduates/your-application/",
-    "to": "https://careers.db.com/students-graduates/internship-programme"
-  },
-  {
-    "canonical_id": "deutsche-bank-2027-tdi-spring",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "application_url",
-    "from": null,
-    "to": "https://careers.db.com/students-graduates/search-programmes/index?language_id=1#/graduate/"
-  },
-  {
-    "canonical_id": "deutsche-bank-2027-tdi-spring",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "lifecycle",
-    "from": "officially_announced",
-    "to": "open"
-  },
-  {
-    "canonical_id": "deutsche-bank-2027-tdi-spring",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "deadline",
-    "from": "2026-11-08",
-    "to": null
-  },
-  {
-    "canonical_id": "deutsche-bank-2027-tdi-spring",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "deadline_status",
-    "from": "fixed",
-    "to": "none_stated"
-  },
-  {
-    "canonical_id": "deutsche-bank-2027-tdi-spring",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "opens_at",
-    "from": "2026-11-02",
-    "to": null
-  },
-  {
-    "canonical_id": "deutsche-bank-2027-tdi-spring",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "start_date",
-    "from": "2027",
-    "to": "2028-07"
-  },
-  {
-    "canonical_id": "deutsche-bank-2027-tdi-spring",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "eligibility",
-    "from": "eligible",
-    "to": "ineligible"
-  },
-  {
-    "canonical_id": "deutsche-bank-2027-tdi-spring",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "location",
-    "from": "London, UK",
-    "to": "Not stated"
-  },
-  {
-    "canonical_id": "deutsche-bank-2027-tdi-spring",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "requirements",
-    "from": [],
-    "to": [
-      "graduation_year:[2028]:required",
-      "penultimate_year:True:required"
-    ]
-  },
-  {
-    "canonical_id": "fidelity-international-spring-insight",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "title",
-    "from": "Spring Insight Programme",
-    "to": "Search jobs and apply"
-  },
-  {
-    "canonical_id": "fidelity-international-spring-insight",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "source_url",
-    "from": "https://careers.fidelityinternational.com/early-careers-overview/interns-and-insights/spring-insight-programme/",
-    "to": "https://careers.fidelityinternational.com/search-apply/"
-  },
-  {
-    "canonical_id": "fidelity-international-spring-insight",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "application_url",
-    "from": null,
-    "to": "https://careers.fidelityinternational.com/search-apply/"
-  },
-  {
-    "canonical_id": "fidelity-international-spring-insight",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "lifecycle",
-    "from": "unknown",
-    "to": "open"
-  },
-  {
-    "canonical_id": "fidelity-international-spring-insight",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "start_date",
-    "from": null,
-    "to": "2026-04"
-  },
-  {
-    "canonical_id": "fidelity-international-spring-insight",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "eligibility",
-    "from": "likely_eligible",
-    "to": "uncertain"
-  },
-  {
-    "canonical_id": "fidelity-international-spring-insight",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "location",
-    "from": "London, UK",
-    "to": "Not stated"
-  },
-  {
-    "canonical_id": "g-research-spring-into-quant-finance-2027",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "title",
-    "from": "Spring into Quant Finance 2027 — register interest",
-    "to": "Spring into Quant Finance 2026"
-  },
-  {
-    "canonical_id": "g-research-spring-into-quant-finance-2027",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "application_url",
-    "from": null,
-    "to": "https://share-eu1.hsforms.com/1qFW2JfcDTJaigse62e0paw2b8apt"
-  },
-  {
-    "canonical_id": "g-research-spring-into-quant-finance-2027",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "lifecycle",
-    "from": "interest_open",
-    "to": "open"
-  },
-  {
-    "canonical_id": "g-research-spring-into-quant-finance-2027",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "deadline_status",
-    "from": "unknown",
-    "to": "none_stated"
-  },
-  {
-    "canonical_id": "g-research-spring-into-quant-finance-2027",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "start_date",
-    "from": "2027-spring",
-    "to": "2027-04"
-  },
-  {
-    "canonical_id": "g-research-spring-into-quant-finance-2027",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "eligibility",
-    "from": "likely_eligible",
-    "to": "eligible"
-  },
-  {
-    "canonical_id": "g-research-spring-into-quant-finance-2027",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "location",
-    "from": "Location to be announced",
-    "to": "Not stated"
-  },
-  {
-    "canonical_id": "g-research-spring-into-quant-finance-2027",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "requirements",
-    "from": [
-      "degree_subject:['mathematics', 'physics']:required"
-    ],
-    "to": [
-      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering', 'statistics']:required"
-    ]
-  },
-  {
-    "canonical_id": "evercore-london-spring-weeks-2027",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "title",
-    "from": "London Spring Weeks 2027",
-    "to": "Students & Graduates – Europe/Asia"
-  },
-  {
-    "canonical_id": "evercore-london-spring-weeks-2027",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "lifecycle",
-    "from": "open",
-    "to": "officially_announced"
-  },
-  {
-    "canonical_id": "evercore-london-spring-weeks-2027",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "opens_at",
-    "from": null,
-    "to": "2026-09-20"
-  },
-  {
-    "canonical_id": "evercore-london-spring-weeks-2027",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "start_date",
-    "from": "2027-04",
-    "to": "2026-08-17"
-  },
-  {
-    "canonical_id": "evercore-london-spring-weeks-2027",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "end_date",
-    "from": null,
-    "to": "2026-09-20"
-  },
-  {
-    "canonical_id": "evercore-london-spring-weeks-2027",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "eligibility",
-    "from": "eligible",
-    "to": "ineligible"
-  },
-  {
-    "canonical_id": "evercore-london-spring-weeks-2027",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "requirements",
-    "from": [
-      "study_year:[1]:required"
-    ],
-    "to": [
-      "graduation_year:[2027]:required",
-      "study_year:[1]:required"
-    ]
-  },
-  {
-    "canonical_id": "barclays-discovery-programme-2027",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "title",
-    "from": "Discovery Programme 2027 — register interest",
-    "to": "Discovery Programme"
-  },
-  {
-    "canonical_id": "barclays-discovery-programme-2027",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "deadline_status",
-    "from": "unknown",
-    "to": "none_stated"
-  },
-  {
-    "canonical_id": "barclays-discovery-programme-2027",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "start_date",
-    "from": "2027",
-    "to": "2027-04"
-  },
-  {
     "canonical_id": "barclays-discovery-programme-2027",
     "changed_at": "2026-08-31T00:12:52Z",
     "field": "eligibility",
@@ -7164,5 +6724,601 @@
     "field": "start_date",
     "from": "2027-03-30",
     "to": "2027-03-29"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "title",
+    "from": "Engineering - Internship",
+    "to": "Transaction Banking - Securities Services - Internship"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Sheffield-Engineering-Internship-S1-4NB/1371596557/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/London-Transaction-Banking-Securities-Services-Internship-E14-5HQ/1373585557/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1371596557/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1373585557/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "deadline",
+    "from": "2026-10-18",
+    "to": "2026-10-15"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "location",
+    "from": "United Kingdom",
+    "to": "London, UK"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-international-wealth-and-premier-banking-interns",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "requirements",
+    "from": [
+      "penultimate_year:True:required",
+      "work_authorization:True:required"
+    ],
+    "to": [
+      "graduation_year:[2028]:required",
+      "penultimate_year:True:required"
+    ]
+  },
+  {
+    "canonical_id": "societe-generale-the-v-i-e-programme",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "source_url",
+    "from": "https://careers.societegenerale.com/index%2Ephp/en/vie",
+    "to": "https://careers.societegenerale.com/en/vie"
+  },
+  {
+    "canonical_id": "imc-trading-machine-learning-research-intern-summer-2027-chicago",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "title",
+    "from": "Machine Learning Research Intern - Summer 2027 - Chicago",
+    "to": "Deep Learning Research Intern - Summer 2027 - Chicago, New York"
+  },
+  {
+    "canonical_id": "imc-trading-machine-learning-research-intern-summer-2027-chicago",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2028]:required"
+    ],
+    "to": [
+      "graduation_year:[2028]:required",
+      "degree_subject:['mathematics', 'computer science', 'engineering', 'statistics']:required"
+    ]
+  },
+  {
+    "canonical_id": "dv-trading-4719119005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "source_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005"
+  },
+  {
+    "canonical_id": "dv-trading-4719119005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "application_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005"
+  },
+  {
+    "canonical_id": "dv-trading-4719119005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "location",
+    "from": "New York",
+    "to": "Chicago"
+  },
+  {
+    "canonical_id": "dv-trading-4719135005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "source_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005"
+  },
+  {
+    "canonical_id": "dv-trading-4719135005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "application_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005"
+  },
+  {
+    "canonical_id": "dv-trading-4719135005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "location",
+    "from": "Chicago",
+    "to": "New York"
+  },
+  {
+    "canonical_id": "dv-trading-4719134005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "title",
+    "from": "DevOps Engineer Intern - Summer 2027",
+    "to": "Database Engineer Intern - Summer 2027"
+  },
+  {
+    "canonical_id": "dv-trading-4719134005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "source_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4730886005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4741016005"
+  },
+  {
+    "canonical_id": "dv-trading-4719134005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "application_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4730886005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4741016005"
+  },
+  {
+    "canonical_id": "dv-trading-4719134005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "start_date",
+    "from": "2028-07",
+    "to": "2029-07"
+  },
+  {
+    "canonical_id": "dv-trading-4719134005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2028]:required"
+    ],
+    "to": [
+      "graduation_year:[2029]:required",
+      "degree_subject:['computer science', 'statistics', 'data science']:required"
+    ]
+  },
+  {
+    "canonical_id": "dv-trading-4702083005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "title",
+    "from": "Futures & Options Trading Analyst Intern - Summer 2027",
+    "to": "DevOps Engineer Intern - Summer 2027"
+  },
+  {
+    "canonical_id": "dv-trading-4702083005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "source_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4722749005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4730886005"
+  },
+  {
+    "canonical_id": "dv-trading-4702083005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "application_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4722749005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4730886005"
+  },
+  {
+    "canonical_id": "dv-trading-4702083005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "start_date",
+    "from": "2027-07",
+    "to": "2028-07"
+  },
+  {
+    "canonical_id": "dv-trading-4702083005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "eligibility",
+    "from": "eligible",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "dv-trading-4702083005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "location",
+    "from": "New York",
+    "to": "Chicago"
+  },
+  {
+    "canonical_id": "dv-trading-4702083005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "requirements",
+    "from": [
+      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering', 'statistics']:required"
+    ],
+    "to": [
+      "graduation_year:[2028]:required"
+    ]
+  },
+  {
+    "canonical_id": "dv-trading-4733138005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "title",
+    "from": "Quantitative Research Intern - Summer 2027 (DV Equities)",
+    "to": "Futures & Options Trading Analyst Intern - Summer 2027"
+  },
+  {
+    "canonical_id": "dv-trading-4733138005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "source_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4733133005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4722749005"
+  },
+  {
+    "canonical_id": "dv-trading-4733138005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "application_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4733133005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4722749005"
+  },
+  {
+    "canonical_id": "dv-trading-4733138005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "start_date",
+    "from": "2028-07",
+    "to": "2027-07"
+  },
+  {
+    "canonical_id": "dv-trading-4733138005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "eligible"
+  },
+  {
+    "canonical_id": "dv-trading-4733138005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering', 'statistics']:required"
+    ]
+  },
+  {
+    "canonical_id": "dv-trading-4736603005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "title",
+    "from": "Quantitative Risk Intern - Summer 2027",
+    "to": "Quantitative Research Intern - Summer 2027 (DV Equities)"
+  },
+  {
+    "canonical_id": "dv-trading-4736603005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "source_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4719118005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4733133005"
+  },
+  {
+    "canonical_id": "dv-trading-4736603005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "application_url",
+    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4719118005",
+    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4733133005"
+  },
+  {
+    "canonical_id": "dv-trading-4736603005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "dv-trading-4736603005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "location",
+    "from": "Chicago",
+    "to": "New York"
+  },
+  {
+    "canonical_id": "dv-trading-4736603005",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2028]:required",
+      "degree_subject:['mathematics', 'physics', 'computer science', 'statistics']:required"
+    ],
+    "to": []
+  },
+  {
+    "canonical_id": "jump-trading-7975008",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "location",
+    "from": "Shanghai",
+    "to": "Hong Kong; Shanghai"
+  },
+  {
+    "canonical_id": "jump-trading-8002998",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=7975008"
+  },
+  {
+    "canonical_id": "jump-trading-8002998",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=7975008"
+  },
+  {
+    "canonical_id": "jump-trading-8002998",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "eligibility",
+    "from": "eligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "jump-trading-8002998",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "location",
+    "from": "Chicago",
+    "to": "London"
+  },
+  {
+    "canonical_id": "jump-trading-8002998",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "requirements",
+    "from": [
+      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering', 'data science']:required"
+    ],
+    "to": []
+  },
+  {
+    "canonical_id": "jump-trading-7974391",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8002998"
+  },
+  {
+    "canonical_id": "jump-trading-7974391",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8002998"
+  },
+  {
+    "canonical_id": "jump-trading-7974391",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "eligible"
+  },
+  {
+    "canonical_id": "jump-trading-7974391",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "location",
+    "from": "London",
+    "to": "Chicago"
+  },
+  {
+    "canonical_id": "jump-trading-7974391",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering', 'data science']:required"
+    ]
+  },
+  {
+    "canonical_id": "jump-trading-8027955",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027923",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027955"
+  },
+  {
+    "canonical_id": "jump-trading-8027955",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027923",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027955"
+  },
+  {
+    "canonical_id": "jump-trading-8027955",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "location",
+    "from": "Shanghai",
+    "to": "Singapore"
+  },
+  {
+    "canonical_id": "jump-trading-8027939",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027955",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027923"
+  },
+  {
+    "canonical_id": "jump-trading-8027939",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027955",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027923"
+  },
+  {
+    "canonical_id": "jump-trading-8027939",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "location",
+    "from": "Singapore",
+    "to": "Hong Kong; Shanghai"
+  },
+  {
+    "canonical_id": "jump-trading-8027900",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027900"
+  },
+  {
+    "canonical_id": "jump-trading-8027900",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027939",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027900"
+  },
+  {
+    "canonical_id": "jump-trading-8027900",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "location",
+    "from": "Singapore",
+    "to": "Hong Kong; Shanghai"
+  },
+  {
+    "canonical_id": "jump-trading-8010307",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027939"
+  },
+  {
+    "canonical_id": "jump-trading-8010307",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027939"
+  },
+  {
+    "canonical_id": "jump-trading-8010307",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "location",
+    "from": "London; Amsterdam",
+    "to": "Singapore"
+  },
+  {
+    "canonical_id": "jump-trading-8059384",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027900",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8010307"
+  },
+  {
+    "canonical_id": "jump-trading-8059384",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027900",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8010307"
+  },
+  {
+    "canonical_id": "jump-trading-8059384",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "location",
+    "from": "Hong Kong; Shanghai",
+    "to": "London; Amsterdam"
+  },
+  {
+    "canonical_id": "jump-trading-8027941",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027941",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027922"
+  },
+  {
+    "canonical_id": "jump-trading-8027941",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027941",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027922"
+  },
+  {
+    "canonical_id": "jump-trading-8027941",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "location",
+    "from": "Singapore",
+    "to": "Hong Kong; Shanghai"
+  },
+  {
+    "canonical_id": "jump-trading-8050772",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027941"
+  },
+  {
+    "canonical_id": "jump-trading-8050772",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8027941"
+  },
+  {
+    "canonical_id": "jump-trading-8050772",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "location",
+    "from": "London; Amsterdam",
+    "to": "Singapore"
+  },
+  {
+    "canonical_id": "jump-trading-7975026",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "source_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027922",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8050772"
+  },
+  {
+    "canonical_id": "jump-trading-7975026",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "application_url",
+    "from": "https://www.jumptrading.com/hr/job?gh_jid=8027922",
+    "to": "https://www.jumptrading.com/hr/job?gh_jid=8050772"
+  },
+  {
+    "canonical_id": "jump-trading-7975026",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "location",
+    "from": "Hong Kong; Shanghai",
+    "to": "London; Amsterdam"
+  },
+  {
+    "canonical_id": "optiver-fpga-internship-2027-start",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "point72-7297598002",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "point72-7297611002",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "point72-8539265002",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "point72-8572401002",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "point72-8541241002",
+    "changed_at": "2026-10-11T11:01:19Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
   }
 ]
