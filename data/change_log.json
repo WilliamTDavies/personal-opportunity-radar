@@ -1,86 +1,5 @@
 [
   {
-    "canonical_id": "barclays-discovery-programme-2027",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "eligibility",
-    "from": "likely_eligible",
-    "to": "ineligible"
-  },
-  {
-    "canonical_id": "barclays-discovery-programme-2027",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "location",
-    "from": "United Kingdom",
-    "to": "London, UK"
-  },
-  {
-    "canonical_id": "barclays-discovery-programme-2027",
-    "changed_at": "2026-08-31T00:12:52Z",
-    "field": "requirements",
-    "from": [
-      "graduation_year:[2027, 2028, 2029]:preferred"
-    ],
-    "to": [
-      "graduation_year:[2027]:required"
-    ]
-  },
-  {
-    "canonical_id": "nasa-space-apps-2026",
-    "changed_at": "2026-08-31T00:20:18Z",
-    "field": "title",
-    "from": "2026 NASA International Space Apps Challenge",
-    "to": "Register today!"
-  },
-  {
-    "canonical_id": "nasa-space-apps-2026",
-    "changed_at": "2026-08-31T00:20:18Z",
-    "field": "source_url",
-    "from": "https://www.spaceappschallenge.org/",
-    "to": "https://www.spaceappschallenge.org/2026/"
-  },
-  {
-    "canonical_id": "nasa-space-apps-2026",
-    "changed_at": "2026-08-31T00:20:18Z",
-    "field": "lifecycle",
-    "from": "open",
-    "to": "unknown"
-  },
-  {
-    "canonical_id": "nasa-space-apps-2026",
-    "changed_at": "2026-08-31T00:20:18Z",
-    "field": "deadline",
-    "from": "2026-11-14",
-    "to": null
-  },
-  {
-    "canonical_id": "nasa-space-apps-2026",
-    "changed_at": "2026-08-31T00:20:18Z",
-    "field": "deadline_status",
-    "from": "fixed",
-    "to": "none_stated"
-  },
-  {
-    "canonical_id": "nasa-space-apps-2026",
-    "changed_at": "2026-08-31T00:20:18Z",
-    "field": "start_date",
-    "from": "2026-11-14",
-    "to": "2026-01"
-  },
-  {
-    "canonical_id": "nasa-space-apps-2026",
-    "changed_at": "2026-08-31T00:20:18Z",
-    "field": "eligibility",
-    "from": "eligible",
-    "to": "uncertain"
-  },
-  {
-    "canonical_id": "nasa-space-apps-2026",
-    "changed_at": "2026-08-31T00:20:18Z",
-    "field": "location",
-    "from": "Global — local or virtual event",
-    "to": "Not stated"
-  },
-  {
     "canonical_id": "macquarie-uk-spring-insight-2027",
     "changed_at": "2026-08-31T00:20:18Z",
     "field": "title",
@@ -7320,5 +7239,92 @@
     "field": "lifecycle",
     "from": "open",
     "to": "stale"
+  },
+  {
+    "canonical_id": "met-office-digital-content-and-user-experience-industrial-placement-2027",
+    "changed_at": "2026-10-12T23:44:31Z",
+    "field": "title",
+    "from": "Digital Content and User Experience Industrial Placement 2027",
+    "to": "Broadcast Graphics Industrial Placement 2027"
+  },
+  {
+    "canonical_id": "met-office-digital-content-and-user-experience-industrial-placement-2027",
+    "changed_at": "2026-10-12T23:44:31Z",
+    "field": "source_url",
+    "from": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Digital-Content-and-User-Experience-Industrial-Placement-2027-1484",
+    "to": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Broadcast-Graphics-Industrial-Placement-2027-1478"
+  },
+  {
+    "canonical_id": "met-office-data-engineers-industrial-placement-2027",
+    "changed_at": "2026-10-12T23:44:31Z",
+    "field": "title",
+    "from": "Data Engineers Industrial Placement 2027",
+    "to": "User Researcher Industrial Placement 2027"
+  },
+  {
+    "canonical_id": "met-office-data-engineers-industrial-placement-2027",
+    "changed_at": "2026-10-12T23:44:31Z",
+    "field": "source_url",
+    "from": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Data-Engineers-Industrial-Placement-2027-1486",
+    "to": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/User-Researcher-Industrial-Placement-2027-1479"
+  },
+  {
+    "canonical_id": "met-office-data-engineers-industrial-placement-2027",
+    "changed_at": "2026-10-12T23:44:31Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "met-office-data-engineers-industrial-placement-2027",
+    "changed_at": "2026-10-12T23:44:31Z",
+    "field": "requirements",
+    "from": [
+      "degree_subject:['computer science', 'engineering', 'data science']:required",
+      "security_vetting:Security vetting:informational"
+    ],
+    "to": [
+      "security_vetting:Security vetting:informational"
+    ]
+  },
+  {
+    "canonical_id": "met-office-climate-metadata-analyst-industrial-placement-2027",
+    "changed_at": "2026-10-12T23:44:31Z",
+    "field": "title",
+    "from": "Climate Metadata Analyst Industrial Placement 2027",
+    "to": "Network Engineer Industrial Placement 2027"
+  },
+  {
+    "canonical_id": "met-office-climate-metadata-analyst-industrial-placement-2027",
+    "changed_at": "2026-10-12T23:44:31Z",
+    "field": "source_url",
+    "from": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Climate-Metadata-Analyst-Industrial-Placement-2027-1480",
+    "to": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Network-Engineer-Industrial-Placement-2027-1494"
+  },
+  {
+    "canonical_id": "met-office-climate-metadata-analyst-industrial-placement-2027",
+    "changed_at": "2026-10-12T23:44:31Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "met-office-climate-metadata-analyst-industrial-placement-2027",
+    "changed_at": "2026-10-12T23:44:31Z",
+    "field": "location",
+    "from": "Edinburgh, UK",
+    "to": "Online"
+  },
+  {
+    "canonical_id": "met-office-climate-metadata-analyst-industrial-placement-2027",
+    "changed_at": "2026-10-12T23:44:31Z",
+    "field": "requirements",
+    "from": [
+      "security_vetting:Security vetting:informational"
+    ],
+    "to": [
+      "degree_subject:['engineering']:required",
+      "security_vetting:Security vetting:informational"
+    ]
   }
 ]
