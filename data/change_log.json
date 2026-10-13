@@ -2,62 +2,6 @@
   {
     "canonical_id": "macquarie-uk-spring-insight-2027",
     "changed_at": "2026-08-31T00:20:18Z",
-    "field": "title",
-    "from": "UK Spring Insight Programme 2027",
-    "to": "Frequently asked questions"
-  },
-  {
-    "canonical_id": "macquarie-uk-spring-insight-2027",
-    "changed_at": "2026-08-31T00:20:18Z",
-    "field": "application_url",
-    "from": null,
-    "to": "https://www.macquarie.com/uk/en/careers/faqs.html"
-  },
-  {
-    "canonical_id": "macquarie-uk-spring-insight-2027",
-    "changed_at": "2026-08-31T00:20:18Z",
-    "field": "lifecycle",
-    "from": "officially_announced",
-    "to": "open"
-  },
-  {
-    "canonical_id": "macquarie-uk-spring-insight-2027",
-    "changed_at": "2026-08-31T00:20:18Z",
-    "field": "deadline",
-    "from": "2026-11-30",
-    "to": null
-  },
-  {
-    "canonical_id": "macquarie-uk-spring-insight-2027",
-    "changed_at": "2026-08-31T00:20:18Z",
-    "field": "deadline_status",
-    "from": "fixed",
-    "to": "rolling"
-  },
-  {
-    "canonical_id": "macquarie-uk-spring-insight-2027",
-    "changed_at": "2026-08-31T00:20:18Z",
-    "field": "opens_at",
-    "from": "2026-10-12",
-    "to": null
-  },
-  {
-    "canonical_id": "macquarie-uk-spring-insight-2027",
-    "changed_at": "2026-08-31T00:20:18Z",
-    "field": "start_date",
-    "from": "2027-spring",
-    "to": "2029-04"
-  },
-  {
-    "canonical_id": "macquarie-uk-spring-insight-2027",
-    "changed_at": "2026-08-31T00:20:18Z",
-    "field": "eligibility",
-    "from": "eligible",
-    "to": "ineligible"
-  },
-  {
-    "canonical_id": "macquarie-uk-spring-insight-2027",
-    "changed_at": "2026-08-31T00:20:18Z",
     "field": "requirements",
     "from": [
       "graduation_year:[2029]:required",
@@ -7324,6 +7268,67 @@
     ],
     "to": [
       "degree_subject:['engineering']:required",
+      "security_vetting:Security vetting:informational"
+    ]
+  },
+  {
+    "canonical_id": "met-office-digital-content-and-user-experience-industrial-placement-2027",
+    "changed_at": "2026-10-13T12:54:25Z",
+    "field": "title",
+    "from": "Broadcast Graphics Industrial Placement 2027",
+    "to": "Design and Content Industrial Placement 2027"
+  },
+  {
+    "canonical_id": "met-office-digital-content-and-user-experience-industrial-placement-2027",
+    "changed_at": "2026-10-13T12:54:25Z",
+    "field": "source_url",
+    "from": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Broadcast-Graphics-Industrial-Placement-2027-1478",
+    "to": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Design-and-Content-Industrial-Placement-2027-1493"
+  },
+  {
+    "canonical_id": "met-office-data-engineers-industrial-placement-2027",
+    "changed_at": "2026-10-13T12:54:25Z",
+    "field": "title",
+    "from": "User Researcher Industrial Placement 2027",
+    "to": "Broadcast Graphics Industrial Placement 2027"
+  },
+  {
+    "canonical_id": "met-office-data-engineers-industrial-placement-2027",
+    "changed_at": "2026-10-13T12:54:25Z",
+    "field": "source_url",
+    "from": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/User-Researcher-Industrial-Placement-2027-1479",
+    "to": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Broadcast-Graphics-Industrial-Placement-2027-1478"
+  },
+  {
+    "canonical_id": "met-office-climate-metadata-analyst-industrial-placement-2027",
+    "changed_at": "2026-10-13T12:54:25Z",
+    "field": "title",
+    "from": "Network Engineer Industrial Placement 2027",
+    "to": "User Researcher Industrial Placement 2027"
+  },
+  {
+    "canonical_id": "met-office-climate-metadata-analyst-industrial-placement-2027",
+    "changed_at": "2026-10-13T12:54:25Z",
+    "field": "source_url",
+    "from": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Network-Engineer-Industrial-Placement-2027-1494",
+    "to": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/User-Researcher-Industrial-Placement-2027-1479"
+  },
+  {
+    "canonical_id": "met-office-climate-metadata-analyst-industrial-placement-2027",
+    "changed_at": "2026-10-13T12:54:25Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "met-office-climate-metadata-analyst-industrial-placement-2027",
+    "changed_at": "2026-10-13T12:54:25Z",
+    "field": "requirements",
+    "from": [
+      "degree_subject:['engineering']:required",
+      "security_vetting:Security vetting:informational"
+    ],
+    "to": [
       "security_vetting:Security vetting:informational"
     ]
   }
