@@ -1,83 +1,5 @@
 [
   {
-    "canonical_id": "macquarie-uk-spring-insight-2027",
-    "changed_at": "2026-08-31T00:20:18Z",
-    "field": "requirements",
-    "from": [
-      "graduation_year:[2029]:required",
-      "study_year:[1]:required"
-    ],
-    "to": [
-      "graduation_year:[2026, 2028, 2029]:required",
-      "penultimate_year:True:required",
-      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering']:required",
-      "work_authorization:True:required"
-    ]
-  },
-  {
-    "canonical_id": "ubs-tomorrows-talent-emea",
-    "changed_at": "2026-08-31T00:21:38Z",
-    "field": "title",
-    "from": "Tomorrow's Talent Programme",
-    "to": "Summer Internship Program"
-  },
-  {
-    "canonical_id": "ubs-tomorrows-talent-emea",
-    "changed_at": "2026-08-31T00:21:38Z",
-    "field": "source_url",
-    "from": "https://www.ubs.com/global/en/careers/early-careers/tomorrows-talent-program.html",
-    "to": "https://www.ubs.com/global/en/careers/early-careers/summer-internship-program.html"
-  },
-  {
-    "canonical_id": "ubs-tomorrows-talent-emea",
-    "changed_at": "2026-08-31T00:21:38Z",
-    "field": "application_url",
-    "from": null,
-    "to": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=15974"
-  },
-  {
-    "canonical_id": "ubs-tomorrows-talent-emea",
-    "changed_at": "2026-08-31T00:21:38Z",
-    "field": "lifecycle",
-    "from": "unknown",
-    "to": "open"
-  },
-  {
-    "canonical_id": "ubs-tomorrows-talent-emea",
-    "changed_at": "2026-08-31T00:21:38Z",
-    "field": "deadline_status",
-    "from": "none_stated",
-    "to": "rolling"
-  },
-  {
-    "canonical_id": "ubs-tomorrows-talent-emea",
-    "changed_at": "2026-08-31T00:21:38Z",
-    "field": "start_date",
-    "from": null,
-    "to": "2026-07"
-  },
-  {
-    "canonical_id": "ubs-tomorrows-talent-emea",
-    "changed_at": "2026-08-31T00:21:38Z",
-    "field": "eligibility",
-    "from": "likely_eligible",
-    "to": "uncertain"
-  },
-  {
-    "canonical_id": "ubs-tomorrows-talent-emea",
-    "changed_at": "2026-08-31T00:21:38Z",
-    "field": "location",
-    "from": "London, UK",
-    "to": "Online"
-  },
-  {
-    "canonical_id": "optiver-trading",
-    "changed_at": "2026-08-31T00:23:55Z",
-    "field": "title",
-    "from": "Trading",
-    "to": "Software Engineer Internship (2027 Start)"
-  },
-  {
     "canonical_id": "optiver-trading",
     "changed_at": "2026-08-31T00:23:55Z",
     "field": "source_url",
@@ -7323,6 +7245,81 @@
   {
     "canonical_id": "met-office-climate-metadata-analyst-industrial-placement-2027",
     "changed_at": "2026-10-13T12:54:25Z",
+    "field": "requirements",
+    "from": [
+      "degree_subject:['engineering']:required",
+      "security_vetting:Security vetting:informational"
+    ],
+    "to": [
+      "security_vetting:Security vetting:informational"
+    ]
+  },
+  {
+    "canonical_id": "met-office-digital-content-and-user-experience-industrial-placement-2027",
+    "changed_at": "2026-10-14T10:31:20Z",
+    "field": "title",
+    "from": "Design and Content Industrial Placement 2027",
+    "to": "Customer Engagement Industrial Placement 2027"
+  },
+  {
+    "canonical_id": "met-office-digital-content-and-user-experience-industrial-placement-2027",
+    "changed_at": "2026-10-14T10:31:20Z",
+    "field": "source_url",
+    "from": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Design-and-Content-Industrial-Placement-2027-1493",
+    "to": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Customer-Engagement-Industrial-Placement-2027-1483"
+  },
+  {
+    "canonical_id": "met-office-data-engineers-industrial-placement-2027",
+    "changed_at": "2026-10-14T10:31:20Z",
+    "field": "title",
+    "from": "Broadcast Graphics Industrial Placement 2027",
+    "to": "Design and Content Industrial Placement 2027"
+  },
+  {
+    "canonical_id": "met-office-data-engineers-industrial-placement-2027",
+    "changed_at": "2026-10-14T10:31:20Z",
+    "field": "source_url",
+    "from": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Broadcast-Graphics-Industrial-Placement-2027-1478",
+    "to": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Design-and-Content-Industrial-Placement-2027-1493"
+  },
+  {
+    "canonical_id": "met-office-climate-metadata-analyst-industrial-placement-2027",
+    "changed_at": "2026-10-14T10:31:20Z",
+    "field": "title",
+    "from": "User Researcher Industrial Placement 2027",
+    "to": "Broadcast Graphics Industrial Placement 2027"
+  },
+  {
+    "canonical_id": "met-office-climate-metadata-analyst-industrial-placement-2027",
+    "changed_at": "2026-10-14T10:31:20Z",
+    "field": "source_url",
+    "from": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/User-Researcher-Industrial-Placement-2027-1479",
+    "to": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Broadcast-Graphics-Industrial-Placement-2027-1478"
+  },
+  {
+    "canonical_id": "met-office-network-engineer-industrial-placement-2027",
+    "changed_at": "2026-10-14T10:31:20Z",
+    "field": "title",
+    "from": "Network Engineer Industrial Placement 2027",
+    "to": "User Researcher Industrial Placement 2027"
+  },
+  {
+    "canonical_id": "met-office-network-engineer-industrial-placement-2027",
+    "changed_at": "2026-10-14T10:31:20Z",
+    "field": "source_url",
+    "from": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Network-Engineer-Industrial-Placement-2027-1494",
+    "to": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/User-Researcher-Industrial-Placement-2027-1479"
+  },
+  {
+    "canonical_id": "met-office-network-engineer-industrial-placement-2027",
+    "changed_at": "2026-10-14T10:31:20Z",
+    "field": "eligibility",
+    "from": "ineligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "met-office-network-engineer-industrial-placement-2027",
+    "changed_at": "2026-10-14T10:31:20Z",
     "field": "requirements",
     "from": [
       "degree_subject:['engineering']:required",
