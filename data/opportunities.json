@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-10-18T20:39:40Z",
+  "generated_at": "2026-10-19T04:37:25Z",
   "profile_version": 1,
   "alias_map": {
     "db-fic-spring-2027": "deutsche-bank-2027-fic-spring",
@@ -137,7 +137,7 @@
         {
           "statement": "The official source matched: 2027 spring insight, 2029, 4 december 2026.",
           "source_url": "https://careers.blackrock.com/job/london/2027-spring-insight-event-emea/45831/97150826752",
-          "checked_at": "2026-10-18",
+          "checked_at": "2026-10-19",
           "source_type": "official"
         }
       ],
@@ -159,13 +159,13 @@
           "reason": "Known graduation year is 2029; accepted: 2029."
         }
       ],
-      "checked_at": "2026-10-18",
+      "checked_at": "2026-10-19",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-10-18T20:39:39Z",
-      "last_changed": "2026-10-18T20:39:39Z",
+      "last_seen": "2026-10-19T04:37:24Z",
+      "last_changed": "2026-10-19T04:37:24Z",
       "source_id": "blackrock-spring-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "e3738f0feffaffa474e3c8eecf7a31626fe890108da8dfdb622267641f86ba76",
+      "content_fingerprint": "69f3f49cd1dc86f4cc958d1680de7a37494aa6b4fc28c62fd134cd82cbe102f4",
       "confidence": 0.8,
       "priority_tier": "A",
       "review_required": false,
@@ -185,8 +185,8 @@
       "discovered_via": "https://careers.blackrock.com/job/london/2027-spring-insight-event-emea/45831/97150826752",
       "primary_evidence_url": "https://careers.blackrock.com/job/london/2027-spring-insight-event-emea/45831/97150826752",
       "alternate_sources": [],
-      "last_verified": "2026-10-18T20:39:39Z",
-      "deadline_last_verified": "2026-10-18T20:39:39Z",
+      "last_verified": "2026-10-19T04:37:24Z",
+      "deadline_last_verified": "2026-10-19T04:37:24Z",
       "missing_count": 0,
       "source_family": "blackrock",
       "security_vetting": null,
@@ -602,7 +602,7 @@
         {
           "statement": "The official source matched: 2027 internship, register your interest.",
           "source_url": "https://search.jobs.barclays/discovery",
-          "checked_at": "2026-10-18",
+          "checked_at": "2026-10-19",
           "source_type": "official"
         }
       ],
@@ -626,13 +626,13 @@
           "reason": "Known graduation year is 2029; accepted: 2027, 2028, 2029."
         }
       ],
-      "checked_at": "2026-10-18",
+      "checked_at": "2026-10-19",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-10-18T20:39:39Z",
-      "last_changed": "2026-10-18T20:39:39Z",
+      "last_seen": "2026-10-19T04:37:24Z",
+      "last_changed": "2026-10-19T04:37:24Z",
       "source_id": "barclays-discovery-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "e424db515ffcc433cfb4edeb94dc46ecf1ed3122ebd1837f6645f063b4207b45",
+      "content_fingerprint": "227d768109a28aee9bb020a9156bc177d06ea84d442c3eb3f6d709d651400c8e",
       "confidence": 0.8,
       "priority_tier": "A",
       "review_required": false,
@@ -652,7 +652,7 @@
       "discovered_via": "https://search.jobs.barclays/discovery",
       "primary_evidence_url": "https://search.jobs.barclays/discovery",
       "alternate_sources": [],
-      "last_verified": "2026-10-18T20:39:39Z",
+      "last_verified": "2026-10-19T04:37:24Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "barclays",
@@ -699,7 +699,7 @@
         {
           "statement": "The official source matched: london spring weeks, april 2027, 1 year students.",
           "source_url": "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/",
-          "checked_at": "2026-10-18",
+          "checked_at": "2026-10-19",
           "source_type": "official"
         }
       ],
@@ -721,13 +721,13 @@
           "reason": "Candidate would be in academic year 1; accepted: [1]."
         }
       ],
-      "checked_at": "2026-10-18",
+      "checked_at": "2026-10-19",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-10-18T20:39:39Z",
-      "last_changed": "2026-10-18T20:39:39Z",
+      "last_seen": "2026-10-19T04:37:24Z",
+      "last_changed": "2026-10-19T04:37:24Z",
       "source_id": "evercore-spring-week-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "08baf567ca7cf77966678d228910d484021ed0360817ae2ad7b743af3166b798",
+      "content_fingerprint": "a087dcab798e0f8473857573a044876cc38cb92e6b0f148c2f869c99b719cde2",
       "confidence": 0.8,
       "priority_tier": "A",
       "review_required": false,
@@ -747,7 +747,7 @@
       "discovered_via": "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/",
       "primary_evidence_url": "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/",
       "alternate_sources": [],
-      "last_verified": "2026-10-18T20:39:39Z",
+      "last_verified": "2026-10-19T04:37:24Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "evercore",
@@ -919,13 +919,13 @@
         {
           "statement": "The official detail page identifies Spring into Quant Finance 2026 as a current or announced opportunity.",
           "source_url": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
-          "checked_at": "2026-10-18",
+          "checked_at": "2026-10-19",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
-          "checked_at": "2026-10-18",
+          "checked_at": "2026-10-19",
           "source_type": "official"
         }
       ],
@@ -951,13 +951,13 @@
           "reason": "Known course is BSc Mathematics and Physics; required subject set: ['mathematics', 'physics', 'computer science', 'engineering', 'statistics']."
         }
       ],
-      "checked_at": "2026-10-18",
+      "checked_at": "2026-10-19",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-10-18T20:39:39Z",
-      "last_changed": "2026-10-18T20:39:39Z",
+      "last_seen": "2026-10-19T04:37:24Z",
+      "last_changed": "2026-10-19T04:37:24Z",
       "source_id": "g-research-spring-quant-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "830dd0aa123e719f1cfd1c34852b6d9d1ebc8c31fdad2d4025935bdc102b1f37",
+      "content_fingerprint": "ab4296b1a9e5ed3d87b80a71ded0c57ce5955517cba34143bbfd81c02703c244",
       "confidence": 0.99,
       "priority_tier": "A",
       "review_required": false,
@@ -990,7 +990,7 @@
       "discovered_via": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
       "primary_evidence_url": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
       "alternate_sources": [],
-      "last_verified": "2026-10-18T20:39:39Z",
+      "last_verified": "2026-10-19T04:37:24Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "g-research",
