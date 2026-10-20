@@ -2,27 +2,6 @@
   {
     "canonical_id": "hsbc-investment-banking-internship",
     "changed_at": "2026-09-06T08:55:25Z",
-    "field": "opens_at",
-    "from": "2026-07-06",
-    "to": "2026-09-03"
-  },
-  {
-    "canonical_id": "hsbc-investment-banking-internship",
-    "changed_at": "2026-09-06T08:55:25Z",
-    "field": "start_date",
-    "from": "2027-07",
-    "to": "2028-07"
-  },
-  {
-    "canonical_id": "hsbc-investment-banking-internship",
-    "changed_at": "2026-09-06T08:55:25Z",
-    "field": "eligibility",
-    "from": "uncertain",
-    "to": "ineligible"
-  },
-  {
-    "canonical_id": "hsbc-investment-banking-internship",
-    "changed_at": "2026-09-06T08:55:25Z",
     "field": "requirements",
     "from": [],
     "to": [
@@ -7328,5 +7307,26 @@
     "to": [
       "degree_subject:['computer science', 'engineering', 'data science']:preferred"
     ]
+  },
+  {
+    "canonical_id": "european-space-agency-esa-academy-experiments-programme",
+    "changed_at": "2026-10-20T20:47:55Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "european-space-agency-announcement-of-opportunity-for-the-esa-academy-experiments-programme-20",
+    "changed_at": "2026-10-20T20:47:55Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "european-space-agency-new-rocketry-training-programme-from-esa-academy",
+    "changed_at": "2026-10-20T20:47:55Z",
+    "field": "lifecycle",
+    "from": "unknown",
+    "to": "stale"
   }
 ]

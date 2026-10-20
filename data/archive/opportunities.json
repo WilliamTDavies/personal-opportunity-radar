@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T17:00:26Z",
+  "generated_at": "2026-10-20T20:48:11Z",
   "opportunities": [
     {
       "canonical_id": "cme-september-trading-challenge-2026",
@@ -521,7 +521,7 @@
       "title": "New Rocketry Training Programme from ESA Academy!",
       "organisation": "European Space Agency",
       "stream": "competitions_development",
-      "lifecycle": "unknown",
+      "lifecycle": "stale",
       "eligibility": "ineligible",
       "primary_action": "Explore",
       "source_url": "https://www.esa.int/Education/ESA_Academy/New_Rocketry_Training_Programme_from_ESA_Academy",
@@ -590,7 +590,7 @@
       "checked_at": "2026-10-19",
       "first_seen": "2026-08-31T00:03:43Z",
       "last_seen": "2026-10-19T11:09:11Z",
-      "last_changed": "2026-10-19T11:09:11Z",
+      "last_changed": "2026-10-20T20:47:55Z",
       "source_id": "esa-academy",
       "source_kind": "discovered",
       "content_fingerprint": "2a77dee6c887e42b713dd9a7afb5e5bfde8bba623a6ae65928ed62cc9dfbabb8",
@@ -598,12 +598,15 @@
       "priority_tier": "C",
       "review_required": false,
       "review_reasons": [
+        "absent from three consecutive healthy source scans",
         "current application lifecycle is unclear"
       ],
       "identity_targeted": false,
       "access_scope": "unknown",
       "source_conflict": false,
-      "change_summary": [],
+      "change_summary": [
+        "lifecycle: unknown → stale"
+      ],
       "opportunity_type": "competition_or_development",
       "career_fields": [
         "engineering",
@@ -625,7 +628,7 @@
       ],
       "last_verified": "2026-10-19T11:09:11Z",
       "deadline_last_verified": "2026-10-19T11:09:11Z",
-      "missing_count": 2,
+      "missing_count": 3,
       "source_family": "european-space-agency",
       "security_vetting": null,
       "required_documents": [],
@@ -687,11 +690,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-10-20",
       "first_seen": "2026-08-31T00:23:55Z",
-      "last_seen": "2026-10-20T10:21:44Z",
-      "last_changed": "2026-10-20T10:21:44Z",
+      "last_seen": "2026-10-20T20:47:55Z",
+      "last_changed": "2026-10-20T20:47:55Z",
       "source_id": "cambridge-cms-summer-research",
       "source_kind": "discovered",
-      "content_fingerprint": "f94923ceed691b52b11f72c7a10ea7b2b3b32773c30defd7b7d63a6c6aebd2de",
+      "content_fingerprint": "5d3113c0a80bbe6ce2fb4e024f140f6709b6d5b54c20d5f18bb7ac2444a58066",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -723,8 +726,8 @@
       "alternate_sources": [
         "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-programmes"
       ],
-      "last_verified": "2026-10-20T10:21:44Z",
-      "deadline_last_verified": "2026-10-20T10:21:44Z",
+      "last_verified": "2026-10-20T20:47:55Z",
+      "deadline_last_verified": "2026-10-20T20:47:55Z",
       "missing_count": 0,
       "source_family": "cambridge-mathematics",
       "security_vetting": null,
@@ -1441,6 +1444,104 @@
       "parser_version": 3
     },
     {
+      "canonical_id": "european-space-agency-announcement-of-opportunity-for-the-esa-academy-experiments-programme-20",
+      "title": "Announcement of opportunity for the ESA Academy Experiments Programme 2026-2027",
+      "organisation": "European Space Agency",
+      "stream": "competitions_development",
+      "lifecycle": "stale",
+      "eligibility": "uncertain",
+      "primary_action": "Apply",
+      "source_url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme/Announcement_of_opportunity_for_the_ESA_Academy_Experiments_Programme_2026-2027",
+      "location": "Online",
+      "start_date": "2026-07-31",
+      "end_date": "2026-11-22",
+      "deadline": "2026-11-22",
+      "deadline_status": "fixed",
+      "deadline_source": "https://www.esa.int/Education/ESA_Academy_Experiments_programme/Announcement_of_opportunity_for_the_ESA_Academy_Experiments_Programme_2026-2027",
+      "deadline_verified": true,
+      "rolling": false,
+      "opens_at": null,
+      "research_mode": null,
+      "summary": "Announcement of opportunity for the ESA Academy Experiments Programme 2026-2027.",
+      "why_it_fits": "Official subject, timing and access evidence will be evaluated against the Durham Mathematics & Physics profile.",
+      "eligibility_note": "Needs eligibility check against the extracted official criteria.",
+      "next_step": "Apply through the official route.",
+      "tags": [
+        "2027",
+        "automatically discovered",
+        "data",
+        "engineering",
+        "research"
+      ],
+      "aliases": [],
+      "merged_alias_ids": [],
+      "evidence": [
+        {
+          "statement": "The official detail page identifies Announcement of opportunity for the ESA Academy Experiments Programme 2026-2027 as a current or announced opportunity.",
+          "source_url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme/Announcement_of_opportunity_for_the_ESA_Academy_Experiments_Programme_2026-2027",
+          "checked_at": "2026-10-19",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page states an application deadline of 2026-11-22.",
+          "source_url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme/Announcement_of_opportunity_for_the_ESA_Academy_Experiments_Programme_2026-2027",
+          "checked_at": "2026-10-19",
+          "source_type": "official"
+        }
+      ],
+      "requirements": [],
+      "rule_evaluations": [],
+      "checked_at": "2026-10-19",
+      "first_seen": "2026-08-31T00:03:43Z",
+      "last_seen": "2026-10-19T11:09:11Z",
+      "last_changed": "2026-10-20T20:47:55Z",
+      "source_id": "esa-academy",
+      "source_kind": "discovered",
+      "content_fingerprint": "edc19db1f87edbced4b9f16941677b02a34ee9350cd9981f80a2e61c6e98f558",
+      "confidence": 0.8999999999999999,
+      "priority_tier": "C",
+      "review_required": false,
+      "review_reasons": [
+        "absent from three consecutive healthy source scans",
+        "important eligibility evidence remains unknown"
+      ],
+      "identity_targeted": false,
+      "access_scope": "unknown",
+      "source_conflict": false,
+      "change_summary": [
+        "lifecycle: open → stale"
+      ],
+      "opportunity_type": "competition_or_development",
+      "career_fields": [
+        "research",
+        "engineering",
+        "data"
+      ],
+      "subject_fields": [
+        "engineering"
+      ],
+      "country": "",
+      "city": "",
+      "work_mode": "remote",
+      "cycle": "2027",
+      "application_url": "https://www.esa.int/Education/Academy_Experiments_programme/How_to_apply",
+      "discovered_via": "https://www.esa.int/Education/ESA_Academy/Current_opportunities",
+      "primary_evidence_url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme/Announcement_of_opportunity_for_the_ESA_Academy_Experiments_Programme_2026-2027",
+      "alternate_sources": [
+        "https://www.esa.int/Education/ESA_Academy/Current_opportunities"
+      ],
+      "last_verified": "2026-10-19T11:09:11Z",
+      "deadline_last_verified": "2026-10-19T11:09:11Z",
+      "missing_count": 3,
+      "source_family": "european-space-agency",
+      "security_vetting": null,
+      "required_documents": [],
+      "duration": "12 month",
+      "template_dependent": false,
+      "auto_publish_reason": "",
+      "parser_version": 3
+    },
+    {
       "canonical_id": "jane-street-see-ldn",
       "title": "SEE London March 29th - April 3rd, 2027",
       "organisation": "Jane Street",
@@ -1524,8 +1625,8 @@
       ],
       "checked_at": "2026-10-20",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-20T17:00:25Z",
-      "last_changed": "2026-10-20T17:00:25Z",
+      "last_seen": "2026-10-20T20:47:55Z",
+      "last_changed": "2026-10-20T20:47:55Z",
       "source_id": "jane-street-see-london-2027",
       "source_kind": "discovered",
       "content_fingerprint": "d9fc0030675774dd734bc6bd73b9131673a0cce884f058239000fbbc5dd696fb",
@@ -1561,8 +1662,8 @@
       "alternate_sources": [
         "https://www.janestreet.com/jobs/programs-endpoint.json"
       ],
-      "last_verified": "2026-10-20T17:00:25Z",
-      "deadline_last_verified": "2026-10-20T17:00:25Z",
+      "last_verified": "2026-10-20T20:47:55Z",
+      "deadline_last_verified": "2026-10-20T20:47:55Z",
       "missing_count": 0,
       "source_family": "jane-street",
       "security_vetting": null,
@@ -1678,11 +1779,11 @@
       ],
       "checked_at": "2026-10-20",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-10-20T10:21:44Z",
-      "last_changed": "2026-10-20T10:21:44Z",
+      "last_seen": "2026-10-20T20:47:55Z",
+      "last_changed": "2026-10-20T20:47:55Z",
       "source_id": "lms-bursary-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "20a75a9eaabfc107974211e635531ec7ba33fd5b16419e0b9fc7cb2249779abe",
+      "content_fingerprint": "13be16aa0476383ce5ef01046633e5c5b9e4abf3a36ec80087ce8827fc66abf7",
       "confidence": 0.99,
       "priority_tier": "C",
       "review_required": false,
@@ -1709,8 +1810,8 @@
       "discovered_via": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
       "primary_evidence_url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
       "alternate_sources": [],
-      "last_verified": "2026-10-20T10:21:44Z",
-      "deadline_last_verified": "2026-10-20T10:21:44Z",
+      "last_verified": "2026-10-20T20:47:55Z",
+      "deadline_last_verified": "2026-10-20T20:47:55Z",
       "missing_count": 0,
       "source_family": "london-mathematical-society",
       "security_vetting": null,
@@ -2257,13 +2358,13 @@
         {
           "statement": "The official detail page identifies 2027 Summer Analyst Programme as a current or announced opportunity.",
           "source_url": "https://www.goldmansachs.com/careers/students/programs-and-internships/emea/summer-analyst-programme",
-          "checked_at": "2026-10-19",
+          "checked_at": "2026-10-20",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.goldmansachs.com/careers/students/programs-and-internships/emea/summer-analyst-programme",
-          "checked_at": "2026-10-19",
+          "checked_at": "2026-10-20",
           "source_type": "official"
         }
       ],
@@ -2283,13 +2384,13 @@
           "reason": "Known degree dates make penultimate-year status False for this cycle."
         }
       ],
-      "checked_at": "2026-10-19",
+      "checked_at": "2026-10-20",
       "first_seen": "2026-08-31T00:22:47Z",
-      "last_seen": "2026-10-19T21:42:43Z",
-      "last_changed": "2026-10-19T21:42:43Z",
+      "last_seen": "2026-10-20T20:47:55Z",
+      "last_changed": "2026-10-20T20:47:55Z",
       "source_id": "goldman-sachs-student-programs",
       "source_kind": "discovered",
-      "content_fingerprint": "c2954500191d9f986b8072726871d8e349041299193d22b40cd134c66bf530cc",
+      "content_fingerprint": "680441bae4126c528273469e52a0ae588c78cd0f45aed1871bf937484d9d7e38",
       "confidence": 0.99,
       "priority_tier": "C",
       "review_required": false,
@@ -2315,7 +2416,7 @@
       "discovered_via": "https://www.goldmansachs.com/careers/students/programs-and-internships/emea/summer-analyst-programme",
       "primary_evidence_url": "https://www.goldmansachs.com/careers/students/programs-and-internships/emea/summer-analyst-programme",
       "alternate_sources": [],
-      "last_verified": "2026-10-19T21:42:43Z",
+      "last_verified": "2026-10-20T20:47:55Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "goldman-sachs",
@@ -2775,6 +2876,92 @@
       "security_vetting": null,
       "required_documents": [],
       "duration": "10-week",
+      "template_dependent": false,
+      "auto_publish_reason": "",
+      "parser_version": 3
+    },
+    {
+      "canonical_id": "european-space-agency-esa-academy-experiments-programme",
+      "title": "ESA Academy Experiments programme",
+      "organisation": "European Space Agency",
+      "stream": "competitions_development",
+      "lifecycle": "stale",
+      "eligibility": "uncertain",
+      "primary_action": "Apply",
+      "source_url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme",
+      "location": "Not stated",
+      "start_date": "2026-01",
+      "end_date": null,
+      "deadline": null,
+      "deadline_status": "none_stated",
+      "deadline_source": null,
+      "deadline_verified": false,
+      "rolling": false,
+      "opens_at": null,
+      "research_mode": null,
+      "summary": "ESA Academy Experiments programme. ESA - ESA Academy Experiments programme Agency ESA Academy Experiments programme Latest All Stories Videos Images Highlight Agency Current opportunities for university students Open Highlight Agency About the ESA Academy Experiments programme Open Story Agency Student-built SCAMPI exp",
+      "why_it_fits": "Official subject, timing and access evidence will be evaluated against the Durham Mathematics & Physics profile.",
+      "eligibility_note": "Needs eligibility check against the extracted official criteria.",
+      "next_step": "Apply through the official route.",
+      "tags": [
+        "2026",
+        "automatically discovered",
+        "data"
+      ],
+      "aliases": [],
+      "merged_alias_ids": [],
+      "evidence": [
+        {
+          "statement": "The official detail page identifies ESA Academy Experiments programme as a current or announced opportunity.",
+          "source_url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme",
+          "checked_at": "2026-10-19",
+          "source_type": "official"
+        }
+      ],
+      "requirements": [],
+      "rule_evaluations": [],
+      "checked_at": "2026-10-19",
+      "first_seen": "2026-08-31T00:03:43Z",
+      "last_seen": "2026-10-19T11:09:11Z",
+      "last_changed": "2026-10-20T20:47:55Z",
+      "source_id": "esa-academy",
+      "source_kind": "discovered",
+      "content_fingerprint": "ff9c951a79bd8e7cbd9ab59b84d657e1f5913c8e50ca5abb82d3226fd87d9b2e",
+      "confidence": 0.8999999999999999,
+      "priority_tier": "C",
+      "review_required": false,
+      "review_reasons": [
+        "absent from three consecutive healthy source scans",
+        "important eligibility evidence remains unknown"
+      ],
+      "identity_targeted": false,
+      "access_scope": "unknown",
+      "source_conflict": false,
+      "change_summary": [
+        "lifecycle: open → stale"
+      ],
+      "opportunity_type": "competition_or_development",
+      "career_fields": [
+        "data"
+      ],
+      "subject_fields": [],
+      "country": "",
+      "city": "",
+      "work_mode": "on_site",
+      "cycle": "2026",
+      "application_url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme/How_to_apply",
+      "discovered_via": "https://www.esa.int/Education/ESA_Academy/Current_opportunities",
+      "primary_evidence_url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme",
+      "alternate_sources": [
+        "https://www.esa.int/Education/ESA_Academy/Current_opportunities"
+      ],
+      "last_verified": "2026-10-19T11:09:11Z",
+      "deadline_last_verified": null,
+      "missing_count": 3,
+      "source_family": "european-space-agency",
+      "security_vetting": null,
+      "required_documents": [],
+      "duration": null,
       "template_dependent": false,
       "auto_publish_reason": "",
       "parser_version": 3
@@ -3407,8 +3594,8 @@
       ],
       "checked_at": "2026-10-20",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-20T10:21:44Z",
-      "last_changed": "2026-10-20T10:21:44Z",
+      "last_seen": "2026-10-20T20:47:55Z",
+      "last_changed": "2026-10-20T20:47:55Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "fccba847d49579f962ef51ae6fadb669d586c7383a3fd5645a3b881d7d61f05b",
@@ -3440,7 +3627,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-10-20T10:21:44Z",
+      "last_verified": "2026-10-20T20:47:55Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
