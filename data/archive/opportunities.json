@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T17:09:39Z",
+  "generated_at": "2026-10-21T20:51:02Z",
   "opportunities": [
     {
       "canonical_id": "cme-september-trading-challenge-2026",
@@ -628,7 +628,7 @@
       ],
       "last_verified": "2026-10-19T11:09:11Z",
       "deadline_last_verified": "2026-10-19T11:09:11Z",
-      "missing_count": 4,
+      "missing_count": 5,
       "source_family": "european-space-agency",
       "security_vetting": null,
       "required_documents": [],
@@ -690,11 +690,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-10-21",
       "first_seen": "2026-08-31T00:23:55Z",
-      "last_seen": "2026-10-21T10:30:24Z",
-      "last_changed": "2026-10-21T10:30:24Z",
+      "last_seen": "2026-10-21T20:50:42Z",
+      "last_changed": "2026-10-21T20:50:42Z",
       "source_id": "cambridge-cms-summer-research",
       "source_kind": "discovered",
-      "content_fingerprint": "579e96a5f4dc34984a40d05e34f322d848bcb5cd190fcf9411d192ed8b9ca452",
+      "content_fingerprint": "688cff3937ef980ccd50f9b0dca8b78332bc074066da8115bf36feea9797d4f7",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -726,8 +726,8 @@
       "alternate_sources": [
         "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-programmes"
       ],
-      "last_verified": "2026-10-21T10:30:24Z",
-      "deadline_last_verified": "2026-10-21T10:30:24Z",
+      "last_verified": "2026-10-21T20:50:42Z",
+      "deadline_last_verified": "2026-10-21T20:50:42Z",
       "missing_count": 0,
       "source_family": "cambridge-mathematics",
       "security_vetting": null,
@@ -1532,7 +1532,7 @@
       ],
       "last_verified": "2026-10-19T11:09:11Z",
       "deadline_last_verified": "2026-10-19T11:09:11Z",
-      "missing_count": 4,
+      "missing_count": 5,
       "source_family": "european-space-agency",
       "security_vetting": null,
       "required_documents": [],
@@ -1625,8 +1625,8 @@
       ],
       "checked_at": "2026-10-21",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-21T17:09:38Z",
-      "last_changed": "2026-10-21T17:09:38Z",
+      "last_seen": "2026-10-21T20:50:42Z",
+      "last_changed": "2026-10-21T20:50:42Z",
       "source_id": "jane-street-see-london-2027",
       "source_kind": "discovered",
       "content_fingerprint": "d9fc0030675774dd734bc6bd73b9131673a0cce884f058239000fbbc5dd696fb",
@@ -1662,8 +1662,8 @@
       "alternate_sources": [
         "https://www.janestreet.com/jobs/programs-endpoint.json"
       ],
-      "last_verified": "2026-10-21T17:09:38Z",
-      "deadline_last_verified": "2026-10-21T17:09:38Z",
+      "last_verified": "2026-10-21T20:50:42Z",
+      "deadline_last_verified": "2026-10-21T20:50:42Z",
       "missing_count": 0,
       "source_family": "jane-street",
       "security_vetting": null,
@@ -1713,19 +1713,19 @@
         {
           "statement": "The official detail page identifies Undergraduate Research Bursaries 2027 as a current or announced opportunity.",
           "source_url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
-          "checked_at": "2026-10-20",
+          "checked_at": "2026-10-21",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2027-02-01.",
           "source_url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
-          "checked_at": "2026-10-20",
+          "checked_at": "2026-10-21",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
-          "checked_at": "2026-10-20",
+          "checked_at": "2026-10-21",
           "source_type": "official"
         }
       ],
@@ -1777,13 +1777,13 @@
           "reason": "Known course is BSc Mathematics and Physics; required subject set: ['mathematics', 'computer science', 'statistics']."
         }
       ],
-      "checked_at": "2026-10-20",
+      "checked_at": "2026-10-21",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-10-20T20:47:55Z",
-      "last_changed": "2026-10-20T20:47:55Z",
+      "last_seen": "2026-10-21T20:50:42Z",
+      "last_changed": "2026-10-21T20:50:42Z",
       "source_id": "lms-bursary-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "13be16aa0476383ce5ef01046633e5c5b9e4abf3a36ec80087ce8827fc66abf7",
+      "content_fingerprint": "e1efc83382ab9e42bce0513b393178121cd1b4e0fa25d80611da44a31d5e2989",
       "confidence": 0.99,
       "priority_tier": "C",
       "review_required": false,
@@ -1810,8 +1810,8 @@
       "discovered_via": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
       "primary_evidence_url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
       "alternate_sources": [],
-      "last_verified": "2026-10-20T20:47:55Z",
-      "deadline_last_verified": "2026-10-20T20:47:55Z",
+      "last_verified": "2026-10-21T20:50:42Z",
+      "deadline_last_verified": "2026-10-21T20:50:42Z",
       "missing_count": 0,
       "source_family": "london-mathematical-society",
       "security_vetting": null,
@@ -2881,92 +2881,6 @@
       "parser_version": 3
     },
     {
-      "canonical_id": "european-space-agency-esa-academy-experiments-programme",
-      "title": "ESA Academy Experiments programme",
-      "organisation": "European Space Agency",
-      "stream": "competitions_development",
-      "lifecycle": "stale",
-      "eligibility": "uncertain",
-      "primary_action": "Apply",
-      "source_url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme",
-      "location": "Not stated",
-      "start_date": "2026-01",
-      "end_date": null,
-      "deadline": null,
-      "deadline_status": "none_stated",
-      "deadline_source": null,
-      "deadline_verified": false,
-      "rolling": false,
-      "opens_at": null,
-      "research_mode": null,
-      "summary": "ESA Academy Experiments programme. ESA - ESA Academy Experiments programme Agency ESA Academy Experiments programme Latest All Stories Videos Images Highlight Agency Current opportunities for university students Open Highlight Agency About the ESA Academy Experiments programme Open Story Agency Student-built SCAMPI exp",
-      "why_it_fits": "Official subject, timing and access evidence will be evaluated against the Durham Mathematics & Physics profile.",
-      "eligibility_note": "Needs eligibility check against the extracted official criteria.",
-      "next_step": "Apply through the official route.",
-      "tags": [
-        "2026",
-        "automatically discovered",
-        "data"
-      ],
-      "aliases": [],
-      "merged_alias_ids": [],
-      "evidence": [
-        {
-          "statement": "The official detail page identifies ESA Academy Experiments programme as a current or announced opportunity.",
-          "source_url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme",
-          "checked_at": "2026-10-19",
-          "source_type": "official"
-        }
-      ],
-      "requirements": [],
-      "rule_evaluations": [],
-      "checked_at": "2026-10-19",
-      "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-10-19T11:09:11Z",
-      "last_changed": "2026-10-20T20:47:55Z",
-      "source_id": "esa-academy",
-      "source_kind": "discovered",
-      "content_fingerprint": "ff9c951a79bd8e7cbd9ab59b84d657e1f5913c8e50ca5abb82d3226fd87d9b2e",
-      "confidence": 0.8999999999999999,
-      "priority_tier": "C",
-      "review_required": false,
-      "review_reasons": [
-        "absent from three consecutive healthy source scans",
-        "important eligibility evidence remains unknown"
-      ],
-      "identity_targeted": false,
-      "access_scope": "unknown",
-      "source_conflict": false,
-      "change_summary": [
-        "lifecycle: open → stale"
-      ],
-      "opportunity_type": "competition_or_development",
-      "career_fields": [
-        "data"
-      ],
-      "subject_fields": [],
-      "country": "",
-      "city": "",
-      "work_mode": "on_site",
-      "cycle": "2026",
-      "application_url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme/How_to_apply",
-      "discovered_via": "https://www.esa.int/Education/ESA_Academy/Current_opportunities",
-      "primary_evidence_url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme",
-      "alternate_sources": [
-        "https://www.esa.int/Education/ESA_Academy/Current_opportunities"
-      ],
-      "last_verified": "2026-10-19T11:09:11Z",
-      "deadline_last_verified": null,
-      "missing_count": 4,
-      "source_family": "european-space-agency",
-      "security_vetting": null,
-      "required_documents": [],
-      "duration": null,
-      "template_dependent": false,
-      "auto_publish_reason": "",
-      "parser_version": 3
-    },
-    {
       "canonical_id": "uk-atomic-energy-authority-faiz-rahman-joins-ukaea-s-graduate-scheme-after-completing-his-student-p",
       "title": "Faiz Rahman joins UKAEA’s graduate scheme after completing his student placement",
       "organisation": "UK Atomic Energy Authority",
@@ -3594,8 +3508,8 @@
       ],
       "checked_at": "2026-10-21",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-21T10:30:24Z",
-      "last_changed": "2026-10-21T10:30:24Z",
+      "last_seen": "2026-10-21T20:50:42Z",
+      "last_changed": "2026-10-21T20:50:42Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "fccba847d49579f962ef51ae6fadb669d586c7383a3fd5645a3b881d7d61f05b",
@@ -3627,7 +3541,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-10-21T10:30:24Z",
+      "last_verified": "2026-10-21T20:50:42Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",

@@ -1,35 +1,5 @@
 [
   {
-    "canonical_id": "hsbc-investment-banking-internship",
-    "changed_at": "2026-09-06T08:55:25Z",
-    "field": "requirements",
-    "from": [],
-    "to": [
-      "graduation_year:[2028]:required"
-    ]
-  },
-  {
-    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
-    "changed_at": "2026-09-06T08:55:25Z",
-    "field": "title",
-    "from": "Investment Banking - HSBC Infrastructure Finance - Internship",
-    "to": "Business Analyst - Treasury - Internship"
-  },
-  {
-    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
-    "changed_at": "2026-09-06T08:55:25Z",
-    "field": "source_url",
-    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Investment-Banking-HSBC-Infrastructure-Finance-Internship-018983/1365767157/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
-    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Business-Analyst-Treasury-Internship-Hong/1371080057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
-  },
-  {
-    "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
-    "changed_at": "2026-09-06T08:55:25Z",
-    "field": "application_url",
-    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1365767157/?locale=en_GB",
-    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1371080057/?locale=en_GB"
-  },
-  {
     "canonical_id": "hsbc-investment-banking-hsbc-infrastructure-finance-internship",
     "changed_at": "2026-09-06T08:55:25Z",
     "field": "deadline",
@@ -7328,5 +7298,33 @@
     "field": "lifecycle",
     "from": "unknown",
     "to": "stale"
+  },
+  {
+    "canonical_id": "european-space-agency-esa-academy-experiments-programme",
+    "changed_at": "2026-10-21T20:50:42Z",
+    "field": "title",
+    "from": "ESA Academy Experiments programme",
+    "to": "ESA-sponsored students join the ISEB Student Programme at IAC 2026"
+  },
+  {
+    "canonical_id": "european-space-agency-esa-academy-experiments-programme",
+    "changed_at": "2026-10-21T20:50:42Z",
+    "field": "source_url",
+    "from": "https://www.esa.int/Education/ESA_Academy_Experiments_programme",
+    "to": "https://education.esa.int/esa-sponsored-students-join-the-iseb-student-programme-at-iac-2026/"
+  },
+  {
+    "canonical_id": "european-space-agency-esa-academy-experiments-programme",
+    "changed_at": "2026-10-21T20:50:42Z",
+    "field": "application_url",
+    "from": "https://www.esa.int/Education/ESA_Academy_Experiments_programme/How_to_apply",
+    "to": null
+  },
+  {
+    "canonical_id": "european-space-agency-esa-academy-experiments-programme",
+    "changed_at": "2026-10-21T20:50:42Z",
+    "field": "lifecycle",
+    "from": "stale",
+    "to": "unknown"
   }
 ]
