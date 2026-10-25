@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T16:14:04Z",
+  "generated_at": "2026-10-25T19:54:18Z",
   "opportunities": [
     {
       "canonical_id": "cme-september-trading-challenge-2026",
@@ -628,7 +628,7 @@
       ],
       "last_verified": "2026-10-19T11:09:11Z",
       "deadline_last_verified": "2026-10-19T11:09:11Z",
-      "missing_count": 13,
+      "missing_count": 14,
       "source_family": "european-space-agency",
       "security_vetting": null,
       "required_documents": [],
@@ -690,11 +690,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-10-25",
       "first_seen": "2026-08-31T00:23:55Z",
-      "last_seen": "2026-10-25T09:24:40Z",
-      "last_changed": "2026-10-25T09:24:40Z",
+      "last_seen": "2026-10-25T19:54:07Z",
+      "last_changed": "2026-10-25T19:54:07Z",
       "source_id": "cambridge-cms-summer-research",
       "source_kind": "discovered",
-      "content_fingerprint": "abdf01bf865e4d1c1a95ff26fb35366006ad1583f537186dd43d03b8ea3dfb18",
+      "content_fingerprint": "4192014b89806af195c1331fde29adfafcb5be67075be95375563ef7129c5b54",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -726,8 +726,8 @@
       "alternate_sources": [
         "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-programmes"
       ],
-      "last_verified": "2026-10-25T09:24:40Z",
-      "deadline_last_verified": "2026-10-25T09:24:40Z",
+      "last_verified": "2026-10-25T19:54:07Z",
+      "deadline_last_verified": "2026-10-25T19:54:07Z",
       "missing_count": 0,
       "source_family": "cambridge-mathematics",
       "security_vetting": null,
@@ -1549,7 +1549,7 @@
       ],
       "last_verified": "2026-10-19T11:09:11Z",
       "deadline_last_verified": "2026-10-19T11:09:11Z",
-      "missing_count": 13,
+      "missing_count": 14,
       "source_family": "european-space-agency",
       "security_vetting": null,
       "required_documents": [],
@@ -3243,8 +3243,8 @@
       ],
       "checked_at": "2026-10-25",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-25T10:04:21Z",
-      "last_changed": "2026-10-25T10:04:21Z",
+      "last_seen": "2026-10-25T19:54:07Z",
+      "last_changed": "2026-10-25T19:54:07Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "fccba847d49579f962ef51ae6fadb669d586c7383a3fd5645a3b881d7d61f05b",
@@ -3276,7 +3276,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-10-25T10:04:21Z",
+      "last_verified": "2026-10-25T19:54:07Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
