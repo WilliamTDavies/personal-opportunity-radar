@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T09:25:13Z",
+  "generated_at": "2026-10-25T10:04:33Z",
   "opportunities": [
     {
       "canonical_id": "cme-september-trading-challenge-2026",
@@ -628,7 +628,7 @@
       ],
       "last_verified": "2026-10-19T11:09:11Z",
       "deadline_last_verified": "2026-10-19T11:09:11Z",
-      "missing_count": 12,
+      "missing_count": 13,
       "source_family": "european-space-agency",
       "security_vetting": null,
       "required_documents": [],
@@ -1549,7 +1549,7 @@
       ],
       "last_verified": "2026-10-19T11:09:11Z",
       "deadline_last_verified": "2026-10-19T11:09:11Z",
-      "missing_count": 12,
+      "missing_count": 13,
       "source_family": "european-space-agency",
       "security_vetting": null,
       "required_documents": [],
@@ -3243,8 +3243,8 @@
       ],
       "checked_at": "2026-10-25",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-25T09:24:40Z",
-      "last_changed": "2026-10-25T09:24:40Z",
+      "last_seen": "2026-10-25T10:04:21Z",
+      "last_changed": "2026-10-25T10:04:21Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "fccba847d49579f962ef51ae6fadb669d586c7383a3fd5645a3b881d7d61f05b",
@@ -3276,7 +3276,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-10-25T09:24:40Z",
+      "last_verified": "2026-10-25T10:04:21Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
