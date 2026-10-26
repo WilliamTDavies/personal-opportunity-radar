@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-26T04:43:21Z",
+  "updated_at": "2026-10-26T11:28:09Z",
   "opportunities": [
     {
       "canonical_id": "blackrock-2027-spring-insight-emea",
@@ -57,11 +57,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-10-26",
       "first_seen": "2026-08-30",
-      "last_seen": "2026-10-26T04:43:21Z",
-      "last_changed": "2026-10-26T04:43:21Z",
+      "last_seen": "2026-10-26T11:28:09Z",
+      "last_changed": "2026-10-26T11:28:09Z",
       "source_id": "blackrock-spring-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "006226670abf88bb05a025dcb69eacb8296bd65a96f83262b0bc10703c714b96",
+      "content_fingerprint": "97ddba57e26702649184180938715ac4a209ad12a5e04c53fecd14cc12071df6",
       "confidence": 0.8,
       "priority_tier": "A",
       "review_required": false,
@@ -81,8 +81,8 @@
       "discovered_via": "https://careers.blackrock.com/job/london/2027-spring-insight-event-emea/45831/97150826752",
       "primary_evidence_url": "https://careers.blackrock.com/job/london/2027-spring-insight-event-emea/45831/97150826752",
       "alternate_sources": [],
-      "last_verified": "2026-10-26T04:43:21Z",
-      "deadline_last_verified": "2026-10-26T04:43:21Z",
+      "last_verified": "2026-10-26T11:28:09Z",
+      "deadline_last_verified": "2026-10-26T11:28:09Z",
       "missing_count": 0,
       "source_family": "blackrock",
       "security_vetting": null,
@@ -1383,11 +1383,11 @@
       ],
       "checked_at": "2026-10-26",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-10-26T04:43:21Z",
-      "last_changed": "2026-10-26T04:43:21Z",
+      "last_seen": "2026-10-26T11:28:09Z",
+      "last_changed": "2026-10-26T11:28:09Z",
       "source_id": "g-research-spring-quant-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "96b4dbfb15da23468d7d7863cbe4442ec7157273a6784c0281a94ae3012cfebf",
+      "content_fingerprint": "15504800ce13ef9796da0e3a61ae11f41a7af8b58930dfa04c5d8a10db5f5f7b",
       "confidence": 0.99,
       "priority_tier": "C",
       "review_required": false,
@@ -1420,7 +1420,7 @@
       "discovered_via": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
       "primary_evidence_url": "https://www.gresearch.com/events/spring-into-quant-finance-2026/",
       "alternate_sources": [],
-      "last_verified": "2026-10-26T04:43:21Z",
+      "last_verified": "2026-10-26T11:28:09Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "g-research",
@@ -1484,8 +1484,8 @@
       "rule_evaluations": [],
       "checked_at": "2026-10-26",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-10-26T04:43:21Z",
-      "last_changed": "2026-10-26T04:43:21Z",
+      "last_seen": "2026-10-26T11:28:09Z",
+      "last_changed": "2026-10-26T11:28:09Z",
       "source_id": "evercore-spring-week-2027",
       "source_kind": "discovered",
       "content_fingerprint": "953340fba7ffc03590a75d2baf6cb44502b31b0e00cb8e2218b6ea5cd8982275",
@@ -1508,7 +1508,7 @@
       "discovered_via": "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/",
       "primary_evidence_url": "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/",
       "alternate_sources": [],
-      "last_verified": "2026-10-26T04:43:21Z",
+      "last_verified": "2026-10-26T11:28:09Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "evercore",
@@ -1575,11 +1575,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-10-26",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-10-26T04:43:21Z",
-      "last_changed": "2026-10-26T04:43:21Z",
+      "last_seen": "2026-10-26T11:28:09Z",
+      "last_changed": "2026-10-26T11:28:09Z",
       "source_id": "barclays-discovery-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "40647d16df715e5b608e279ef0c2af9ddcc22e24b71e53ef13718c454cd39755",
+      "content_fingerprint": "1d5b6eab5406e069322fc2c095437a3bddc87e63db2b9baa733e04f4d4dabaaf",
       "confidence": 0.8,
       "priority_tier": "A",
       "review_required": false,
@@ -1599,7 +1599,7 @@
       "discovered_via": "https://search.jobs.barclays/discovery",
       "primary_evidence_url": "https://search.jobs.barclays/discovery",
       "alternate_sources": [],
-      "last_verified": "2026-10-26T04:43:21Z",
+      "last_verified": "2026-10-26T11:28:09Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "barclays",
@@ -2272,13 +2272,13 @@
         {
           "statement": "The official detail page identifies Summer Intelligence Internship as a current or announced opportunity.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#summer-intelligence-internship",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#summer-intelligence-internship",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         }
       ],
@@ -2324,10 +2324,10 @@
           "reason": "Security vetting is recorded as a later appointment condition, not predicted as an eligibility result."
         }
       ],
-      "checked_at": "2026-10-25",
+      "checked_at": "2026-10-26",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-25T19:54:07Z",
-      "last_changed": "2026-10-25T19:54:07Z",
+      "last_seen": "2026-10-26T11:28:09Z",
+      "last_changed": "2026-10-26T11:28:09Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "935152d0edb267499c48d10388ae9a4dbb3395257e6945c71015a109a809c92f",
@@ -2359,7 +2359,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-10-25T19:54:07Z",
+      "last_verified": "2026-10-26T11:28:09Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
@@ -2406,13 +2406,13 @@
         {
           "statement": "The official detail page identifies Maths and Cryptography Internship as a current or announced opportunity.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#maths-and-cryptography-internship",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#maths-and-cryptography-internship",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         }
       ],
@@ -2458,10 +2458,10 @@
           "reason": "Security vetting is recorded as a later appointment condition, not predicted as an eligibility result."
         }
       ],
-      "checked_at": "2026-10-25",
+      "checked_at": "2026-10-26",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-25T19:54:07Z",
-      "last_changed": "2026-10-25T19:54:07Z",
+      "last_seen": "2026-10-26T11:28:09Z",
+      "last_changed": "2026-10-26T11:28:09Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "7de1a9fbc928b1fd1e779e3d1ba6a7ade0f586654ae3ebec2ee01302b07abfe1",
@@ -2494,7 +2494,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-10-25T19:54:07Z",
+      "last_verified": "2026-10-26T11:28:09Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
@@ -2540,13 +2540,13 @@
         {
           "statement": "The official detail page identifies Maths and Cryptography Insight Programme as a current or announced opportunity.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#maths-and-cryptography-insight-programme",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#maths-and-cryptography-insight-programme",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         }
       ],
@@ -2592,10 +2592,10 @@
           "reason": "Security vetting is recorded as a later appointment condition, not predicted as an eligibility result."
         }
       ],
-      "checked_at": "2026-10-25",
+      "checked_at": "2026-10-26",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-25T19:54:07Z",
-      "last_changed": "2026-10-25T19:54:07Z",
+      "last_seen": "2026-10-26T11:28:09Z",
+      "last_changed": "2026-10-26T11:28:09Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "fccba847d49579f962ef51ae6fadb669d586c7383a3fd5645a3b881d7d61f05b",
@@ -2627,7 +2627,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-10-25T19:54:07Z",
+      "last_verified": "2026-10-26T11:28:09Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
@@ -2673,13 +2673,13 @@
         {
           "statement": "The official detail page identifies Cyber Insights Summer School as a current or announced opportunity.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#cyber-insights-summer-school",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#cyber-insights-summer-school",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         }
       ],
@@ -2725,10 +2725,10 @@
           "reason": "Security vetting is recorded as a later appointment condition, not predicted as an eligibility result."
         }
       ],
-      "checked_at": "2026-10-25",
+      "checked_at": "2026-10-26",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-25T19:54:07Z",
-      "last_changed": "2026-10-25T19:54:07Z",
+      "last_seen": "2026-10-26T11:28:09Z",
+      "last_changed": "2026-10-26T11:28:09Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "95f123183cb8d46517681bbc97fd9056c7cb6a605d7f6a4d52f3cb555331d238",
@@ -2760,7 +2760,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-10-25T19:54:07Z",
+      "last_verified": "2026-10-26T11:28:09Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
@@ -2808,13 +2808,13 @@
         {
           "statement": "The official detail page identifies Student Scheme for Technologists as a current or announced opportunity.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#student-scheme-for-technologists",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements#student-scheme-for-technologists",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         }
       ],
@@ -2860,10 +2860,10 @@
           "reason": "Security vetting is recorded as a later appointment condition, not predicted as an eligibility result."
         }
       ],
-      "checked_at": "2026-10-25",
+      "checked_at": "2026-10-26",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-25T19:54:07Z",
-      "last_changed": "2026-10-25T19:54:07Z",
+      "last_seen": "2026-10-26T11:28:09Z",
+      "last_changed": "2026-10-26T11:28:09Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "bff5f7e4fdc4ade988b9c1edf3d202fb8564e2c7b2bc86fc4b6ac23be1a65b1d",
@@ -2899,7 +2899,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-10-25T19:54:07Z",
+      "last_verified": "2026-10-26T11:28:09Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
@@ -3851,6 +3851,108 @@
     },
     {
       "canonical_id": "european-space-agency-esa-academy-experiments-programme",
+      "title": "Student Aerospace Challenge 2026-2027",
+      "organisation": "European Space Agency",
+      "stream": "competitions_development",
+      "lifecycle": "unknown",
+      "eligibility": "uncertain",
+      "primary_action": "Explore",
+      "source_url": "https://education.esa.int/student-aerospace-challenge-2026-2027/",
+      "location": "Not stated",
+      "start_date": "2027-01",
+      "end_date": null,
+      "deadline": "2026-12-15",
+      "deadline_status": "fixed",
+      "deadline_source": "https://education.esa.int/student-aerospace-challenge-2026-2027/",
+      "deadline_verified": true,
+      "rolling": false,
+      "opens_at": null,
+      "research_mode": null,
+      "summary": "The 21st edition of the Student Aerospace Challenge was launched on 7 October 2026 by partners from the aerospace sector including Astronaute Club Européen (ACE) , ArianeGroup , Dassault Aviation , ESA and Le Bourget Air and Space Museum .",
+      "why_it_fits": "Official subject, timing and access evidence will be evaluated against the Durham Mathematics & Physics profile.",
+      "eligibility_note": "Needs eligibility check against the extracted official criteria.",
+      "next_step": "Review the official page before acting.",
+      "tags": [
+        "2027",
+        "automatically discovered",
+        "data"
+      ],
+      "aliases": [
+        "european-space-agency-esa-sponsored-students-join-the-iseb-student-programme-at-iac-2026",
+        "european-space-agency-student-aerospace-challenge-2026-2027"
+      ],
+      "merged_alias_ids": [],
+      "evidence": [
+        {
+          "statement": "The official detail page identifies Student Aerospace Challenge 2026-2027 as a current or announced opportunity.",
+          "source_url": "https://education.esa.int/student-aerospace-challenge-2026-2027/",
+          "checked_at": "2026-10-26",
+          "source_type": "official"
+        },
+        {
+          "statement": "The official detail page states an application deadline of 2026-12-15.",
+          "source_url": "https://education.esa.int/student-aerospace-challenge-2026-2027/",
+          "checked_at": "2026-10-26",
+          "source_type": "official"
+        }
+      ],
+      "requirements": [],
+      "rule_evaluations": [],
+      "checked_at": "2026-10-26",
+      "first_seen": "2026-08-31T00:03:43Z",
+      "last_seen": "2026-10-26T11:28:09Z",
+      "last_changed": "2026-10-26T11:28:09Z",
+      "source_id": "esa-academy",
+      "source_kind": "discovered",
+      "content_fingerprint": "f9645d425600b4b4dec1b94d73d782db60ad885b76ef3802f991677ca43fca7a",
+      "confidence": 0.7599999999999999,
+      "priority_tier": "C",
+      "review_required": true,
+      "review_reasons": [
+        "current application lifecycle is unclear",
+        "important eligibility evidence remains unknown",
+        "generic extraction confidence is below the automatic-publication threshold"
+      ],
+      "identity_targeted": false,
+      "access_scope": "unknown",
+      "source_conflict": false,
+      "change_summary": [
+        "title: ESA-sponsored students join the ISEB Student Programme at IAC 2026 → Student Aerospace Challenge 2026-2027",
+        "source_url: https://education.esa.int/esa-sponsored-students-join-the-iseb-student-programme-at-iac-2026/ → https://education.esa.int/student-aerospace-challenge-2026-2027/",
+        "deadline: None → 2026-12-15",
+        "deadline_status: none_stated → fixed",
+        "start_date: 2026-01 → 2027-01"
+      ],
+      "opportunity_type": "competition_or_development",
+      "career_fields": [
+        "data"
+      ],
+      "subject_fields": [],
+      "country": "",
+      "city": "",
+      "work_mode": "on_site",
+      "cycle": "2027",
+      "application_url": null,
+      "discovered_via": "https://www.esa.int/Education/ESA_Academy/Current_opportunities",
+      "primary_evidence_url": "https://education.esa.int/student-aerospace-challenge-2026-2027/",
+      "alternate_sources": [
+        "https://www.esa.int/Education/ESA_Academy/Current_opportunities"
+      ],
+      "last_verified": "2026-10-26T11:28:09Z",
+      "deadline_last_verified": "2026-10-26T11:28:09Z",
+      "missing_count": 0,
+      "source_family": "european-space-agency",
+      "security_vetting": null,
+      "required_documents": [
+        "cover letter"
+      ],
+      "duration": null,
+      "template_dependent": false,
+      "auto_publish_reason": "",
+      "parser_version": 3
+    },
+    {
+      "canonical_id": "european-space-agency-announcement-of-opportunity-for-the-esa-academy-experiments-programme-20",
       "title": "ESA-sponsored students join the ISEB Student Programme at IAC 2026",
       "organisation": "European Space Agency",
       "stream": "competitions_development",
@@ -3887,19 +3989,19 @@
         {
           "statement": "The official detail page identifies ESA-sponsored students join the ISEB Student Programme at IAC 2026 as a current or announced opportunity.",
           "source_url": "https://education.esa.int/esa-sponsored-students-join-the-iseb-student-programme-at-iac-2026/",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-10-25",
+      "checked_at": "2026-10-26",
       "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-10-25T19:54:07Z",
-      "last_changed": "2026-10-25T19:54:07Z",
+      "last_seen": "2026-10-26T11:28:09Z",
+      "last_changed": "2026-10-26T11:28:09Z",
       "source_id": "esa-academy",
       "source_kind": "discovered",
-      "content_fingerprint": "dd8e0a554ffafb704c1b02689c75cb7c64db9cf3b75d1b1b5574d2115a8a9c5b",
+      "content_fingerprint": "22ee1dde218f57138247a88b765ea5449a3c1deab5d47fa14d196eb77ac1fc09",
       "confidence": 0.7599999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -3911,7 +4013,17 @@
       "identity_targeted": false,
       "access_scope": "unknown",
       "source_conflict": false,
-      "change_summary": [],
+      "change_summary": [
+        "title: Announcement of opportunity for the ESA Academy Experiments Programme 2026-2027 → ESA-sponsored students join the ISEB Student Programme at IAC 2026",
+        "source_url: https://www.esa.int/Education/ESA_Academy_Experiments_programme/Announcement_of_opportunity_for_the_ESA_Academy_Experiments_Programme_2026-2027 → https://education.esa.int/esa-sponsored-students-join-the-iseb-student-programme-at-iac-2026/",
+        "application_url: https://www.esa.int/Education/Academy_Experiments_programme/How_to_apply → None",
+        "lifecycle: stale → unknown",
+        "deadline: 2026-11-22 → None",
+        "deadline_status: fixed → none_stated",
+        "start_date: 2026-07-31 → 2026-01",
+        "end_date: 2026-11-22 → None",
+        "location: Online → Not stated"
+      ],
       "opportunity_type": "competition_or_development",
       "career_fields": [
         "research",
@@ -3931,111 +4043,13 @@
       "alternate_sources": [
         "https://www.esa.int/Education/ESA_Academy/Current_opportunities"
       ],
-      "last_verified": "2026-10-25T19:54:07Z",
+      "last_verified": "2026-10-26T11:28:09Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "european-space-agency",
       "security_vetting": null,
       "required_documents": [],
       "duration": null,
-      "template_dependent": false,
-      "auto_publish_reason": "",
-      "parser_version": 3
-    },
-    {
-      "canonical_id": "european-space-agency-announcement-of-opportunity-for-the-esa-academy-experiments-programme-20",
-      "title": "Announcement of opportunity for the ESA Academy Experiments Programme 2026-2027",
-      "organisation": "European Space Agency",
-      "stream": "competitions_development",
-      "lifecycle": "stale",
-      "eligibility": "uncertain",
-      "primary_action": "Apply",
-      "source_url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme/Announcement_of_opportunity_for_the_ESA_Academy_Experiments_Programme_2026-2027",
-      "location": "Online",
-      "start_date": "2026-07-31",
-      "end_date": "2026-11-22",
-      "deadline": "2026-11-22",
-      "deadline_status": "fixed",
-      "deadline_source": "https://www.esa.int/Education/ESA_Academy_Experiments_programme/Announcement_of_opportunity_for_the_ESA_Academy_Experiments_Programme_2026-2027",
-      "deadline_verified": true,
-      "rolling": false,
-      "opens_at": null,
-      "research_mode": null,
-      "summary": "Announcement of opportunity for the ESA Academy Experiments Programme 2026-2027.",
-      "why_it_fits": "Official subject, timing and access evidence will be evaluated against the Durham Mathematics & Physics profile.",
-      "eligibility_note": "Needs eligibility check against the extracted official criteria.",
-      "next_step": "Apply through the official route.",
-      "tags": [
-        "2027",
-        "automatically discovered",
-        "data",
-        "engineering",
-        "research"
-      ],
-      "aliases": [],
-      "merged_alias_ids": [],
-      "evidence": [
-        {
-          "statement": "The official detail page identifies Announcement of opportunity for the ESA Academy Experiments Programme 2026-2027 as a current or announced opportunity.",
-          "source_url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme/Announcement_of_opportunity_for_the_ESA_Academy_Experiments_Programme_2026-2027",
-          "checked_at": "2026-10-19",
-          "source_type": "official"
-        },
-        {
-          "statement": "The official detail page states an application deadline of 2026-11-22.",
-          "source_url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme/Announcement_of_opportunity_for_the_ESA_Academy_Experiments_Programme_2026-2027",
-          "checked_at": "2026-10-19",
-          "source_type": "official"
-        }
-      ],
-      "requirements": [],
-      "rule_evaluations": [],
-      "checked_at": "2026-10-19",
-      "first_seen": "2026-08-31T00:03:43Z",
-      "last_seen": "2026-10-19T11:09:11Z",
-      "last_changed": "2026-10-20T20:47:55Z",
-      "source_id": "esa-academy",
-      "source_kind": "discovered",
-      "content_fingerprint": "edc19db1f87edbced4b9f16941677b02a34ee9350cd9981f80a2e61c6e98f558",
-      "confidence": 0.8999999999999999,
-      "priority_tier": "C",
-      "review_required": false,
-      "review_reasons": [
-        "absent from three consecutive healthy source scans",
-        "important eligibility evidence remains unknown"
-      ],
-      "identity_targeted": false,
-      "access_scope": "unknown",
-      "source_conflict": false,
-      "change_summary": [
-        "lifecycle: open → stale"
-      ],
-      "opportunity_type": "competition_or_development",
-      "career_fields": [
-        "research",
-        "engineering",
-        "data"
-      ],
-      "subject_fields": [
-        "engineering"
-      ],
-      "country": "",
-      "city": "",
-      "work_mode": "remote",
-      "cycle": "2027",
-      "application_url": "https://www.esa.int/Education/Academy_Experiments_programme/How_to_apply",
-      "discovered_via": "https://www.esa.int/Education/ESA_Academy/Current_opportunities",
-      "primary_evidence_url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme/Announcement_of_opportunity_for_the_ESA_Academy_Experiments_Programme_2026-2027",
-      "alternate_sources": [
-        "https://www.esa.int/Education/ESA_Academy/Current_opportunities"
-      ],
-      "last_verified": "2026-10-19T11:09:11Z",
-      "deadline_last_verified": "2026-10-19T11:09:11Z",
-      "missing_count": 14,
-      "source_family": "european-space-agency",
-      "security_vetting": null,
-      "required_documents": [],
-      "duration": "12 month",
       "template_dependent": false,
       "auto_publish_reason": "",
       "parser_version": 3
@@ -4152,7 +4166,7 @@
       ],
       "last_verified": "2026-10-19T11:09:11Z",
       "deadline_last_verified": "2026-10-19T11:09:11Z",
-      "missing_count": 14,
+      "missing_count": 15,
       "source_family": "european-space-agency",
       "security_vetting": null,
       "required_documents": [],
@@ -5987,7 +6001,7 @@
       ],
       "last_verified": "2026-08-31T00:23:55Z",
       "deadline_last_verified": "2026-08-31T00:23:55Z",
-      "missing_count": 112,
+      "missing_count": 113,
       "source_family": "cambridge-mathematics",
       "security_vetting": null,
       "required_documents": [
@@ -6034,16 +6048,16 @@
         {
           "statement": "The official detail page identifies Research Fellowship Programmes as a current or announced opportunity.",
           "source_url": "https://www.maths.ox.ac.uk/people/research-fellowship-programmes",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-10-25",
+      "checked_at": "2026-10-26",
       "first_seen": "2026-08-31T00:10:39Z",
-      "last_seen": "2026-10-25T19:54:07Z",
-      "last_changed": "2026-10-25T19:54:07Z",
+      "last_seen": "2026-10-26T11:28:09Z",
+      "last_changed": "2026-10-26T11:28:09Z",
       "source_id": "oxford-maths-summer-research",
       "source_kind": "discovered",
       "content_fingerprint": "c0c9e2fe94c56b65e4b77bd65ede9d8bc8531298c48e27deee555d319a8bc045",
@@ -6077,7 +6091,7 @@
       "alternate_sources": [
         "https://www.maths.ox.ac.uk/members/students/undergraduate-courses/teaching-and-learning/extracurricular-projects"
       ],
-      "last_verified": "2026-10-25T19:54:07Z",
+      "last_verified": "2026-10-26T11:28:09Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "oxford-mathematics",
@@ -7376,7 +7390,7 @@
       "alternate_sources": [],
       "last_verified": "2026-08-31T00:23:55Z",
       "deadline_last_verified": null,
-      "missing_count": 120,
+      "missing_count": 121,
       "source_family": "uk-government-science",
       "security_vetting": null,
       "required_documents": [],
@@ -7641,25 +7655,25 @@
         {
           "statement": "The official detail page identifies Summer Research Bursary Application Form as a current or announced opportunity.",
           "source_url": "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-bursary-application",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2026-03-23.",
           "source_url": "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-bursary-application",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-10-25",
+      "checked_at": "2026-10-26",
       "first_seen": "2026-08-31T00:23:55Z",
-      "last_seen": "2026-10-25T19:54:07Z",
-      "last_changed": "2026-10-25T19:54:07Z",
+      "last_seen": "2026-10-26T11:28:09Z",
+      "last_changed": "2026-10-26T11:28:09Z",
       "source_id": "cambridge-cms-summer-research",
       "source_kind": "discovered",
-      "content_fingerprint": "4192014b89806af195c1331fde29adfafcb5be67075be95375563ef7129c5b54",
+      "content_fingerprint": "b3026d7e70c0ceb908de22c8f9d70b1a396cbe2fc16ef28bcabb49ccd1a1f4b3",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -7691,8 +7705,8 @@
       "alternate_sources": [
         "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-programmes"
       ],
-      "last_verified": "2026-10-25T19:54:07Z",
-      "deadline_last_verified": "2026-10-25T19:54:07Z",
+      "last_verified": "2026-10-26T11:28:09Z",
+      "deadline_last_verified": "2026-10-26T11:28:09Z",
       "missing_count": 0,
       "source_family": "cambridge-mathematics",
       "security_vetting": null,
@@ -25796,19 +25810,19 @@
         {
           "statement": "The official detail page identifies Students and New Careers as a current or announced opportunity.",
           "source_url": "https://www.mathworks.com/company/jobs/students.html?s_tid=nav_company_students",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         }
       ],
       "requirements": [],
       "rule_evaluations": [],
-      "checked_at": "2026-10-25",
+      "checked_at": "2026-10-26",
       "first_seen": "2026-09-17T20:30:38Z",
-      "last_seen": "2026-10-25T19:54:07Z",
-      "last_changed": "2026-10-25T19:54:07Z",
+      "last_seen": "2026-10-26T11:28:09Z",
+      "last_changed": "2026-10-26T11:28:09Z",
       "source_id": "mathworks-minidrone",
       "source_kind": "discovered",
-      "content_fingerprint": "5941ce7ef2518b4a32c1aa91252be7087e1e8c29b2e22ae1c1eac47cdd293fd8",
+      "content_fingerprint": "07e9d61402e2918c1826bb90180031dd512ef23317cfdc116c82ea79b2c842fb",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -25839,7 +25853,7 @@
       "alternate_sources": [
         "https://www.mathworks.com/academia/student-competitions.html"
       ],
-      "last_verified": "2026-10-25T19:54:07Z",
+      "last_verified": "2026-10-26T11:28:09Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "mathworks",
@@ -31394,19 +31408,19 @@
         {
           "statement": "The official detail page identifies Customer Engagement Industrial Placement 2027 as a current or announced opportunity.",
           "source_url": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Customer-Engagement-Industrial-Placement-2027-1483",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2026-11-08.",
           "source_url": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Customer-Engagement-Industrial-Placement-2027-1483",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Customer-Engagement-Industrial-Placement-2027-1483",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         }
       ],
@@ -31426,13 +31440,13 @@
           "reason": "Security vetting is recorded as a later appointment condition, not predicted as an eligibility result."
         }
       ],
-      "checked_at": "2026-10-25",
+      "checked_at": "2026-10-26",
       "first_seen": "2026-10-12T13:26:55Z",
-      "last_seen": "2026-10-25T19:54:07Z",
-      "last_changed": "2026-10-25T19:54:07Z",
+      "last_seen": "2026-10-26T11:28:09Z",
+      "last_changed": "2026-10-26T11:28:09Z",
       "source_id": "met-office-placements",
       "source_kind": "discovered",
-      "content_fingerprint": "7ced9e78d10a895986c7878ee02361784cdaa3ab4189ac3cb77087a180f28369",
+      "content_fingerprint": "b43a436d2754268167f2333eefa4321c1935398e7cf3b8c1088466efb34b2347",
       "confidence": 0.99,
       "priority_tier": "C",
       "review_required": true,
@@ -31463,8 +31477,8 @@
       "alternate_sources": [
         "https://careers.metoffice.gov.uk/early-careers/industrial-placements"
       ],
-      "last_verified": "2026-10-25T19:54:07Z",
-      "deadline_last_verified": "2026-10-25T19:54:07Z",
+      "last_verified": "2026-10-26T11:28:09Z",
+      "deadline_last_verified": "2026-10-26T11:28:09Z",
       "missing_count": 0,
       "source_family": "uk-public-science",
       "security_vetting": "Security vetting",
@@ -31515,19 +31529,19 @@
         {
           "statement": "The official detail page identifies Design and Content Industrial Placement 2027 as a current or announced opportunity.",
           "source_url": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Design-and-Content-Industrial-Placement-2027-1493",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2026-11-08.",
           "source_url": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Design-and-Content-Industrial-Placement-2027-1493",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Design-and-Content-Industrial-Placement-2027-1493",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         }
       ],
@@ -31547,13 +31561,13 @@
           "reason": "Security vetting is recorded as a later appointment condition, not predicted as an eligibility result."
         }
       ],
-      "checked_at": "2026-10-25",
+      "checked_at": "2026-10-26",
       "first_seen": "2026-10-12T13:26:55Z",
-      "last_seen": "2026-10-25T19:54:07Z",
-      "last_changed": "2026-10-25T19:54:07Z",
+      "last_seen": "2026-10-26T11:28:09Z",
+      "last_changed": "2026-10-26T11:28:09Z",
       "source_id": "met-office-placements",
       "source_kind": "discovered",
-      "content_fingerprint": "017adfba5032d0d8d919cbb9964849a9b403dacbdda09c11cb818884589cf5f6",
+      "content_fingerprint": "8816f8335164705893454a8849f9bf29c1ddad70105e3f7511acd91d5a9c00ed",
       "confidence": 0.99,
       "priority_tier": "C",
       "review_required": true,
@@ -31584,8 +31598,8 @@
       "alternate_sources": [
         "https://careers.metoffice.gov.uk/early-careers/industrial-placements"
       ],
-      "last_verified": "2026-10-25T19:54:07Z",
-      "deadline_last_verified": "2026-10-25T19:54:07Z",
+      "last_verified": "2026-10-26T11:28:09Z",
+      "deadline_last_verified": "2026-10-26T11:28:09Z",
       "missing_count": 0,
       "source_family": "uk-public-science",
       "security_vetting": "Security vetting",
@@ -31637,19 +31651,19 @@
         {
           "statement": "The official detail page identifies Broadcast Graphics Industrial Placement 2027 as a current or announced opportunity.",
           "source_url": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Broadcast-Graphics-Industrial-Placement-2027-1478",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2026-11-08.",
           "source_url": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Broadcast-Graphics-Industrial-Placement-2027-1478",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/Broadcast-Graphics-Industrial-Placement-2027-1478",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         }
       ],
@@ -31669,13 +31683,13 @@
           "reason": "Security vetting is recorded as a later appointment condition, not predicted as an eligibility result."
         }
       ],
-      "checked_at": "2026-10-25",
+      "checked_at": "2026-10-26",
       "first_seen": "2026-10-12T13:26:55Z",
-      "last_seen": "2026-10-25T19:54:07Z",
-      "last_changed": "2026-10-25T19:54:07Z",
+      "last_seen": "2026-10-26T11:28:09Z",
+      "last_changed": "2026-10-26T11:28:09Z",
       "source_id": "met-office-placements",
       "source_kind": "discovered",
-      "content_fingerprint": "44e0b97efce69e482798a247e2e9228441b8c8a559293257decb9ca00d65999e",
+      "content_fingerprint": "eaa1a8b1b6cf9d38a9b1107d6585e739c38b3a462895d886ceac309021c9930d",
       "confidence": 0.99,
       "priority_tier": "C",
       "review_required": true,
@@ -31707,8 +31721,8 @@
       "alternate_sources": [
         "https://careers.metoffice.gov.uk/early-careers/industrial-placements"
       ],
-      "last_verified": "2026-10-25T19:54:07Z",
-      "deadline_last_verified": "2026-10-25T19:54:07Z",
+      "last_verified": "2026-10-26T11:28:09Z",
+      "deadline_last_verified": "2026-10-26T11:28:09Z",
       "missing_count": 0,
       "source_family": "uk-public-science",
       "security_vetting": "Security vetting",
@@ -31879,19 +31893,19 @@
         {
           "statement": "The official detail page identifies User Researcher Industrial Placement 2027 as a current or announced opportunity.",
           "source_url": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/User-Researcher-Industrial-Placement-2027-1479",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2026-11-08.",
           "source_url": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/User-Researcher-Industrial-Placement-2027-1479",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://careers.metoffice.gov.uk/join-us/search-our-jobs/User-Researcher-Industrial-Placement-2027-1479",
-          "checked_at": "2026-10-25",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         }
       ],
@@ -31911,13 +31925,13 @@
           "reason": "Security vetting is recorded as a later appointment condition, not predicted as an eligibility result."
         }
       ],
-      "checked_at": "2026-10-25",
+      "checked_at": "2026-10-26",
       "first_seen": "2026-10-13T12:54:25Z",
-      "last_seen": "2026-10-25T19:54:07Z",
-      "last_changed": "2026-10-25T19:54:07Z",
+      "last_seen": "2026-10-26T11:28:09Z",
+      "last_changed": "2026-10-26T11:28:09Z",
       "source_id": "met-office-placements",
       "source_kind": "discovered",
-      "content_fingerprint": "439940051e11541ff11bac8424d152da322392a4a62fc1f9301d3ab71a5e5ff9",
+      "content_fingerprint": "f746495a654379191b420346ff8aae2e4fcbb3d16eae1d0898b26506608d52d5",
       "confidence": 0.99,
       "priority_tier": "C",
       "review_required": true,
@@ -31949,8 +31963,8 @@
       "alternate_sources": [
         "https://careers.metoffice.gov.uk/early-careers/industrial-placements"
       ],
-      "last_verified": "2026-10-25T19:54:07Z",
-      "deadline_last_verified": "2026-10-25T19:54:07Z",
+      "last_verified": "2026-10-26T11:28:09Z",
+      "deadline_last_verified": "2026-10-26T11:28:09Z",
       "missing_count": 0,
       "source_family": "uk-public-science",
       "security_vetting": "Security vetting",
