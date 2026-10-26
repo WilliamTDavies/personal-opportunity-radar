@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T12:57:39Z",
+  "generated_at": "2026-10-26T21:48:20Z",
   "opportunities": [
     {
       "canonical_id": "cme-september-trading-challenge-2026",
@@ -628,7 +628,7 @@
       ],
       "last_verified": "2026-10-19T11:09:11Z",
       "deadline_last_verified": "2026-10-19T11:09:11Z",
-      "missing_count": 15,
+      "missing_count": 16,
       "source_family": "european-space-agency",
       "security_vetting": null,
       "required_documents": [],
@@ -690,11 +690,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-10-26",
       "first_seen": "2026-08-31T00:23:55Z",
-      "last_seen": "2026-10-26T11:28:09Z",
-      "last_changed": "2026-10-26T11:28:09Z",
+      "last_seen": "2026-10-26T21:48:06Z",
+      "last_changed": "2026-10-26T21:48:06Z",
       "source_id": "cambridge-cms-summer-research",
       "source_kind": "discovered",
-      "content_fingerprint": "b3026d7e70c0ceb908de22c8f9d70b1a396cbe2fc16ef28bcabb49ccd1a1f4b3",
+      "content_fingerprint": "c8209ddd43cc62f100a6084d33aa52b64f73904bcd0e4995cc6d4593d4b90aa2",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -726,8 +726,8 @@
       "alternate_sources": [
         "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-programmes"
       ],
-      "last_verified": "2026-10-26T11:28:09Z",
-      "deadline_last_verified": "2026-10-26T11:28:09Z",
+      "last_verified": "2026-10-26T21:48:06Z",
+      "deadline_last_verified": "2026-10-26T21:48:06Z",
       "missing_count": 0,
       "source_family": "cambridge-mathematics",
       "security_vetting": null,
@@ -1501,19 +1501,19 @@
         {
           "statement": "The official detail page identifies SEE London March 29th - April 3rd, 2027 as a current or announced opportunity.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/see/",
-          "checked_at": "2026-10-23",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2027-01-03.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/see/",
-          "checked_at": "2026-10-23",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.janestreet.com/join-jane-street/programs-and-events/see/",
-          "checked_at": "2026-10-23",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         }
       ],
@@ -1542,10 +1542,10 @@
           "reason": "Known university country is United Kingdom; accepted: ['Austria', 'Belgium', 'Denmark', 'Germany', 'Netherlands', 'Norway', 'Sweden', 'Switzerland']."
         }
       ],
-      "checked_at": "2026-10-23",
+      "checked_at": "2026-10-26",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-23T21:22:52Z",
-      "last_changed": "2026-10-23T21:22:52Z",
+      "last_seen": "2026-10-26T21:48:06Z",
+      "last_changed": "2026-10-26T21:48:06Z",
       "source_id": "jane-street-see-london-2027",
       "source_kind": "discovered",
       "content_fingerprint": "d9fc0030675774dd734bc6bd73b9131673a0cce884f058239000fbbc5dd696fb",
@@ -1581,8 +1581,8 @@
       "alternate_sources": [
         "https://www.janestreet.com/jobs/programs-endpoint.json"
       ],
-      "last_verified": "2026-10-23T21:22:52Z",
-      "deadline_last_verified": "2026-10-23T21:22:52Z",
+      "last_verified": "2026-10-26T21:48:06Z",
+      "deadline_last_verified": "2026-10-26T21:48:06Z",
       "missing_count": 0,
       "source_family": "jane-street",
       "security_vetting": null,
@@ -1632,19 +1632,19 @@
         {
           "statement": "The official detail page identifies Undergraduate Research Bursaries 2027 as a current or announced opportunity.",
           "source_url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
-          "checked_at": "2026-10-24",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         },
         {
           "statement": "The official detail page states an application deadline of 2027-02-01.",
           "source_url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
-          "checked_at": "2026-10-24",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
-          "checked_at": "2026-10-24",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         }
       ],
@@ -1696,13 +1696,13 @@
           "reason": "Known course is BSc Mathematics and Physics; required subject set: ['mathematics', 'computer science', 'statistics']."
         }
       ],
-      "checked_at": "2026-10-24",
+      "checked_at": "2026-10-26",
       "first_seen": "2026-08-30T14:42:00Z",
-      "last_seen": "2026-10-24T19:42:39Z",
-      "last_changed": "2026-10-24T19:42:39Z",
+      "last_seen": "2026-10-26T21:48:06Z",
+      "last_changed": "2026-10-26T21:48:06Z",
       "source_id": "lms-bursary-2027",
       "source_kind": "discovered",
-      "content_fingerprint": "58304f9f8ce90797f8b3fde8f0916ec7e50e9f8541fe72369b5af14549505b33",
+      "content_fingerprint": "7466b997c80ddac88b7785c58f16cd15b9e11e43fd5f6b7f653ad7ff304b7797",
       "confidence": 0.99,
       "priority_tier": "C",
       "review_required": false,
@@ -1729,8 +1729,8 @@
       "discovered_via": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
       "primary_evidence_url": "https://www.lms.ac.uk/grants/undergraduate-research-bursaries/applications",
       "alternate_sources": [],
-      "last_verified": "2026-10-24T19:42:39Z",
-      "deadline_last_verified": "2026-10-24T19:42:39Z",
+      "last_verified": "2026-10-26T21:48:06Z",
+      "deadline_last_verified": "2026-10-26T21:48:06Z",
       "missing_count": 0,
       "source_family": "london-mathematical-society",
       "security_vetting": null,
@@ -2272,13 +2272,13 @@
         {
           "statement": "The official detail page identifies 2027 Summer Analyst Programme as a current or announced opportunity.",
           "source_url": "https://www.goldmansachs.com/careers/students/programs-and-internships/emea/summer-analyst-programme",
-          "checked_at": "2026-10-23",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         },
         {
           "statement": "The eligibility rules were extracted from the official detail-page wording.",
           "source_url": "https://www.goldmansachs.com/careers/students/programs-and-internships/emea/summer-analyst-programme",
-          "checked_at": "2026-10-23",
+          "checked_at": "2026-10-26",
           "source_type": "official"
         }
       ],
@@ -2298,13 +2298,13 @@
           "reason": "Known degree dates make penultimate-year status False for this cycle."
         }
       ],
-      "checked_at": "2026-10-23",
+      "checked_at": "2026-10-26",
       "first_seen": "2026-08-31T00:22:47Z",
-      "last_seen": "2026-10-23T10:26:28Z",
-      "last_changed": "2026-10-23T10:26:28Z",
+      "last_seen": "2026-10-26T21:48:06Z",
+      "last_changed": "2026-10-26T21:48:06Z",
       "source_id": "goldman-sachs-student-programs",
       "source_kind": "discovered",
-      "content_fingerprint": "c2954500191d9f986b8072726871d8e349041299193d22b40cd134c66bf530cc",
+      "content_fingerprint": "8018cb2946ddd712c8c19755ed62d7547d4dfc33220f1ca9d9fea10be75f82b2",
       "confidence": 0.99,
       "priority_tier": "C",
       "review_required": false,
@@ -2330,7 +2330,7 @@
       "discovered_via": "https://www.goldmansachs.com/careers/students/programs-and-internships/emea/summer-analyst-programme",
       "primary_evidence_url": "https://www.goldmansachs.com/careers/students/programs-and-internships/emea/summer-analyst-programme",
       "alternate_sources": [],
-      "last_verified": "2026-10-23T10:26:28Z",
+      "last_verified": "2026-10-26T21:48:06Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "goldman-sachs",
@@ -3145,8 +3145,8 @@
       ],
       "checked_at": "2026-10-26",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-26T11:28:09Z",
-      "last_changed": "2026-10-26T11:28:09Z",
+      "last_seen": "2026-10-26T21:48:06Z",
+      "last_changed": "2026-10-26T21:48:06Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "fccba847d49579f962ef51ae6fadb669d586c7383a3fd5645a3b881d7d61f05b",
@@ -3178,7 +3178,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-10-26T11:28:09Z",
+      "last_verified": "2026-10-26T21:48:06Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
