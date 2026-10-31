@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T12:23:25Z",
+  "generated_at": "2026-10-31T20:38:14Z",
   "opportunities": [
     {
       "canonical_id": "cme-september-trading-challenge-2026",
@@ -628,7 +628,7 @@
       ],
       "last_verified": "2026-10-19T11:09:11Z",
       "deadline_last_verified": "2026-10-19T11:09:11Z",
-      "missing_count": 25,
+      "missing_count": 26,
       "source_family": "european-space-agency",
       "security_vetting": null,
       "required_documents": [],
@@ -690,11 +690,11 @@
       "rule_evaluations": [],
       "checked_at": "2026-10-31",
       "first_seen": "2026-08-31T00:23:55Z",
-      "last_seen": "2026-10-31T11:08:24Z",
-      "last_changed": "2026-10-31T11:08:24Z",
+      "last_seen": "2026-10-31T20:38:03Z",
+      "last_changed": "2026-10-31T20:38:03Z",
       "source_id": "cambridge-cms-summer-research",
       "source_kind": "discovered",
-      "content_fingerprint": "f22f23c4765b4586fb0c43e26b1e55da6bc36dcaaa3c7ce4fb4131ef5f2a74cd",
+      "content_fingerprint": "f4106526f94f0d241a8e3fc0f8c018a65ac41b7be4ff1f21b2d15a1beda16dce",
       "confidence": 0.8999999999999999,
       "priority_tier": "C",
       "review_required": true,
@@ -726,8 +726,8 @@
       "alternate_sources": [
         "https://www.maths.cam.ac.uk/opportunities/careers-for-mathematicians/summer-research-mathematics/summer-research-programmes"
       ],
-      "last_verified": "2026-10-31T11:08:24Z",
-      "deadline_last_verified": "2026-10-31T11:08:24Z",
+      "last_verified": "2026-10-31T20:38:03Z",
+      "deadline_last_verified": "2026-10-31T20:38:03Z",
       "missing_count": 0,
       "source_family": "cambridge-mathematics",
       "security_vetting": null,
@@ -3145,8 +3145,8 @@
       ],
       "checked_at": "2026-10-31",
       "first_seen": "2026-08-30T19:39:26Z",
-      "last_seen": "2026-10-31T11:08:24Z",
-      "last_changed": "2026-10-31T11:08:24Z",
+      "last_seen": "2026-10-31T20:38:03Z",
+      "last_changed": "2026-10-31T20:38:03Z",
       "source_id": "gchq-summer-placements",
       "source_kind": "discovered",
       "content_fingerprint": "fccba847d49579f962ef51ae6fadb669d586c7383a3fd5645a3b881d7d61f05b",
@@ -3178,7 +3178,7 @@
       "alternate_sources": [
         "https://www.gchq.gov.uk/collection/working-at-gchq/summer-placements"
       ],
-      "last_verified": "2026-10-31T11:08:24Z",
+      "last_verified": "2026-10-31T20:38:03Z",
       "deadline_last_verified": null,
       "missing_count": 0,
       "source_family": "gchq",
