@@ -1,614 +1,5 @@
 [
   {
-    "canonical_id": "point72-8729688002",
-    "changed_at": "2026-09-20T09:27:30Z",
-    "field": "requirements",
-    "from": [
-      "degree_subject:['computer science', 'engineering', 'statistics', 'data science']:required"
-    ],
-    "to": [
-      "graduation_year:[2027, 2028]:required"
-    ]
-  },
-  {
-    "canonical_id": "point72-8603979002",
-    "changed_at": "2026-09-20T09:27:30Z",
-    "field": "title",
-    "from": "Corporate Access, off-cycle internship (6-months) – Japanese speaking",
-    "to": "AI Instructor, Point72 Academy"
-  },
-  {
-    "canonical_id": "point72-8603979002",
-    "changed_at": "2026-09-20T09:27:30Z",
-    "field": "source_url",
-    "from": "https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002",
-    "to": "https://boards.greenhouse.io/point72/jobs/8729688002?gh_jid=8729688002"
-  },
-  {
-    "canonical_id": "point72-8603979002",
-    "changed_at": "2026-09-20T09:27:30Z",
-    "field": "application_url",
-    "from": "https://boards.greenhouse.io/point72/jobs/8603979002?gh_jid=8603979002",
-    "to": "https://boards.greenhouse.io/point72/jobs/8729688002?gh_jid=8729688002"
-  },
-  {
-    "canonical_id": "point72-8603979002",
-    "changed_at": "2026-09-20T09:27:30Z",
-    "field": "eligibility",
-    "from": "uncertain",
-    "to": "ineligible"
-  },
-  {
-    "canonical_id": "point72-8603979002",
-    "changed_at": "2026-09-20T09:27:30Z",
-    "field": "location",
-    "from": "Hong Kong",
-    "to": "New York, NY"
-  },
-  {
-    "canonical_id": "point72-8603979002",
-    "changed_at": "2026-09-20T09:27:30Z",
-    "field": "requirements",
-    "from": [
-      "undergraduate:True:required"
-    ],
-    "to": [
-      "degree_subject:['computer science', 'engineering', 'statistics', 'data science']:required"
-    ]
-  },
-  {
-    "canonical_id": "bnp-paribas-our-job-offers-in-trainee-internship",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "deadline_status",
-    "from": "none_stated",
-    "to": "rolling"
-  },
-  {
-    "canonical_id": "g-research-berkeley-quant-challenge-2026",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "start_date",
-    "from": "2026-07",
-    "to": "2026-10-08"
-  },
-  {
-    "canonical_id": "g-research-berkeley-quant-challenge-2026",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "end_date",
-    "from": null,
-    "to": "2026-10-10"
-  },
-  {
-    "canonical_id": "optiver-graduate-fpga-engineer-2027-start",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "source_url",
-    "from": "https://optiver.com/join-us/jobs/institutional-sales-and-trading/shanghai/2027-shanghai-performance-researcher-summer-internship/",
-    "to": "https://optiver.com/join-us/jobs/trading/shanghai/2027-shanghai-performance-researcher-summer-internship/"
-  },
-  {
-    "canonical_id": "optiver-graduate-fpga-engineer-2027-start",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "application_url",
-    "from": "https://optiver.com/join-us/jobs/institutional-sales-and-trading/shanghai/2027-shanghai-performance-researcher-summer-internship/apply",
-    "to": "https://optiver.com/join-us/jobs/trading/shanghai/2027-shanghai-performance-researcher-summer-internship/apply"
-  },
-  {
-    "canonical_id": "dv-trading-4719119005",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "source_url",
-    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005",
-    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005"
-  },
-  {
-    "canonical_id": "dv-trading-4719119005",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "application_url",
-    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005",
-    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005"
-  },
-  {
-    "canonical_id": "dv-trading-4719119005",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "location",
-    "from": "New York",
-    "to": "Chicago"
-  },
-  {
-    "canonical_id": "dv-trading-4719135005",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "source_url",
-    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005",
-    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005"
-  },
-  {
-    "canonical_id": "dv-trading-4719135005",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "application_url",
-    "from": "https://job-boards.greenhouse.io/dvtrading/jobs/4732683005",
-    "to": "https://job-boards.greenhouse.io/dvtrading/jobs/4732697005"
-  },
-  {
-    "canonical_id": "dv-trading-4719135005",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "location",
-    "from": "Chicago",
-    "to": "New York"
-  },
-  {
-    "canonical_id": "inizio-ignite-7966944",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "title",
-    "from": "Associate Consultant (Campus - 2027)",
-    "to": "Summer Associate Consultant (UK) – 2027 Internship Program"
-  },
-  {
-    "canonical_id": "inizio-ignite-7966944",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "source_url",
-    "from": "https://job-boards.greenhouse.io/ashfieldadvisory/jobs/7966944",
-    "to": "https://job-boards.greenhouse.io/ashfieldadvisory/jobs/7967069"
-  },
-  {
-    "canonical_id": "inizio-ignite-7966944",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "application_url",
-    "from": "https://job-boards.greenhouse.io/ashfieldadvisory/jobs/7966944",
-    "to": "https://job-boards.greenhouse.io/ashfieldadvisory/jobs/7967069"
-  },
-  {
-    "canonical_id": "inizio-ignite-7966944",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "start_date",
-    "from": "2027-01",
-    "to": "2028-07"
-  },
-  {
-    "canonical_id": "inizio-ignite-7966944",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "location",
-    "from": "Boston, Massachusetts; New York, NY",
-    "to": "London, United Kingdom"
-  },
-  {
-    "canonical_id": "jump-trading-8002998",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "source_url",
-    "from": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
-    "to": "https://www.jumptrading.com/hr/job?gh_jid=8002998"
-  },
-  {
-    "canonical_id": "jump-trading-8002998",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "application_url",
-    "from": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
-    "to": "https://www.jumptrading.com/hr/job?gh_jid=8002998"
-  },
-  {
-    "canonical_id": "jump-trading-8002998",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "eligibility",
-    "from": "uncertain",
-    "to": "eligible"
-  },
-  {
-    "canonical_id": "jump-trading-8002998",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "location",
-    "from": "London",
-    "to": "Chicago"
-  },
-  {
-    "canonical_id": "jump-trading-8002998",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "requirements",
-    "from": [],
-    "to": [
-      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering', 'data science']:required"
-    ]
-  },
-  {
-    "canonical_id": "jump-trading-7974391",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "source_url",
-    "from": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
-    "to": "https://www.jumptrading.com/hr/job?gh_jid=7975008"
-  },
-  {
-    "canonical_id": "jump-trading-7974391",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "application_url",
-    "from": "https://www.jumptrading.com/hr/job?gh_jid=8002998",
-    "to": "https://www.jumptrading.com/hr/job?gh_jid=7975008"
-  },
-  {
-    "canonical_id": "jump-trading-7974391",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "eligibility",
-    "from": "eligible",
-    "to": "uncertain"
-  },
-  {
-    "canonical_id": "jump-trading-7974391",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "location",
-    "from": "Chicago",
-    "to": "London"
-  },
-  {
-    "canonical_id": "jump-trading-7974391",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "requirements",
-    "from": [
-      "degree_subject:['mathematics', 'physics', 'computer science', 'engineering', 'data science']:required"
-    ],
-    "to": []
-  },
-  {
-    "canonical_id": "palantir-0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "title",
-    "from": "American Tech Fellowship",
-    "to": "Forward Deployed Infrastructure Engineer, Internship - US Government"
-  },
-  {
-    "canonical_id": "palantir-0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "source_url",
-    "from": "https://jobs.lever.co/palantir/0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0",
-    "to": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9"
-  },
-  {
-    "canonical_id": "palantir-0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "application_url",
-    "from": "https://jobs.lever.co/palantir/0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0/apply",
-    "to": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9/apply"
-  },
-  {
-    "canonical_id": "palantir-0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "lifecycle",
-    "from": "stale",
-    "to": "open"
-  },
-  {
-    "canonical_id": "palantir-0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "start_date",
-    "from": "2026-01",
-    "to": null
-  },
-  {
-    "canonical_id": "palantir-0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "location",
-    "from": "North America",
-    "to": "Washington, D.C."
-  },
-  {
-    "canonical_id": "palantir-0ccbe620-a3ef-41d1-a5c4-68e56b3c91d0",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "requirements",
-    "from": [
-      "degree_subject:['physics', 'computer science', 'engineering', 'data science']:preferred"
-    ],
-    "to": []
-  },
-  {
-    "canonical_id": "palantir-1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "title",
-    "from": "Forward Deployed Software Engineer, Internship",
-    "to": "Forward Deployed Infrastructure Engineer, Internship - US Government"
-  },
-  {
-    "canonical_id": "palantir-1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "source_url",
-    "from": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a",
-    "to": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69"
-  },
-  {
-    "canonical_id": "palantir-1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "application_url",
-    "from": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a/apply",
-    "to": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69/apply"
-  },
-  {
-    "canonical_id": "palantir-1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "start_date",
-    "from": "2027-07",
-    "to": null
-  },
-  {
-    "canonical_id": "palantir-1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "location",
-    "from": "Paris, France",
-    "to": "Palo Alto, CA"
-  },
-  {
-    "canonical_id": "palantir-395a4483-fc3d-4b77-a500-501923fd0976",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "title",
-    "from": "Forward Deployed Software Engineer, Internship - AUS Government",
-    "to": "Forward Deployed Infrastructure Engineer, Internship - US Government"
-  },
-  {
-    "canonical_id": "palantir-395a4483-fc3d-4b77-a500-501923fd0976",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "source_url",
-    "from": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976",
-    "to": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b"
-  },
-  {
-    "canonical_id": "palantir-395a4483-fc3d-4b77-a500-501923fd0976",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "application_url",
-    "from": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976/apply",
-    "to": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b/apply"
-  },
-  {
-    "canonical_id": "palantir-395a4483-fc3d-4b77-a500-501923fd0976",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "location",
-    "from": "Sydney, Australia",
-    "to": "New York, NY"
-  },
-  {
-    "canonical_id": "palantir-2ad0ab10-34c3-410d-883b-8052864a95cd",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "title",
-    "from": "Forward Deployed Software Engineer, Internship - Commercial",
-    "to": "Forward Deployed Software Engineer, Internship"
-  },
-  {
-    "canonical_id": "palantir-2ad0ab10-34c3-410d-883b-8052864a95cd",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "source_url",
-    "from": "https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd",
-    "to": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a"
-  },
-  {
-    "canonical_id": "palantir-2ad0ab10-34c3-410d-883b-8052864a95cd",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "application_url",
-    "from": "https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd/apply",
-    "to": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a/apply"
-  },
-  {
-    "canonical_id": "palantir-2ad0ab10-34c3-410d-883b-8052864a95cd",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "start_date",
-    "from": null,
-    "to": "2027-07"
-  },
-  {
-    "canonical_id": "palantir-2ad0ab10-34c3-410d-883b-8052864a95cd",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "location",
-    "from": "Seoul, South Korea",
-    "to": "Paris, France"
-  },
-  {
-    "canonical_id": "palantir-4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "title",
-    "from": "Forward Deployed Software Engineer, Internship - Commercial",
-    "to": "Forward Deployed Software Engineer, Internship - AUS Government"
-  },
-  {
-    "canonical_id": "palantir-4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "source_url",
-    "from": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
-    "to": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976"
-  },
-  {
-    "canonical_id": "palantir-4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "application_url",
-    "from": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/apply",
-    "to": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976/apply"
-  },
-  {
-    "canonical_id": "palantir-4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "location",
-    "from": "New York, NY",
-    "to": "Sydney, Australia"
-  },
-  {
-    "canonical_id": "palantir-599b1907-aba1-4303-837b-66e69a521636",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "source_url",
-    "from": "https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636",
-    "to": "https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd"
-  },
-  {
-    "canonical_id": "palantir-599b1907-aba1-4303-837b-66e69a521636",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "application_url",
-    "from": "https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply",
-    "to": "https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd/apply"
-  },
-  {
-    "canonical_id": "palantir-599b1907-aba1-4303-837b-66e69a521636",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "location",
-    "from": "London, United Kingdom",
-    "to": "Seoul, South Korea"
-  },
-  {
-    "canonical_id": "palantir-d5486403-c050-4920-b2e0-91b69b61ebb2",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "source_url",
-    "from": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2",
-    "to": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6"
-  },
-  {
-    "canonical_id": "palantir-d5486403-c050-4920-b2e0-91b69b61ebb2",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "application_url",
-    "from": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply",
-    "to": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/apply"
-  },
-  {
-    "canonical_id": "palantir-d5486403-c050-4920-b2e0-91b69b61ebb2",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "location",
-    "from": "Chicago, IL",
-    "to": "New York, NY"
-  },
-  {
-    "canonical_id": "palantir-cccfe1bd-f15b-4fe5-b044-c793e7961c1b",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "title",
-    "from": "Forward Deployed Software Engineer, Internship - Defense Tech",
-    "to": "Forward Deployed Software Engineer, Internship - Commercial"
-  },
-  {
-    "canonical_id": "palantir-cccfe1bd-f15b-4fe5-b044-c793e7961c1b",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "source_url",
-    "from": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b",
-    "to": "https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636"
-  },
-  {
-    "canonical_id": "palantir-cccfe1bd-f15b-4fe5-b044-c793e7961c1b",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "application_url",
-    "from": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply",
-    "to": "https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply"
-  },
-  {
-    "canonical_id": "palantir-cccfe1bd-f15b-4fe5-b044-c793e7961c1b",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "location",
-    "from": "Washington, D.C.",
-    "to": "London, United Kingdom"
-  },
-  {
-    "canonical_id": "palantir-ac0dc094-2480-43c2-8495-26ade227ff4f",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "title",
-    "from": "Forward Deployed Software Engineer, Internship - France",
-    "to": "Forward Deployed Software Engineer, Internship - Commercial"
-  },
-  {
-    "canonical_id": "palantir-ac0dc094-2480-43c2-8495-26ade227ff4f",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "source_url",
-    "from": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f",
-    "to": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2"
-  },
-  {
-    "canonical_id": "palantir-ac0dc094-2480-43c2-8495-26ade227ff4f",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "application_url",
-    "from": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f/apply",
-    "to": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply"
-  },
-  {
-    "canonical_id": "palantir-ac0dc094-2480-43c2-8495-26ade227ff4f",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "start_date",
-    "from": "2026-07",
-    "to": null
-  },
-  {
-    "canonical_id": "palantir-ac0dc094-2480-43c2-8495-26ade227ff4f",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "location",
-    "from": "New York, NY",
-    "to": "Chicago, IL"
-  },
-  {
-    "canonical_id": "palantir-9e40d77f-b07c-437b-98e7-def9b0184d89",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "title",
-    "from": "Forward Deployed Software Engineer, Internship - Intel",
-    "to": "Forward Deployed Software Engineer, Internship - Defense Tech"
-  },
-  {
-    "canonical_id": "palantir-9e40d77f-b07c-437b-98e7-def9b0184d89",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "source_url",
-    "from": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89",
-    "to": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b"
-  },
-  {
-    "canonical_id": "palantir-9e40d77f-b07c-437b-98e7-def9b0184d89",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "application_url",
-    "from": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89/apply",
-    "to": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply"
-  },
-  {
-    "canonical_id": "palantir-26e23f5d-083b-45aa-b223-1a6e43d960bf",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "title",
-    "from": "Forward Deployed Software Engineer, Internship - UK Government",
-    "to": "Forward Deployed Software Engineer, Internship - France"
-  },
-  {
-    "canonical_id": "palantir-26e23f5d-083b-45aa-b223-1a6e43d960bf",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "source_url",
-    "from": "https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf",
-    "to": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f"
-  },
-  {
-    "canonical_id": "palantir-26e23f5d-083b-45aa-b223-1a6e43d960bf",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "application_url",
-    "from": "https://jobs.lever.co/palantir/26e23f5d-083b-45aa-b223-1a6e43d960bf/apply",
-    "to": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f/apply"
-  },
-  {
-    "canonical_id": "palantir-26e23f5d-083b-45aa-b223-1a6e43d960bf",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "start_date",
-    "from": null,
-    "to": "2026-07"
-  },
-  {
-    "canonical_id": "palantir-26e23f5d-083b-45aa-b223-1a6e43d960bf",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "location",
-    "from": "London, United Kingdom",
-    "to": "New York, NY"
-  },
-  {
-    "canonical_id": "palantir-315f695d-04d1-4a9a-848e-cb2bec7a997e",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "title",
-    "from": "Forward Deployed Software Engineer, Internship - US Government",
-    "to": "Forward Deployed Software Engineer, Internship - Intel"
-  },
-  {
-    "canonical_id": "palantir-315f695d-04d1-4a9a-848e-cb2bec7a997e",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "source_url",
-    "from": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e",
-    "to": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89"
-  },
-  {
-    "canonical_id": "palantir-315f695d-04d1-4a9a-848e-cb2bec7a997e",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "application_url",
-    "from": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e/apply",
-    "to": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89/apply"
-  },
-  {
-    "canonical_id": "palantir-315f695d-04d1-4a9a-848e-cb2bec7a997e",
-    "changed_at": "2026-09-27T10:12:28Z",
-    "field": "location",
-    "from": "Honolulu, HI",
-    "to": "Washington, D.C."
-  },
-  {
     "canonical_id": "palantir-e0010393-c300-446f-bf67-fa2ef067f16f",
     "changed_at": "2026-09-27T10:12:28Z",
     "field": "title",
@@ -7235,5 +6626,624 @@
     "field": "location",
     "from": "Online",
     "to": "Not stated"
+  },
+  {
+    "canonical_id": "citi-spring-insight-general",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "title",
+    "from": "Spring Insight Programme",
+    "to": "Find Spring Insight Programs (opens in new window)"
+  },
+  {
+    "canonical_id": "citi-spring-insight-general",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "source_url",
+    "from": "https://jobs.citi.com/early-career-programs-pre-internships",
+    "to": "https://citi.eightfold.ai/events/open?domain=citi.com&q=Spring+Insight&page=1&eventCategories=Pre-Internship+Program"
+  },
+  {
+    "canonical_id": "citi-spring-insight-general",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "lifecycle",
+    "from": "stale",
+    "to": "unknown"
+  },
+  {
+    "canonical_id": "citi-spring-insight-general",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "eligibility",
+    "from": "likely_eligible",
+    "to": "uncertain"
+  },
+  {
+    "canonical_id": "citi-spring-insight-general",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "location",
+    "from": "London, UK",
+    "to": "Not stated"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "title",
+    "from": "Relationship Management - Commercial Bank - Internship",
+    "to": "Transaction Banking - Issuer Services - Internship"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Manchester-Relationship-Management-Commercial-Bank-Internship-M2-7HD/1373612057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Transaction-Banking-Issuer-Services-Internship-Hong/1373477957/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1373612057/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1373477957/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "deadline",
+    "from": "2026-10-25",
+    "to": "2026-12-04"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "opens_at",
+    "from": "2026-10-01",
+    "to": "2026-09-29"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "start_date",
+    "from": "2028-07",
+    "to": "2027-07"
+  },
+  {
+    "canonical_id": "hsbc-investment-banking-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "requirements",
+    "from": [
+      "penultimate_year:True:required",
+      "work_authorization:True:required"
+    ],
+    "to": []
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "title",
+    "from": "Relationship Management - Commercial Bank - Internship",
+    "to": "Transaction Banking - Global Trade Solutions - Internship"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Reading-Relationship-Management-Commercial-Bank-Internship-RG1-2BU/1373607757/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Transaction-Banking-Global-Trade-Solutions-Internship-018983/1371072357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1373607757/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1371072357/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "deadline",
+    "from": "2026-11-01",
+    "to": "2026-12-04"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "opens_at",
+    "from": "2026-10-01",
+    "to": "2026-09-03"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "hsbc-markets-sales-and-trading-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "requirements",
+    "from": [
+      "penultimate_year:True:required",
+      "work_authorization:True:required"
+    ],
+    "to": [
+      "graduation_year:[2028]:required"
+    ]
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-securities-services-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "title",
+    "from": "Relationship Management - Commercial Bank - Internship",
+    "to": "Transaction Banking - Securities Services - Internship"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-securities-services-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Bristol-Relationship-Management-Commercial-Bank-Internship-BS15-8LH/1373609457/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Transaction-Banking-Securities-Services-Internship-018983/1371070057/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-securities-services-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1373609457/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1371070057/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-securities-services-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "deadline",
+    "from": "2026-11-01",
+    "to": "2026-12-04"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-securities-services-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "opens_at",
+    "from": "2026-10-01",
+    "to": "2026-09-03"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-securities-services-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "hsbc-transaction-banking-securities-services-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "requirements",
+    "from": [
+      "penultimate_year:True:required",
+      "work_authorization:True:required"
+    ],
+    "to": [
+      "graduation_year:[2028]:required"
+    ]
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "title",
+    "from": "Relationship Management - Commercial Bank - Internship",
+    "to": "Transaction Banking - Global Payments Solutions - Internship"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "source_url",
+    "from": "https://apply.careers.hsbc.com/emergingtalent/job/Cambridge-Relationship-Management-Commercial-Bank-Internship-CB2-3BZ/1373605557/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent",
+    "to": "https://apply.careers.hsbc.com/emergingtalent/job/Singapore-Transaction-Banking-Global-Payments-Solutions-Internship-018983/1371071357/?feedId=434057&utm_source=CareerSite&utm_campaign=EmergingTalent"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "application_url",
+    "from": "https://apply.careers.hsbc.com/talentcommunity/apply/1373605557/?locale=en_GB",
+    "to": "https://apply.careers.hsbc.com/talentcommunity/apply/1371071357/?locale=en_GB"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "deadline",
+    "from": "2026-11-01",
+    "to": "2026-12-04"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "opens_at",
+    "from": "2026-10-01",
+    "to": "2026-09-03"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "ineligible"
+  },
+  {
+    "canonical_id": "hsbc-relationship-management-corporate-and-institutional-banking-internship",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "requirements",
+    "from": [
+      "penultimate_year:True:required",
+      "work_authorization:True:required"
+    ],
+    "to": [
+      "graduation_year:[2028]:required"
+    ]
+  },
+  {
+    "canonical_id": "optiver-graduate-fpga-engineer-2027-start",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "title",
+    "from": "Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai)",
+    "to": "Compliance Intern – Regulatory Advisory"
+  },
+  {
+    "canonical_id": "optiver-graduate-fpga-engineer-2027-start",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "source_url",
+    "from": "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-bachelor-or-master-summer-2028-shanghai/",
+    "to": "https://optiver.com/join-us/jobs/risk-finance-and-legal/chicago/compliance-intern-regulatory-advisory-2027-start/"
+  },
+  {
+    "canonical_id": "optiver-graduate-fpga-engineer-2027-start",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "application_url",
+    "from": "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-bachelor-or-master-summer-2028-shanghai/apply",
+    "to": "https://optiver.com/join-us/jobs/risk-finance-and-legal/chicago/compliance-intern-regulatory-advisory-2027-start/apply"
+  },
+  {
+    "canonical_id": "optiver-graduate-fpga-engineer-2027-start",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "start_date",
+    "from": "2029-07",
+    "to": "2027-07"
+  },
+  {
+    "canonical_id": "optiver-graduate-fpga-engineer-2027-start",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "requirements",
+    "from": [
+      "graduation_year:[2029]:required"
+    ],
+    "to": [
+      "undergraduate:True:required"
+    ]
+  },
+  {
+    "canonical_id": "optiver-fpga-internship-2027-start",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "title",
+    "from": "Institutional Trading - The Trading Floor",
+    "to": "Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai)"
+  },
+  {
+    "canonical_id": "optiver-fpga-internship-2027-start",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "source_url",
+    "from": "https://optiver.com/join-us/jobs/institutional-sales-and-trading/amsterdam/institutional-trader-3/",
+    "to": "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-bachelor-or-master-summer-2028-shanghai/"
+  },
+  {
+    "canonical_id": "optiver-fpga-internship-2027-start",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "application_url",
+    "from": "https://optiver.com/join-us/jobs/institutional-sales-and-trading/amsterdam/institutional-trader-3/apply",
+    "to": "https://optiver.com/join-us/jobs/quantitative-research-and-machine-learning/shanghai/expressions-of-interest-quantitative-research-internship-bachelor-or-master-summer-2028-shanghai/apply"
+  },
+  {
+    "canonical_id": "optiver-fpga-internship-2027-start",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "lifecycle",
+    "from": "stale",
+    "to": "open"
+  },
+  {
+    "canonical_id": "optiver-fpga-internship-2027-start",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "start_date",
+    "from": "2027-01",
+    "to": "2029-07"
+  },
+  {
+    "canonical_id": "optiver-fpga-internship-2027-start",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "eligibility",
+    "from": "uncertain",
+    "to": "eligible"
+  },
+  {
+    "canonical_id": "optiver-fpga-internship-2027-start",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "location",
+    "from": "Online",
+    "to": "Not stated"
+  },
+  {
+    "canonical_id": "optiver-fpga-internship-2027-start",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "requirements",
+    "from": [],
+    "to": [
+      "graduation_year:[2029]:required"
+    ]
+  },
+  {
+    "canonical_id": "palantir-395a4483-fc3d-4b77-a500-501923fd0976",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "title",
+    "from": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+    "to": "Finance Operator Intern"
+  },
+  {
+    "canonical_id": "palantir-395a4483-fc3d-4b77-a500-501923fd0976",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
+    "to": "https://jobs.lever.co/palantir/bd7766c4-6aea-4b37-8d47-a8864bb9bd69"
+  },
+  {
+    "canonical_id": "palantir-395a4483-fc3d-4b77-a500-501923fd0976",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9/apply",
+    "to": "https://jobs.lever.co/palantir/bd7766c4-6aea-4b37-8d47-a8864bb9bd69/apply"
+  },
+  {
+    "canonical_id": "palantir-395a4483-fc3d-4b77-a500-501923fd0976",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "location",
+    "from": "Washington, D.C.",
+    "to": "New York, NY"
+  },
+  {
+    "canonical_id": "palantir-2ad0ab10-34c3-410d-883b-8052864a95cd",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
+    "to": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9"
+  },
+  {
+    "canonical_id": "palantir-2ad0ab10-34c3-410d-883b-8052864a95cd",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69/apply",
+    "to": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9/apply"
+  },
+  {
+    "canonical_id": "palantir-2ad0ab10-34c3-410d-883b-8052864a95cd",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "location",
+    "from": "Palo Alto, CA",
+    "to": "Washington, D.C."
+  },
+  {
+    "canonical_id": "palantir-4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "title",
+    "from": "Forward Deployed Software Engineer, Internship",
+    "to": "Forward Deployed Infrastructure Engineer, Internship - US Government"
+  },
+  {
+    "canonical_id": "palantir-4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a",
+    "to": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69"
+  },
+  {
+    "canonical_id": "palantir-4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a/apply",
+    "to": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69/apply"
+  },
+  {
+    "canonical_id": "palantir-4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "start_date",
+    "from": "2027-07",
+    "to": null
+  },
+  {
+    "canonical_id": "palantir-4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "location",
+    "from": "Paris, France",
+    "to": "Palo Alto, CA"
+  },
+  {
+    "canonical_id": "palantir-599b1907-aba1-4303-837b-66e69a521636",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "title",
+    "from": "Forward Deployed Software Engineer, Internship - AUS Government",
+    "to": "Forward Deployed Software Engineer, Internship"
+  },
+  {
+    "canonical_id": "palantir-599b1907-aba1-4303-837b-66e69a521636",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976",
+    "to": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a"
+  },
+  {
+    "canonical_id": "palantir-599b1907-aba1-4303-837b-66e69a521636",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976/apply",
+    "to": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a/apply"
+  },
+  {
+    "canonical_id": "palantir-599b1907-aba1-4303-837b-66e69a521636",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "start_date",
+    "from": null,
+    "to": "2027-07"
+  },
+  {
+    "canonical_id": "palantir-599b1907-aba1-4303-837b-66e69a521636",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "location",
+    "from": "Sydney, Australia",
+    "to": "Paris, France"
+  },
+  {
+    "canonical_id": "palantir-d5486403-c050-4920-b2e0-91b69b61ebb2",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "title",
+    "from": "Forward Deployed Software Engineer, Internship - Commercial",
+    "to": "Forward Deployed Software Engineer, Internship - AUS Government"
+  },
+  {
+    "canonical_id": "palantir-d5486403-c050-4920-b2e0-91b69b61ebb2",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd",
+    "to": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976"
+  },
+  {
+    "canonical_id": "palantir-d5486403-c050-4920-b2e0-91b69b61ebb2",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd/apply",
+    "to": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976/apply"
+  },
+  {
+    "canonical_id": "palantir-d5486403-c050-4920-b2e0-91b69b61ebb2",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "location",
+    "from": "Seoul, South Korea",
+    "to": "Sydney, Australia"
+  },
+  {
+    "canonical_id": "palantir-cccfe1bd-f15b-4fe5-b044-c793e7961c1b",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
+    "to": "https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd"
+  },
+  {
+    "canonical_id": "palantir-cccfe1bd-f15b-4fe5-b044-c793e7961c1b",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/apply",
+    "to": "https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd/apply"
+  },
+  {
+    "canonical_id": "palantir-cccfe1bd-f15b-4fe5-b044-c793e7961c1b",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "location",
+    "from": "New York, NY",
+    "to": "Seoul, South Korea"
+  },
+  {
+    "canonical_id": "palantir-ac0dc094-2480-43c2-8495-26ade227ff4f",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "source_url",
+    "from": "https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636",
+    "to": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6"
+  },
+  {
+    "canonical_id": "palantir-ac0dc094-2480-43c2-8495-26ade227ff4f",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "application_url",
+    "from": "https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636/apply",
+    "to": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/apply"
+  },
+  {
+    "canonical_id": "palantir-ac0dc094-2480-43c2-8495-26ade227ff4f",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "location",
+    "from": "London, United Kingdom",
+    "to": "New York, NY"
+  },
+  {
+    "canonical_id": "point72-7297666002",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "location",
+    "from": "New York, London, or Paris",
+    "to": "New York"
+  },
+  {
+    "canonical_id": "virtu-financial-8657500002",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "lifecycle",
+    "from": "stale",
+    "to": "open"
+  },
+  {
+    "canonical_id": "virtu-financial-8746197002",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "deadline",
+    "from": "2026-12-11",
+    "to": "2026-11-15"
+  },
+  {
+    "canonical_id": "virtu-financial-8745933002",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "deadline",
+    "from": "2026-12-11",
+    "to": "2026-11-15"
+  },
+  {
+    "canonical_id": "xantium-4360768009",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "location",
+    "from": "London, England, New York, New York",
+    "to": "London, England"
+  },
+  {
+    "canonical_id": "point72-8572402002",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "point72-8572400002",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "point72-8729765002",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "jump-trading-8003013",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "jump-trading-7565728",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "g-research-cambridge-quant-challenge-2026",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "lifecycle",
+    "from": "open",
+    "to": "stale"
+  },
+  {
+    "canonical_id": "g-research-oxford-quant-challenge-2026",
+    "changed_at": "2026-11-01T11:29:31Z",
+    "field": "lifecycle",
+    "from": "interest_open",
+    "to": "stale"
   }
 ]
